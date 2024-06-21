@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|140.227.143.136|3128|Japan|Hyōgo|InfoSphere|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|3|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |9|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|10|45.230.51.4|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|11|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
 |15|72.10.164.178|5823|Canada|Montreal|GloboTech Communications|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|18|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|67.43.227.227|24993|Canada|Montreal|GloboTech Communications|
-|20|111.89.130.111|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|67.43.236.20|11743|Canada|Montreal|GloboTech Communications|
+|17|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|111.89.130.56|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|57.181.42.83|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|111.89.130.115|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
