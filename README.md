@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|6|144.91.81.25|3128|Germany|Nuremberg|Contabo GmbH|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|140.227.143.195|3128|Japan|Hyōgo|InfoSphere|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|179.108.220.184|8080|Brazil|Tiradentes|Conecta Ltda.|
-|15|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|19|72.10.160.172|24585|Canada|Montreal|GloboTech Communications|
-|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|9|140.227.143.195|3128|Japan|Hyōgo|InfoSphere|
+|10|111.89.130.49|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|72.10.160.172|24585|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.94|13631|Canada|Montreal|GloboTech Communications|
+|19|203.190.53.197|8080|Indonesia|Bekasi|PT POWER TELECOM|
+|20|67.43.227.227|2547|Canada|Montreal|GloboTech Communications|
 
 
 
