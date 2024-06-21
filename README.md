@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|109.200.166.138|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|140.227.143.136|3128|Japan|Hyōgo|InfoSphere|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|103.154.230.58|8080|Indonesia|Lamongan|DIGITNET|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|82.137.244.151|8080|Syria|Babīlā|ISP-TARASSUL|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|103.111.136.110|443|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
-|15|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|16|72.10.160.171|27829|Canada|Montreal|GloboTech Communications|
+|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|171.239.137.108|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|58.9.2.49|5002|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|9|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|11|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|12|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |17|72.10.160.90|26923|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|31097|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|8075|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|27585|Canada|Montreal|GloboTech Communications|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|181.209.102.237|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
