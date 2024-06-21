@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|45.173.231.220|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|8|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|72.10.160.91|8171|Canada|Montreal|GloboTech Communications|
-|13|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|14|72.10.160.90|13081|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|67.43.228.253|30947|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|30947|Canada|Montreal|GloboTech Communications|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|16|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|91.210.228.148|8080|Russia|Mugreyevskiy|Westlan LTD|
+|19|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|67.43.227.227|29247|Canada|Montreal|GloboTech Communications|
 
 
 
