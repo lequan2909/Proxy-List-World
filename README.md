@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|140.227.143.136|3128|Japan|Hyōgo|InfoSphere|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|1.20.169.223|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|103.177.235.132|83|India|Bengaluru|Coastal Live Channel|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|10|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|50.231.0.43|4481|United States|Houston|Comcast Cable Communications, LLC|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|140.227.143.136|3128|Japan|Hyōgo|InfoSphere|
 |15|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 |16|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|17|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|18|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|19|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|18|152.32.67.243|10101|Philippines|Marikina City|Converge ICT Solution Inc|
+|19|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|20|134.209.64.174|9999|United States|North Bergen|DigitalOcean, LLC|
 
 
 
