@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|161.34.0.197|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|58.80.134.185|1080|Japan|Uji|ARTERIA Networks Corporation|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|18|34.84.14.127|3128|Japan|Tokyo|Google LLC|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|160.248.5.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|111.89.130.99|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|8|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|13|103.152.116.82|80|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|14|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|34.84.14.127|3128|Japan|Tokyo|Google LLC|
+|18|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|160.248.5.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
 
 
 
