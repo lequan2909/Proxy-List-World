@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|103.199.117.98|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
-|6|160.248.7.60|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|140.227.143.136|3128|Japan|Hyōgo|InfoSphere|
-|9|67.43.227.227|32641|Canada|Montreal|GloboTech Communications|
-|10|160.248.7.50|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|161.34.34.212|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.228|14299|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|23235|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|30405|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|67.43.227.227|32641|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|14299|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|26877|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|28493|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|4|160.248.7.60|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|140.227.143.136|3128|Japan|Hyōgo|InfoSphere|
+|6|160.248.7.50|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|8|161.34.34.212|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|72.10.164.178|23235|Canada|Montreal|GloboTech Communications|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|72.10.160.171|7865|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|23235|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|32039|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|23235|Canada|Montreal|GloboTech Communications|
+|18|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|19|72.10.164.178|23235|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
