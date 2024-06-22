@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|160.248.8.174|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|142.190.149.206|8080|United States|Monroeville|Uniti Fiber Holdings Inc.|
-|11|72.10.164.178|2823|Canada|Montreal|GloboTech Communications|
-|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|103.29.7.133|8080|Indonesia|Tanjung Pinang|PT. Solusindo Bintang Pratama|
-|14|72.10.164.178|2823|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|28053|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|67.43.236.20|22171|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23343|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|29887|Canada|Montreal|GloboTech Communications|
+|7|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|8|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|9|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|67.43.227.227|11833|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|67.43.236.20|25739|Canada|Montreal|GloboTech Communications|
+|16|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|17|72.10.160.90|29887|Canada|Montreal|GloboTech Communications|
+|18|181.209.110.190|999|Argentina|Posadas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|160.248.5.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
