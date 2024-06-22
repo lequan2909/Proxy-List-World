@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.92.74|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|23.143.160.193|999|Puerto Rico|Villalba|Unonet Corp|
-|6|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|160.248.187.195|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |8|160.248.185.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |9|160.248.92.55|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|67.43.228.250|23635|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|14965|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|10183|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.254|2815|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|13361|Canada|Montreal|GloboTech Communications|
-|17|184.185.105.105|4481|United States|Providence|Cox Communications Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.236.20|1397|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|4301|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|67.43.228.254|2815|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|5275|Canada|Montreal|GloboTech Communications|
+|15|160.248.7.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|17|67.43.236.20|5275|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|67.43.228.253|24225|Canada|Montreal|GloboTech Communications|
+|20|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 
 
 
