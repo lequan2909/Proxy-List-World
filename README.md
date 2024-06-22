@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.187.183|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.184.122|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|160.248.187.93|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|160.248.81.159|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|160.248.7.75|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|160.248.190.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.187.183|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.81.159|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|160.248.7.75|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.190.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|12|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
 |16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|17|203.30.236.119|8080|Indonesia|Melati|PT Media Sarana Data|
-|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|18|45.225.204.8|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|19|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|20|103.68.1.74|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
 
 
 
