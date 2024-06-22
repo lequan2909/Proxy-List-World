@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4960** proxies at the latest update. Usable proxies are below.
+> Scraper found **4992** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|172|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|513|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|545|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|230|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3113|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|140.227.143.67|3128|Japan|Hyōgo|InfoSphere|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|67.43.228.250|12989|Canada|Montreal|GloboTech Communications|
-|9|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|10|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|13|72.10.160.92|10525|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|33095|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|12989|Canada|Montreal|GloboTech Communications|
-|16|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|18|161.34.34.212|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|152.26.229.42|9443|United States|Huntersville|MCNC|
+|6|72.10.160.94|9913|Canada|Montreal|GloboTech Communications|
+|7|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|8|67.43.228.253|14923|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.170|10283|Canada|Montreal|GloboTech Communications|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|67.43.236.20|18187|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.21|26799|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|17591|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.160.170|10283|Canada|Montreal|GloboTech Communications|
+|16|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|45.227.195.121|8082|Brazil|Sao Lourenco do Oeste|Mhnet Telecom|
+|20|72.10.164.178|5129|Canada|Montreal|GloboTech Communications|
 
 
 
