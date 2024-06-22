@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|10|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|17|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|20|103.19.58.179|8082|Indonesia|Indramayu|BITSNET|
+|1|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|6|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|7|111.89.130.101|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|140.227.143.195|3128|Japan|Hyōgo|InfoSphere|
+|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|203.142.77.226|8080|Indonesia|Semarang|BIZNET|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|14|67.43.228.253|31387|Canada|Montreal|GloboTech Communications|
+|15|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.160.90|7069|Canada|Montreal|GloboTech Communications|
+|18|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|19|67.43.228.253|31387|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|16631|Canada|Montreal|GloboTech Communications|
 
 
 
