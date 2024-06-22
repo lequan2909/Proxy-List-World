@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.130.98|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|110.164.175.110|8080|Thailand|Amphoe Phra Pradaeng|Triple T Broadband Public Company Limited|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|181.119.104.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|19|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|20|45.173.6.201|999|Colombia|Zipaquirá|Columbus Networks Colombia|
+|1|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|161.123.116.54|22332|Oman|Muscat|Wirels Connect|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|171.232.70.196|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|13|111.89.130.102|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|140.227.143.136|3128|Japan|Hyōgo|InfoSphere|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|140.227.143.196|3128|Japan|Hyōgo|InfoSphere|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|19|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|20|67.43.236.20|9597|Canada|Montreal|GloboTech Communications|
 
 
 
