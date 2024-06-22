@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|111.89.130.57|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|16|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|67.43.227.227|24053|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|7267|Canada|Montreal|GloboTech Communications|
-|19|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|67.43.227.227|24053|Canada|Montreal|GloboTech Communications|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|17|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|103.178.42.102|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|20|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
