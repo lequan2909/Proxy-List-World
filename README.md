@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|160.248.5.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|103.220.206.138|59417|Bangladesh|Dhaka|KS Network|
-|17|140.227.143.65|3128|Japan|Hyōgo|InfoSphere|
-|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|67.43.236.20|21293|Canada|Montreal|GloboTech Communications|
+|19|140.227.143.65|3128|Japan|Hyōgo|InfoSphere|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
