@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.227.143.67|3128|Japan|Hyōgo|InfoSphere|
-|4|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|5|67.43.227.228|31217|Canada|Montreal|GloboTech Communications|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|9|72.10.160.90|18323|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|10283|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|12989|Canada|Montreal|GloboTech Communications|
-|12|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|222.216.37.138|808|China|Lilancun|Chinanet|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|67.43.228.251|28693|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|20|67.43.227.228|31217|Canada|Montreal|GloboTech Communications|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|140.227.143.67|3128|Japan|Hyōgo|InfoSphere|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|67.43.228.250|12989|Canada|Montreal|GloboTech Communications|
+|9|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|10|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|72.10.160.92|10525|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|33095|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|12989|Canada|Montreal|GloboTech Communications|
+|16|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|161.34.34.212|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
