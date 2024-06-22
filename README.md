@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.153.142.18|8080|India|Keonjhargarh|Om Jay Infotech|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|111.89.130.110|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|16|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
