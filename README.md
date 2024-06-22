@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
 |4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|172.183.241.1|8080|United States|Chicago|Microsoft|
 |12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|14|45.142.104.233|5555|Germany|Lelkendorf|Ferdinand Zink trading as Tube-Hosting|
+|15|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|39.191.223.109|4096|China|Lishui|China Mobile Communications Corporation|
-|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|20|5.196.111.29|20157|France|Gravelines|OVH SAS|
+|18|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|39.191.223.109|4096|China|Lishui|China Mobile Communications Corporation|
 
 
 
