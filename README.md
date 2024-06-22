@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5422** proxies at the latest update. Usable proxies are below.
+> Scraper found **5470** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|174|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|777|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|840|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|425|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|410|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3114|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|2|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|202.8.74.12|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|11|43.131.229.157|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|43.131.248.242|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
 |13|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|43.131.248.242|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
+|14|102.222.135.33|1080|South Africa|Johannesburg|JENNY INTERNET (PTY) LTD|
+|15|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|16|43.131.229.157|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.155.164.175|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|67.43.227.228|5983|Canada|Montreal|GloboTech Communications|
+|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
 
 
 
