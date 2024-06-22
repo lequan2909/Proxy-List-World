@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|160.248.185.157|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|13|160.248.81.174|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|72.10.160.170|26991|Canada|Montreal|GloboTech Communications|
-|17|68.183.149.126|11002|United States|Clifton|DigitalOcean, LLC|
-|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|19|72.10.160.90|22565|Canada|Montreal|GloboTech Communications|
-|20|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.248.184.122|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.187.93|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|160.248.81.159|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|160.248.7.75|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|160.248.190.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|203.30.236.119|8080|Indonesia|Melati|PT Media Sarana Data|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|109.74.41.26|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|160.248.184.170|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|160.248.81.174|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
