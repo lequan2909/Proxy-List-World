@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|7|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|12|43.131.248.242|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|13|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|14|102.222.135.33|1080|South Africa|Johannesburg|JENNY INTERNET (PTY) LTD|
-|15|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|16|43.131.229.157|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.155.164.175|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.227.228|5983|Canada|Montreal|GloboTech Communications|
-|20|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|5|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|9|67.43.227.228|5983|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|28501|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|28501|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|38.49.158.58|999|Mexico|Tezontepec de Aldama|Ientc S De RL De CV|
+|14|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|15|67.43.227.227|8209|Canada|Montreal|GloboTech Communications|
+|16|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|17|111.89.130.52|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|72.10.164.178|11591|Canada|Montreal|GloboTech Communications|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|72.10.164.178|11591|Canada|Montreal|GloboTech Communications|
 
 
 
