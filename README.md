@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|160.248.8.174|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|119.110.69.182|63123|Indonesia|Jakarta|Maxindo|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|142.190.149.206|8080|United States|Monroeville|Uniti Fiber Holdings Inc.|
-|8|69.75.140.157|8080|United States|Upland|Spectrum|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.248.5.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
-|16|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|17|67.43.228.251|30525|Canada|Montreal|GloboTech Communications|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|72.10.164.178|15871|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|22765|Canada|Montreal|GloboTech Communications|
+|7|160.248.5.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|72.10.164.178|23619|Canada|Montreal|GloboTech Communications|
+|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|67.43.228.251|30525|Canada|Montreal|GloboTech Communications|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
+|17|72.10.160.94|10813|Canada|Montreal|GloboTech Communications|
+|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|72.10.164.178|23619|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.21|8011|Canada|Montreal|GloboTech Communications|
 
 
 
