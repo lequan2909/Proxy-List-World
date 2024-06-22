@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.92.47|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|160.248.187.127|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.7.244|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|11|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
-|12|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|13|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|58.9.2.49|5002|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|1|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.248.92.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|160.248.187.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|160.248.184.109|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|163.44.0.40|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|13|38.156.75.226|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |15|160.248.185.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|67.43.227.229|3571|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|31967|Canada|Montreal|GloboTech Communications|
-|18|160.248.92.74|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|18|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|19|160.248.92.74|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|140.227.143.67|3128|Japan|Hyōgo|InfoSphere|
 
 
 
