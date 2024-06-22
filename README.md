@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|6|160.248.7.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|72.10.160.90|5627|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|160.248.190.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.7.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|67.43.228.253|19399|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.90|5627|Canada|Montreal|GloboTech Communications|
+|7|152.26.229.42|9443|United States|Huntersville|MCNC|
+|8|160.248.190.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|11|72.10.164.178|11617|Canada|Montreal|GloboTech Communications|
 |12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|5.196.111.29|20329|France|Gravelines|OVH SAS|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
-|17|72.10.164.178|11617|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|6665|Canada|Montreal|GloboTech Communications|
-|19|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|13|72.10.160.90|5627|Canada|Montreal|GloboTech Communications|
+|14|27.75.99.238|4004|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|15|112.17.10.43|3128|China|Hangzhou|China Mobile Communications Corporation|
+|16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|17|67.43.228.250|6559|Canada|Montreal|GloboTech Communications|
+|18|203.190.113.167|8071|Indonesia|Jakarta|PT Union Routelink Communication|
+|19|72.10.160.173|31861|Canada|Montreal|GloboTech Communications|
+|20|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
