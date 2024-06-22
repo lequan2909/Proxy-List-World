@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.38.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.34.211|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|160.248.7.50|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|72.10.160.172|4477|Canada|Montreal|GloboTech Communications|
-|16|163.172.33.137|5678|France|Vitry-sur-Seine|Online S.A.S.|
-|17|140.227.143.67|3128|Japan|Hyōgo|InfoSphere|
-|18|72.10.160.171|22349|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.184.106|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.7.60|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|188.240.114.30|8080|Yemen|Saḩar|AS30873 annoucement YemenNet|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|160.248.190.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|160.248.7.50|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.160.171|32179|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.172|4477|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|27667|Canada|Montreal|GloboTech Communications|
+|20|161.34.34.220|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
