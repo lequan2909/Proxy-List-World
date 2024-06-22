@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.43.227.227|6229|Canada|Montreal|GloboTech Communications|
-|10|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|160.248.185.137|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|14|67.43.236.20|15195|Canada|Montreal|GloboTech Communications|
-|15|178.62.233.42|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|67.43.228.252|11049|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|6229|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|19633|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|7087|Canada|Montreal|GloboTech Communications|
+|2|160.248.185.137|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|67.43.227.227|6229|Canada|Montreal|GloboTech Communications|
+|6|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|190.119.118.242|999|Peru|Acarí|America Movil Peru S.A.C.|
+|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|160.248.190.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|160.248.184.106|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|16|140.227.143.136|3128|Japan|Hyōgo|InfoSphere|
+|17|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|72.10.164.178|23603|Canada|Montreal|GloboTech Communications|
+|20|58.210.227.210|8088|China|Nanjing|Chinanet|
 
 
 
