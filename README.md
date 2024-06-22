@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.187.183|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.184.122|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|160.248.187.93|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.81.159|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|160.248.190.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|160.248.7.75|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.248.184.109|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.187.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|160.248.92.58|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|163.44.0.40|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|17|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
-|18|160.248.184.122|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.187.183|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.187.127|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|113.160.247.27|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|181.232.190.251|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
 
 
 
