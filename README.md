@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|17|87.242.123.92|8090|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|140.227.143.136|3128|Japan|Hyōgo|InfoSphere|
+|20|72.10.164.178|24329|Canada|Montreal|GloboTech Communications|
 
 
 
