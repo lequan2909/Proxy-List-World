@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|72.10.160.170|14147|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|15217|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.171|3363|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|13469|Canada|Montreal|GloboTech Communications|
-|11|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|12|67.43.227.227|32695|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|4773|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|32695|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|32695|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|3363|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|28977|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12593|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|13469|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12593|Canada|Montreal|GloboTech Communications|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|90.77.2.161|999|Spain|Don Benito|UNI2-NET- Orange Spain Network|
+|9|72.10.160.170|14147|Canada|Montreal|GloboTech Communications|
+|10|187.109.22.46|8080|Brazil|Santo Ângelo|Sulnet Telecom|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|39.191.223.109|4096|China|Lishui|China Mobile Communications Corporation|
+|13|178.62.233.42|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|72.10.160.90|23685|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|11417|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|23685|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|18923|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.227.227|18923|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.172|8711|Canada|Montreal|GloboTech Communications|
 
 
 
