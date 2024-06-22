@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|5|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|163.172.33.137|5678|France|Vitry-sur-Seine|Online S.A.S.|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|140.227.143.67|3128|Japan|Hyōgo|InfoSphere|
-|11|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
-|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|14|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
-|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|20|39.129.73.6|443|China|Kunming|China Mobile|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|140.227.143.67|3128|Japan|Hyōgo|InfoSphere|
+|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|140.227.143.227|3128|Japan|Hyōgo|InfoSphere|
+|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|13|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|39.129.73.6|443|China|Kunming|China Mobile|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|67.43.227.227|22637|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|11431|Canada|Montreal|GloboTech Communications|
+|19|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
