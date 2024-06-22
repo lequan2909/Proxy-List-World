@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|111.89.130.107|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|2|111.89.130.53|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|3|163.172.33.137|5678|France|Vitry-sur-Seine|Online S.A.S.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|67.43.227.227|10017|Canada|Montreal|GloboTech Communications|
-|12|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|72.10.160.90|2301|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|2301|Canada|Montreal|GloboTech Communications|
-|15|103.247.23.189|8080|Indonesia|Bekasi|PT wifian Solution|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.160.90|2301|Canada|Montreal|GloboTech Communications|
-|19|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|20|72.10.164.178|17769|Canada|Montreal|GloboTech Communications|
+|5|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|7|88.255.102.41|8080|Türkiye|Istanbul|TurkTelekom|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|10|202.8.74.12|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|11|103.188.82.81|8888|Vietnam|Thành Phố Tam Kỳ|FIREFLY|
+|12|43.131.234.87|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|13|111.89.130.103|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|14|43.155.164.175|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|15|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|16|43.131.229.157|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|111.89.130.54|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|18|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|43.131.248.242|59394|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|20|111.89.130.55|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
