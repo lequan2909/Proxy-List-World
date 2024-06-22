@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|6|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|165.255.244.220|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|181.28.111.161|8080|Argentina|Córdoba|Telecom Argentina S.A|
-|13|160.248.5.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|19|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
-|20|67.43.236.20|28237|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.5.99|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|152.26.229.86|9443|United States|Huntersville|MCNC|
+|6|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|7|103.247.23.189|8080|Indonesia|Bekasi|PT wifian Solution|
+|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|9|67.43.236.20|28237|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.253|1781|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.172|18673|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|67.43.236.20|28237|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|28237|Canada|Montreal|GloboTech Communications|
+|17|103.180.118.170|8080|Indonesia|Lamongan|PT Persada Data Multimedia|
+|18|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.160.94|4595|Canada|Montreal|GloboTech Communications|
 
 
 
