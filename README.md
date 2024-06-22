@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|160.248.184.122|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.187.93|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.7.75|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
 |6|160.248.81.159|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |7|160.248.190.44|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|160.248.7.75|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|182.160.103.220|8090|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|103.54.218.202|8080|Indonesia|Pancoran|PT. Mora Telematika Indonesia|
-|17|160.248.92.56|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.7.63|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.184.122|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|160.248.92.56|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|160.248.184.170|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
 |20|160.248.7.72|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
