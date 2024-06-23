@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|109.236.91.104|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |9|216.7.87.114|800|United States|Rock Falls|City of Rock Falls|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
-|12|109.236.91.104|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|72.10.164.178|8767|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.230|8499|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|31703|Canada|Montreal|GloboTech Communications|
-|16|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.236.20|1263|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.228.253|31703|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|30513|Canada|Montreal|GloboTech Communications|
+|10|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|109.236.91.104|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|15|67.43.236.20|6097|Canada|Montreal|GloboTech Communications|
+|16|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|17|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|18|72.10.160.90|30097|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
