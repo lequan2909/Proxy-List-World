@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|47.88.21.196|8083|United States|Minkler|Alibaba.com LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|43.153.93.14|18088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|47.242.124.169|31288|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|142.93.142.36|9122|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |8|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|13|120.28.219.93|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|116.58.232.75|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|14|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|220.87.52.132|41004|South Korea|Bucheon-si|Korea Telecom|
+|17|38.91.101.96|8850|United States|New York|GTHost|
+|18|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|19|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|20|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
