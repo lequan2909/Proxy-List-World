@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|38.91.101.96|8850|United States|New York|GTHost|
+|4|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|172.245.12.53|34567|United States|Buffalo|HostPapa|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|58.9.2.49|5002|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|13|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|14|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
-|15|34.214.74.191|443|United States|Portland|Amazon.com, Inc.|
-|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|112.160.44.63|41004|South Korea|Incheon|Korea Telecom|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|20|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
+|6|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|9|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|45.173.231.15|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|12|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|18|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|19|67.43.236.20|25769|Canada|Montreal|GloboTech Communications|
+|20|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
 
 
 
