@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
+|1|167.88.173.131|34567|Singapore|Singapore|RouterHosting LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|104.194.152.29|34567|Singapore|Singapore|RouterHosting LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|15.204.151.142|31158|United States|Reston|OVH SAS|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|190.82.105.122|43949|Chile|Puente Alto|Telefonica Empresas|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
+|9|116.110.28.174|4000|Vietnam|Da Nang|Viettel Corporation|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|13|172.245.12.61|34567|United States|Buffalo|HostPapa|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|17|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
 |18|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|19|72.10.164.178|15857|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|16253|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|15.204.151.142|31158|United States|Reston|OVH SAS|
 
 
 
