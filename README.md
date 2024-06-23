@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|12|49.7.38.151|45212|China|Beijing|BJTEL|
-|13|67.43.236.20|6403|Canada|Montreal|GloboTech Communications|
-|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|15|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|17|58.210.227.210|8088|China|Nanjing|Chinanet|
-|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|58.210.227.210|8088|China|Nanjing|Chinanet|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
