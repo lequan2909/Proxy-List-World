@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|10|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|16|38.91.101.96|8850|United States|New York|GTHost|
-|17|67.43.228.251|9937|Canada|Montreal|GloboTech Communications|
-|18|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|19|72.10.160.90|29601|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|15517|Canada|Montreal|GloboTech Communications|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|172.245.12.62|34567|United States|Buffalo|HostPapa|
+|7|172.245.12.57|34567|United States|Buffalo|HostPapa|
+|8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|9|27.147.130.65|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|5.161.203.26|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|172.245.10.133|34567|United States|Buffalo|HostPapa|
+|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|16|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.247.23.65|2022|Indonesia|Bekasi|PT wifian Solution|
 
 
 
