@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.153.93.14|18088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|9|72.10.164.178|25679|Canada|Montreal|GloboTech Communications|
-|10|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
-|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|72.10.160.171|20141|Canada|Montreal|GloboTech Communications|
-|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|16|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|17|72.10.160.90|9281|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|31385|Canada|Montreal|GloboTech Communications|
-|19|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|20|45.142.104.233|5555|Germany|Lelkendorf|Ferdinand Zink trading as Tube-Hosting|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|8|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|9|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|10|172.245.12.61|34567|United States|Buffalo|HostPapa|
+|11|172.245.10.131|34567|United States|Buffalo|HostPapa|
+|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|14|72.10.164.178|3185|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.171|20141|Canada|Montreal|GloboTech Communications|
+|16|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|72.10.160.90|9281|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|16039|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|3197|Canada|Montreal|GloboTech Communications|
 
 
 
