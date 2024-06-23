@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|14|186.121.214.210|32650|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|72.10.160.173|20223|Canada|Montreal|GloboTech Communications|
-|19|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|20|47.88.21.196|8083|United States|Minkler|Alibaba.com LLC|
+|3|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.243.165.74|31288|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.88.21.196|8083|United States|Minkler|Alibaba.com LLC|
+|14|109.74.33.37|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|17|72.204.225.85|20805|United States|San Diego|Cox Communications Inc.|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
