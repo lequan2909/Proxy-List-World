@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5099** proxies at the latest update. Usable proxies are below.
+> Scraper found **5136** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|68|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|11|172.245.10.131|34567|United States|Buffalo|HostPapa|
 |12|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|67.43.228.250|31879|Canada|Montreal|GloboTech Communications|
-|15|172.245.10.133|34567|United States|Buffalo|HostPapa|
-|16|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
-|17|67.43.228.254|6897|Canada|Montreal|GloboTech Communications|
-|18|103.160.184.158|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|19|67.43.236.20|3613|Canada|Montreal|GloboTech Communications|
-|20|191.97.19.57|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|31.3.26.51|46798|Ukraine|Kerch|CrystalNET Plus|
+|15|172.245.12.56|34567|United States|Buffalo|HostPapa|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|103.130.82.46|8080|Indonesia|Bengkalis|PT Central Digital Network|
+|20|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
 
 
 
