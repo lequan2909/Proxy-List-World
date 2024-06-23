@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|46.32.25.18|7070|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|67.43.236.20|17439|Canada|Montreal|GloboTech Communications|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|15|67.43.227.228|1945|Canada|Montreal|GloboTech Communications|
-|16|216.56.48.163|800|United States|Marshfield|WiscNet|
-|17|67.43.236.20|17439|Canada|Montreal|GloboTech Communications|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|67.43.228.253|2187|Canada|Montreal|GloboTech Communications|
-|20|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|152.26.229.42|9443|United States|Huntersville|MCNC|
+|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|10|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|17|91.200.161.250|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|18|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|58.210.227.210|8088|China|Nanjing|Chinanet|
+|20|128.199.158.69|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
