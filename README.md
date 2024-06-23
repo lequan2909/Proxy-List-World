@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|43.153.93.14|18088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|9|72.10.160.170|1759|Canada|Montreal|GloboTech Communications|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|72.10.160.172|1975|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
-|15|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
-|16|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|19|72.10.160.90|10537|Canada|Montreal|GloboTech Communications|
-|20|103.186.8.162|8080|Indonesia|Tulungagung|PRISMA|
+|9|172.245.10.131|34567|United States|Buffalo|HostPapa|
+|10|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|104.194.152.29|34567|Singapore|Singapore|RouterHosting LLC|
+|13|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|14|72.10.160.90|10537|Canada|Montreal|GloboTech Communications|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.156.233.165|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|19|72.10.160.171|10537|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
