@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|7|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|11|103.84.176.44|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|13|58.210.227.210|8088|China|Nanjing|Chinanet|
-|14|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|112.17.10.43|3128|China|Hangzhou|China Mobile Communications Corporation|
-|19|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.245.12.56|34567|United States|Buffalo|HostPapa|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|172.245.12.61|34567|United States|Buffalo|HostPapa|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|18|172.245.10.131|34567|United States|Buffalo|HostPapa|
+|19|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
 
 
 
