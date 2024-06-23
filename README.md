@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|81.0.197.250|5808|Czechia|Prague|CASA to WIA transfer|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
-|9|103.115.20.26|8090|Indonesia|Subang|PMYNET|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|15.204.151.142|31158|United States|Reston|OVH SAS|
+|6|38.156.72.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|15|103.178.42.3|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|18|129.154.192.70|3128|South Korea|Seoul|Oracle Corporation|
-|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|14|15.204.151.142|31158|United States|Reston|OVH SAS|
+|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|20|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
 
 
 
