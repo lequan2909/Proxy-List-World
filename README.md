@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|104.232.133.78|5678|United States|Denver|eSited Solutions|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|129.153.215.91|31283|United States|Phoenix|Oracle Corporation|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM SRL|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|3|220.87.52.7|41004|South Korea|Bucheon-si|Korea Telecom|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|5.200.53.37|51958|Russia|St Petersburg|Enterprise Cloud Ltd.|
+|7|104.232.133.78|5678|United States|Denver|eSited Solutions|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|87.242.123.92|8090|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|14|163.172.33.137|5678|France|Vitry-sur-Seine|Online S.A.S.|
+|15|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|16|220.87.52.132|41004|South Korea|Bucheon-si|Korea Telecom|
+|17|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
+|18|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|19|140.227.143.141|3128|Japan|Hyōgo|InfoSphere|
+|20|140.227.142.247|3128|Japan|Hyōgo|InfoSphere|
 
 
 
