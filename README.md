@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.88.172.124|34567|Singapore|Singapore|RouterHosting LLC|
-|2|167.88.173.131|34567|Singapore|Singapore|RouterHosting LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
 |4|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|104.194.152.5|34567|Singapore|Singapore|RouterHosting LLC|
+|5|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|6|167.88.175.12|34567|Singapore|Singapore|RouterHosting LLC|
+|7|72.10.164.178|1885|Canada|Montreal|GloboTech Communications|
+|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|9|67.43.227.228|4025|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|6759|Canada|Montreal|GloboTech Communications|
+|11|39.129.73.6|443|China|Kunming|China Mobile|
+|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|14|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|14|172.245.12.61|34567|United States|Buffalo|HostPapa|
 |15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|67.43.227.227|8463|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|6211|Canada|Montreal|GloboTech Communications|
-|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|20|72.10.160.170|1291|Canada|Montreal|GloboTech Communications|
+|16|172.245.12.57|34567|United States|Buffalo|HostPapa|
+|17|67.43.236.20|31735|Canada|Montreal|GloboTech Communications|
+|18|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
