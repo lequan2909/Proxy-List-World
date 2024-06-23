@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|81.0.197.250|5808|Czechia|Prague|CASA to WIA transfer|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|172.245.10.133|34567|United States|Buffalo|HostPapa|
 |7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|172.245.12.62|34567|United States|Buffalo|HostPapa|
-|12|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|172.245.12.62|34567|United States|Buffalo|HostPapa|
-|18|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|19|172.245.12.56|34567|United States|Buffalo|HostPapa|
-|20|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|8|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.158.220.2|83|India|Theni|Nt Cybronet Pvt Ltd|
+|11|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|16|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
 
 
 
