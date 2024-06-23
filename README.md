@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.93.14|18088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|8|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|10|2.59.181.125|33100|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|72.10.164.178|13957|Canada|Montreal|GloboTech Communications|
-|14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|10|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|12|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
+|13|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
+|14|72.10.164.178|13941|Canada|Montreal|GloboTech Communications|
 |15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
 |19|15.204.151.142|31158|United States|Reston|OVH SAS|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|67.43.227.227|23243|Canada|Montreal|GloboTech Communications|
 
 
 
