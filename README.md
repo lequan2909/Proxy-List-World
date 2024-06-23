@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.26.135.62|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.153.246.142|8181|Indonesia|Purwakarta|PRIMAHOME|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|85.237.46.168|53468|Russia|Penza|PJSC Rostelecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|11|88.255.102.123|8080|Türkiye|Istanbul|TurkTelekom|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
-|15|15.204.151.142|31158|United States|Reston|OVH SAS|
-|16|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|181.233.62.18|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
-|18|46.161.242.53|8080|Yemen|Rida`|Public Telecommunication Corporation|
-|19|103.195.252.161|82|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|5|138.117.84.203|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|6|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|7|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|8|15.204.151.142|31158|United States|Reston|OVH SAS|
+|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|10|104.194.152.36|34567|Singapore|Singapore|RouterHosting LLC|
+|11|67.43.227.227|8471|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|24715|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|14|72.10.160.94|3469|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|3277|Canada|Montreal|GloboTech Communications|
+|16|45.228.233.94|999|Guatemala|Guatemala City|Infinitum S.A.|
+|17|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|18|72.10.164.178|24089|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.94|3469|Canada|Montreal|GloboTech Communications|
+|20|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
 
 
 
