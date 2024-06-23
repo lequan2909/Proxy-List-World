@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|8|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|49.7.38.151|45212|China|Beijing|BJTEL|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|172.245.12.61|34567|United States|Buffalo|HostPapa|
-|13|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.227|17435|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|157.245.120.226|1013|United States|Clifton|DigitalOcean, LLC|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|172.245.10.133|34567|United States|Buffalo|HostPapa|
+|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|15|172.245.12.61|34567|United States|Buffalo|HostPapa|
+|16|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|17|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|109.236.91.104|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|72.10.164.178|7445|Canada|Montreal|GloboTech Communications|
+|20|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 
 
 
