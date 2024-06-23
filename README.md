@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|7|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|190.94.212.247|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|83.244.33.34|8080|Palestinian Territory|Ramallah|Palestine Telecommunications Company|
-|13|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|14|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|15|38.91.101.96|8850|United States|New York|GTHost|
-|16|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|34.214.74.191|443|United States|Portland|Amazon.com, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|19|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|20|113.160.247.27|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
 
 
 
