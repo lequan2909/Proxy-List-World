@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5023** proxies at the latest update. Usable proxies are below.
+> Scraper found **5002** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|619|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|273|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3171|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|67.43.236.20|13525|Canada|Montreal|GloboTech Communications|
-|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|15|67.43.228.250|12753|Canada|Montreal|GloboTech Communications|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|18|67.43.227.230|17119|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|7327|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|27897|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|72.10.164.178|29845|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.92|31939|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|10|67.43.228.254|12227|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|29845|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|5367|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|29345|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.172|1393|Canada|Montreal|GloboTech Communications|
+|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|16|67.43.228.253|13545|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|5367|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.164.178|29845|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|4113|Canada|Montreal|GloboTech Communications|
 
 
 
