@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|8|67.43.227.229|28029|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|1669|Canada|Montreal|GloboTech Communications|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
 |11|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|12|72.10.164.178|5379|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|12545|Canada|Montreal|GloboTech Communications|
-|14|38.91.101.96|8850|United States|New York|GTHost|
+|12|67.43.227.229|28029|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|5069|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|24209|Canada|Montreal|GloboTech Communications|
 |15|123.125.204.223|45104|China|Beijing|China Unicom Beijing Province Network|
-|16|72.10.164.178|5379|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|32139|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|11809|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|32139|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|32139|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|23967|Canada|Montreal|GloboTech Communications|
+|17|185.78.255.230|3128|Germany|Leipzig|Tele AG Scope Infra and CGN|
+|18|67.43.227.226|24391|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|5379|Canada|Montreal|GloboTech Communications|
+|20|123.125.204.223|45104|China|Beijing|China Unicom Beijing Province Network|
 
 
 
