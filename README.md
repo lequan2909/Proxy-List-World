@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|7|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|103.88.238.225|83|India|Hyderabad|Mana Communications|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|172.245.12.58|34567|United States|Buffalo|HostPapa|
-|18|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|19|190.2.215.234|999|Colombia|Santa Rosa del Sur|TV AZTECA SUCURSAL COLOMBIA|
-|20|112.17.10.43|3128|China|Hangzhou|China Mobile Communications Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|7|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|13|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
+|14|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|15|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
