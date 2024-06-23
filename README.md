@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|104.194.152.32|34567|Singapore|Singapore|RouterHosting LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|104.194.152.38|34567|Singapore|Singapore|RouterHosting LLC|
-|6|152.26.229.42|9443|United States|Huntersville|MCNC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
 |11|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|13|103.159.96.131|3125|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|14|72.10.160.90|19487|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|20885|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|20885|Canada|Montreal|GloboTech Communications|
-|17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|18|72.10.160.170|16253|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|20885|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|19487|Canada|Montreal|GloboTech Communications|
+|12|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|72.10.164.178|6789|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|19|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
