@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|9|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|10|172.245.10.133|34567|United States|Buffalo|HostPapa|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|172.245.12.56|34567|United States|Buffalo|HostPapa|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
 |15|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|118.99.127.53|8080|Indonesia|Malang|Biznet Metronet|
-|17|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|39.129.73.6|443|China|Kunming|China Mobile|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|18|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
