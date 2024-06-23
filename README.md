@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5002** proxies at the latest update. Usable proxies are below.
+> Scraper found **5032** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|273|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3171|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|72.10.164.178|29845|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.92|31939|Canada|Montreal|GloboTech Communications|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|67.43.228.254|12227|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|29845|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|5367|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|29345|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|1393|Canada|Montreal|GloboTech Communications|
-|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|16|67.43.228.253|13545|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|5367|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|72.10.164.178|29845|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|4113|Canada|Montreal|GloboTech Communications|
+|2|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|11|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|12|67.43.227.227|26305|Canada|Montreal|GloboTech Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|123.125.204.223|45111|China|Beijing|China Unicom Beijing Province Network|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|20|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 
 
 
