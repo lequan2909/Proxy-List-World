@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.88.175.18|34567|Singapore|Singapore|RouterHosting LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|182.253.37.83|443|Indonesia|Jakarta Pusat|BIZNET|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|104.194.152.35|34567|Singapore|Singapore|RouterHosting LLC|
 |8|72.10.164.178|4869|Canada|Montreal|GloboTech Communications|
-|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|10|216.7.87.114|800|United States|Rock Falls|City of Rock Falls|
-|11|72.10.160.90|22679|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|2305|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|15|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
-|16|72.10.164.178|4869|Canada|Montreal|GloboTech Communications|
-|17|45.142.104.233|5555|Germany|Lelkendorf|Ferdinand Zink trading as Tube-Hosting|
-|18|176.100.13.15|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|167.88.175.18|34567|Singapore|Singapore|RouterHosting LLC|
+|13|72.10.160.172|17293|Canada|Montreal|GloboTech Communications|
+|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|15|72.10.160.90|23023|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
 
 
 
