@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|7|72.10.160.174|27229|Canada|Montreal|GloboTech Communications|
-|8|128.199.158.69|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|67.43.236.20|21013|Canada|Montreal|GloboTech Communications|
-|11|172.245.10.133|34567|United States|Buffalo|HostPapa|
-|12|72.10.160.171|30113|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|67.43.236.21|22325|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.230|1567|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|12757|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|1203|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|21013|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|21013|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7069|Canada|Montreal|GloboTech Communications|
+|4|128.199.158.69|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|6|67.43.236.21|22325|Canada|Montreal|GloboTech Communications|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|9|67.43.236.20|21013|Canada|Montreal|GloboTech Communications|
+|10|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|11|72.10.164.178|22405|Canada|Montreal|GloboTech Communications|
+|12|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|13|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|14|67.43.236.20|21013|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|1703|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.230|1567|Canada|Montreal|GloboTech Communications|
+|17|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|18|67.43.228.254|12757|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|26947|Canada|Montreal|GloboTech Communications|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
