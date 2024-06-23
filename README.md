@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.245.12.62|34567|United States|Buffalo|HostPapa|
-|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
-|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|9|103.88.239.38|84|India|Hyderabad|Mana Communications|
+|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|12|49.7.38.151|45149|China|Beijing|BJTEL|
-|13|172.245.12.58|34567|United States|Buffalo|HostPapa|
-|14|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|39.129.73.6|443|China|Kunming|China Mobile|
-|18|172.245.12.61|34567|United States|Buffalo|HostPapa|
+|12|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|172.245.10.133|34567|United States|Buffalo|HostPapa|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|16|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
