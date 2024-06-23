@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|220.87.52.7|41004|South Korea|Bucheon-si|Korea Telecom|
-|3|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|5.200.53.37|51958|Russia|St Petersburg|Enterprise Cloud Ltd.|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|14|15.204.151.142|31158|United States|Reston|OVH SAS|
-|15|45.56.85.165|2002|United States|Fremont|Akamai Technologies, Inc.|
-|16|38.91.101.96|8850|United States|New York|GTHost|
-|17|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|18|104.232.134.75|5678|United States|Denver|eSited Solutions|
-|19|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|20|104.232.133.67|5678|United States|Denver|eSited Solutions|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|45.56.85.165|2002|United States|Fremont|Akamai Technologies, Inc.|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|15.204.151.142|31158|United States|Reston|OVH SAS|
+|19|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
