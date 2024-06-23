@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4989** proxies at the latest update. Usable proxies are below.
+> Scraper found **5046** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|666|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3158|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.158.69|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|6|67.43.236.21|22325|Canada|Montreal|GloboTech Communications|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|9|67.43.236.20|21013|Canada|Montreal|GloboTech Communications|
-|10|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|11|72.10.164.178|22405|Canada|Montreal|GloboTech Communications|
-|12|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|13|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|14|67.43.236.20|21013|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|1703|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|1567|Canada|Montreal|GloboTech Communications|
-|17|172.245.12.58|34567|United States|Buffalo|HostPapa|
-|18|67.43.228.254|12757|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|26947|Canada|Montreal|GloboTech Communications|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|178.158.166.161|3128|Ukraine|Donetsk|EAST-NET Ltd|
+|6|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|7|213.169.33.7|4000|Bulgaria|Sofia|A1 Bulgaria EAD|
+|8|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|9|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|10|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|72.10.160.92|28423|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|11215|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|67.43.228.251|14747|Canada|Montreal|GloboTech Communications|
+|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|16|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|17|103.19.59.10|8080|Indonesia|Madiun|BITSNET|
+|18|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|19|72.10.164.178|11215|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|5575|Canada|Montreal|GloboTech Communications|
 
 
 
