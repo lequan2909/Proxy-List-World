@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.76.122.37|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|2|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
-|5|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|67.43.236.20|4019|Canada|Montreal|GloboTech Communications|
-|11|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
-|12|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|103.68.194.197|3129|United States|Los Angeles|Zenlayer Inc|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.93|1375|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.230|7251|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|8985|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|4595|Canada|Montreal|GloboTech Communications|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|20.93.21.223|9000|Ireland|Dublin|Microsoft Corporation|
+|12|67.43.227.230|7251|Canada|Montreal|GloboTech Communications|
+|13|172.245.12.56|34567|United States|Buffalo|HostPapa|
+|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|172.245.12.57|34567|United States|Buffalo|HostPapa|
+|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
