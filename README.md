@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|101.109.58.139|8080|Thailand|Pattaya|TOT Public Company Limited|
 |7|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|101.109.58.139|8080|Thailand|Pattaya|TOT Public Company Limited|
-|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|172.245.10.133|34567|United States|Buffalo|HostPapa|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|16|149.28.147.110|10000|Singapore|Singapore|The Constant Company|
-|17|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|18|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|20|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|8|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
+|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|16|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|39.129.73.6|443|China|Kunming|China Mobile|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
