@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.35.10.130|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|72.10.164.178|1403|Canada|Montreal|GloboTech Communications|
-|10|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
-|11|104.232.133.78|5678|United States|Denver|eSited Solutions|
-|12|72.10.160.170|1413|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|5985|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|72.10.164.178|1403|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|29443|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.160.170|1413|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|10573|Canada|Montreal|GloboTech Communications|
-|20|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.42|9443|United States|Huntersville|MCNC|
+|8|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|9|45.228.233.94|999|Guatemala|Guatemala City|Infinitum S.A.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|181.233.62.18|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|14|72.10.160.90|3587|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|173.249.37.45|5005|Germany|Nuremberg|Contabo GmbH|
+|18|34.143.176.68|3000|Singapore|Singapore|Google LLC|
+|19|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
