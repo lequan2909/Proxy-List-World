@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.227.228|25461|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|30451|Canada|Montreal|GloboTech Communications|
-|13|172.245.10.133|34567|United States|Buffalo|HostPapa|
-|14|72.10.164.178|6781|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|20757|Canada|Montreal|GloboTech Communications|
-|16|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.160.173|26173|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|4|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|5|67.43.228.250|19861|Canada|Montreal|GloboTech Communications|
+|6|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|7|216.7.87.114|800|United States|Rock Falls|City of Rock Falls|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|10|72.10.160.90|3407|Canada|Montreal|GloboTech Communications|
+|11|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|67.43.228.253|32827|Canada|Montreal|GloboTech Communications|
+|14|103.83.97.46|7777|Indonesia|Yogyakarta|PT. Foxline Mediadata Indonusa|
+|15|67.43.227.228|4133|Canada|Montreal|GloboTech Communications|
+|16|103.165.155.73|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|18|184.82.130.44|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|19|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
