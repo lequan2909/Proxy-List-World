@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|4|134.35.10.130|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|5|2.59.181.125|33100|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|8|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|9|216.56.48.163|800|United States|Marshfield|WiscNet|
-|10|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|2|104.194.152.30|34567|Singapore|Singapore|RouterHosting LLC|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|216.56.48.163|800|United States|Marshfield|WiscNet|
 |11|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.227|33107|Canada|Montreal|GloboTech Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|32331|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|28205|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|67.43.227.229|17281|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|4541|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|11341|Canada|Montreal|GloboTech Communications|
-|19|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|20|67.43.228.250|10579|Canada|Montreal|GloboTech Communications|
+|17|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|18|181.198.53.6|3128|Ecuador|Calceta|Telconet S.A|
+|19|67.43.228.253|17955|Canada|Montreal|GloboTech Communications|
+|20|172.245.12.55|34567|United States|Buffalo|HostPapa|
 
 
 
