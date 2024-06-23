@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|10|103.234.159.5|8080|India|Bengaluru|MWPL|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|115.187.31.178|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|72.10.164.178|3783|Canada|Montreal|GloboTech Communications|
-|16|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|216.7.87.114|800|United States|Rock Falls|City of Rock Falls|
-|19|67.43.236.20|25295|Canada|Montreal|GloboTech Communications|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|3|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
+|4|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|5|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|6|72.10.164.178|30001|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.250|21491|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.20|25295|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.250|21491|Canada|Montreal|GloboTech Communications|
+|10|216.7.87.114|800|United States|Rock Falls|City of Rock Falls|
+|11|72.10.164.178|30001|Canada|Montreal|GloboTech Communications|
+|12|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
+|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|72.10.160.94|29429|Canada|Montreal|GloboTech Communications|
+|20|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
 
 
 
