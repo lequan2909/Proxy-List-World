@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|151.234.35.238|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|5|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|6|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|7|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|8|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|9|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|10|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
-|11|72.10.164.178|10445|Canada|Montreal|GloboTech Communications|
-|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|183.91.80.194|8089|Indonesia|Kamal Muara|PT Aplikanusa Lintasarta|
+|6|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|72.10.164.178|22223|Canada|Montreal|GloboTech Communications|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
 |13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|222.216.37.138|808|China|Lilancun|Chinanet|
-|16|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
-|17|72.10.160.170|19275|Canada|Montreal|GloboTech Communications|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
+|15|72.10.160.93|17513|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|67.43.236.20|27563|Canada|Montreal|GloboTech Communications|
+|19|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|20|103.48.71.30|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
