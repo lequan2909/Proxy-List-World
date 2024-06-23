@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4886** proxies at the latest update. Usable proxies are below.
+> Scraper found **4976** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|569|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|289|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3158|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.88.173.131|34567|Singapore|Singapore|RouterHosting LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|36.76.122.37|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|190.82.105.122|43949|Chile|Puente Alto|Telefonica Empresas|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
-|9|116.110.28.174|4000|Vietnam|Da Nang|Viettel Corporation|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|13|172.245.12.61|34567|United States|Buffalo|HostPapa|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
-|17|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|18|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|15.204.151.142|31158|United States|Reston|OVH SAS|
+|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.164.178|16151|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|26811|Canada|Montreal|GloboTech Communications|
+|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|14|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|19|38.91.101.96|8850|United States|New York|GTHost|
+|20|112.17.10.43|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
