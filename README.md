@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|101.109.58.139|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|8|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|2|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
 |9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
-|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|15|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|16|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|39.129.73.6|443|China|Kunming|China Mobile|
-|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|190.121.207.58|999|Mexico|Comitán|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|43.153.214.81|9999|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
