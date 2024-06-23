@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|220.87.52.7|41004|South Korea|Bucheon-si|Korea Telecom|
 |4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |8|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|5.200.53.37|51958|Russia|St Petersburg|Enterprise Cloud Ltd.|
 |12|38.91.101.96|8850|United States|New York|GTHost|
-|13|43.153.93.14|18088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|47.88.21.196|8083|United States|Minkler|Alibaba.com LLC|
-|15|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|45.56.85.165|2002|United States|Fremont|Akamai Technologies, Inc.|
-|18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|19|104.232.133.67|5678|United States|Denver|eSited Solutions|
-|20|15.204.151.142|31158|United States|Reston|OVH SAS|
+|13|47.88.21.196|8083|United States|Minkler|Alibaba.com LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|43.153.93.14|18088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|20|45.56.85.165|2002|United States|Fremont|Akamai Technologies, Inc.|
 
 
 
