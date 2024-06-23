@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|3|152.26.229.42|9443|United States|Huntersville|MCNC|
-|4|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
-|5|72.10.160.171|1723|Canada|Montreal|GloboTech Communications|
-|6|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|7|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|8|72.10.164.178|23005|Canada|Montreal|GloboTech Communications|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|43.153.93.14|18088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|13|72.10.164.178|23005|Canada|Montreal|GloboTech Communications|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|67.43.236.20|13525|Canada|Montreal|GloboTech Communications|
-|17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|67.43.236.20|13525|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|185.222.115.66|31280|United Kingdom|London|Netwise Hosting Ltd|
+|7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|8|67.43.236.20|28565|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|10|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|67.43.228.250|33067|Canada|Montreal|GloboTech Communications|
+|13|172.245.12.54|34567|United States|Buffalo|HostPapa|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|72.10.164.178|10261|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
