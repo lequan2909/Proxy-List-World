@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|9|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
 |10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|67.43.228.250|8193|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|5367|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|27897|Canada|Montreal|GloboTech Communications|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|72.10.160.90|22583|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|17119|Canada|Montreal|GloboTech Communications|
-|18|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|19|72.10.164.178|29845|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|29845|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|13525|Canada|Montreal|GloboTech Communications|
+|12|20.44.190.150|3129|Japan|Tokyo|Microsoft Corporation|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|15|67.43.228.250|12753|Canada|Montreal|GloboTech Communications|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|18|67.43.227.230|17119|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|7327|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|27897|Canada|Montreal|GloboTech Communications|
 
 
 
