@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|181.198.75.148|999|Ecuador|Guayaquil|Telconet S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|109.230.92.50|3128|Iran|Kīsh|Boomerang|
 |7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|72.10.160.90|15885|Canada|Montreal|GloboTech Communications|
-|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|16|67.43.227.227|30845|Canada|Montreal|GloboTech Communications|
-|17|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|18|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|19|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|15|72.10.160.90|20147|Canada|Montreal|GloboTech Communications|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|18|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|19|67.43.236.20|24939|Canada|Montreal|GloboTech Communications|
+|20|106.227.87.11|3128|China|Taohua|China Telecom|
 
 
 
