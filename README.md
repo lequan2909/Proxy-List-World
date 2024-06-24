@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|7|172.247.84.11|3128|United States|Los Angeles|Cnservers LLC|
-|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|181.192.28.119|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|8|172.247.84.11|3128|United States|Los Angeles|Cnservers LLC|
 |9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|12|181.192.28.119|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|17|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|12|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|17|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
+|18|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
