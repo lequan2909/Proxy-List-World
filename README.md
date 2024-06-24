@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|7|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|39.129.73.6|443|China|Kunming|China Mobile|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|78.47.219.204|3128|Germany|Hachenburg|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|109.236.91.104|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|12|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
+|16|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
 
 
 
