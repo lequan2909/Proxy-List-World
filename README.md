@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|4|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|5|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|6|67.43.236.20|17519|Canada|Montreal|GloboTech Communications|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|13|67.43.236.19|12237|Canada|Montreal|GloboTech Communications|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|5|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|6|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
 |15|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|14.34.180.21|38157|South Korea|Uiwang|Korea Telecom|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|17|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
