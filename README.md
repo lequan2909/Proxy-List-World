@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|43.153.93.14|18088|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|15|72.10.160.90|8727|Canada|Montreal|GloboTech Communications|
-|16|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|116.58.232.26|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.245.10.133|34567|United States|Buffalo|HostPapa|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
+|12|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|16|67.43.228.253|32149|Canada|Montreal|GloboTech Communications|
 |17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|18|67.43.228.253|1669|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
