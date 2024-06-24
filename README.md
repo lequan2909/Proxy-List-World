@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|8|80.66.81.61|4003|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|9|72.10.160.170|24885|Canada|Montreal|GloboTech Communications|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|18045|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|20465|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|18045|Canada|Montreal|GloboTech Communications|
-|16|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|10|67.43.227.227|20465|Canada|Montreal|GloboTech Communications|
+|11|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|12|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|16|72.10.164.178|18045|Canada|Montreal|GloboTech Communications|
 |17|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|18|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|20|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
 
 
 
