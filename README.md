@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|4|136.226.232.125|11066|India|Mumbai|ZSCALER, INC.|
-|5|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|6|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|7|72.10.164.178|7335|Canada|Montreal|GloboTech Communications|
-|8|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|109.236.91.104|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|7|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
+|13|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
