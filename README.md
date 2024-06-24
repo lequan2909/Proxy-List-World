@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|7|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|11|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|17|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|9|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|10|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|14|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|15|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|16|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|17|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
