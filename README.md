@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
 |5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|7|72.10.164.178|26931|Canada|Montreal|GloboTech Communications|
-|8|172.247.84.11|3128|United States|Los Angeles|Cnservers LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|20.119.77.88|8193|United States|Boydton|Microsoft Corporation|
+|8|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|9|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|106.227.87.11|3128|China|Taohua|China Telecom|
 |12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|14|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|106.227.87.11|3128|China|Taohua|China Telecom|
-|16|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|17|172.247.84.11|3128|United States|Los Angeles|Cnservers LLC|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|13|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|16|103.99.27.234|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|17|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|58.210.227.210|8088|China|Nanjing|Chinanet|
 
 
 
