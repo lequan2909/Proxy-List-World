@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|181.198.75.148|999|Ecuador|Guayaquil|Telconet S.A|
-|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|41.205.24.68|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|72.10.160.172|21491|Canada|Montreal|GloboTech Communications|
-|15|106.227.87.11|3128|China|Taohua|China Telecom|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|67.43.236.20|4767|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|106.227.87.11|3128|China|Taohua|China Telecom|
+|10|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|13|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
+|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
