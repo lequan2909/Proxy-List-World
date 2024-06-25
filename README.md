@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|3|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|9|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
-|10|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|16|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|18|109.236.91.104|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.227.227|5757|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|4|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|5|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|9|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|11|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|12|139.167.54.114|8081|India|Hyderabad|Reliance Jio Infocomm Limited|
+|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|15|193.30.13.18|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|147.28.145.213|10089|United States|Ashburn|Packet Host, Inc.|
+|18|190.2.212.94|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|19|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|20|20.93.21.223|9000|Ireland|Dublin|Microsoft Corporation|
 
 
 
