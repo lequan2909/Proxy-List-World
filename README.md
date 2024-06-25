@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|6|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|106.227.87.11|3128|China|Taohua|China Telecom|
-|10|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|13|67.43.236.20|7229|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|51.159.75.249|3128|France|Paris|SCALEWAY|
-|16|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|17|125.209.88.46|8080|Pakistan|Karachi|Multinet 125-88/24|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|20|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|3|110.78.186.125|8080|Thailand|Chon Buri|CAT-BB|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|10|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|13|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|15|200.101.150.202|8080|Brazil|Paranaguá|V tal|
+|16|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.236.20|1623|Canada|Montreal|GloboTech Communications|
+|19|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|20|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
 
 
 
