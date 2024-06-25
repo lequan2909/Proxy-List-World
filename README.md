@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|7|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|8|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|11|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|15|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|6|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|12|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|18|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|19|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
