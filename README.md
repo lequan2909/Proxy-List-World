@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|110.77.235.155|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|6|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|8|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|186.123.26.79|8080|Argentina|Villa Ballester|Techtel LMDS Comunicaciones Interactivas S.A.|
+|5|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|11|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|43.252.236.157|8080|Indonesia|Bogor|NET|
 |15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|51.159.75.249|3128|France|Paris|SCALEWAY|
-|17|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|17|200.101.150.202|8080|Brazil|Paranaguá|V tal|
+|18|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|20|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
