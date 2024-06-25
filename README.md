@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|4|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
+|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|7|72.10.160.173|29383|Canada|Montreal|GloboTech Communications|
-|8|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|67.43.227.228|28789|Canada|Montreal|GloboTech Communications|
 |9|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|13|18.133.51.46|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|51.159.75.249|3128|France|Paris|SCALEWAY|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.227|1463|Canada|Montreal|GloboTech Communications|
-|19|139.0.6.12|8080|Indonesia|Tangerang|PT. First Media, Tbk|
-|20|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|18.133.51.46|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|213.246.21.182|8080|Yemen|Sanaa|AS30873 YemenNet|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
 
 
 
