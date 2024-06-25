@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|182.253.152.175|8080|Indonesia|Jakarta|BIZNET|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|188.209.234.245|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|16|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|17|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.227.228|3719|Canada|Montreal|GloboTech Communications|
-|20|200.101.150.202|8080|Brazil|Paranaguá|V tal|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|5|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|8|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|9|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|152.42.142.199|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.227.228|3719|Canada|Montreal|GloboTech Communications|
+|15|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|18|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|19|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|24993|Canada|Montreal|GloboTech Communications|
 
 
 
