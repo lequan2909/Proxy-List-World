@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|17|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|171.227.248.125|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.48.71.126|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|18|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|19|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
