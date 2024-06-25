@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|6|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.245.10.132|34567|United States|Buffalo|HostPapa|
 |7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|171.249.181.250|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|171.248.189.59|4009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|171.249.181.250|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|18.133.51.46|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|115.77.51.19|4001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|20|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|171.248.189.59|4009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|171.249.181.250|4010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|171.249.181.250|4010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|18.133.51.46|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|115.77.51.19|4001|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
