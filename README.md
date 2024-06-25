@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|50.109.131.3|8080|United States|Milford|Frontier Communications Solutions|
-|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|6|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|50.109.131.3|8080|United States|Milford|Frontier Communications Solutions|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|6|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
+|7|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
 |9|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|106.227.87.11|3128|China|Taohua|China Telecom|
-|13|67.43.236.20|25361|Canada|Montreal|GloboTech Communications|
-|14|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|15|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|51.159.75.249|3128|France|Paris|SCALEWAY|
-|19|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|186.148.175.118|999|Colombia|Aguazul|TV AZTECA SUCURSAL COLOMBIA|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
