@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|217.25.95.220|8443|Poland|Warsaw|TimeWeb Ltd.|
-|8|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|185.64.208.221|53281|Russia|Kstovo|Svyazist LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|20|197.201.96.123|80|Algeria|Relizane|Algerie Telecom|
 
 
 
