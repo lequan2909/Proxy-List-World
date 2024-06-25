@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.237|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|217.25.95.220|8443|Poland|Warsaw|TimeWeb Ltd.|
+|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|185.64.208.175|53281|Russia|Kstovo|Svyazist LLC|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
 |6|38.91.101.96|8850|United States|New York|GTHost|
 |7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.156.70.38|8084|Indonesia|Banyuwangi|PT Indo Access Semesta|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
 |20|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
 
 
