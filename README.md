@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|4|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|7|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|13|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|14|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|15|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|72.10.164.178|5839|Canada|Montreal|GloboTech Communications|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|20|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|10|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|11|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|72.10.164.178|11181|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|16|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|17|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|18|182.52.131.108|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
