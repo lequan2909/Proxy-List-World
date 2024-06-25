@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|5|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|67.43.228.253|21961|Canada|Montreal|GloboTech Communications|
-|7|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|72.10.164.178|30729|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.250|12563|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|24531|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.174|29681|Canada|Montreal|GloboTech Communications|
-|12|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.227|1537|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
-|16|177.93.59.42|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|17|67.43.227.227|1537|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|165.16.31.14|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|3|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|177.93.59.42|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|5|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|6|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|182.53.23.92|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|8|72.10.160.174|29681|Canada|Montreal|GloboTech Communications|
+|9|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.164.178|30729|Canada|Montreal|GloboTech Communications|
+|12|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|13|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
