@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|110.77.235.155|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|7|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
 |8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|9|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.164.178|19255|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|14|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|18|67.43.228.253|17277|Canada|Montreal|GloboTech Communications|
-|19|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|20|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|9|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.164.178|2367|Canada|Montreal|GloboTech Communications|
+|12|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|14|67.43.227.230|2437|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|19|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
