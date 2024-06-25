@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|13|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.148.49.243|8080|Indonesia|Pontianak|BCMEDIA|
-|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|17|67.43.228.250|2281|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|160.248.184.217|8888|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|17|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|190.110.35.229|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 |19|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|20|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|20|172.245.10.130|34567|United States|Buffalo|HostPapa|
 
 
 
