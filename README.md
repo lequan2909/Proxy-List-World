@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|11|172.247.84.10|3128|United States|Los Angeles|Cnservers LLC|
-|12|51.159.75.249|3128|France|Paris|SCALEWAY|
-|13|172.247.84.11|3128|United States|Los Angeles|Cnservers LLC|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|200.101.150.202|8080|Brazil|Paranaguá|V tal|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|6|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|7|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|12|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|15|20.93.21.223|9000|Ireland|Dublin|Microsoft Corporation|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|18|147.28.145.213|10089|United States|Ashburn|Packet Host, Inc.|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|172.247.84.11|3128|United States|Los Angeles|Cnservers LLC|
 
 
 
