@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|6|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|7|72.10.164.178|11109|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
+|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|11|72.10.160.90|9027|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|25441|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|15|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
-|16|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|17|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|18|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|192.169.179.253|56111|United States|Cheney|GoDaddy.com, LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|14|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|15|67.43.227.227|25441|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|106.227.87.11|3128|China|Taohua|China Telecom|
+|18|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|19|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
