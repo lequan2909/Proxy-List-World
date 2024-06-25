@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|7|217.25.95.220|8443|Poland|Warsaw|TimeWeb Ltd.|
-|8|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
-|11|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|18.133.51.46|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|36.94.2.138|443|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|203.150.172.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|17|72.10.164.178|5529|Canada|Montreal|GloboTech Communications|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.245.12.55|34567|United States|Buffalo|HostPapa|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|10|217.25.95.220|8443|Poland|Warsaw|TimeWeb Ltd.|
+|11|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|15|114.220.34.213|7788|China|Nanjing|China Telecom|
+|16|18.133.51.46|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|172.245.12.55|34567|United States|Buffalo|HostPapa|
 |18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|5529|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|20|27.147.145.185|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
