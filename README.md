@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|5|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|10|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|13|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|14|67.43.236.20|18581|Canada|Montreal|GloboTech Communications|
-|15|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|2|110.77.235.155|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|103.74.122.162|6868|Vietnam|Quan Bon|CNBKNS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.35.152.214|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|10|106.227.87.11|3128|China|Taohua|China Telecom|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|16|206.233.170.83|58394|United States|Irvington|HONG KONG Megalayer Technology Co., Limited|
 |17|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|20|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|18|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
