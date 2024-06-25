@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|5|5.9.148.144|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|6|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|12|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|13|67.43.227.228|15617|Canada|Montreal|GloboTech Communications|
-|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|15|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|16|106.227.87.11|3128|China|Taohua|China Telecom|
-|17|38.129.166.122|3128|United States|Boca Raton|Cogent Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|14|106.227.87.11|3128|China|Taohua|China Telecom|
+|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.228|17713|Canada|Montreal|GloboTech Communications|
 |18|147.28.145.213|10089|United States|Ashburn|Packet Host, Inc.|
-|19|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|20.93.21.223|9000|Ireland|Dublin|Microsoft Corporation|
+|19|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
