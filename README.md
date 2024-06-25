@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|221.140.235.236|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|78.186.133.94|3310|Türkiye|Istanbul|TurkTelecom|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|8|8.215.62.141|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|13|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
+|14|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
