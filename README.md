@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|142.93.142.36|9122|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.162.63.121|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|6|131.117.165.134|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|7|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
-|8|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|9|109.236.91.104|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|10|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|186.148.175.118|999|Colombia|Aguazul|TV AZTECA SUCURSAL COLOMBIA|
-|17|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|18|54.222.174.194|80|China|Beijing|Beijing Guanghuan Xinwang Digital|
-|19|139.255.213.58|8080|Indonesia|Bekasi|PT. First Media, Tbk|
-|20|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|7|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|13|106.227.87.11|3128|China|Taohua|China Telecom|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|19|191.102.254.54|8085|Argentina|Rosario|IP·RED|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
