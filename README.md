@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|110.78.186.125|8080|Thailand|Chon Buri|CAT-BB|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|8|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
 |9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|11|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|115.77.153.116|4001|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|115.77.152.26|4001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|115.77.51.19|4001|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|171.240.156.197|4008|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|18.133.51.46|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|139.0.6.12|8080|Indonesia|Tangerang|PT. First Media, Tbk|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|171.240.156.197|4008|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|182.52.131.108|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|172.247.84.11|3128|United States|Los Angeles|Cnservers LLC|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
