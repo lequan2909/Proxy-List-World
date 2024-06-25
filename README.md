@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|10|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|13|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|15|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|16|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|106.227.87.11|3128|China|Taohua|China Telecom|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|11|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|12|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|13|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|16|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|19|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|106.227.87.11|3128|China|Taohua|China Telecom|
 
 
 
