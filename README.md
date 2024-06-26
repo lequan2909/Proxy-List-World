@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|160.248.90.226|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|6|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|9|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|160.248.185.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|160.248.186.137|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|160.248.90.226|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|16|160.248.185.14|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.186.169|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|10|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|11|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|13|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|106.227.87.11|3128|China|Taohua|China Telecom|
+|19|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
