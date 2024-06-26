@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.91.101.96|8850|United States|New York|GTHost|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|8|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|11|67.43.227.227|33167|Canada|Montreal|GloboTech Communications|
-|12|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|67.43.227.227|33167|Canada|Montreal|GloboTech Communications|
+|13|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |17|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|27.75.99.238|4002|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|20|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.185.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
