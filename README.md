@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|3|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|38.91.101.96|8850|United States|New York|GTHost|
+|1|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|172.245.10.132|34567|United States|Buffalo|HostPapa|
 |15|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |16|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.186.137|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|17|160.248.185.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |20|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
