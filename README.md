@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.91.101.96|8850|United States|New York|GTHost|
+|1|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.185.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|217.25.95.220|8443|Poland|Warsaw|TimeWeb Ltd.|
+|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.90.226|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.185.14|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|19|160.248.186.137|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |20|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
