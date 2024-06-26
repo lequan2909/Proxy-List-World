@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|217.25.95.220|8443|Poland|Warsaw|TimeWeb Ltd.|
 |8|172.245.12.55|34567|United States|Buffalo|HostPapa|
-|9|217.25.95.220|8443|Poland|Warsaw|TimeWeb Ltd.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|12|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|19|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|172.247.84.11|3128|United States|Los Angeles|Cnservers LLC|
+|12|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
+|13|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|15|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
