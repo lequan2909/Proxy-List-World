@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|8|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|12|67.43.228.253|19103|Canada|Montreal|GloboTech Communications|
-|13|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|14|190.110.35.229|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|15|72.10.164.178|19011|Canada|Montreal|GloboTech Communications|
-|16|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.248.185.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.186.137|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|6|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|67.43.228.253|4759|Canada|Montreal|GloboTech Communications|
+|12|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|13|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|14|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.185.14|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.185.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|200.101.150.202|8080|Brazil|Paranaguá|V tal|
+|20|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
