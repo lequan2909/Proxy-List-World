@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|113.160.133.31|6889|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|14|113.160.132.158|6889|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|113.160.133.31|6889|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|113.160.132.158|6889|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |20|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
