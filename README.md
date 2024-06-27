@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8981** proxies at the latest update. Usable proxies are below.
+> Scraper found **8985** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|287|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2594|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2598|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|401|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4767|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|113.53.60.175|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|38.183.145.126|9090|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|13|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|14|178.130.110.225|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|15|72.10.160.90|16715|Canada|Montreal|GloboTech Communications|
-|16|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|17|67.43.228.250|7487|Canada|Montreal|GloboTech Communications|
-|18|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|19|82.137.244.221|8080|Syria|Damascus|ISP-TARASSUL|
-|20|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.160.90|9037|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|14537|Canada|Montreal|GloboTech Communications|
 
 
 
