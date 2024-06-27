@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|5|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
-|11|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.164.178|10331|Canada|Montreal|GloboTech Communications|
-|13|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|15|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|2|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|3|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|72.10.160.171|16641|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
 
 
 
