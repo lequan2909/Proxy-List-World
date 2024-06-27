@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|235|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2300|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|234|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2301|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|471|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4356|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|6|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|113.160.133.31|6889|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|113.160.133.31|6889|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|20|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
