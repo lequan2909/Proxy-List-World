@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|9|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|67.43.236.20|31493|Canada|Montreal|GloboTech Communications|
-|13|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.185.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|118.99.65.89|8080|Indonesia|Pontianak|BIZNET|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|221.152.121.218|1080|South Korea|Buk-gu|Korea Telecom|
+|17|160.248.90.226|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
