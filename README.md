@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|4|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|8|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|46.100.106.242|6030|Iran|Birjand|Iran Telecommunication Company PJS|
-|11|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|164.155.185.166|58394|United States|Chicago|Aodao Inc|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|67.43.236.20|32077|Canada|Montreal|GloboTech Communications|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|202.47.88.6|8090|Indonesia|Jombang|PT. Java Digital Nusantara|
+|18|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
