@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|8|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|9|67.43.227.227|22653|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|4173|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|26765|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|22653|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|67.43.227.228|4173|Canada|Montreal|GloboTech Communications|
+|9|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|10|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|27.75.99.238|4002|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|18|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.69.20.44|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|202.154.36.33|7777|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
 
 
 
