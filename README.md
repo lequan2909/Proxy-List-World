@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|191.97.19.89|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|6|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|7|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|8|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|9|72.10.160.174|32541|Canada|Montreal|GloboTech Communications|
-|10|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|11|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|38.91.101.96|8850|United States|New York|GTHost|
+|2|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|72.10.160.174|32541|Canada|Montreal|GloboTech Communications|
+|11|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|14|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
