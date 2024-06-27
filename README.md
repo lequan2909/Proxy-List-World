@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|80.66.81.61|4003|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|14|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|13|221.152.121.218|1080|South Korea|Buk-gu|Korea Telecom|
+|14|67.43.228.252|14631|Canada|Montreal|GloboTech Communications|
+|15|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
 |16|72.10.160.174|26243|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|8907|Canada|Montreal|GloboTech Communications|
-|18|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|19|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.185.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
