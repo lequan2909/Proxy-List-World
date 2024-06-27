@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|72.10.164.178|30113|Canada|Montreal|GloboTech Communications|
-|13|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.185.19|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |18|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.90.226|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
