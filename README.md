@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.53.60.175|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|178.130.110.225|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|38.183.145.126|9090|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|18|103.156.70.38|8084|Indonesia|Banyuwangi|PT Indo Access Semesta|
-|19|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|13|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|14|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|17|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|18|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
