@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2376|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|246|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2377|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|247|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4566|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
-|8|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.186.137|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|160.248.188.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.248.186.169|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.248.90.226|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.81.140|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.185.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.185.14|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|185.222.115.104|31280|United Kingdom|London|Netwise Hosting Ltd|
+|9|160.248.93.84|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.185.13|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|160.248.90.224|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.90.225|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.91.87|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.81.120|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.185.17|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|18|160.248.185.11|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.188.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
