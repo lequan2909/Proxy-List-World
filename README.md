@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|110.77.207.224|8080|Thailand|Bang Rak|CAT-BB|
 |12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|15|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
-|18|72.10.160.171|2119|Canada|Montreal|GloboTech Communications|
-|19|210.247.252.194|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|88.255.65.113|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|17|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|20|172.245.10.132|34567|United States|Buffalo|HostPapa|
 
 
 
