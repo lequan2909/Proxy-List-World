@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.64.208.108|53281|Russia|Kstovo|Svyazist LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|11|138.59.20.48|8090|Brazil|Mariana|Companhia Itabirana Telecomunica??es Ltda|
-|12|136.226.232.174|11197|India|Mumbai|ZSCALER, INC.|
-|13|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|14|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|15|43.252.236.157|8080|Indonesia|Bogor|NET|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
-|19|182.253.179.238|8080|Indonesia|Jakarta Pusat|BIZNET|
-|20|45.8.144.63|10800|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|1|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|18|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
+|19|112.78.162.108|8080|Indonesia|Jakarta|Biznet Networks|
+|20|186.207.191.210|8080|Brazil|Salvador|Claro NXT Telecomunicacoes Ltda|
 
 
 
