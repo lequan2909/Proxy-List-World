@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.6.75.48|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|6|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|15|45.174.57.22|999|Mexico|Puruándiro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|18|182.253.179.238|8080|Indonesia|Jakarta Pusat|BIZNET|
-|19|203.150.128.168|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|12|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|14|27.66.215.32|25103|Vietnam|Ha Tinh|Viettel Group|
+|15|27.66.215.32|25103|Vietnam|Ha Tinh|Viettel Group|
+|16|27.66.215.32|25103|Vietnam|Ha Tinh|Viettel Group|
+|17|27.66.215.32|25103|Vietnam|Ha Tinh|Viettel Group|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|27.66.215.32|25103|Vietnam|Ha Tinh|Viettel Group|
+|20|27.66.215.32|25103|Vietnam|Ha Tinh|Viettel Group|
 
 
 
