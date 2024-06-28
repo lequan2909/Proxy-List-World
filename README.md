@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **8810** proxies at the latest update. Usable proxies are below.
+> Scraper found **8811** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|287|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2677|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2678|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|359|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4555|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|61.7.191.196|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|202.182.55.42|8080|Indonesia|Gelora|PT Remala Abadi|
+|8|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
 |10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|15|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|16|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|17|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|18|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|172.247.84.10|3128|United States|Los Angeles|Cnservers LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|72.10.164.178|25187|Canada|Montreal|GloboTech Communications|
+|16|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
