@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|182.253.152.175|8080|Indonesia|Jakarta|BIZNET|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|136.226.232.125|11066|India|Mumbai|ZSCALER, INC.|
-|7|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|172.245.10.132|34567|United States|Buffalo|HostPapa|
 |12|91.215.136.107|3128|Kazakhstan|Almaty|PS Internet Company LLP|
-|13|72.10.164.178|13819|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|32861|Canada|Montreal|GloboTech Communications|
-|15|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.18|9625|Canada|Montreal|GloboTech Communications|
 
 
 
