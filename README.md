@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.64.208.108|53281|Russia|Kstovo|Svyazist LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|67.43.236.20|28359|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|28359|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|13|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|14|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
 |15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|182.253.179.238|8080|Indonesia|Jakarta Pusat|BIZNET|
-|17|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|18|67.43.236.21|6453|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|16|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
+|17|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
