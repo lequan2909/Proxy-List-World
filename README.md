@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9426** proxies at the latest update. Usable proxies are below.
+> Scraper found **9433** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|277|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2870|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2877|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|349|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4998|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|185.64.208.108|53281|Russia|Kstovo|Svyazist LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|210.247.252.194|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|222.127.60.56|8083|Philippines|Lahug|Globe Telecom|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|41.65.163.67|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
-|18|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|19|67.43.227.227|30589|Canada|Montreal|GloboTech Communications|
-|20|210.247.252.184|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|11|138.59.20.48|8090|Brazil|Mariana|Companhia Itabirana Telecomunica??es Ltda|
+|12|136.226.232.174|11197|India|Mumbai|ZSCALER, INC.|
+|13|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|14|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|15|43.252.236.157|8080|Indonesia|Bogor|NET|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
+|19|182.253.179.238|8080|Indonesia|Jakarta Pusat|BIZNET|
+|20|45.8.144.63|10800|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
