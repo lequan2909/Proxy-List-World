@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|120.143.15.137|8080|Japan|Toshima|INTERLINK|
-|11|172.247.84.10|3128|United States|Los Angeles|Cnservers LLC|
-|12|172.247.84.10|3128|United States|Los Angeles|Cnservers LLC|
-|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.227.227|26131|Canada|Montreal|GloboTech Communications|
-|15|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|16|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
-|17|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|18|181.129.35.130|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|67.43.236.20|31805|Canada|Montreal|GloboTech Communications|
-|20|92.207.253.226|38157|United Kingdom|City of Westminster|Gamma Telecom Holdings Ltd|
+|3|34.146.221.23|3128|Japan|Tokyo|Google LLC|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|172.247.84.10|3128|United States|Los Angeles|Cnservers LLC|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|120.143.15.137|8080|Japan|Toshima|INTERLINK|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|172.247.84.10|3128|United States|Los Angeles|Cnservers LLC|
+|15|67.43.227.227|20053|Canada|Montreal|GloboTech Communications|
+|16|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|17|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
