@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|91.215.136.107|3128|Kazakhstan|Almaty|PS Internet Company LLP|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|62.236.76.83|8085|Finland|Helsinki|DNA Oyj|
-|7|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
-|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|91.215.136.107|3128|Kazakhstan|Almaty|PS Internet Company LLP|
-|18|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.236.20|28813|Canada|Montreal|GloboTech Communications|
+|6|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|91.215.136.107|3128|Kazakhstan|Almaty|PS Internet Company LLP|
+|17|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|18|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|82.137.244.221|8080|Syria|Damascus|ISP-TARASSUL|
+|20|202.65.158.237|83|India|Hyderabad|Pioneer Elabs Ltd.|
 
 
 
