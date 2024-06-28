@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|211.222.177.81|3128|South Korea|Goyang-si|Korea Telecom|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|134.35.157.214|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
-|17|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
-|18|134.35.157.167|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|19|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|187.17.166.66|92|Brazil|Birigui|Ensite Brasil Telecomunicações Ltda - ME|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|163.53.82.203|32650|India|Udaipur|Kay Kay Softech Private Limited|
+|13|72.10.160.91|14159|Canada|Montreal|GloboTech Communications|
+|14|134.35.157.167|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|16|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|17|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
