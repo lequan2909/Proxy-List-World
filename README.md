@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|188.132.203.106|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|191.102.248.9|8085|Argentina|Rosario|IP·RED|
-|14|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|15|148.72.140.24|10641|United States|St Louis|GoDaddy.com|
-|16|188.125.169.17|8080|Turkey|Beylikduzu|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|101.109.146.116|8080|Thailand|Pattaya|TOT Public Company Limited|
-|18|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|19|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|49.48.49.19|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|12|204.157.247.149|999|Dominican Republic|Santo Domingo|Airtime Technology SRL|
+|13|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
+|15|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
+|16|1.20.169.80|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|17|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|103.155.191.60|7777|Indonesia|Sumberjo|Trisula Media Data|
 
 
 
