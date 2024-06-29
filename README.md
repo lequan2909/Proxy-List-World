@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9410** proxies at the latest update. Usable proxies are below.
+> Scraper found **9414** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|285|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3163|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3167|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|411|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4619|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|11|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|12|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|72.10.160.170|9683|Canada|Montreal|GloboTech Communications|
-|17|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|18|188.125.169.17|8080|Turkey|Beylikduzu|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|17|103.155.191.60|7777|Indonesia|Sumberjo|Trisula Media Data|
+|18|67.43.228.250|1443|Canada|Montreal|GloboTech Communications|
+|19|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|20|116.98.64.195|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
