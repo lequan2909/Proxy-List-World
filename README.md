@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|200.101.150.202|8080|Brazil|Paranaguá|V tal|
-|12|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|17|67.43.236.20|17121|Canada|Montreal|GloboTech Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|163.172.33.137|4145|France|Vitry-sur-Seine|Online S.A.S.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|9|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|86.101.159.147|18080|Hungary|Budapest|Vodafone Hungary Ltd.|
+|12|85.196.179.34|8080|Bulgaria|Sofia|Mobiltel BNG|
+|13|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|196.251.222.210|8104|South Africa|Brits|Info-Gro (PTY) Ltd|
+|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|18|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.228|30761|Canada|Montreal|GloboTech Communications|
 
 
 
