@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.150.128.21|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |8|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|45.174.57.22|999|Mexico|Puruándiro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|14|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|15|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|17|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|41.77.131.26|3128|Mozambique|Maputo|Moztel LDA|
-|20|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|17|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|18|203.150.172.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|41.77.131.26|3128|Mozambique|Maputo|Moztel LDA|
 
 
 
