@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|6|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|7|67.43.227.228|28653|Canada|Montreal|GloboTech Communications|
-|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|10|72.10.160.92|31259|Canada|Montreal|GloboTech Communications|
-|11|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|12|27.147.142.138|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|115.186.185.6|3128|Pakistan|Rawalpindi|Nayatel (Pvt) Ltd|
-|14|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|186.148.175.118|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|27.147.139.155|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|7|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|10|165.225.106.128|9443|India|Mumbai|ZSCALER, INC.|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|12|72.10.160.92|4635|Canada|Montreal|GloboTech Communications|
+|13|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|86.101.159.147|18080|Hungary|Budapest|Vodafone Hungary Ltd.|
+|15|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|16|1.20.169.80|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|18|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|19|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
