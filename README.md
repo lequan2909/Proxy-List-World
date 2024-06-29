@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
-|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|19|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|20|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|11|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|12|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|14|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|72.10.160.90|13261|Canada|Montreal|GloboTech Communications|
+|17|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|18|103.48.71.126|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
