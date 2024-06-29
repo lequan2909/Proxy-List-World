@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|11|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|15|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|16|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|17|181.78.85.45|998|Colombia|Santa Marta|IFX Networks Argentina S.R.L|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|188.132.203.106|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|191.102.248.9|8085|Argentina|Rosario|IP·RED|
+|14|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|15|148.72.140.24|10641|United States|St Louis|GoDaddy.com|
+|16|188.125.169.17|8080|Turkey|Beylikduzu|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|101.109.146.116|8080|Thailand|Pattaya|TOT Public Company Limited|
+|18|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
+|19|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
