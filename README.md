@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|38.91.101.96|8850|United States|New York|GTHost|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|7|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
-|12|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
-|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|15|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|199.193.164.93|3128|United States|Atchison|Carson Communications, LLC|
-|18|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|19|86.101.159.147|18080|Hungary|Budapest|Vodafone Hungary Ltd.|
-|20|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|10|91.215.136.107|3128|Kazakhstan|Almaty|PS Internet Company LLP|
+|11|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|12|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|188.125.169.17|8080|Turkey|Beylikduzu|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|204.157.247.149|999|Dominican Republic|Santo Domingo|Airtime Technology SRL|
+|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|19|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 
 
 
