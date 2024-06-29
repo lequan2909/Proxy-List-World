@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|9|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
-|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|16|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|17|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|182.253.176.67|8080|Indonesia|Jakarta|BIZNET|
-|19|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|20|203.150.113.254|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|72.10.160.94|32369|Canada|Montreal|GloboTech Communications|
+|16|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|72.10.160.173|12299|Canada|Montreal|GloboTech Communications|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|72.10.160.172|2583|Canada|Montreal|GloboTech Communications|
+|20|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
 
 
 
