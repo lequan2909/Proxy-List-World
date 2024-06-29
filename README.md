@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|12|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|203.150.113.254|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|14|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|15|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|16|190.110.35.229|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|17|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|18|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|19|67.43.236.20|14799|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|21431|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.10.230.246|1337|Thailand|Bangkok|CATBB|
+|11|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|12|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
+|13|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|67.43.228.251|21431|Canada|Montreal|GloboTech Communications|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
