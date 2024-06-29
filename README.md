@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|6|191.97.6.149|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|172.245.12.62|34567|United States|Buffalo|HostPapa|
 |9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|172.247.84.12|3128|United States|Los Angeles|Cnservers LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
-|13|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|14|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
-|15|27.79.192.81|9001|Vietnam|Hanoi|Viettel Corporation|
-|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|17|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
-|18|45.9.26.254|8090|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|116.97.15.119|34002|Vietnam|Hanoi|ETC(ENET) Company|
-|20|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|15|116.97.15.119|34002|Vietnam|Hanoi|ETC(ENET) Company|
+|16|206.233.164.66|58394|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|17|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
