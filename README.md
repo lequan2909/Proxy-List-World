@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|85.237.46.168|53468|Russia|Penza|PJSC Rostelecom|
-|8|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|14|161.132.37.206|3128|Peru|Lima|Red Cientifica Peruana|
-|15|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|17|72.10.164.178|8951|Canada|Montreal|GloboTech Communications|
-|18|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|103.155.191.60|7777|Indonesia|Sumberjo|Trisula Media Data|
+|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|10|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|103.155.191.60|7777|Indonesia|Sumberjo|Trisula Media Data|
+|12|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|13|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|203.150.172.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|17|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|18|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|19|103.134.220.128|1111|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|20|181.129.35.130|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
