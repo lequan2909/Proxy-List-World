@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|10|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|13|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|14|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|15|92.207.253.226|38157|United Kingdom|City of Westminster|Gamma Telecom Holdings Ltd|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|193.30.13.18|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|19|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|6|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.10.230.246|1337|Thailand|Bangkok|CATBB|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|17|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
 
 
 
