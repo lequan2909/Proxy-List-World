@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|6|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
 |9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|14|41.77.131.26|3128|Mozambique|Maputo|Moztel LDA|
-|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|202.12.80.158|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|17|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|18|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|13|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|15|94.131.9.215|4000|France|Paris|Stark Industries Solutions LTD|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 
 
 
