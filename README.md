@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|171.6.74.231|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|11|182.253.176.67|8080|Indonesia|Jakarta|BIZNET|
-|12|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
+|12|172.245.10.130|34567|United States|Buffalo|HostPapa|
 |13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|80.66.81.43|4067|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|16|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|134.35.230.169|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|16|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
