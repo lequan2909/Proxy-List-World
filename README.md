@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|8|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|9|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|11|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
-|12|116.97.15.119|34002|Vietnam|Hanoi|ETC(ENET) Company|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
-|16|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|17|72.10.160.170|12097|Canada|Montreal|GloboTech Communications|
-|18|188.125.169.17|8080|Turkey|Beylikduzu|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|203.150.128.168|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|13|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|14|103.48.71.46|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|103.48.68.98|80|India|Hyderabad|Country Online Services PVT LTD|
+|16|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
+|17|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
+|18|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|19|201.49.193.249|7171|Brazil|Presidente Prudente|FIT Telecom Eireli|
+|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
