@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9891** proxies at the latest update. Usable proxies are below.
+> Scraper found **9892** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3400|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3401|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|367|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4892|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|4|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
 |5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|9|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|16|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|17|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|18|49.48.43.1|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|19|84.51.15.254|32650|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|20|210.247.252.242|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
+|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|17|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|182.253.176.67|8080|Indonesia|Jakarta|BIZNET|
+|19|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
+|20|203.150.113.254|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 
 
 
