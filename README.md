@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|86.101.159.147|18080|Hungary|Budapest|Vodafone Hungary Ltd.|
-|9|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|11|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|116.98.64.195|10000|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|112.78.162.108|8080|Indonesia|Jakarta|Biznet Networks|
-|16|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|19|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|20|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|199.193.164.93|3128|United States|Atchison|Carson Communications, LLC|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|12|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|200.101.150.202|8080|Brazil|Paranaguá|V tal|
+|17|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|19|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|20|199.193.164.93|3128|United States|Atchison|Carson Communications, LLC|
 
 
 
