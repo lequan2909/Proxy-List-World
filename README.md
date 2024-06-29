@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.87.69.230|8383|United States|Vancouver|Flexential Colorado Corp.|
-|2|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|41.205.24.200|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|5|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|72.10.164.178|2785|Canada|Montreal|GloboTech Communications|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|49.48.49.19|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|9|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|10|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|11|199.193.164.93|3128|United States|Atchison|Carson Communications, LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|116.98.64.195|10000|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
-|18|148.72.140.24|10641|United States|St Louis|GoDaddy.com|
-|19|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|117.240.190.129|80|India|New Delhi|BSNL Internet|
+|18|67.43.228.253|24235|Canada|Montreal|GloboTech Communications|
+|19|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
