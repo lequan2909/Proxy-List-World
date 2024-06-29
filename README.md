@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|13|116.98.64.195|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|15|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|11|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|15|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|16|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|18|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|19|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
