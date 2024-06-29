@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|142.93.142.36|9122|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|45.112.127.222|9191|Indonesia|Tangerang|FIBERNET|
-|10|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|15|66.211.155.34|8080|United States|Groveton|FirstLight Fiber|
-|16|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|17|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
-|18|67.43.236.20|18937|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|1|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|9|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|10|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|11|67.43.236.20|6335|Canada|Montreal|GloboTech Communications|
+|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|72.10.160.91|1419|Canada|Montreal|GloboTech Communications|
+|14|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
+|17|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|19|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|20|184.82.147.226|8080|Thailand|Bangkok|AIS-Fibre|
 
 
 
