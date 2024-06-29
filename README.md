@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
-|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|15|209.14.119.209|999|Colombia|Bogotá|AGIS|
-|16|188.132.203.106|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|72.10.160.92|8157|Canada|Montreal|GloboTech Communications|
-|18|101.109.146.116|8080|Thailand|Pattaya|TOT Public Company Limited|
-|19|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|20|116.98.64.195|10000|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
+|16|45.174.57.22|999|Mexico|Puruándiro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|17|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
 
 
 
