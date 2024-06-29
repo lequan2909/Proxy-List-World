@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|7|34.84.14.127|3128|Japan|Tokyo|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|134.35.80.8|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|67.43.228.253|16995|Canada|Montreal|GloboTech Communications|
-|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|15|210.247.252.101|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|16|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|38.7.1.117|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
 |18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|19|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|182.253.176.67|8080|Indonesia|Jakarta|BIZNET|
+|20|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
