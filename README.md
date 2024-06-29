@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|115.186.185.6|3128|Pakistan|Rawalpindi|Nayatel (Pvt) Ltd|
-|15|203.150.172.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|115.186.185.6|3128|Pakistan|Rawalpindi|Nayatel (Pvt) Ltd|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|49.48.49.19|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
-|18|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|19|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|20|1.20.169.80|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|17|60.176.47.9|7890|China|Hangzhou|Chinanet|
+|18|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|19|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|20|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
 
 
 
