@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.245.12.62|34567|United States|Buffalo|HostPapa|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|9|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|10|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
-|11|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|172.245.12.62|34567|United States|Buffalo|HostPapa|
-|13|67.43.227.227|28327|Canada|Montreal|GloboTech Communications|
-|14|20.119.77.88|8123|United States|Boydton|Microsoft Corporation|
-|15|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|16|190.187.201.26|8080|Peru|San Borja|Americatel Peru S.A.|
-|17|43.252.236.157|8080|Indonesia|Bogor|NET|
-|18|31.28.8.196|9898|Russia|St Petersburg|Citytelecom LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|142.93.142.36|9122|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|16|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|17|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|20|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
 
 
 
