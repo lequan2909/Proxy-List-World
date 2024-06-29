@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|49.48.49.19|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|10|85.196.179.34|8080|Bulgaria|Sofia|Mobiltel BNG|
-|11|199.193.164.93|3128|United States|Atchison|Carson Communications, LLC|
-|12|101.109.146.116|8080|Thailand|Pattaya|TOT Public Company Limited|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|171.6.75.48|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|18|67.43.228.251|16527|Canada|Montreal|GloboTech Communications|
-|19|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|14.34.180.21|38157|South Korea|Uiwang|Korea Telecom|
+|13|103.88.238.225|83|India|Hyderabad|Mana Communications|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|19|181.233.62.17|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
 |20|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
