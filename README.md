@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|13|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|67.43.227.228|30761|Canada|Montreal|GloboTech Communications|
-|15|103.155.191.60|7777|Indonesia|Sumberjo|Trisula Media Data|
-|16|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|17|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
-|18|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|12|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
+|13|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|171.248.176.139|4011|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|19|103.134.220.128|1111|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|20|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
 
 
 
