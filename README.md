@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|49.48.43.1|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|6|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|67.43.227.227|17361|Canada|Montreal|GloboTech Communications|
-|9|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|12|186.123.26.79|8080|Argentina|Villa Ballester|Techtel LMDS Comunicaciones Interactivas S.A.|
-|13|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|116.98.64.195|10012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|18|171.248.176.139|4011|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|222.127.60.56|8083|Philippines|Lahug|Globe Telecom|
+|2|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|3|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|8|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|12|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|13|67.43.227.227|31417|Canada|Montreal|GloboTech Communications|
+|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|15|171.240.181.208|4046|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|19|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|20|210.247.253.244|3128|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 
 
 
