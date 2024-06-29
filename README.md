@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|67.43.228.253|8539|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|72.10.160.174|2483|Canada|Montreal|GloboTech Communications|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|181.78.85.45|998|Colombia|Santa Marta|IFX Networks Argentina S.R.L|
-|18|163.172.33.137|4145|France|Vitry-sur-Seine|Online S.A.S.|
-|19|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.251|19475|Canada|Montreal|GloboTech Communications|
+|7|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|116.98.64.195|10000|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|199.193.164.93|3128|United States|Atchison|Carson Communications, LLC|
+|12|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|45.112.127.222|9191|Indonesia|Tangerang|FIBERNET|
+|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|163.172.33.137|4145|France|Vitry-sur-Seine|Online S.A.S.|
+|17|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
