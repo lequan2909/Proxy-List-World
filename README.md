@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|7|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|10|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|11|72.10.160.173|21909|Canada|Montreal|GloboTech Communications|
-|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |14|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|72.10.160.174|14717|Canada|Montreal|GloboTech Communications|
-|16|199.193.164.93|3128|United States|Atchison|Carson Communications, LLC|
-|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|18|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|19|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|16|72.10.160.173|21909|Canada|Montreal|GloboTech Communications|
+|17|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|18|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|19|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
