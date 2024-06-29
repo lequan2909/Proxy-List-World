@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|13|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|14|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|16|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|11|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|12|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|13|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|14|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
+|16|38.91.101.96|8850|United States|New York|GTHost|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
 
 
 
