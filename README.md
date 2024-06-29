@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|4|195.87.136.2|5331|Turkey|Şişli|Vodafone NET Iletisim Hizmetleri Anonim Sirketi|
-|5|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|43.252.236.157|8080|Indonesia|Bogor|NET|
-|11|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|12|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|13|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
-|14|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|15|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|16|49.48.49.19|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.37.88|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|13|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|5.202.191.225|8080|Iran|Tehran|PTS-Network|
+|15|67.43.227.227|2025|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |18|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|86.101.159.229|18080|Hungary|Budapest|Vodafone Hungary Ltd.|
+|19|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|20|188.132.222.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
