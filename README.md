@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|286|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3171|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|285|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3172|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|350|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5035|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.37.89|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
-|11|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|12|101.109.146.116|8080|Thailand|Pattaya|TOT Public Company Limited|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|182.53.66.148|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
+|14|171.6.75.48|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|15|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
+|16|190.110.36.184|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
+|17|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
