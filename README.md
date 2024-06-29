@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|6|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|34.92.250.88|10000|Hong Kong|Hong Kong|Google LLC|
 |8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|134.35.230.169|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
+|11|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|12|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
+|13|181.78.85.45|998|Colombia|Santa Marta|IFX Networks Argentina S.R.L|
 |14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|31.28.8.196|9898|Russia|St Petersburg|Citytelecom LLC|
-|17|187.17.166.66|92|Brazil|Birigui|Ensite Brasil Telecomunicações Ltda - ME|
-|18|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
+|15|1.20.169.80|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|16|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|17|163.172.33.137|4145|France|Vitry-sur-Seine|Online S.A.S.|
+|18|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|19|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|20|5.196.111.29|20687|France|Gravelines|OVH SAS|
 
 
 
