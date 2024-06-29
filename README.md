@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|6|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|24.106.221.230|53281|United States|Wilmington|Spectrum|
 |9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|12|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|13|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|14|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|11|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|14|31.28.8.196|9898|Russia|St Petersburg|Citytelecom LLC|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|19|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
+|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
