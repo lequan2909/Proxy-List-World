@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **9613** proxies at the latest update. Usable proxies are below.
+> Scraper found **9614** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3350|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3351|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|209|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4822|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|8|203.150.113.254|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|12|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|17|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|18|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|19|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|5|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|6|49.48.49.19|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|7|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|12|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.37.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
