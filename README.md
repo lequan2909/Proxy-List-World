@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
+|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|13|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|16|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.159|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|94.131.9.215|4000|France|Paris|Stark Industries Solutions LTD|
+|13|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|14|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|15|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|27.147.138.131|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|118.99.65.89|8080|Indonesia|Pontianak|BIZNET|
+|19|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|20|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
