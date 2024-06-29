@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|152.67.9.179|8100|India|Mumbai|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.233.120.98|8000|Spain|Madrid|Akamai Technologies, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|13|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
-|18|184.82.147.226|8080|Thailand|Bangkok|AIS-Fibre|
-|19|188.132.150.199|8080|Turkey|Bahçelievler|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|188.125.169.17|8080|Turkey|Beylikduzu|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|172.247.84.12|3128|United States|Los Angeles|Cnservers LLC|
+|9|183.103.170.34|1001|South Korea|Geumjeong-gu|Korea Telecom|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|15|38.156.235.36|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|16|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|17|67.43.227.227|20501|Canada|Montreal|GloboTech Communications|
+|18|151.22.181.241|8080|Italy|Gioia del Colle|INFOSTRADA|
+|19|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|20|36.94.2.138|443|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
 
 
 
