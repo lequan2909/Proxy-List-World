@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
-|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|14|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|5|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|12|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.39.164|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
