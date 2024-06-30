@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|103.155.198.109|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|7|94.131.9.155|4000|France|Paris|Stark Industries Solutions LTD|
-|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|10|38.156.72.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|103.165.157.235|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|12|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|15|117.240.190.129|80|India|New Delhi|BSNL Internet|
-|16|1.4.250.132|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|2|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|176.9.1.226|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|9|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
