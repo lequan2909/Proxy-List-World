@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10387** proxies at the latest update. Usable proxies are below.
+> Scraper found **10391** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3491|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3495|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|330|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5334|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|12|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|14|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|15|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|16|20.119.77.88|8170|United States|Boydton|Microsoft Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|9|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|10|67.43.228.253|5649|Canada|Montreal|GloboTech Communications|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|80.66.81.43|4067|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|15|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|16|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
