@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|7|67.43.236.20|2177|Canada|Montreal|GloboTech Communications|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|152.42.242.65|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|13|67.43.236.20|31961|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|23015|Canada|Montreal|GloboTech Communications|
-|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|16|72.10.160.170|2369|Canada|Montreal|GloboTech Communications|
-|17|58.210.227.210|8088|China|Nanjing|Chinanet|
-|18|67.43.236.20|31961|Canada|Montreal|GloboTech Communications|
-|19|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|20|72.10.164.178|30461|Canada|Montreal|GloboTech Communications|
+|9|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
+|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|72.10.164.178|6481|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.173|11059|Canada|Montreal|GloboTech Communications|
+|14|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.173|11059|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
