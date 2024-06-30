@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|13|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|14|203.150.113.254|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|15|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|16|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|38.91.101.96|8850|United States|New York|GTHost|
-|19|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|12|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|13|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|18|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
