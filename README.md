@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|67.43.236.19|15253|Canada|Montreal|GloboTech Communications|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|6|67.43.227.230|5949|Canada|Montreal|GloboTech Communications|
+|7|58.210.227.210|8088|China|Nanjing|Chinanet|
+|8|49.157.62.202|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|80.66.81.61|4003|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|11|134.35.190.176|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|72.10.160.170|2495|Canada|Montreal|GloboTech Communications|
+|19|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|45.8.144.63|10000|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
