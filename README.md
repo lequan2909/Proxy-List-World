@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,14 +40,14 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
 |5|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|6|72.10.160.170|1993|Canada|Montreal|GloboTech Communications|
+|6|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |7|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|8|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|9|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|156.54.213.132|8080|Italy|Milan|Telecom Italia S.p.A.|
+|9|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |10|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |11|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |12|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
