@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|6|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|7|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|8|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|9|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|10|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|11|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|15.204.151.149|31158|United States|Reston|OVH SAS|
+|10|203.150.113.254|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |14|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |15|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |16|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|17|72.10.160.94|1167|Canada|Montreal|GloboTech Communications|
+|17|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |18|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|19|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 
 
 
