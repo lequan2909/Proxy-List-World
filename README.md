@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|4|182.253.147.111|8080|Indonesia|Blitar|BIZNET|
-|5|134.236.102.226|8080|Thailand|Bang Lamung|CAT-BB|
-|6|101.109.51.227|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|8|49.49.45.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|9|113.53.60.104|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|12|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|3|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|4|58.210.227.210|8088|China|Nanjing|Chinanet|
+|5|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
+|6|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|7|134.236.102.226|8080|Thailand|Bang Lamung|CAT-BB|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|188.132.150.199|8080|Turkey|Bahçelievler|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|11|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|13|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
+|14|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
+|15|27.121.82.54|8090|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
