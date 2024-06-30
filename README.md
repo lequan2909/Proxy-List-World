@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|203.150.113.39|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|58.210.227.210|8088|China|Nanjing|Chinanet|
-|13|67.43.236.20|5517|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|18485|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|30391|Canada|Montreal|GloboTech Communications|
-|16|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|17|67.43.227.227|9089|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|6905|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.227.227|9089|Canada|Montreal|GloboTech Communications|
+|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|72.10.160.173|2809|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|5517|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.227.227|9089|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|6905|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|5517|Canada|Montreal|GloboTech Communications|
+|16|58.210.227.210|8088|China|Nanjing|Chinanet|
+|17|67.43.236.19|30391|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|9089|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
