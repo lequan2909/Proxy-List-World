@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|186.123.26.79|8080|Argentina|Villa Ballester|Techtel LMDS Comunicaciones Interactivas S.A.|
-|13|20.119.77.88|8123|United States|Boydton|Microsoft Corporation|
-|14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|182.253.179.238|8080|Indonesia|Jakarta Pusat|BIZNET|
-|17|72.10.164.178|21465|Canada|Montreal|GloboTech Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|11|72.10.160.90|32897|Canada|Montreal|GloboTech Communications|
+|12|176.241.89.244|53583|Iraq|Baghdad|Hayat ISP|
+|13|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|14|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|15|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|20|189.157.237.253|8080|Mexico|San Luis Potosí City|UNINET|
 
 
 
