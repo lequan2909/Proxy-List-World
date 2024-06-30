@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|67.43.228.253|12269|Canada|Montreal|GloboTech Communications|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|72.10.160.92|1505|Canada|Montreal|GloboTech Communications|
-|10|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|11|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|12|72.10.160.94|24547|Canada|Montreal|GloboTech Communications|
-|13|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|16|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|4|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|7|67.43.228.253|5405|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|12|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|13|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|15|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|16|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
