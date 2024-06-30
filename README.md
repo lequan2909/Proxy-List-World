@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|67.43.236.19|29919|Canada|Montreal|GloboTech Communications|
-|8|15.204.151.144|31158|United States|Reston|OVH SAS|
-|9|165.225.106.128|9443|India|Mumbai|ZSCALER, INC.|
-|10|58.210.227.210|8088|China|Nanjing|Chinanet|
-|11|165.225.106.128|9443|India|Mumbai|ZSCALER, INC.|
-|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|165.225.106.128|9443|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|9443|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|9443|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|9443|India|Mumbai|ZSCALER, INC.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|165.225.106.128|9443|India|Mumbai|ZSCALER, INC.|
-|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|13|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|15|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|17|171.239.138.216|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|20|41.77.7.234|3129|Zambia|Chililabombwe|Airtel Zambia|
 
 
 
