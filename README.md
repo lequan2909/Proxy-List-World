@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|171.239.138.216|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|9|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|10|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|11|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|12|171.227.248.125|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|7|67.43.228.253|24665|Canada|Montreal|GloboTech Communications|
+|8|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|38.183.145.126|9090|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
+|12|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.236.20|13131|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
