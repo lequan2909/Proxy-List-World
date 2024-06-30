@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
 |7|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|8|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|9|58.210.227.210|8088|China|Nanjing|Chinanet|
+|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|9|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
 |10|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|11|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|12|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
+|11|58.210.227.210|8088|China|Nanjing|Chinanet|
+|12|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|103.155.198.109|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|182.253.176.67|8080|Indonesia|Jakarta|BIZNET|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|165.225.106.128|12096|India|Mumbai|ZSCALER, INC.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
