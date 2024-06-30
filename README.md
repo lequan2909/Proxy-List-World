@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|69.87.216.143|3128|United States|Santa Clara|Atlantic.net|
-|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|15|72.10.160.171|31189|Canada|Montreal|GloboTech Communications|
-|16|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|17|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|18|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|20|5.165.18.187|8080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|6|15.204.151.141|31158|United States|Reston|OVH SAS|
+|7|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|203.150.113.254|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|17|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|18|15.204.151.141|31158|United States|Reston|OVH SAS|
+|19|72.10.160.171|27007|Canada|Montreal|GloboTech Communications|
+|20|103.155.191.60|7777|Indonesia|Sumberjo|Trisula Media Data|
 
 
 
