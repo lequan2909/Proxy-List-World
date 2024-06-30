@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|178.128.124.162|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|67.43.227.227|4355|Canada|Montreal|GloboTech Communications|
-|7|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|8|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |10|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |11|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |12|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |13|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|14|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|14|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |15|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |17|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |18|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |19|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|20|49.49.45.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
 
 
 
