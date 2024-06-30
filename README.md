@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|72.10.160.171|1179|Canada|Montreal|GloboTech Communications|
-|6|67.43.228.253|21097|Canada|Montreal|GloboTech Communications|
-|7|101.109.26.111|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|67.43.227.227|20053|Canada|Montreal|GloboTech Communications|
-|9|164.92.207.53|30000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|14|89.208.30.217|8080|Russia|Bessonovka|KONEKT Ltd.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|103.134.220.128|1111|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|19|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
+|2|67.43.228.253|11269|Canada|Montreal|GloboTech Communications|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|10|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|11|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|12|67.43.228.253|11269|Canada|Montreal|GloboTech Communications|
+|13|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|14|187.102.217.4|999|Argentina|Montecarlo|Cretton Lisandro Maximiliano|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
