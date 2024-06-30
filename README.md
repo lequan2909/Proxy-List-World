@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|38.91.101.96|8850|United States|New York|GTHost|
 |3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|139.255.21.74|8080|Indonesia|Jakarta|PT. LINKNET|
-|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
-|14|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|15|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|19|72.10.160.90|3893|Canada|Montreal|GloboTech Communications|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|9|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|14|165.16.31.14|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|15|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|16|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
+|19|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|20|103.231.238.234|58080|Bangladesh|Dhaka|Carnival Internet|
 
 
 
