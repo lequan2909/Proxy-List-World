@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10293** proxies at the latest update. Usable proxies are below.
+> Scraper found **10295** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|91|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3700|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3702|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|241|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5329|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|8|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|11|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|15|58.210.227.210|8088|China|Nanjing|Chinanet|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|86.101.159.229|18080|Hungary|Budapest|Vodafone Hungary Ltd.|
-|18|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|19|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|3|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|72.10.164.178|3011|Canada|Montreal|GloboTech Communications|
+|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|8|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|11|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|12|38.56.70.81|9991|Dominican Republic|Santo Domingo|Orbitek SRL|
+|13|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|15|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|16|188.132.150.199|8080|Turkey|Bahçelievler|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
