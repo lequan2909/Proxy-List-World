@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|38.91.101.96|8850|United States|New York|GTHost|
-|13|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.160.94|1167|Canada|Montreal|GloboTech Communications|
-|17|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|18|103.165.157.235|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|19|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|20|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|8|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|200.101.150.202|8080|Brazil|Paranaguá|V tal|
+|14|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|15|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.227.227|16671|Canada|Montreal|GloboTech Communications|
+|20|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 
