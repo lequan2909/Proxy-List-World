@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|9|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|10|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|11|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|12|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|16|67.43.236.20|13469|Canada|Montreal|GloboTech Communications|
+|8|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|9|72.10.160.92|22159|Canada|Montreal|GloboTech Communications|
+|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|171.6.75.48|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|12|72.10.160.90|9547|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|13469|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.254|2467|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.94|27917|Canada|Montreal|GloboTech Communications|
+|16|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
 |17|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
 |18|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|20|72.10.160.90|9547|Canada|Montreal|GloboTech Communications|
 
 
 
