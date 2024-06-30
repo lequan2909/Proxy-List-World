@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|3|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|4|58.210.227.210|8088|China|Nanjing|Chinanet|
-|5|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|6|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|7|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|8|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|9|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|10|188.244.38.227|7999|Russia|Moscow|2COM|
-|11|103.54.80.193|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
-|12|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
+|9|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|10|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|11|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|12|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|13|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|14|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|15|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|16|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
 
 
 
