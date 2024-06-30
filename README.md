@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|67.43.228.253|23015|Canada|Montreal|GloboTech Communications|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|67.43.227.227|9089|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.93|18059|Canada|Montreal|GloboTech Communications|
-|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
-|14|67.43.228.253|23015|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|188.244.38.227|7999|Russia|Moscow|2COM|
-|17|72.10.160.173|2809|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.228.250|6905|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|67.43.228.253|23015|Canada|Montreal|GloboTech Communications|
+|9|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|13|67.43.228.253|23015|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|2809|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.236.20|5517|Canada|Montreal|GloboTech Communications|
+|18|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|49.49.45.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
