@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|12|58.210.227.210|8088|China|Nanjing|Chinanet|
-|13|67.43.227.227|28089|Canada|Montreal|GloboTech Communications|
-|14|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.236.20|22589|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19819|Canada|Montreal|GloboTech Communications|
+|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|43.252.236.157|8080|Indonesia|Bogor|NET|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|19|67.43.227.227|30759|Canada|Montreal|GloboTech Communications|
+|20|171.227.248.125|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
