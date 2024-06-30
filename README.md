@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|18|94.154.152.4|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
-|19|72.10.160.173|15727|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.22|2921|Canada|Montreal|GloboTech Communications|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
+|8|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|9|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|20.119.77.88|8181|United States|Boydton|Microsoft Corporation|
+|11|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|14|115.78.15.45|8080|Vietnam|Ho Chi Minh City|VIETELftth|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|19|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|20|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
