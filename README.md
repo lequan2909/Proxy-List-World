@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|7|67.43.228.253|24665|Canada|Montreal|GloboTech Communications|
-|8|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|38.183.145.126|9090|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|12|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.236.20|13131|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|113.22.154.21|4002|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.102.103.146|9890|Indonesia|Jakarta|BIZNET|
+|6|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|7|46.246.80.2|8118|Sweden|Stockholm|Portlane Network|
+|8|58.210.227.210|8088|China|Nanjing|Chinanet|
+|9|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|10|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|15|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|19|67.43.228.250|21255|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
