@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,17 +39,17 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|176.9.1.226|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|6|72.10.160.170|1993|Canada|Montreal|GloboTech Communications|
 |7|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |8|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|9|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|10|176.9.1.226|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|9|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|11|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |12|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |13|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |14|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
