@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|20.119.77.88|8123|United States|Boydton|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|172.245.12.58|34567|United States|Buffalo|HostPapa|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|16|5.165.18.187|8080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
-|17|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|18|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|19|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|178.128.26.213|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|103.137.110.72|99|Indonesia|Probolinggo|PT. Capoeng Digital Nusantara|
+|19|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
