@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|5|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|15|202.47.188.132|8090|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
-|16|86.101.159.229|18080|Hungary|Budapest|Vodafone Hungary Ltd.|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|27.75.99.238|4002|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|20|72.10.160.171|16925|Canada|Montreal|GloboTech Communications|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|20.119.77.88|8221|United States|Boydton|Microsoft Corporation|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|10|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
+|11|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|12|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|15|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|72.10.160.90|11363|Canada|Montreal|GloboTech Communications|
+|19|38.7.1.117|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|20|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 
 
 
