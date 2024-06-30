@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|12|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|13|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|203.150.172.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|15|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|8|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|9|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|11|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|12|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
+|13|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|14|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|15|114.239.144.191|8089|China|Nanjing|Chinanet|
+|16|181.212.41.171|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |18|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
 |19|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|20|47.90.82.199|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
 
 
 
