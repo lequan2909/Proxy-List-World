@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|67.43.236.19|11139|Canada|Montreal|GloboTech Communications|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|103.177.9.104|8080|Indonesia|Tumpang|PT Helium Sinergi Telekomunikasi|
-|10|67.43.236.19|11139|Canada|Montreal|GloboTech Communications|
-|11|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|103.169.131.18|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|13|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|14|67.43.227.227|3669|Canada|Montreal|GloboTech Communications|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|72.10.160.170|14637|Canada|Montreal|GloboTech Communications|
-|17|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|15.204.151.141|31158|United States|Reston|OVH SAS|
+|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|203.150.128.145|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|203.150.113.254|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|16|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|17|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
+|18|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|19|67.43.227.227|28965|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
