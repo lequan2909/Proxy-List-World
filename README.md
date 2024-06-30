@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
-|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|13|20.119.77.88|8118|United States|Boydton|Microsoft Corporation|
-|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|45.127.56.194|84|India|Hyderabad|Pioneer Elabs Ltd|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|19|171.240.181.208|4046|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|209.14.119.209|999|Colombia|Bogotá|AGIS|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|186.148.175.118|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.97.47.218|83|India|Aligarh|Esto Media Private Limited|
+|14|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|15|67.43.228.250|15593|Canada|Montreal|GloboTech Communications|
+|16|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|17|27.147.142.138|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
