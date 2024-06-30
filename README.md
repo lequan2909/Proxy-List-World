@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|8|192.248.95.1|3128|Sri Lanka|Dedunupitiya|Lanka Education and Research Network|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|200.101.150.202|8080|Brazil|Paranaguá|V tal|
-|14|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|15|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|67.43.227.227|16671|Canada|Montreal|GloboTech Communications|
-|20|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|11|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|15|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|17|201.49.193.249|7171|Brazil|Presidente Prudente|FIT Telecom Eireli|
+|18|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|19|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|20|72.10.160.90|6407|Canada|Montreal|GloboTech Communications|
 
 
 
