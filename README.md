@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|2|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|67.43.236.20|10907|Canada|Montreal|GloboTech Communications|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|8|67.43.236.20|10907|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.229|2929|Canada|Montreal|GloboTech Communications|
-|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.227.228|7719|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|14489|Canada|Montreal|GloboTech Communications|
-|18|27.147.128.26|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|67.43.236.20|23153|Canada|Montreal|GloboTech Communications|
+|6|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|7|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|8|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|202.154.18.148|8085|Indonesia|Lamongan|DIGITNET|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.160.91|4579|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
