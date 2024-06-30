@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,11 +41,11 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|38.91.101.96|8850|United States|New York|GTHost|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
 |5|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |6|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|7|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|7|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |8|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |9|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |10|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
@@ -55,10 +55,10 @@ Click the file format that you want and copy the URL.
 |14|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |15|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |16|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|18|72.10.160.91|6967|Canada|Montreal|GloboTech Communications|
-|19|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|20|72.10.164.178|22661|Canada|Montreal|GloboTech Communications|
+|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|188.132.150.199|8080|Turkey|Bahçelievler|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
