@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.49.45.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|178.128.26.213|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|11|177.129.242.245|48580|Brazil|Paracatu|V8 Telecom LTDA|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|14|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|18|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|5|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|20.119.77.88|8123|United States|Boydton|Microsoft Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|16|5.165.18.187|8080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|17|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|18|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|19|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
