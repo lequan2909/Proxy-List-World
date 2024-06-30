@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|5|67.43.228.253|30723|Canada|Montreal|GloboTech Communications|
-|6|58.210.227.210|8088|China|Nanjing|Chinanet|
-|7|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|8|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|10|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|11|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|190.121.207.58|999|Mexico|Comitán|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|8|49.157.62.202|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|10|103.144.18.37|3128|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|67.43.228.253|9495|Canada|Montreal|GloboTech Communications|
+|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|15|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|16|58.210.227.210|8088|China|Nanjing|Chinanet|
+|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|46.229.235.158|8088|Slovakia|Bratislava|VNET|
+|20|27.79.196.204|40143|Vietnam|Hanoi|Viettel Corporation|
 
 
 
