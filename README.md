@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|16|67.43.227.227|4381|Canada|Montreal|GloboTech Communications|
-|17|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|10|103.231.238.234|58080|Bangladesh|Dhaka|Carnival Internet|
+|11|67.43.227.227|4381|Canada|Montreal|GloboTech Communications|
+|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|14|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|15|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
+|16|115.186.185.6|3128|Pakistan|Rawalpindi|Nayatel (Pvt) Ltd|
+|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|18|103.165.157.235|8090|Indonesia|Purbalingga|MEGADATA-ISP|
+|19|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
