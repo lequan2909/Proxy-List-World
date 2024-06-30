@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|10|103.231.238.234|58080|Bangladesh|Dhaka|Carnival Internet|
-|11|67.43.227.227|4381|Canada|Montreal|GloboTech Communications|
-|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|14|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
-|15|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|16|115.186.185.6|3128|Pakistan|Rawalpindi|Nayatel (Pvt) Ltd|
-|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|18|103.165.157.235|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|19|95.47.119.122|8080|Ukraine|Kerch|APEX-CRIMEA Ltd.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|12|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|13|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|14|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|17|191.102.248.7|8085|Argentina|Rosario|IP·RED|
+|18|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|210.247.252.120|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
 
 
 
