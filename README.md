@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|49.49.45.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|14|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|20|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|222.127.60.56|8083|Philippines|Lahug|Globe Telecom|
+|16|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
