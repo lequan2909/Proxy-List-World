@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.119.77.88|8221|United States|Boydton|Microsoft Corporation|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|72.10.160.170|31537|Canada|Montreal|GloboTech Communications|
-|10|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|11|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|12|103.231.238.234|58080|Bangladesh|Dhaka|Carnival Internet|
-|13|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|14|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|6|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|188.132.222.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|187.17.166.66|92|Brazil|Birigui|Ensite Brasil Telecomunicações Ltda - ME|
+|13|72.10.160.170|31537|Canada|Montreal|GloboTech Communications|
+|14|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|17|27.147.139.155|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 |18|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|19|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 |20|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 
 
