@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|142.93.142.36|9122|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|72.10.164.178|7993|Canada|Montreal|GloboTech Communications|
-|14|182.129.26.108|9999|China|Muping|Chinanet|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|67.43.236.18|16315|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|7993|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|14667|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.254|7449|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|21965|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|193.201.126.104|3129|Russia|Moscow|Stark Industries Solutions LTD|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|182.253.137.5|8080|Indonesia|Surakarta|BIZNET|
+|10|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|11|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|12|58.210.227.210|8088|China|Nanjing|Chinanet|
+|13|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|15|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|16|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
 
 
 
