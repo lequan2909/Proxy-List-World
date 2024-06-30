@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|159.192.139.178|8080|Thailand|Samphanthawong|CAT-BB|
-|12|15.204.151.141|31158|United States|Reston|OVH SAS|
-|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|23609|Canada|Montreal|GloboTech Communications|
-|17|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|18|15.204.151.144|31158|United States|Reston|OVH SAS|
-|19|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|20|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|178.128.26.213|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|103.48.69.225|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|17|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|18|172.245.12.58|34567|United States|Buffalo|HostPapa|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
