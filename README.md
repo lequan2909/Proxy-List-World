@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10144** proxies at the latest update. Usable proxies are below.
+> Scraper found **10145** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3556|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3557|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|290|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5360|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|15.204.151.141|31158|United States|Reston|OVH SAS|
-|5|203.150.113.254|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|10|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|11|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|12|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|19|38.7.1.117|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|20|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|8|203.150.128.145|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|10|72.10.160.90|3799|Canada|Montreal|GloboTech Communications|
+|11|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|12|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|13|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|15|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
 
 
 
