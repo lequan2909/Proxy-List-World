@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|11|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|4|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|5|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|6|101.109.51.227|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|8|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|9|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|10|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
+|11|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
 |12|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
 |13|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
 |14|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|15|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
 |16|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
 |17|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
 |18|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
 |19|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|20|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
+|20|103.155.198.109|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
