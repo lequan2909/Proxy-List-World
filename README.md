@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10145** proxies at the latest update. Usable proxies are below.
+> Scraper found **10146** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3557|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3558|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|290|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5360|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|5|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|7|182.253.147.111|8080|Indonesia|Blitar|BIZNET|
-|8|72.10.164.178|28525|Canada|Montreal|GloboTech Communications|
-|9|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|11|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|17|67.43.236.20|8061|Canada|Montreal|GloboTech Communications|
-|18|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|12|72.10.164.178|28525|Canada|Montreal|GloboTech Communications|
+|13|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|15|72.10.160.91|6967|Canada|Montreal|GloboTech Communications|
+|16|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 
 
 
