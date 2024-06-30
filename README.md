@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|20.119.77.88|8221|United States|Boydton|Microsoft Corporation|
-|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|72.10.160.90|25985|Canada|Montreal|GloboTech Communications|
-|11|38.51.243.189|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
-|16|182.253.176.67|8080|Indonesia|Jakarta|BIZNET|
-|17|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|19|72.10.160.170|11867|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|11867|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|72.10.164.178|20539|Canada|Montreal|GloboTech Communications|
+|18|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
