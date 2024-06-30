@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|11|185.213.91.14|3128|United States|Manassas|MAN|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|47.88.59.79|3128|United States|Minkler|Alibaba.com LLC|
-|16|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|18|47.76.43.82|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|20|159.89.163.164|3128|India|Bengaluru|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|47.76.43.82|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|185.213.91.14|3128|United States|Manassas|MAN|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|13|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|14|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|15|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|16|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|17|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
+|18|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
+|19|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
 
 
 
