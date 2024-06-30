@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.227.230|3321|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|15|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 
 
 
