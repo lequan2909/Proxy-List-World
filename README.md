@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|4|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|5|58.210.227.210|8088|China|Nanjing|Chinanet|
-|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|12|49.49.45.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|13|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|14|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.218.25.169|58080|Bangladesh|Dhaka|Carnival Internet|
-|20|72.10.164.178|30281|Canada|Montreal|GloboTech Communications|
+|4|182.253.147.111|8080|Indonesia|Blitar|BIZNET|
+|5|134.236.102.226|8080|Thailand|Bang Lamung|CAT-BB|
+|6|101.109.51.227|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|8|49.49.45.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|9|113.53.60.104|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|12|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|13|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|15|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|16|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|11267|India|Mumbai|ZSCALER, INC.|
 
 
 
