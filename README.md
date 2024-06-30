@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,22 +40,22 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|9|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|9|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |10|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |11|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |12|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |13|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|14|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |15|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|17|67.43.236.20|3417|Canada|Montreal|GloboTech Communications|
+|17|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |18|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |19|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |20|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
