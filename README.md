@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **10261** proxies at the latest update. Usable proxies are below.
+> Scraper found **10260** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|90|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|89|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|3653|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|202|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|176.9.1.226|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|67.43.236.20|23153|Canada|Montreal|GloboTech Communications|
-|10|103.169.131.18|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|11|94.131.9.155|4000|France|Paris|Stark Industries Solutions LTD|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|176.9.1.226|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|58.210.227.210|8088|China|Nanjing|Chinanet|
+|11|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
 |13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|103.231.239.126|58080|Bangladesh|Dhaka|Carnival Internet|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|5.165.18.187|8080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|15|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
