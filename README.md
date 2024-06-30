@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|72.10.160.92|1439|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.90|1439|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|3137|Canada|Montreal|GloboTech Communications|
-|9|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|10|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|11|46.229.215.224|3128|Russia|St Petersburg|TIMEWEB|
-|12|103.231.239.126|58080|Bangladesh|Dhaka|Carnival Internet|
-|13|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|67.43.227.227|30065|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|46.229.235.158|8088|Slovakia|Bratislava|VNET|
+|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|13|187.188.101.205|999|Mexico|Union de Credito Agricola de Hermosillo|Total Play Telecomunicaciones SA De CV|
+|14|94.131.9.155|4000|France|Paris|Stark Industries Solutions LTD|
+|15|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|103.97.47.218|83|India|Aligarh|Esto Media Private Limited|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|67.43.236.20|3137|Canada|Montreal|GloboTech Communications|
 
 
 
