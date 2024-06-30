@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|8|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
-|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
-|14|191.102.248.9|8085|Argentina|Rosario|IP·RED|
-|15|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|5|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|9|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|10|45.229.31.33|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
+|11|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 |16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|18|191.97.19.89|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
 |19|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
-|20|27.147.138.131|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|103.218.25.169|58080|Bangladesh|Dhaka|Carnival Internet|
 
 
 
