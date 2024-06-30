@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|9|172.245.10.130|34567|United States|Buffalo|HostPapa|
-|10|67.43.228.253|5649|Canada|Montreal|GloboTech Communications|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|80.66.81.43|4067|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|15|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|16|161.34.39.161|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.39.160|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.162|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|3|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
+|6|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|8|202.12.80.11|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|9|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|10|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|11|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|13|171.240.181.208|4046|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|190.95.202.210|999|Ecuador|Guayaquil|Telconet S.A|
+|19|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|20|202.47.88.6|8090|Indonesia|Jombang|PT. Java Digital Nusantara|
 
 
 
