@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|3|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|167.249.29.214|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|9|15.204.151.144|31158|United States|Reston|OVH SAS|
 |10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|104.129.206.209|8800|United States|Atlanta|ZSCALER, INC.|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|15|136.226.232.125|11066|India|Mumbai|ZSCALER, INC.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
 |16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.164.178|30679|Canada|Montreal|GloboTech Communications|
-|19|203.150.172.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|20|72.10.160.90|1633|Canada|Montreal|GloboTech Communications|
+|17|38.183.152.250|999|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.160.90|13795|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1473|Canada|Montreal|GloboTech Communications|
 
 
 
