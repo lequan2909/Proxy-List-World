@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|142.93.142.36|9122|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|9|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|69.87.216.143|3128|United States|Santa Clara|Atlantic.net|
-|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|3|142.93.142.36|9122|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|69.87.216.143|3128|United States|Santa Clara|Atlantic.net|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|10|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|80.66.81.47|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|72.10.160.90|22363|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|13423|Canada|Montreal|GloboTech Communications|
 |19|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|20|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
 
 
 
