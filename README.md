@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.39.163|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.37.90|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|15.204.151.141|31158|United States|Reston|OVH SAS|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|16|172.245.12.58|34567|United States|Buffalo|HostPapa|
-|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.247.22.237|3127|Indonesia|Bekasi|PT wifian Solution|
-|20|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|13|20.119.77.88|8118|United States|Boydton|Microsoft Corporation|
+|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|45.127.56.194|84|India|Hyderabad|Pioneer Elabs Ltd|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|19|171.240.181.208|4046|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
