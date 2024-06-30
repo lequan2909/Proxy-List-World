@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.91.101.96|8850|United States|New York|GTHost|
+|1|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|5|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
 |6|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |7|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |8|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |9|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |10|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |11|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|12|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
 |13|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |14|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |15|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
 |16|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
-|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|188.132.150.199|8080|Turkey|Bahçelievler|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|72.10.160.94|1167|Canada|Montreal|GloboTech Communications|
+|18|165.225.106.128|80|India|Mumbai|ZSCALER, INC.|
+|19|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
