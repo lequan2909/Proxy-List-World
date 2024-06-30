@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|4|49.157.62.202|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|203.150.128.145|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|67.43.227.228|29583|Canada|Montreal|GloboTech Communications|
-|8|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|67.43.228.250|5705|Canada|Montreal|GloboTech Communications|
-|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|38.7.131.33|999|Dominican Republic|Esperanza|SERVICIOS NUÑEZ EIRL|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|10|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|11|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|12|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|13|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|15|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|20|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
 
 
 
