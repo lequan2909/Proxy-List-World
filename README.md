@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|82.65.249.238|8118|France|La Garenne-Colombes|Proxad / Free SAS|
-|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|134.35.180.34|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|182.253.147.111|8080|Indonesia|Blitar|BIZNET|
+|13|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|14|200.94.102.10|8080|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
 |17|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |18|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|19|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|19|41.65.163.67|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
 |20|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 
 
