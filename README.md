@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |6|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|9|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|72.10.164.178|28287|Canada|Montreal|GloboTech Communications|
-|11|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|19|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|20|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|11|204.157.247.149|999|Dominican Republic|Santo Domingo|Airtime Technology SRL|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|14|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|72.10.164.178|20539|Canada|Montreal|GloboTech Communications|
+|17|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
