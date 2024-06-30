@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
-|4|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|5|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|7|72.10.164.178|31325|Canada|Montreal|GloboTech Communications|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|5|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|6|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|9|1.4.250.132|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|186.180.66.138|8080|Colombia|Cúcuta|Colombia Móvil|
-|14|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.97.47.218|83|India|Aligarh|Esto Media Private Limited|
-|19|165.16.31.14|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|103.231.238.234|58080|Bangladesh|Dhaka|Carnival Internet|
+|12|182.253.147.111|8080|Indonesia|Blitar|BIZNET|
+|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|67.43.227.226|28855|Canada|Montreal|GloboTech Communications|
+|17|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
