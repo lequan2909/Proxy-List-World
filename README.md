@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,14 +39,14 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
-|4|72.10.164.178|8081|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|67.43.236.20|25431|Canada|Montreal|GloboTech Communications|
-|7|41.77.7.234|3129|Zambia|Chililabombwe|Airtel Zambia|
-|8|67.43.227.230|2913|Canada|Montreal|GloboTech Communications|
+|6|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |9|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |10|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |11|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
@@ -57,8 +57,8 @@ Click the file format that you want and copy the URL.
 |16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |17|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
 |18|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|19|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|20|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|20|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
