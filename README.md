@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,22 +41,22 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|5|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|7|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|27.78.113.185|4602|Vietnam|Thu Dau Mot|Viettel Group|
-|11|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|165.225.106.128|9480|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|9480|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|9480|India|Mumbai|ZSCALER, INC.|
+|3|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|4|101.109.51.227|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|103.155.198.109|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|7|134.236.102.226|8080|Thailand|Bang Lamung|CAT-BB|
+|8|15.204.151.144|31158|United States|Reston|OVH SAS|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|186.180.66.138|8080|Colombia|Cúcuta|Colombia Móvil|
+|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|13|27.78.113.185|4602|Vietnam|Thu Dau Mot|Viettel Group|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|181.129.35.130|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
