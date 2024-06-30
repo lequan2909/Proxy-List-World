@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|9|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
-|11|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|72.10.164.178|20539|Canada|Montreal|GloboTech Communications|
-|13|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|14|67.43.227.227|9245|Canada|Montreal|GloboTech Communications|
-|15|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
-|16|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|17|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|80.66.81.43|4067|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|17|49.49.45.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|18|117.240.190.129|80|India|New Delhi|BSNL Internet|
+|19|67.43.227.227|9245|Canada|Montreal|GloboTech Communications|
+|20|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
 
 
 
