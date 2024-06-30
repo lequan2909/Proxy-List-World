@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|15.204.151.141|31158|United States|Reston|OVH SAS|
-|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|15.204.151.144|31158|United States|Reston|OVH SAS|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|15|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|38.183.145.126|9090|Indonesia|Cirebon|PT Ikhlas Cipta Teknologi|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|20|182.253.179.238|8080|Indonesia|Jakarta Pusat|BIZNET|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.251.85.12|80|United States|Minkler|Alibaba Cloud LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|27.147.139.155|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
