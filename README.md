@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|5|72.10.160.90|11515|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.20|1095|Canada|Montreal|GloboTech Communications|
-|7|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|8|191.102.248.6|8085|Argentina|Rosario|IP·RED|
-|9|72.10.160.174|1125|Canada|Montreal|GloboTech Communications|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|103.165.157.235|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|13|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|14|164.92.207.53|30000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|7|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|8|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
+|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
+|13|165.225.106.128|33333|India|Mumbai|ZSCALER, INC.|
+|14|191.102.248.9|8085|Argentina|Rosario|IP·RED|
+|15|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
 |16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|202.47.88.6|8090|Indonesia|Jombang|PT. Java Digital Nusantara|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|19|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
+|20|27.147.138.131|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
