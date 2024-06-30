@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|155.133.7.49|8080|Japan|Tokyo|Contabo Asia Private Limited|
-|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|14|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|15|223.204.164.169|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|134.236.59.196|8080|Thailand|Nakhon Phanom|CAT-BB|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|137.184.180.252|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|185.213.91.14|3128|United States|Manassas|MAN|
+|13|223.204.164.169|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|14|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
+|15|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |17|67.43.227.227|30759|Canada|Montreal|GloboTech Communications|
-|18|165.225.106.128|11066|India|Mumbai|ZSCALER, INC.|
-|19|42.62.6.6|10800|United States|San Jose|IDC, China Telecommunications Corporation|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|103.109.39.5|3128|Vietnam|Ba Đình District|Adsota Corporation|
+|19|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
