@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,23 +39,23 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|72.10.160.174|6811|Canada|Montreal|GloboTech Communications|
-|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|9|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|10|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|11|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|103.155.198.109|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|7|94.131.9.155|4000|France|Paris|Stark Industries Solutions LTD|
+|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|10|38.156.72.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|103.165.157.235|8090|Indonesia|Purbalingga|MEGADATA-ISP|
 |12|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |13|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|14|15.204.151.149|31158|United States|Reston|OVH SAS|
-|15|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|15|117.240.190.129|80|India|New Delhi|BSNL Internet|
+|16|1.4.250.132|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |18|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |19|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 |20|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
