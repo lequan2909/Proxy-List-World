@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|2|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|138.59.20.48|8090|Brazil|Mariana|Companhia Itabirana Telecomunica??es Ltda|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.236.20|32285|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|39.129.73.6|443|China|Kunming|China Mobile|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|124.120.109.72|8080|Thailand|Bangkok|TRUEBB|
+|7|103.54.80.193|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
+|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.218.25.169|58080|Bangladesh|Dhaka|Carnival Internet|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.236.20|32285|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
