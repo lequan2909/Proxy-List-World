@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |4|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|7|67.43.228.253|5405|Canada|Montreal|GloboTech Communications|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
-|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|12|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|8|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.204.151.144|31158|United States|Reston|OVH SAS|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|67.43.228.253|25433|Canada|Montreal|GloboTech Communications|
+|15|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|16|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
