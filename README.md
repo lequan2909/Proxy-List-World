@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.245.10.132|34567|United States|Buffalo|HostPapa|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|67.43.227.228|9311|Canada|Montreal|GloboTech Communications|
-|16|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|17|72.10.160.90|15971|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|27045|Canada|Montreal|GloboTech Communications|
-|19|193.30.13.18|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|45.112.127.222|9191|Indonesia|Tangerang|FIBERNET|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|12|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|13|15.204.151.144|31158|United States|Reston|OVH SAS|
+|14|186.180.66.138|8080|Colombia|Cúcuta|Colombia Móvil|
+|15|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|18|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
