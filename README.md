@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|134.236.102.226|8080|Thailand|Bang Lamung|CAT-BB|
-|5|67.43.236.19|11139|Canada|Montreal|GloboTech Communications|
-|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|1|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
 |7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|67.43.228.251|9563|Canada|Montreal|GloboTech Communications|
-|9|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
-|10|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|13|67.43.227.227|15553|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.94|19661|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|14637|Canada|Montreal|GloboTech Communications|
-|16|188.132.222.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.253|24665|Canada|Montreal|GloboTech Communications|
+|8|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|103.177.9.104|8080|Indonesia|Tumpang|PT Helium Sinergi Telekomunikasi|
+|10|67.43.236.19|11139|Canada|Montreal|GloboTech Communications|
+|11|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|103.169.131.18|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|13|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|14|67.43.227.227|3669|Canada|Montreal|GloboTech Communications|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|72.10.160.170|14637|Canada|Montreal|GloboTech Communications|
+|17|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|11337|India|Mumbai|ZSCALER, INC.|
+|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
