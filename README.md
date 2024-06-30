@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|38.91.101.96|8850|United States|New York|GTHost|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|136.226.245.26|10230|India|Chennai|ZSCALER, INC.|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|103.165.157.235|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|158.177.111.146|31288|The Netherlands|Amsterdam|SoftLayer|
-|16|27.121.82.54|8090|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|160.248.92.62|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|15.204.151.141|31158|United States|Reston|OVH SAS|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|37.120.222.145|3128|Germany|Frankfurt am Main|M247 Europe SRL|
+|20|189.157.237.253|8080|Mexico|San Luis Potosí City|UNINET|
 
 
 
