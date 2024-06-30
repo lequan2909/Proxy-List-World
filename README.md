@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|67.43.227.227|28993|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|72.10.160.171|1179|Canada|Montreal|GloboTech Communications|
 |6|67.43.228.253|21097|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|17021|Canada|Montreal|GloboTech Communications|
-|8|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|9|72.10.160.171|1179|Canada|Montreal|GloboTech Communications|
-|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|11|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|67.43.227.227|28993|Canada|Montreal|GloboTech Communications|
-|14|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|38.7.1.117|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|165.225.106.128|9401|India|Mumbai|ZSCALER, INC.|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|101.109.26.111|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|67.43.227.227|20053|Canada|Montreal|GloboTech Communications|
+|9|164.92.207.53|30000|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
+|13|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
+|14|89.208.30.217|8080|Russia|Bessonovka|KONEKT Ltd.|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|103.134.220.128|1111|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|19|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|10000|India|Mumbai|ZSCALER, INC.|
 
 
 
