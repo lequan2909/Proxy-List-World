@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|72.10.160.174|6811|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|32773|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|72.10.160.174|6811|Canada|Montreal|GloboTech Communications|
+|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
 |9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|94.131.9.155|4000|France|Paris|Stark Industries Solutions LTD|
-|13|82.137.244.221|8080|Syria|Damascus|ISP-TARASSUL|
-|14|67.43.236.20|12361|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|101.109.26.111|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|12|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|13|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|14|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|15|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|16|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|19|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
+|20|165.225.106.128|8800|India|Mumbai|ZSCALER, INC.|
 
 
 
