@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|5|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|10|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|38.137.203.10|999|Peru|Lima|Internet Services Perú|
-|12|82.137.244.221|8080|Syria|Damascus|ISP-TARASSUL|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|191.241.184.61|40033|Brazil|Nossa Senhora da Gloria|NetGloria Telecom|
-|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|47.184.177.250|3128|United States|Garland|Frontier Communications Solutions|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|5.165.18.187|8080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|14|58.210.227.210|8088|China|Nanjing|Chinanet|
+|15|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|19|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
