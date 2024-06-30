@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|131.196.42.95|667|Brazil|Sao Sebastiao do Passe|Voafibra Comunicacao|
-|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|15|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|19|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|20|72.10.160.90|23269|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.245.10.132|34567|United States|Buffalo|HostPapa|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.245.10.130|34567|United States|Buffalo|HostPapa|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|12|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|171.5.165.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|14|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|15|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|16|20.119.77.88|8170|United States|Boydton|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|160.248.9.141|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
