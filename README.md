@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4437** proxies at the latest update. Usable proxies are below.
+> Scraper found **4445** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|108|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|326|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|334|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|265|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2806|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|182.253.109.25|8080|Indonesia|Semarang|Biznet Metronet|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|2|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|3|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
+|4|185.241.149.162|8080|United States|Dallas|Tier.Net Technologies LLC|
+|5|182.253.109.25|8080|Indonesia|Semarang|Biznet Metronet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|103.156.15.240|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
-|13|67.43.236.18|5265|Canada|Montreal|GloboTech Communications|
-|14|84.247.129.226|3128|Germany|Düsseldorf|Contabo GmbH|
-|15|72.10.164.178|9419|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|18|72.10.160.90|30027|Canada|Montreal|GloboTech Communications|
-|19|36.85.52.134|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
-|20|67.43.236.18|5265|Canada|Montreal|GloboTech Communications|
+|9|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
+|10|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|11|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|16|67.43.236.20|15209|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2041|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|72.10.160.90|4413|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|2041|Canada|Montreal|GloboTech Communications|
 
 
 
