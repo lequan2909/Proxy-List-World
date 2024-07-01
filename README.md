@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|2|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
+|5|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|7|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|67.43.228.253|29677|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|32089|Canada|Montreal|GloboTech Communications|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|177.221.44.113|49999|Brazil|Jaboatao dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|14|72.10.164.178|17587|Canada|Montreal|GloboTech Communications|
 |15|72.10.160.174|13955|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|29057|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|11013|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|29677|Canada|Montreal|GloboTech Communications|
-|19|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|20|72.10.160.92|5503|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|122.3.45.189|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|19|177.32.153.62|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
