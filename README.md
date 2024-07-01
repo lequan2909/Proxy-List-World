@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|185.64.208.163|53281|Russia|Kstovo|Svyazist LLC|
-|5|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|6|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|27.255.74.60|3128|South Korea|Gasan-dong|LG DACOM Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|10|210.79.146.131|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
-|13|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|14|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|47.237.122.8|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
+|14|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|16|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|27.255.74.60|3128|South Korea|Gasan-dong|LG DACOM Corporation|
-|19|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|20|58.210.227.210|8088|China|Nanjing|Chinanet|
+|19|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|20|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 
 
 
