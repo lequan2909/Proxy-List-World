@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|3|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|4|185.241.149.162|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|182.253.109.25|8080|Indonesia|Semarang|Biznet Metronet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|11|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|16|67.43.236.20|15209|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2041|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|72.10.160.90|4413|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2041|Canada|Montreal|GloboTech Communications|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|182.253.109.25|8080|Indonesia|Semarang|Biznet Metronet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.241.149.162|8080|United States|Dallas|Tier.Net Technologies LLC|
+|7|103.155.46.250|8080|Indonesia|Bogor|PRONETINDO|
+|8|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|72.10.164.178|2041|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|72.10.164.178|2041|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.252|8609|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|4319|Canada|Montreal|GloboTech Communications|
+|18|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|103.156.15.240|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|20|14.102.58.186|8080|India|Mathura|WORLDPHONE|
 
 
 
