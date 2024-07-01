@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.241.149.159|8080|United States|Dallas|Tier.Net Technologies LLC|
-|4|185.241.149.155|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|124.106.116.34|1337|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|8|23.24.160.29|8080|United States|Miami|Comcast Cable Communications|
+|2|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
+|3|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|4|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
+|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
 |9|185.241.149.159|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|94.74.148.180|8080|Iran|Malekābād|Farahoosh Dena PLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|49.157.62.202|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|12|182.253.109.25|8080|Indonesia|Semarang|Biznet Metronet|
+|13|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|172.183.241.1|8080|United States|Chicago|Microsoft|
 |16|185.241.149.175|8080|United States|Dallas|Tier.Net Technologies LLC|
-|17|171.6.79.105|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|18|67.43.236.20|25103|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|8345|Canada|Montreal|GloboTech Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |20|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
 
 
