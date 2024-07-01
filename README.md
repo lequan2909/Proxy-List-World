@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|59.6.103.208|3128|South Korea|Seongdong-gu|Korea Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
+|3|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
 |4|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |5|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
-|6|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
-|7|185.241.149.163|8080|United States|Dallas|Tier.Net Technologies LLC|
-|8|159.138.157.100|8080|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|185.241.149.175|8080|United States|Dallas|Tier.Net Technologies LLC|
-|13|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
-|14|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|15|185.241.149.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|16|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|17|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
-|18|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
+|7|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|185.241.149.170|8080|United States|Dallas|Tier.Net Technologies LLC|
+|14|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
+|16|185.241.149.170|8080|United States|Dallas|Tier.Net Technologies LLC|
+|17|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|18|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
+|19|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|20|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
 
 
 
