@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|1|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|36.73.129.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|185.213.91.14|3128|United States|Manassas|MAN|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|119.92.188.29|8080|Philippines|West Rembo|Philippine Long Distance Telephone Co.|
 |11|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|12|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|13|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|12|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
 |14|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|15|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|16|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|17|160.248.92.116|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.164.178|20933|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|20933|Canada|Montreal|GloboTech Communications|
+|15|160.248.92.116|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|72.10.164.178|20021|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|20021|Canada|Montreal|GloboTech Communications|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
 
 
