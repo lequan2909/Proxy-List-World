@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.150.101.31|3128|Hong Kong|Hong Kong|Google LLC|
-|4|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|192.228.100.57|3128|United States|Las Vegas|VegasNAP|
+|3|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.204.177.95|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|79.110.52.179|3128|The Netherlands|Amsterdam|M247 Europe SRL|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|202.89.74.202|8080|India|Ropar|WORLDPHONE|
-|15|47.76.43.82|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|47.76.43.82|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|8|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|9|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|10|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|11|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|12|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|13|67.43.228.253|25325|Canada|Montreal|GloboTech Communications|
+|14|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|15|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|16|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|17|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|18|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|165.225.106.128|10007|India|Mumbai|ZSCALER, INC.|
 
 
 
