@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
-|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|182.253.109.25|8080|Indonesia|Semarang|Biznet Metronet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
+|3|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|4|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |6|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|185.241.149.159|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|11|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|103.159.194.97|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|182.253.176.67|3128|Indonesia|Jakarta|BIZNET|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
+|15|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|16|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
