@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|185.241.149.159|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
-|7|185.241.149.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|8|185.241.149.159|8080|United States|Dallas|Tier.Net Technologies LLC|
-|9|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|182.253.109.91|8080|Indonesia|Semarang|Biznet Metronet|
-|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|17|103.187.146.18|888|Indonesia|Jakarta|Cloud Host Pte Ltd|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|3|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|10|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|11|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|12|58.210.227.210|8088|China|Nanjing|Chinanet|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|119.76.142.201|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
+|16|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|17|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|18|185.241.149.163|8080|United States|Dallas|Tier.Net Technologies LLC|
+|19|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|20|102.39.215.83|9090|South Africa|Cape Town|Vox Telecom|
 
 
 
