@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
-|4|185.241.149.159|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|14|185.241.149.175|8080|United States|Dallas|Tier.Net Technologies LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|72.10.164.178|1951|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1951|Canada|Montreal|GloboTech Communications|
-|20|58.210.227.210|8088|China|Nanjing|Chinanet|
+|1|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|36.85.52.134|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
+|10|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|11|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|67.43.228.253|15865|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|103.172.86.105|58080|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
