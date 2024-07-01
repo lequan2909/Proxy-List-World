@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|36.73.129.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
-|8|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|9|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
-|11|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|195.161.41.163|8080|Russia|Moscow|JSC RTComm.RU|
-|14|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
-|15|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
-|19|185.213.91.129|3128|United States|Manassas|MAN|
-|20|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|1|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
+|10|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|11|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|12|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|13|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|14|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|15|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|18|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|67.43.228.251|29235|Canada|Montreal|GloboTech Communications|
+|20|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
 
 
 
