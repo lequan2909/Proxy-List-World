@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.241.149.162|8080|United States|Dallas|Tier.Net Technologies LLC|
-|4|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|6|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
-|9|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|2|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
+|8|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
+|9|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
+|10|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
 |11|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
 |12|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
 |13|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
 |14|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
-|15|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
-|16|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|15|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
+|16|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
 |17|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
+|18|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |19|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
 |20|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
 
