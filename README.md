@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4580** proxies at the latest update. Usable proxies are below.
+> Scraper found **4611** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|114|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|400|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|431|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|274|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2834|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|41.254.48.54|19333|Libya|Tripoli|LTT Network Backbone and POPs|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|13|103.146.246.101|9310|Indonesia|Serpong|PT. SIGMA CIPTA CARAKA|
-|14|171.227.248.125|4013|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|150.95.89.162|10090|Japan|Chiyoda|GMO-Z.COM PTE. LTD.|
+|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|11|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|12|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|13|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
 |18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|58.210.227.210|8088|China|Nanjing|Chinanet|
-|20|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|19|67.43.236.20|27473|Canada|Montreal|GloboTech Communications|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
