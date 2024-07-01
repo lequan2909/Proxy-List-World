@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|36.73.129.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|5|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
 |6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|12|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
-|13|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
-|14|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
-|15|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
-|16|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
-|17|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
-|18|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
-|19|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|20|165.225.106.128|10001|India|Mumbai|ZSCALER, INC.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|9|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|10|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|11|67.43.227.228|32861|Canada|Montreal|GloboTech Communications|
+|12|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|13|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|72.10.164.178|23447|Canada|Montreal|GloboTech Communications|
+|15|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|16|72.10.164.178|23447|Canada|Montreal|GloboTech Communications|
+|17|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|18|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
 
 
 
