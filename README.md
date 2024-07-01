@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|119.2.52.152|8282|Indonesia|Pugeran Maguwoharjo|GMEDIA|
 |11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.178.194.114|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|103.159.194.249|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|72.10.160.90|14065|Canada|Montreal|GloboTech Communications|
-|20|15.204.151.149|31158|United States|Reston|OVH SAS|
+|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|72.10.160.90|20031|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|20|72.10.160.171|17157|Canada|Montreal|GloboTech Communications|
 
 
 
