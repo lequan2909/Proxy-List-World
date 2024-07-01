@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|185.241.149.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|9|114.9.24.46|3127|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|10|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|13|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|17|202.137.8.149|8080|Indonesia|Bekasi|LINKNET|
-|18|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|158.101.172.65|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|2|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|3|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.241.149.162|8080|United States|Dallas|Tier.Net Technologies LLC|
+|8|103.131.232.16|8080|Australia|Goulburn|YLess4U Pty Ltd|
+|9|59.6.103.208|3128|South Korea|Seongdong-gu|Korea Telecom|
+|10|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|11|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|12|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|13|176.118.48.217|8080|Ukraine|Drohobych|Limited Liability Company Radio Network|
+|14|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|192.228.100.57|3128|United States|Las Vegas|VegasNAP|
+|18|103.189.96.38|8080|Indonesia|Sragen|Lintas Data Prima, PT|
+|19|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|20|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
 
 
 
