@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|3|182.253.109.25|8080|Indonesia|Semarang|Biznet Metronet|
-|4|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|8|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|12|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
-|14|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|103.169.186.151|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|101.255.40.98|8080|Indonesia|Jakarta|PT Remala Abadi|
+|10|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
+|11|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|12|182.253.109.25|8080|Indonesia|Semarang|Biznet Metronet|
+|13|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
+|14|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
+|15|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
+|16|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|67.43.236.20|2697|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|15669|Canada|Montreal|GloboTech Communications|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|19|103.58.74.233|8080|Bangladesh|Dhaka|BUSINESSNETWORK|
+|20|180.191.16.254|8085|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
