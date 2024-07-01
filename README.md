@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|118.172.239.231|8180|Thailand|Bangkok|TOT Public Company Limited|
+|3|103.169.254.185|2068|Indonesia|Banyuwangi Regency|PT Master Star Network|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|112.78.155.214|8080|Indonesia|Jakarta|BIZNET|
-|7|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
-|10|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|58.210.227.210|8088|China|Nanjing|Chinanet|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.227.230|2089|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|19011|Canada|Montreal|GloboTech Communications|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|173.0.146.228|3128|United States|Dallas|Servers.com, Inc.|
+|18|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|19|58.210.227.210|8088|China|Nanjing|Chinanet|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
