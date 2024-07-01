@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|103.149.194.37|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|67.43.228.253|31193|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
+|4|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|103.147.85.28|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|16|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|17|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
 
 
 
