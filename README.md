@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|2|47.76.43.82|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|185.241.149.175|8080|United States|Dallas|Tier.Net Technologies LLC|
-|8|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
-|9|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|185.241.149.163|8080|United States|Dallas|Tier.Net Technologies LLC|
-|14|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|19|185.241.149.175|8080|United States|Dallas|Tier.Net Technologies LLC|
-|20|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|93.85.69.65|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|14|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|17|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|18|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|19|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|20|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 
 
 
