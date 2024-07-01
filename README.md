@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
+|5|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|9|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
-|12|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|15|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|16|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|17|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
-|18|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|34.150.101.31|3128|Hong Kong|Hong Kong|Google LLC|
-|20|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|7|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
+|8|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|142.93.142.36|9122|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
+|13|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
+|20|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 
 
 
