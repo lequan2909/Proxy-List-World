@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|185.64.208.163|53281|Russia|Kstovo|Svyazist LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|191.97.15.94|11201|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|8|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|67.43.236.20|29249|Canada|Montreal|GloboTech Communications|
-|14|193.169.4.184|8091|Russia|Reutov|Lekstar Communication Ltd|
-|15|67.43.228.250|7119|Canada|Montreal|GloboTech Communications|
-|16|95.217.105.20|9016|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.243.177.129|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|18|72.10.164.178|16643|Canada|Montreal|GloboTech Communications|
-|19|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|20|67.43.236.19|18903|Canada|Montreal|GloboTech Communications|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|15|103.26.110.41|84|India|Mayiladuthurai|Niss Networks|
+|16|39.129.73.6|443|China|Kunming|China Mobile|
+|17|58.210.227.210|8088|China|Nanjing|Chinanet|
+|18|67.43.228.250|7119|Canada|Montreal|GloboTech Communications|
+|19|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
+|20|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 
 
 
