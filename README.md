@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|103.180.194.149|8080|Indonesia|Jakarta|PT INDONESIA COMNETS PLUS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
-|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|14|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|16|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|140.115.70.111|80|Taiwan|Zhongli District|T-NCU.EDU.TW|
-|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.137.110.42|8080|Indonesia|Probolinggo|PT. Capoeng Digital Nusantara|
+|12|186.96.15.70|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
