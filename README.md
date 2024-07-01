@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|3|27.75.104.187|4004|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|6|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|7|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|8|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.42|9443|United States|Huntersville|MCNC|
-|10|67.43.227.227|1051|Canada|Montreal|GloboTech Communications|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|67.43.228.254|19165|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|72.10.160.90|24689|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|67.43.227.227|1051|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|72.10.164.178|32371|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|18|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
