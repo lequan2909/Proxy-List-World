@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|45.119.113.81|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|5|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|6|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|12|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|67.43.228.250|9471|Canada|Montreal|GloboTech Communications|
-|19|39.129.73.6|443|China|Kunming|China Mobile|
-|20|72.10.160.90|1771|Canada|Montreal|GloboTech Communications|
+|14|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|15|58.210.227.210|8088|China|Nanjing|Chinanet|
+|16|39.129.73.6|443|China|Kunming|China Mobile|
+|17|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|20|72.10.160.90|22649|Canada|Montreal|GloboTech Communications|
 
 
 
