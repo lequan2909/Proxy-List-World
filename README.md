@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|38.199.30.171|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
-|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|72.10.160.90|24593|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|67.43.236.20|4873|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1623|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|17421|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|1933|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|11|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.160.90|3893|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|9695|Canada|Montreal|GloboTech Communications|
 
 
 
