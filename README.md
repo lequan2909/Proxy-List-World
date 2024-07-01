@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.241.149.175|8080|United States|Dallas|Tier.Net Technologies LLC|
-|3|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
-|11|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
-|12|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
-|13|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
-|20|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
+|1|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|2|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|3|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
+|4|185.241.149.162|8080|United States|Dallas|Tier.Net Technologies LLC|
+|5|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|7|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
+|8|182.253.109.91|8080|Indonesia|Semarang|Biznet Metronet|
+|9|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|12|47.76.43.82|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|15|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
+|16|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
+|17|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|18|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|19|185.241.149.157|8080|United States|Dallas|Tier.Net Technologies LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
