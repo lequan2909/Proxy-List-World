@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|47.76.43.82|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|185.241.149.162|8080|United States|Dallas|Tier.Net Technologies LLC|
+|2|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
 |3|185.241.149.163|8080|United States|Dallas|Tier.Net Technologies LLC|
 |4|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
 |5|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
-|6|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|93.85.69.65|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|11|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|12|185.241.149.162|8080|United States|Dallas|Tier.Net Technologies LLC|
-|13|185.241.149.163|8080|United States|Dallas|Tier.Net Technologies LLC|
-|14|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|15|185.241.149.170|8080|United States|Dallas|Tier.Net Technologies LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
-|18|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|19|185.241.149.175|8080|United States|Dallas|Tier.Net Technologies LLC|
-|20|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
+|7|47.76.43.82|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|185.241.149.158|8080|United States|Dallas|Tier.Net Technologies LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
+|14|62.23.184.85|8080|France|Paris|COLT Technology Services Group Limited|
+|15|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
+|16|185.241.149.161|8080|United States|Dallas|Tier.Net Technologies LLC|
+|17|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
+|19|185.241.149.170|8080|United States|Dallas|Tier.Net Technologies LLC|
+|20|185.241.149.177|8080|United States|Dallas|Tier.Net Technologies LLC|
 
 
 
