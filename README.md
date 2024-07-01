@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|185.241.149.163|8080|United States|Dallas|Tier.Net Technologies LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.164.178|13177|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.228|30281|Canada|Montreal|GloboTech Communications|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|67.43.227.227|29057|Canada|Montreal|GloboTech Communications|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|72.10.160.170|16375|Canada|Montreal|GloboTech Communications|
-|16|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|17|67.43.236.20|5871|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|25691|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|25669|Canada|Montreal|GloboTech Communications|
-|20|197.98.201.99|10007|South Africa|Johannesburg|Dimension Data|
+|3|59.6.103.208|3128|South Korea|Seongdong-gu|Korea Telecom|
+|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|185.241.149.163|8080|United States|Dallas|Tier.Net Technologies LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|114.9.24.46|3127|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|67.43.236.20|32761|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|29787|Canada|Montreal|GloboTech Communications|
+|18|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|19|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|72.10.160.172|25691|Canada|Montreal|GloboTech Communications|
 
 
 
