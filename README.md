@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|36.73.129.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|125.23.90.130|3128|India|Gurugram|Bharti Airtel|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|36.77.41.87|8080|Indonesia|Kediri|PT. TELKOM INDONESIA|
-|11|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|12|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|15|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|16|72.10.160.93|18227|Canada|Montreal|GloboTech Communications|
-|17|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|18|67.43.227.227|29297|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|12555|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|29297|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|36.73.129.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|10|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|11|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|12|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|13|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|14|72.10.160.93|11987|Canada|Montreal|GloboTech Communications|
+|15|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|16|67.43.236.20|2827|Canada|Montreal|GloboTech Communications|
+|17|109.235.189.207|8080|Russia|Sochi|Dmitriy V. Kozmenko|
+|18|67.43.228.252|12555|Canada|Montreal|GloboTech Communications|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|72.10.164.178|4005|Canada|Montreal|GloboTech Communications|
 
 
 
