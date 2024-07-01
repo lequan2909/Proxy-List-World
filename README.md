@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|72.10.164.178|9017|Canada|Montreal|GloboTech Communications|
-|13|176.222.224.1|8118|Czechia|Kladno|Cable-NET s.r.o.|
-|14|72.10.160.90|30061|Canada|Montreal|GloboTech Communications|
-|15|171.239.138.216|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|72.10.164.178|9017|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|29619|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|29619|Canada|Montreal|GloboTech Communications|
-|19|171.239.138.216|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|72.10.160.93|12917|Canada|Montreal|GloboTech Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|152.26.229.42|9443|United States|Huntersville|MCNC|
+|6|129.150.48.1|3128|United States|Chicago|Oracle Corporation|
+|7|39.191.223.9|3128|China|Lishui|China Mobile Communications Corporation|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|72.10.160.90|30061|Canada|Montreal|GloboTech Communications|
+|10|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|11|67.43.227.227|15551|Canada|Montreal|GloboTech Communications|
+|12|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|13|67.43.227.227|15551|Canada|Montreal|GloboTech Communications|
+|14|18.133.51.46|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|173.0.146.228|3128|United States|Dallas|Servers.com, Inc.|
+|17|67.43.228.251|19255|Canada|Montreal|GloboTech Communications|
+|18|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|19|94.74.148.180|8080|Iran|Malekābād|Farahoosh Dena PLC|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
