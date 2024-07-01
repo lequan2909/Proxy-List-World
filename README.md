@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
 |4|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.241.149.165|8080|United States|Dallas|Tier.Net Technologies LLC|
-|10|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
-|11|185.213.91.129|3128|United States|Manassas|MAN|
-|12|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|15|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|16|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|17|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|18|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
-|19|36.73.129.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|20|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|5|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|36.73.129.203|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|12|185.241.149.164|8080|United States|Dallas|Tier.Net Technologies LLC|
+|13|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
+|14|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
+|15|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|16|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|17|72.10.160.90|7929|Canada|Montreal|GloboTech Communications|
+|18|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
+|19|67.43.236.20|17047|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24163|Canada|Montreal|GloboTech Communications|
 
 
 
