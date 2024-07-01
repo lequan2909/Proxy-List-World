@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|93.85.69.65|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|3|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|4|185.241.149.169|8080|United States|Dallas|Tier.Net Technologies LLC|
-|5|185.241.149.175|8080|United States|Dallas|Tier.Net Technologies LLC|
-|6|34.31.157.231|3128|United States|Council Bluffs|Google LLC|
-|7|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|10|72.10.160.91|30917|Canada|Montreal|GloboTech Communications|
-|11|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|41.33.179.195|8080|Egypt|Cairo|TE Data|
-|13|67.43.228.253|11815|Canada|Montreal|GloboTech Communications|
-|14|202.189.11.149|8123|China|Beijing|Shandong eshinton Network Technology Co., Ltd.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|67.43.228.251|29345|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|6605|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|17521|Canada|Montreal|GloboTech Communications|
-|19|23.24.160.29|8080|United States|Miami|Comcast Cable Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|4|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|5|84.247.129.226|3128|Germany|Düsseldorf|Contabo GmbH|
+|6|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|8|188.246.163.163|41258|Russia|Moscow|WEST-CALL|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|124.106.116.34|1337|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|11|84.247.129.226|3128|Germany|Düsseldorf|Contabo GmbH|
+|12|88.255.217.57|8080|Turkey|Reyhanlı|TurkTelekom|
+|13|171.239.138.216|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|18|103.189.231.217|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|19|67.43.228.251|29345|Canada|Montreal|GloboTech Communications|
+|20|58.210.227.210|8088|China|Nanjing|Chinanet|
 
 
 
