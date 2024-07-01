@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|52.48.131.65|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.241.149.163|8080|United States|Dallas|Tier.Net Technologies LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|185.241.149.173|8080|United States|Dallas|Tier.Net Technologies LLC|
 |11|185.241.149.160|8080|United States|Dallas|Tier.Net Technologies LLC|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|12|142.93.142.36|9122|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|185.241.149.156|8080|United States|Dallas|Tier.Net Technologies LLC|
 |14|185.241.149.174|8080|United States|Dallas|Tier.Net Technologies LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |16|160.248.92.116|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|20|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|14.162.162.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 
 
 
