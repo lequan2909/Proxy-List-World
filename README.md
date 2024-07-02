@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|1|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|5|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 |6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|152.26.229.42|9443|United States|Huntersville|MCNC|
+|7|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
 |8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.236.20|28923|Canada|Montreal|GloboTech Communications|
-|11|202.182.55.42|8080|Indonesia|Gelora|PT Remala Abadi|
-|12|72.10.160.90|8471|Canada|Montreal|GloboTech Communications|
-|13|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|14|72.10.164.178|8199|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|67.43.236.20|17127|Canada|Montreal|GloboTech Communications|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|15|58.210.227.210|8088|China|Nanjing|Chinanet|
+|16|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
