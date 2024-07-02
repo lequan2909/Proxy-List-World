@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|67.43.227.228|13057|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|16415|Canada|Montreal|GloboTech Communications|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|43.153.25.122|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|72.10.164.178|2751|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|19|72.10.160.90|27915|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|9|67.43.227.228|13113|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.42|9443|United States|Huntersville|MCNC|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|72.10.160.90|25483|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|16|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
