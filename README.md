@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|11|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|12|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|67.43.228.253|16729|Canada|Montreal|GloboTech Communications|
-|16|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
-|17|72.10.164.178|11601|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|1817|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|16729|Canada|Montreal|GloboTech Communications|
-|20|82.165.180.64|3128|Germany|Essen|IONOS SE|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|7|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|8|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|9|5.35.15.87|3128|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|10|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
