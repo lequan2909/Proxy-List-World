@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|8|103.172.79.233|10017|Vietnam|Phường Mười Lăm|HIGHTECHK|
-|9|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|14|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|18|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|4|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|38.45.247.98|999|Mexico|Buenavista Tomatlan|Jorge Luis Torres Fernandez|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|14|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
