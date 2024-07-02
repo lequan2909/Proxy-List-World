@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|1|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|4|112.78.163.232|8080|Indonesia|Jakarta|Biznet Networks|
-|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|15.204.151.141|31158|United States|Reston|OVH SAS|
+|7|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|67.43.227.227|21875|Canada|Montreal|GloboTech Communications|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|39.129.73.6|443|China|Kunming|China Mobile|
+|12|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|13|58.210.227.210|8088|China|Nanjing|Chinanet|
+|14|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
 |15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|52.82.123.144|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|17|67.43.227.228|12985|Canada|Montreal|GloboTech Communications|
-|18|58.210.227.210|8088|China|Nanjing|Chinanet|
+|16|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|17|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 |19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|67.43.236.21|27707|Canada|Montreal|GloboTech Communications|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
