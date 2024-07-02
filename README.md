@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4819** proxies at the latest update. Usable proxies are below.
+> Scraper found **4813** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|120|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|438|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|432|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|389|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2914|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|103.160.62.254|8080|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|185.64.208.163|53281|Russia|Kstovo|Svyazist LLC|
+|10|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
 |11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|14|103.190.94.46|8080|Indonesia|Toli-Toli|PT Triple Zhi Network|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|171.232.76.175|4013|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A.|
-|19|67.43.228.253|9835|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|22199|Canada|Montreal|GloboTech Communications|
+|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|72.10.164.178|17885|Canada|Montreal|GloboTech Communications|
+|14|140.115.70.111|80|Taiwan|Zhongli District|T-NCU.EDU.TW|
+|15|72.10.160.174|5849|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|17885|Canada|Montreal|GloboTech Communications|
+|17|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
+|18|67.43.228.250|17951|Canada|Montreal|GloboTech Communications|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
