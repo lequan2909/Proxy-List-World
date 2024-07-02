@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4972** proxies at the latest update. Usable proxies are below.
+> Scraper found **4924** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|120|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|470|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|121|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|421|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|389|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3035|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.129.3.246|82|India|Bhubaneswar|S S Cablenet|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|8|103.168.44.210|3127|Indonesia|Boyolali|PT CYB Media Group|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|7|103.126.148.24|8080|Bangladesh|Dhaka|Delta Software and Communication Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|12|113.160.241.196|19132|Vietnam|Yen Lap|VietNam Post and Telecom Corporation|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|16|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|17|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|18|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
