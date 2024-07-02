@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|195.161.41.163|8080|Russia|Moscow|JSC RTComm.RU|
-|8|188.136.154.199|7060|Iran|Isfahan|Ariana Gostar Spadana's|
-|9|167.103.10.106|11197|Japan|Tokyo|ZSCALER, INC.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|165.225.216.95|11197|United States|Dallas|ZSCALER, INC.|
-|12|136.226.0.100|9401|Mexico|Mexico City|ZSCALER, INC.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|6|167.103.10.106|11197|Japan|Tokyo|ZSCALER, INC.|
+|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|165.225.216.95|11197|United States|Dallas|ZSCALER, INC.|
+|10|136.226.0.100|9401|Mexico|Mexico City|ZSCALER, INC.|
+|11|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|12|147.161.148.96|11197|Belgium|Brussels|Zscaler Switzerland GmbH|
+|13|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|14|165.225.206.77|11197|Poland|Warsaw|Zscaler Switzerland GmbH|
+|15|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
 |16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.160.170|28171|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|147.161.142.89|11197|United Kingdom|London|Zscaler Switzerland GmbH|
+|18|136.226.254.183|11197|India|Mumbai|ZSCALER, INC.|
+|19|147.161.168.80|11197|Germany|Munich|Zscaler MUC1|
+|20|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 
 
 
