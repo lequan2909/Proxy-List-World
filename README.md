@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|22161|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|199.167.236.12|3128|United States|Pasadena|GLOBAL IT|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
 |14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|72.10.164.178|22161|Canada|Montreal|GloboTech Communications|
-|16|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|17|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|18|72.10.164.178|22161|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7277|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|7277|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|16|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|67.43.227.228|20563|Canada|Montreal|GloboTech Communications|
+|19|14.115.105.66|808|China|Zhongshan|Chinanet|
+|20|72.10.164.178|13853|Canada|Montreal|GloboTech Communications|
 
 
 
