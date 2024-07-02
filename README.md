@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.150.101.31|3128|Hong Kong|Hong Kong|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|23.166.88.240|3128|Switzerland|Zurich|GTHost|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.150.101.31|3128|Hong Kong|Hong Kong|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|8|43.252.236.157|8080|Indonesia|Bogor|NET|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|11|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|17|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|18|67.43.227.227|4763|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|32087|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|32087|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.150.101.31|3128|Hong Kong|Hong Kong|Google LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|14|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
+|15|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|16|67.43.236.20|21341|Canada|Montreal|GloboTech Communications|
+|17|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|72.10.164.178|10371|Canada|Montreal|GloboTech Communications|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
