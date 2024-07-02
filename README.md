@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|4|34.66.223.220|80|United States|Council Bluffs|Google LLC|
-|5|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
+|3|103.144.181.74|80|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|49.48.44.18|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|8|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|9|203.150.113.244|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|10|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|112.78.167.248|8080|Indonesia|Jakarta|Biznet Networks|
-|13|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|14|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|18|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
-|19|67.43.236.20|8767|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|103.125.50.223|8080|Indonesia|Pondok Bambu|PT. Eka Mas Republik|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|88.80.187.42|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|19|67.43.228.252|31543|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.254|24377|Canada|Montreal|GloboTech Communications|
 
 
 
