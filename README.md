@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|67.43.227.227|2639|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|19|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|13|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|14|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|15|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|57.128.84.153|3128|France|Gravelines|OVH SAS|
 |20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
