@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|27.255.83.12|3128|South Korea|Gasan-dong|LG DACOM Corporation|
-|7|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|8|27.255.74.60|3128|South Korea|Gasan-dong|LG DACOM Corporation|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|49.157.62.202|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|15|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|20|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|103.169.254.186|8061|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|6|63.209.32.128|6868|United States|Piscataway|The Constant Company, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|111.68.117.200|4995|Indonesia|Jakarta|Varnion Technology Semesta, PT|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|124.217.39.242|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|72.10.160.90|5537|Canada|Montreal|GloboTech Communications|
+|19|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|20|24.106.221.230|53281|United States|Wilmington|Spectrum|
 
 
 
