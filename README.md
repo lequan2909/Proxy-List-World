@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|2|202.93.245.46|8080|Indonesia|Mojokerto|DWPNAP|
-|3|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|4|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|5|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|9|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|10|71.14.23.121|8080|United States|Hoover|Spectrum|
-|11|77.41.146.12|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|14|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|19|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|202.93.245.46|8080|Indonesia|Mojokerto|DWPNAP|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|188.166.227.238|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|202.12.80.10|84|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|11|20.119.77.88|8154|United States|Boydton|Microsoft Corporation|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|14|23.94.214.8|9054|United States|Santa Clara|HostPapa|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|17|165.16.31.14|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|46.229.235.158|8088|Slovakia|Bratislava|VNET|
 
 
 
