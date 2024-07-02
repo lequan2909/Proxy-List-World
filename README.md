@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|124.106.45.64|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
+|2|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
+|3|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|23.166.88.240|3128|Switzerland|Zurich|GTHost|
+|6|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
 |7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|165.225.216.95|11197|United States|Dallas|ZSCALER, INC.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|147.161.142.89|11197|United Kingdom|London|Zscaler Switzerland GmbH|
-|15|136.226.254.183|11197|India|Mumbai|ZSCALER, INC.|
-|16|165.225.206.77|11197|Poland|Warsaw|Zscaler Switzerland GmbH|
-|17|170.85.58.109|11197|United Kingdom|London|Zscaler Switzerland GmbH|
-|18|67.43.236.20|1571|Canada|Montreal|GloboTech Communications|
-|19|147.161.168.80|11197|Germany|Munich|Zscaler MUC1|
-|20|147.161.148.96|11197|Belgium|Brussels|Zscaler Switzerland GmbH|
+|8|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|11|147.161.142.89|11197|United Kingdom|London|Zscaler Switzerland GmbH|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|147.161.168.80|11197|Germany|Munich|Zscaler MUC1|
+|14|136.226.254.183|11197|India|Mumbai|ZSCALER, INC.|
+|15|143.198.95.133|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|67.43.227.227|14941|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
+|19|72.10.160.170|7803|Canada|Montreal|GloboTech Communications|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
