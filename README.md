@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|49.48.44.18|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|5|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|67.43.227.228|30625|Canada|Montreal|GloboTech Communications|
-|13|173.212.244.38|3128|Germany|Nuremberg|Contabo GmbH|
-|14|79.110.52.179|3128|The Netherlands|Amsterdam|M247 Europe SRL|
-|15|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|16|171.239.138.216|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|67.43.236.20|10509|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|16143|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|18845|Canada|Montreal|GloboTech Communications|
+|1|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|17|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
