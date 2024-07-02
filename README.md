@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|7|103.224.92.50|3128|Taiwan|New Taipei City|Pfcloud UG|
-|8|72.10.160.173|9421|Canada|Montreal|GloboTech Communications|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|34.66.223.220|80|United States|Council Bluffs|Google LLC|
+|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|72.10.160.93|4137|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|22233|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|4909|Canada|Montreal|GloboTech Communications|
+|11|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
 |12|67.43.236.20|4909|Canada|Montreal|GloboTech Communications|
 |13|72.10.164.178|22233|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|22233|Canada|Montreal|GloboTech Communications|
-|15|27.72.113.65|3128|Vietnam|Hanoi|Newass2011xDSLHN|
-|16|67.43.236.20|4909|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|19341|Canada|Montreal|GloboTech Communications|
-|18|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|19|67.43.227.227|2667|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|31969|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|170.84.48.222|8080|Brazil|Rio de Janeiro|VIP RIO TELECOMUNICAÇÕES LTDA - EPP|
+|16|72.10.160.93|4137|Canada|Montreal|GloboTech Communications|
+|17|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|18|72.10.160.90|3891|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|22161|Canada|Montreal|GloboTech Communications|
+|20|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
 
 
 
