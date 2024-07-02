@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|120.28.195.250|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|3|189.195.139.178|999|Mexico|Tangancicuaro de Arista|Mega Cable, S.A. de C.V.|
+|1|45.124.87.89|3128|Vietnam|Phúc Lai|BKNS|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |5|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|72.10.160.170|18717|Canada|Montreal|GloboTech Communications|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.160.90|11231|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|9933|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|7933|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|9933|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|9933|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|22043|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|12461|Canada|Montreal|GloboTech Communications|
+|6|152.26.229.42|9443|United States|Huntersville|MCNC|
+|7|72.10.160.170|28963|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|11231|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|72.10.164.178|23491|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.228.253|15929|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|23491|Canada|Montreal|GloboTech Communications|
+|16|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|17|72.10.160.90|11231|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|15929|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|15929|Canada|Montreal|GloboTech Communications|
+|20|103.179.211.34|8080|India|Vijayawada|CtrlS|
 
 
 
