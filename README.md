@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|23.166.88.240|3128|Switzerland|Zurich|GTHost|
-|3|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|4|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|5|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|8|109.200.169.10|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|168.126.74.132|80|South Korea|Seongnam-si|Korea Telecom|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|16|72.10.164.178|26167|Canada|Montreal|GloboTech Communications|
-|17|172.211.131.65|8080|Netherlands|Amsterdam|Microsoft|
-|18|72.10.160.90|3407|Canada|Montreal|GloboTech Communications|
-|19|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|20|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|7|49.157.62.202|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|8|72.10.164.178|2163|Canada|Montreal|GloboTech Communications|
+|9|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|72.10.160.90|29407|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|22683|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|29407|Canada|Montreal|GloboTech Communications|
+|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|15|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|16|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|17|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
+|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|19|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|20|72.10.160.170|18379|Canada|Montreal|GloboTech Communications|
 
 
 
