@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|4|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|103.160.62.254|8080|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|67.43.227.230|25547|Canada|Montreal|GloboTech Communications|
-|18|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.160.62.254|8080|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
 |19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|72.10.160.173|25261|Canada|Montreal|GloboTech Communications|
+|20|172.99.188.178|3128|Netherlands|Amsterdam|GTHost|
 
 
 
