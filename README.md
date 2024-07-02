@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|203.150.113.100|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|45.55.72.50|3128|United States|Clifton|DigitalOcean, LLC|
 |13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|67.43.236.20|11159|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|16269|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|9069|Canada|Montreal|GloboTech Communications|
-|18|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|19|72.10.164.178|25883|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|17371|Canada|Montreal|GloboTech Communications|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|18|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
