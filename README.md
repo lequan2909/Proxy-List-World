@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|9|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|5|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|9|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|10|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|13|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.236.20|23367|Canada|Montreal|GloboTech Communications|
-|18|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|19|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|20|67.43.236.20|23367|Canada|Montreal|GloboTech Communications|
+|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|17|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
