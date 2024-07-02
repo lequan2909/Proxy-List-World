@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|103.191.155.46|8080|Indonesia|Majalengka|PT Ilham Wifi Solution|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|154.73.28.157|8080|Libya|Tripoli|Rawafed|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|15|23.134.91.46|3128|France|Paris|GTHost|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
-|19|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|4|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|5|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|6|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|7|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|9|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.160.62.254|8080|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|72.10.160.90|2827|Canada|Montreal|GloboTech Communications|
+|13|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|67.43.228.250|1837|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
