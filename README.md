@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.160.62.254|8080|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|185.64.208.163|53281|Russia|Kstovo|Svyazist LLC|
-|10|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|72.10.164.178|17885|Canada|Montreal|GloboTech Communications|
-|14|140.115.70.111|80|Taiwan|Zhongli District|T-NCU.EDU.TW|
-|15|72.10.160.174|5849|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|17885|Canada|Montreal|GloboTech Communications|
-|17|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|18|67.43.228.250|17951|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.160.62.254|8080|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|8|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|72.10.164.178|17885|Canada|Montreal|GloboTech Communications|
+|11|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|191.241.184.61|40033|Brazil|Nossa Senhora da Gloria|NetGloria Telecom|
+|14|67.43.228.250|17951|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|20419|Canada|Montreal|GloboTech Communications|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|58.210.227.210|8088|China|Nanjing|Chinanet|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
 
 
 
