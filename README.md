@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|13|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|67.43.228.253|25525|Canada|Montreal|GloboTech Communications|
-|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|67.43.227.228|9471|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|24111|Canada|Montreal|GloboTech Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|5|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|6|152.26.229.86|9443|United States|Huntersville|MCNC|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|67.43.228.253|12727|Canada|Montreal|GloboTech Communications|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|222.243.174.132|81|China|Xiangtan|Chinanet|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|72.10.160.90|11521|Canada|Montreal|GloboTech Communications|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|67.43.227.227|14603|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|17137|Canada|Montreal|GloboTech Communications|
+|18|157.66.16.40|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|19|39.129.73.6|443|China|Kunming|China Mobile|
+|20|72.10.164.178|17137|Canada|Montreal|GloboTech Communications|
 
 
 
