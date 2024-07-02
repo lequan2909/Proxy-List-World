@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|9|118.96.216.78|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|110.78.147.161|8080|Thailand|Ao Nang|CAT-BB|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|10|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|11|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|12|84.247.129.226|3128|Germany|Düsseldorf|Contabo GmbH|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|15|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
 |16|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 |17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|188.132.222.35|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
 
 
 
