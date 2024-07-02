@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.178.43.21|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
-|11|103.169.255.171|8080|Indonesia|Banyuwangi|PT Master Star Network|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|6|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.173|32175|Canada|Montreal|GloboTech Communications|
-|16|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|17|67.43.228.253|5745|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|8715|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|15|45.167.124.230|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|103.134.220.128|1111|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
 
 
 
