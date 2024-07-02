@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|12|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|13|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|14|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|15|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|16|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|17|210.247.252.4|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|18|72.10.160.93|18293|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|212.128.70.78|80|Spain|Alcalá de Henares|RedIRIS Provider|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|45.112.127.222|9191|Indonesia|Tangerang|FIBERNET|
+|8|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|179.108.220.184|8080|Brazil|Tiradentes|Conecta Ltda.|
+|13|118.96.216.78|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|18|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|19|72.10.160.90|27077|Canada|Montreal|GloboTech Communications|
+|20|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 
 
 
