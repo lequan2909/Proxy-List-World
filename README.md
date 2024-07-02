@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|5|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
 |6|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|7|72.10.160.171|20729|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.253|9775|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|7|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 |10|145.239.239.33|3128|Poland|Warsaw|OVH SAS|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|67.43.227.227|32719|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|23383|Canada|Montreal|GloboTech Communications|
-|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|23383|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|14687|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|23367|Canada|Montreal|GloboTech Communications|
-|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.228.253|9775|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|72.10.164.178|29235|Canada|Montreal|GloboTech Communications|
+|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.160.170|21651|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|1119|Canada|Montreal|GloboTech Communications|
+|18|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|19|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
