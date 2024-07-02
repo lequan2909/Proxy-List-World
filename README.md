@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|72.10.160.94|9563|Canada|Montreal|GloboTech Communications|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.166.8.234|3125|Indonesia|Jakarta|PT Akses Bersama Sedaya|
-|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|15|67.43.228.253|1995|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|67.43.236.20|23367|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|72.10.160.94|32379|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.42|9443|United States|Huntersville|MCNC|
+|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|12|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
+|13|67.43.228.253|26417|Canada|Montreal|GloboTech Communications|
+|14|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|72.10.160.94|32379|Canada|Montreal|GloboTech Communications|
+|17|212.1.64.147|8080|Ukraine|Belogorodka|Joint Ukrainan-German Enterprise "INFOCOM" LLC|
+|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|72.10.160.90|24667|Canada|Montreal|GloboTech Communications|
 
 
 
