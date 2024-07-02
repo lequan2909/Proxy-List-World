@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|188.136.154.199|7060|Iran|Isfahan|Ariana Gostar Spadana's|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|15|23.166.88.240|3128|Switzerland|Zurich|GTHost|
-|16|172.99.188.178|3128|Netherlands|Amsterdam|GTHost|
-|17|103.172.79.233|10017|Vietnam|Phường Mười Lăm|HIGHTECHK|
-|18|115.73.11.42|9050|Vietnam|Ho Chi Minh City|VIETELmetro|
-|19|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|20|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|103.191.155.46|8080|Indonesia|Majalengka|PT Ilham Wifi Solution|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|115.73.11.42|9050|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|72.10.160.174|12365|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|19|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|20|57.128.84.153|3128|France|Gravelines|OVH SAS|
 
 
 
