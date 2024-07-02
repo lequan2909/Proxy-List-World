@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|11|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|16|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|67.43.227.227|18035|Canada|Montreal|GloboTech Communications|
-|19|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|20|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|10|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|11|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|5.75.142.128|3128|Germany|Wiesbaden|Hetzner Online GmbH|
+|15|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|16|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|20|103.105.228.66|8080|India|Mumbai|Mnk Infoway Private Limited|
 
 
 
