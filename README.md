@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|136.226.254.183|11197|India|Mumbai|ZSCALER, INC.|
-|7|152.26.229.42|9443|United States|Huntersville|MCNC|
-|8|67.43.228.253|2095|Canada|Montreal|GloboTech Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
-|15|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|67.43.227.227|22963|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|2141|Canada|Montreal|GloboTech Communications|
-|19|14.248.98.43|8080|Vietnam|Hanoi|VNPT|
-|20|67.43.227.227|22963|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|67.43.228.250|1869|Canada|Montreal|GloboTech Communications|
+|12|125.167.15.68|8080|Indonesia|Bogor|PT. TELKOM INDONESIA|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|72.10.160.93|29721|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|14.248.98.43|8080|Vietnam|Hanoi|VNPT|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
