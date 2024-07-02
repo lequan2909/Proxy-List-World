@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|72.10.160.90|3017|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.172|21625|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|10747|Canada|Montreal|GloboTech Communications|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.160.172|21625|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.236.20|32449|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.90|3017|Canada|Montreal|GloboTech Communications|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|67.43.228.251|12651|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|10747|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|67.43.228.250|2405|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|67.43.227.227|32627|Canada|Montreal|GloboTech Communications|
+|5|72.10.160.172|21625|Canada|Montreal|GloboTech Communications|
+|6|67.43.236.20|32449|Canada|Montreal|GloboTech Communications|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|10|67.43.236.20|32449|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|72.10.160.90|10827|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.251|12651|Canada|Montreal|GloboTech Communications|
+|15|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.170|21313|Canada|Montreal|GloboTech Communications|
+|18|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|67.43.227.226|31901|Canada|Montreal|GloboTech Communications|
 
 
 
