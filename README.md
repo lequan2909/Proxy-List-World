@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|7|114.9.26.110|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|8|34.84.14.127|3128|Japan|Tokyo|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|18|72.10.160.174|27167|Canada|Montreal|GloboTech Communications|
-|19|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|10|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
+|11|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|16|67.43.228.251|2237|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|16245|Canada|Montreal|GloboTech Communications|
+|18|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|19|72.10.160.174|27167|Canada|Montreal|GloboTech Communications|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
