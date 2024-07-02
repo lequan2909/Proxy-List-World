@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|5|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|6|23.166.88.157|3128|Switzerland|Zurich|GTHost|
-|7|72.10.160.170|9625|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|67.43.227.230|27073|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|45.144.166.24|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|14|67.43.227.227|19885|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|67.43.227.228|9471|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|19|67.43.236.20|1033|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|19885|Canada|Montreal|GloboTech Communications|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|11|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.203.234.28|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|14|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|15|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|16|23.166.88.240|3128|Switzerland|Zurich|GTHost|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|103.167.68.255|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|20|187.17.166.66|92|Brazil|Birigui|Ensite Brasil Telecomunicações Ltda - ME|
 
 
 
