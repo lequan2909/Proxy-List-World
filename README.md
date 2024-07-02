@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|7|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|8|58.147.171.109|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|67.43.227.227|25773|Canada|Montreal|GloboTech Communications|
-|11|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|2|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|10|171.239.138.216|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|67.43.227.227|23905|Canada|Montreal|GloboTech Communications|
+|12|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
-|18|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|19|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|15|103.155.191.60|7777|Indonesia|Sumberjo|Trisula Media Data|
+|16|36.67.123.173|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|134.35.201.12|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|190.94.212.221|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|103.156.74.156|8080|Indonesia|Gianyar|PT Trika Global Media|
 
 
 
