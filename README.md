@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|15|154.82.63.63|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|16|5.189.146.57|80|Germany|Nuremberg|Contabo GmbH|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|192.228.100.57|3128|United States|Las Vegas|VegasNAP|
-|19|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|20|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|10|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|210.178.240.246|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|18|103.56.205.84|8080|Indonesia|Cirebon|Argon Data Communication|
+|19|51.38.38.132|3128|France|Gravelines|OVH SAS|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
