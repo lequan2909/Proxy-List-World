@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4969** proxies at the latest update. Usable proxies are below.
+> Scraper found **5151** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|488|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|298|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3099|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3281|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|94.156.144.228|3128|Bulgaria|Sofia|Belcloud LTD|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|13|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|14|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|15|190.2.211.146|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
-|16|103.54.80.193|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
-|17|192.228.100.57|3128|United States|Las Vegas|VegasNAP|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|72.10.160.90|28493|Canada|Montreal|GloboTech Communications|
-|20|154.82.63.226|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|221.118.79.16|8080|Japan|Toyota|AITAI|
+|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|13|27.147.145.185|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|72.10.160.90|6193|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|20.37.98.213|3128|Japan|Tokyo|Microsoft Corporation|
+|17|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|18|103.53.78.26|8080|Indonesia|Surabaya|INTI|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
