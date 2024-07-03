@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|69.30.255.229|3128|United States|Kansas City|WholeSale Internet|
+|2|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|3|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
 |4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|34.66.223.220|80|United States|Council Bluffs|Google LLC|
-|8|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|9|182.52.155.64|8080|Thailand|Uthai|TOT Public Company Limited|
-|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|11|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|12|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|16|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.160.62.254|8080|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|20|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|7|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|8|103.189.249.208|8080|Indonesia|Jepara|PT Berkah Media Kusuma Vision|
+|9|34.66.223.220|80|United States|Council Bluffs|Google LLC|
+|10|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|11|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|12|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|13|165.255.244.220|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|14|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|15|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|200.115.100.129|8080|Brazil|São Paulo|FiberPon telecom|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
