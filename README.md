@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4921** proxies at the latest update. Usable proxies are below.
+> Scraper found **4852** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|207|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|572|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|208|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|502|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|353|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2831|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|4|49.0.91.7|3128|Thailand|Bangkok|AIS-Fibre|
-|5|222.127.60.56|8083|Philippines|Lahug|Globe Telecom|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|10|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|11|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|12|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
-|13|117.68.38.152|20002|China|Rongcheng|China Telecom|
-|14|20.193.144.20|80|India|Pune|Microsoft Corporation|
-|15|145.239.239.33|3128|Poland|Warsaw|OVH SAS|
-|16|67.43.227.228|6039|Canada|Montreal|GloboTech Communications|
-|17|23.134.91.77|3128|France|Paris|GTHost|
-|18|67.43.236.21|8011|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|13041|Canada|Montreal|GloboTech Communications|
-|20|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|3|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|6|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|103.186.147.13|80|Vietnam|Ha GJong|THM Refrigeration Technicians Company Limited|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|11|20.193.144.20|80|India|Pune|Microsoft Corporation|
+|12|67.43.236.21|8011|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|31775|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|31775|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.21|8011|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|18|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|19|72.10.164.178|26143|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|31775|Canada|Montreal|GloboTech Communications|
 
 
 
