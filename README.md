@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|177.93.36.74|3128|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|2|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|5|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|6|15.204.151.144|31158|United States|Reston|OVH SAS|
-|7|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
-|8|129.150.48.1|3128|United States|Chicago|Oracle Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|13|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|15|67.43.236.20|24269|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.228|23237|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|24269|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|72.10.160.170|14513|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|182.253.109.11|8080|Indonesia|Semarang|Biznet Metronet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|103.165.157.235|8090|Indonesia|Purbalingga|MEGADATA-ISP|
+|11|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|12|107.172.209.246|8989|United States|Dallas|ColoCrossing|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|91.210.228.148|8080|Russia|Mugreyevskiy|Westlan LTD|
+|15|103.10.71.81|80|Indonesia|Situsaeur|PT Wadma Berkah Sedaya|
+|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|17|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|18|67.43.236.20|28939|Canada|Montreal|GloboTech Communications|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
