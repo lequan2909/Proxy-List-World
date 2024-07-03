@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|187.251.102.50|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|7|38.123.220.16|8080|Mexico|Ejido San Marcos Yachihuacaltepec|Cogent Communications|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|67.43.227.227|8141|Canada|Montreal|GloboTech Communications|
-|11|107.172.209.246|8989|United States|Dallas|ColoCrossing|
-|12|37.111.52.46|8081|Myanmar|Yangon|Telenor Myanmar|
-|13|67.43.228.253|6091|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|25319|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|67.43.227.227|8141|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|8141|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|6091|Canada|Montreal|GloboTech Communications|
-|19|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|20|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|7|47.238.192.169|9999|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|67.43.236.20|3431|Canada|Montreal|GloboTech Communications|
+|9|103.146.246.101|9310|Indonesia|Serpong|PT. SIGMA CIPTA CARAKA|
+|10|67.43.227.227|1095|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|1095|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|25319|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|67.43.228.253|18363|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|1095|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|67.43.227.227|1095|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|5029|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|1095|Canada|Montreal|GloboTech Communications|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
