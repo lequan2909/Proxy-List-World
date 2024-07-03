@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|3|107.172.209.246|8989|United States|Dallas|ColoCrossing|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|6|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|1|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|8|94.253.81.152|8080|Russia|Ivanteyevka|Itkm ISP|
-|9|101.255.158.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|10|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|15.204.151.144|31158|United States|Reston|OVH SAS|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
-|16|202.8.74.12|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|18|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|19|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|195.239.134.57|3128|Russia|Moscow|Sovam Teleport|
+|8|103.20.90.120|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
+|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|19|45.112.127.222|9191|Indonesia|Tangerang|FIBERNET|
+|20|34.140.150.176|3128|Belgium|Brussels|Google LLC|
 
 
 
