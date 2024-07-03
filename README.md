@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.47.131.246|8080|Spain|Madrid|Ginernet S.L.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|191.252.178.138|3128|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|15.204.216.229|8081|United States|Reston|OVH SAS|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|12|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|13|194.67.104.203|43093|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|15|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|72.10.160.170|20851|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|9343|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.252|2489|Canada|Montreal|GloboTech Communications|
-|19|61.75.151.106|9000|South Korea|Changwon|Korea Telecom|
-|20|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|194.67.104.203|43093|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|15.204.216.229|8081|United States|Reston|OVH SAS|
+|7|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|8|67.43.228.252|2489|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|9651|Canada|Montreal|GloboTech Communications|
+|10|61.75.151.106|9000|South Korea|Changwon|Korea Telecom|
+|11|67.43.228.251|11441|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|17573|Canada|Montreal|GloboTech Communications|
+|13|165.16.31.14|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.227.226|30467|Canada|Montreal|GloboTech Communications|
+|16|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|17|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|67.43.228.253|21873|Canada|Montreal|GloboTech Communications|
+|20|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 
 
 
