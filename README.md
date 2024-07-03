@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.194|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|3|200.115.100.129|8080|Brazil|São Paulo|FiberPon telecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|101.255.208.18|3129|Indonesia|Wanaherang|PT Remala Abadi|
-|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|51.38.38.132|3128|France|Gravelines|OVH SAS|
-|8|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|9|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|13|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|14|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
-|15|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.90|9379|Canada|Montreal|GloboTech Communications|
-|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|19|67.43.227.227|7657|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15781|Canada|Montreal|GloboTech Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|17|72.10.164.178|28391|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|32195|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
 
 
 
