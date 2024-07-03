@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.193.144.20|80|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |10|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
 |11|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|14|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|15|132.147.137.52|8080|United States|Kewanee|Nextlink Broadband|
-|16|72.10.160.173|4307|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|67.43.228.250|13729|Canada|Montreal|GloboTech Communications|
-|20|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|67.43.227.228|6423|Canada|Montreal|GloboTech Communications|
+|16|103.48.71.46|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|19|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|20|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 
 
 
