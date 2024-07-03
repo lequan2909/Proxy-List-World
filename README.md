@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|5|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|6|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|57.128.84.153|3128|France|Gravelines|OVH SAS|
 |7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
-|9|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|10|67.43.236.20|15017|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|67.43.236.20|15017|Canada|Montreal|GloboTech Communications|
-|14|186.125.218.147|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|15|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.160.90|7635|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|32377|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|7061|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|7635|Canada|Montreal|GloboTech Communications|
+|8|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|103.113.79.123|80|Indonesia|Jakarta|Indonesia Network Information Center|
+|11|194.180.189.124|3128|Finland|Helsinki|Hostkey B.V.|
+|12|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|13|67.43.228.253|9737|Canada|Montreal|GloboTech Communications|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|16|169.255.56.177|3128|Ghana|Accra|VIDOLU Group Pty Ltd-Web4Africa|
+|17|191.97.6.149|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
