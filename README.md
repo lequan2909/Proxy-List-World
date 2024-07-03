@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|107.172.209.246|8989|United States|Dallas|ColoCrossing|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|11|193.105.123.194|8123|Azerbaijan|Baku|Bulud Telecom LLC|
-|12|103.83.178.43|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|15|103.169.131.18|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|16|14.225.3.194|3128|Vietnam|Bac Ninh|Vietnam Posts and Telecommunications Group|
-|17|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|172.99.188.154|3128|Netherlands|Amsterdam|GTHost|
-|20|69.165.74.83|3128|Germany|Frankfurt am Main|LLC Baxet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|125.163.139.0|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|9|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|46.166.202.34|80|Russia|Tomsk|JSC Neotelecom|
+|13|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|14|14.225.3.194|3128|Vietnam|Bac Ninh|Vietnam Posts and Telecommunications Group|
+|15|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|18|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|34.140.150.176|3128|Belgium|Brussels|Google LLC|
 
 
 
