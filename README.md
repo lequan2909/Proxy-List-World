@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|200.39.120.45|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.126.178.198|3128|Singapore|Singapore|Google LLC|
-|6|20.193.144.20|80|India|Pune|Microsoft Corporation|
-|7|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|13|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|14|27.130.143.19|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|15|72.10.160.170|24399|Canada|Montreal|GloboTech Communications|
-|16|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|17|41.85.8.233|8080|South Africa|Cape Town|Frogfoot Networks|
-|18|45.234.61.1|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|20|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|4|14.233.150.97|8080|Vietnam|Hoi An|VNPT|
+|5|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
+|10|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|11|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|12|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|15|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|16|72.10.160.170|24399|Canada|Montreal|GloboTech Communications|
+|17|20.193.144.20|80|India|Pune|Microsoft Corporation|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|20|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
 
 
 
