@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4071** proxies at the latest update. Usable proxies are below.
+> Scraper found **4070** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|174|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|173|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|502|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|264|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|194.67.104.203|43093|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|15.204.216.229|8081|United States|Reston|OVH SAS|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|11|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|8.210.2.235|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|14|113.203.238.82|8080|Pakistan|Karachi|SHARP TELECOM (PRIVATE) LIMITED|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|188.244.38.227|7999|Russia|Moscow|2COM|
+|10|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|72.10.160.92|2275|Canada|Montreal|GloboTech Communications|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|23.166.88.14|3128|Switzerland|Zurich|GTHost|
+|15|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
 |16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|17|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.236.20|29993|Canada|Montreal|GloboTech Communications|
-|20|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|17|181.198.75.148|999|Ecuador|Guayaquil|Telconet S.A|
+|18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|19|45.5.196.62|9898|Brazil|Cascavel|Rpnet Informatica Ltda - ME|
+|20|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
 
 
 
