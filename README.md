@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|113.53.61.252|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|182.253.169.217|8080|Indonesia|Jakarta|BIZNET|
-|11|36.94.13.63|3128|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|12|202.12.82.1|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|51.68.187.130|8080|Germany|Limburg an der Lahn|OVH SAS|
-|15|103.189.116.18|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|103.164.117.186|3128|Indonesia|Jakarta|SOLUSINET|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|116.104.130.67|5000|Vietnam|Hanoi|Viettel Corporation|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|45.251.139.247|3129|United States| Los Angeles|Zenlayer Inc|
+|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|5.83.244.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|17|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|20|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
 
 
 
