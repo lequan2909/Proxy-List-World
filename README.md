@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.66.223.220|80|United States|Council Bluffs|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|154.82.63.126|40000|Hong Kong|Chai Wan|Starbow Ltd|
 |9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|12|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|13|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|191.97.6.149|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|18|72.10.160.90|15187|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|28391|Canada|Montreal|GloboTech Communications|
-|20|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
+|11|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|13|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|14|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|19|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|20|103.178.43.26|8080|Indonesia|Jakarta Pusat|PT PHATRIA INTI PERSADA|
 
 
 
