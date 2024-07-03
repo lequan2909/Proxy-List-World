@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|177.234.241.35|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|67.43.227.227|32527|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.94|5799|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|13|67.43.236.20|30163|Canada|Montreal|GloboTech Communications|
-|14|43.156.240.67|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.236.20|30163|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|21709|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|31561|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|20.201.114.207|3128|Brazil|São Paulo|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|67.43.227.227|13023|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|67.43.227.226|7597|Canada|Montreal|GloboTech Communications|
+|13|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|67.43.236.20|16477|Canada|Montreal|GloboTech Communications|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|17|67.43.228.253|1509|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|21709|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|16477|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
