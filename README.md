@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|182.253.109.11|8080|Indonesia|Semarang|Biznet Metronet|
-|12|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|190.43.92.92|999|Peru|Tacna|Telefonica Del Peru|
-|17|51.158.148.158|3128|France|Paris|Online S.A.S.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|206.189.92.47|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|182.253.109.11|8080|Indonesia|Semarang|Biznet Metronet|
+|11|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|17|103.113.79.124|9080|Indonesia|Jakarta|Indonesia Network Information Center|
 |18|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
