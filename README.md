@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|101.109.176.76|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|18667|Canada|Montreal|GloboTech Communications|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|19|67.43.227.227|1373|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|15051|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|19407|Canada|Montreal|GloboTech Communications|
+|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|13|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|72.10.164.178|19407|Canada|Montreal|GloboTech Communications|
+|16|180.148.4.194|8080|Vietnam|Hanoi|VNTT|
+|17|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|18|67.43.236.20|30715|Canada|Montreal|GloboTech Communications|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|67.43.228.251|16835|Canada|Montreal|GloboTech Communications|
 
 
 
