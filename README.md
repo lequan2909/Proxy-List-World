@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|72.183.130.136|8089|United States|Buda|Charter Communications|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.168.123.2|8080|Indonesia|Jakarta|LINTASARTA|
-|8|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|10|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|136.226.0.100|9401|Mexico|Mexico City|ZSCALER, INC.|
+|7|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|72.10.160.174|32047|Canada|Montreal|GloboTech Communications|
+|9|147.161.168.80|11197|Germany|Munich|Zscaler MUC1|
+|10|200.24.159.158|999|Ecuador|Cuenca|Negocios Y Telefonia Nedetel S.A|
 |11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
-|15|67.43.227.227|20707|Canada|Montreal|GloboTech Communications|
+|12|45.112.127.222|9191|Indonesia|Tangerang|FIBERNET|
+|13|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|14|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|15|69.165.74.83|3128|Germany|Frankfurt am Main|LLC Baxet|
 |16|67.43.227.227|20707|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|28015|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|15365|Canada|Montreal|GloboTech Communications|
-|19|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|20|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
+|17|72.10.160.92|15365|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|31721|Canada|Montreal|GloboTech Communications|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|67.43.227.227|20707|Canada|Montreal|GloboTech Communications|
 
 
 
