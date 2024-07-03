@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|4|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|5|164.163.43.102|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|171.240.181.225|4038|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|134.35.13.196|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|8|36.94.47.59|4480|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|11|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|12|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|13|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|14|124.106.116.34|1337|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|15|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|16|67.43.227.227|15821|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|29527|Canada|Montreal|GloboTech Communications|
-|18|145.239.239.33|3128|Poland|Warsaw|OVH SAS|
-|19|67.43.236.20|13947|Canada|Montreal|GloboTech Communications|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|103.159.195.193|8080|Indonesia|Demak|PT Giga Digital Nusantara|
+|12|67.43.227.227|32845|Canada|Montreal|GloboTech Communications|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|18|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|19|67.43.227.226|29527|Canada|Montreal|GloboTech Communications|
 |20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
