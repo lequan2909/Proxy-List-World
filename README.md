@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
 |2|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|5|190.43.92.92|999|Peru|Tacna|Telefonica Del Peru|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|36.94.13.63|3128|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|72.10.164.178|11763|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|4233|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|157.119.211.133|8080|India|Tirupati|Finecom Internet services Pvt Ltd|
-|17|122.3.159.79|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|7|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
+|8|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|72.10.164.178|4177|Canada|Montreal|GloboTech Communications|
+|14|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|15|67.43.227.227|13065|Canada|Montreal|GloboTech Communications|
+|16|134.35.249.238|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.227.226|31463|Canada|Montreal|GloboTech Communications|
+|19|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
