@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5026** proxies at the latest update. Usable proxies are below.
+> Scraper found **4931** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|168|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|696|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|393|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2811|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|69.30.255.229|3128|United States|Kansas City|WholeSale Internet|
-|11|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|16|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|18|72.10.164.178|31627|Canada|Montreal|GloboTech Communications|
-|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|34.66.223.220|80|United States|Council Bluffs|Google LLC|
+|8|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|9|182.52.155.64|8080|Thailand|Uthai|TOT Public Company Limited|
+|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|11|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|12|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|16|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|103.160.62.254|8080|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|20|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
 
 
 
