@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|3|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.250.130.111|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|6|38.199.30.171|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
-|7|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
-|8|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|9|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|12|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|13|89.46.249.248|25585|United Kingdom|London|Hydra Communications Ltd|
-|14|107.172.209.246|8989|United States|Dallas|ColoCrossing|
-|15|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|16|72.10.160.93|13991|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2033|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|15753|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|2033|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
+|5|34.126.178.198|3128|Singapore|Singapore|Google LLC|
+|6|182.93.82.191|8080|Nepal|Dharān|Subisu Cablenet|
+|7|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|8|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|190.104.129.38|22800|Paraguay|Asunción|Núcleo S.A.|
+|12|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|13|181.225.191.6|9992|Colombia|Medellín|Ufinet Panama S.A.|
+|14|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
+|15|72.10.160.93|13991|Canada|Montreal|GloboTech Communications|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|187.17.166.66|92|Brazil|Birigui|Ensite Brasil Telecomunicações Ltda - ME|
+|18|114.9.19.66|3127|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
+|19|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|20|67.43.227.228|6761|Canada|Montreal|GloboTech Communications|
 
 
 
