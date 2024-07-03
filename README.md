@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|69.165.74.83|3128|Germany|Frankfurt am Main|LLC Baxet|
+|3|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|182.253.109.11|8080|Indonesia|Semarang|Biznet Metronet|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|14.207.72.82|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|79.111.13.155|50625|Russia|Moscow|PJSC MegaFon|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
 |13|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|14|72.10.164.178|20189|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|20189|Canada|Montreal|GloboTech Communications|
-|16|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
-|17|67.43.228.253|24189|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15763|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|24189|Canada|Montreal|GloboTech Communications|
-|20|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|14|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|15|67.43.228.253|3777|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|15763|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|12487|Canada|Montreal|GloboTech Communications|
+|18|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|19|67.43.228.253|3777|Canada|Montreal|GloboTech Communications|
+|20|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
 
 
 
