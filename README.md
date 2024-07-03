@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|36.72.249.123|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.66.223.220|80|United States|Council Bluffs|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|9|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
-|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|8|103.58.74.233|8080|Bangladesh|Dhaka|BUSINESSNETWORK|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|36.94.13.63|3128|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|152.26.229.42|9443|United States|Huntersville|MCNC|
 |14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|15|195.201.57.123|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
-|16|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.170|2837|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|12183|Canada|Montreal|GloboTech Communications|
+|15|103.162.106.26|8090|Indonesia|Bogor|PT Kafilah Intermedia Nusantara|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|18|84.247.129.226|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
