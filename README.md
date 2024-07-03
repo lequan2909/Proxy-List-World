@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|36.72.249.123|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|13|67.43.228.253|26005|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26143|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|20.193.144.20|80|India|Pune|Microsoft Corporation|
-|17|67.43.227.227|27301|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|31775|Canada|Montreal|GloboTech Communications|
-|19|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
-|20|72.10.164.178|26143|Canada|Montreal|GloboTech Communications|
+|6|109.201.14.82|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|7|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|11|188.126.90.10|3128|Sweden|Stockholm|GleSYS AB|
+|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|34.126.178.198|3128|Singapore|Singapore|Google LLC|
+|18|182.93.82.191|8080|Nepal|Dharān|Subisu Cablenet|
+|19|45.122.228.10|8899|Australia|Seaforth|NETPTYLTD|
+|20|72.183.130.136|8089|United States|Buda|Charter Communications|
 
 
 
