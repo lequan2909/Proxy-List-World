@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|113.53.61.252|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|182.253.169.217|8080|Indonesia|Jakarta|BIZNET|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|222.127.60.56|8083|Philippines|Lahug|Globe Telecom|
-|15|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|69.165.74.83|3128|Germany|Frankfurt am Main|LLC Baxet|
+|9|49.0.91.7|8080|Thailand|Bangkok|AIS-Fibre|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|13|103.156.15.22|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|14|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|15|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|181.198.75.148|999|Ecuador|Guayaquil|Telconet S.A|
 |19|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|20|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|20|72.10.160.92|21551|Canada|Montreal|GloboTech Communications|
 
 
 
