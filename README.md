@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.210.2.235|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|182.253.122.156|8080|Indonesia|Surabaya|BIZNET|
-|7|49.49.90.116|8080|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|12|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
-|13|181.78.27.38|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|18|8.210.2.235|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|37.79.166.54|8080|Russia|Perm|Rostelecom networks|
-|20|20.193.144.20|80|India|Pune|Microsoft Corporation|
+|6|119.2.52.152|8282|Indonesia|Pugeran Maguwoharjo|GMEDIA|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|43.252.236.157|8080|Indonesia|Bogor|NET|
+|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|20|57.128.84.153|3128|France|Gravelines|OVH SAS|
 
 
 
