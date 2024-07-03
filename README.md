@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|49.49.90.116|8080|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|8.210.2.235|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
 |7|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|8|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|9|139.255.74.124|8080|Indonesia|Jakarta|PT. LINKNET|
+|10|103.153.63.154|1111|Indonesia|Rejoagung Satu|IMEDIANET|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|72.183.130.136|8089|United States|Buda|Charter Communications|
+|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|182.253.122.156|8080|Indonesia|Surabaya|BIZNET|
-|16|69.165.74.83|3128|Germany|Frankfurt am Main|LLC Baxet|
-|17|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|18|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|19|72.10.160.170|10127|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|2381|Canada|Montreal|GloboTech Communications|
+|15|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|16|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|17|103.134.220.128|1111|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|18|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
+|19|67.43.227.227|1765|Canada|Montreal|GloboTech Communications|
+|20|20.193.144.20|80|India|Pune|Microsoft Corporation|
 
 
 
