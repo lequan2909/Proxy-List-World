@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|61.75.151.106|9000|South Korea|Changwon|Korea Telecom|
-|5|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|152.26.229.42|9443|United States|Huntersville|MCNC|
-|8|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|9|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|10|15.204.216.229|8081|United States|Reston|OVH SAS|
-|11|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.228.251|24169|Canada|Montreal|GloboTech Communications|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|67.43.236.20|5253|Canada|Montreal|GloboTech Communications|
-|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|17|181.39.24.155|999|Ecuador|Quito|Telconet S.A|
-|18|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|19|36.72.249.123|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|20|128.199.204.169|1337|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|36.72.249.123|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.231.238.234|58080|Bangladesh|Dhaka|Carnival Internet|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|11|61.75.151.106|9000|South Korea|Changwon|Korea Telecom|
+|12|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|194.67.104.203|43093|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|16|176.222.224.1|8118|Czechia|Kladno|Cable-NET s.r.o.|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|19|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|20|67.43.236.20|32929|Canada|Montreal|GloboTech Communications|
 
 
 
