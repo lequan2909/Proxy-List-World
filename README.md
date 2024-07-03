@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|107.172.209.246|8989|United States|Dallas|ColoCrossing|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|154.120.245.154|8080|Zimbabwe|Harare|Maintainer Liquid Telecommunications Operations Limited|
-|14|36.94.47.59|4480|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|69.165.74.83|3128|Germany|Frankfurt am Main|LLC Baxet|
-|20|194.124.37.8|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|34.66.223.220|80|United States|Council Bluffs|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|154.120.245.154|8080|Zimbabwe|Harare|Maintainer Liquid Telecommunications Operations Limited|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|15|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|18|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|19|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|20|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
 
 
 
