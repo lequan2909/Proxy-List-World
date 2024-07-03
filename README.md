@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|203.128.73.122|8910|Indonesia|Jakarta|Neuviz|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|10|36.91.15.241|8080|Indonesia|Kartini|PT Telekomunikasi Indonesia|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|13|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|18|1.52.48.25|11111|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|8.210.2.235|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|9|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|10|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|11|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|12|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|14|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
+|15|72.10.164.178|12807|Canada|Montreal|GloboTech Communications|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|67.43.228.253|17007|Canada|Montreal|GloboTech Communications|
+|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|67.43.236.20|32813|Canada|Montreal|GloboTech Communications|
+|20|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 
 
 
