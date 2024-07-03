@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.210.2.235|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|182.160.113.77|80|Bangladesh|Dhaka|Aamra Networks Limited|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|103.218.25.169|58080|Bangladesh|Dhaka|Carnival Internet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|17|191.37.208.154|8080|Brazil|Major Sales|RODRIGUES & SARMENTO LTDA|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|5|190.187.163.2|999|Peru|Lima|Americatel Peru S.A.|
+|6|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|12|113.203.238.82|8080|Pakistan|Karachi|SHARP TELECOM (PRIVATE) LIMITED|
+|13|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|192.228.100.57|3128|United States|Las Vegas|VegasNAP|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|17|67.43.227.228|29299|Canada|Montreal|GloboTech Communications|
 |18|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|19|72.10.160.91|16841|Canada|Montreal|GloboTech Communications|
-|20|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|19|103.133.71.60|6776|Indonesia|Depok|PT Maxindo Mitra Solusi|
+|20|31.128.69.121|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
 
 
 
