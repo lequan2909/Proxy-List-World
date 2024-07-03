@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|192.228.100.57|3128|United States|Las Vegas|VegasNAP|
-|10|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
-|11|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|192.228.100.57|3128|United States|Las Vegas|VegasNAP|
+|9|157.119.211.133|8080|India|Tirupati|Finecom Internet services Pvt Ltd|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|12|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|145.239.239.33|3128|Poland|Warsaw|OVH SAS|
-|18|72.10.164.178|11351|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|18391|Canada|Montreal|GloboTech Communications|
-|20|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|72.10.164.178|11351|Canada|Montreal|GloboTech Communications|
+|16|145.239.239.33|3128|Poland|Warsaw|OVH SAS|
+|17|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|20|34.140.150.176|3128|Belgium|Brussels|Google LLC|
 
 
 
