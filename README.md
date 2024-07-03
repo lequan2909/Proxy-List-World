@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4903** proxies at the latest update. Usable proxies are below.
+> Scraper found **5021** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|168|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|599|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|691|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|367|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|393|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2811|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.236.54.118|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|34.66.223.220|80|United States|Council Bluffs|Google LLC|
-|9|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|10|154.82.63.52|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|154.82.63.182|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|13|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|14|154.82.63.28|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|154.82.63.178|40000|Hong Kong|Chai Wan|Starbow Ltd|
-|17|179.1.192.46|999|Colombia|Ibagué|INTERNEXA Brasil Operadora de TelecomunicaÔÔes S.A|
-|18|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|9|72.10.160.90|13719|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|31627|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|30137|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|67.43.227.227|33145|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|30137|Canada|Montreal|GloboTech Communications|
+|15|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|67.43.227.226|3007|Canada|Montreal|GloboTech Communications|
+|17|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|20|67.43.228.250|15539|Canada|Montreal|GloboTech Communications|
 
 
 
