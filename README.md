@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.193.144.20|80|India|Pune|Microsoft Corporation|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
-|12|72.183.130.136|8089|United States|Buda|Charter Communications|
-|13|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|14|67.43.227.227|13759|Canada|Montreal|GloboTech Communications|
-|15|103.166.227.85|8080|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|16|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
-|17|72.10.164.178|4133|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|19171|Canada|Montreal|GloboTech Communications|
+|4|36.94.30.238|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|103.156.15.22|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|15|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|16|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|17|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |19|20.193.144.20|80|India|Pune|Microsoft Corporation|
-|20|67.43.227.226|20913|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|19171|Canada|Montreal|GloboTech Communications|
 
 
 
