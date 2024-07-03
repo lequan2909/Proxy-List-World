@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|5|38.22.175.134|8080|Mexico|Pueblo Viejo|Cogent Communications|
-|6|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|67.43.236.20|22251|Canada|Montreal|GloboTech Communications|
-|17|145.239.239.33|3128|Poland|Warsaw|OVH SAS|
-|18|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|19|39.129.73.6|443|China|Kunming|China Mobile|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|182.253.109.11|8080|Indonesia|Semarang|Biznet Metronet|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|14.207.72.82|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|7|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
+|8|154.83.15.79|8080|Hong Kong|Hong Kong|Yisu Cloud LTD|
+|9|46.229.235.158|8088|Slovakia|Bratislava|VNET|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|79.111.13.155|50625|Russia|Moscow|PJSC MegaFon|
+|14|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|15|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|16|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|18|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
 
 
 
