@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|36.94.13.63|3128|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|10|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|182.253.109.11|8080|Indonesia|Semarang|Biznet Metronet|
-|12|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|67.43.228.253|8971|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
