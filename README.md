@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|201.150.9.53|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
-|5|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
-|6|69.165.74.83|3128|Germany|Frankfurt am Main|LLC Baxet|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|67.43.236.20|3431|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|3431|Canada|Montreal|GloboTech Communications|
-|10|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|11|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|12|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|13|72.10.160.90|27745|Canada|Montreal|GloboTech Communications|
-|14|82.165.180.64|3128|Germany|Essen|IONOS SE|
-|15|72.10.164.178|29471|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|18|72.10.160.91|27745|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|182.253.109.11|8080|Indonesia|Semarang|Biznet Metronet|
+|5|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|94.26.194.194|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|11|67.43.236.20|23301|Canada|Montreal|GloboTech Communications|
+|12|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|13|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|14|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|82.165.180.64|3128|Germany|Essen|IONOS SE|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|67.43.228.250|17549|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|14921|Canada|Montreal|GloboTech Communications|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
