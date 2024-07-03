@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.72.249.123|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.80.230.21|8080|Indonesia|Medan|PT Dream Network Solusindo|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|10|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|137.220.95.140|3128|United Kingdom|London|Hyperoptic Ltd.|
-|13|159.192.139.178|8080|Thailand|Samphanthawong|CAT-BB|
-|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.228.253|26005|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|24587|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|26005|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|18473|Canada|Montreal|GloboTech Communications|
-|20|72.183.130.136|8089|United States|Buda|Charter Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|69.75.140.157|8080|United States|Upland|Spectrum|
+|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|182.93.82.191|8080|Nepal|Dharān|Subisu Cablenet|
+|16|67.43.236.20|27917|Canada|Montreal|GloboTech Communications|
+|17|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|18|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|19|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|20|67.43.228.253|26005|Canada|Montreal|GloboTech Communications|
 
 
 
