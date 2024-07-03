@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|36.72.249.123|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.35.21.197|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|6|134.35.130.138|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|7|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|14.43.214.64|3128|South Korea|Hapcheon-gun|Korea Telecom|
-|12|38.54.33.238|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|67.43.227.227|32275|Canada|Montreal|GloboTech Communications|
-|17|194.67.104.203|43093|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|18|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|16|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
+|18|67.43.227.227|1543|Canada|Montreal|GloboTech Communications|
+|19|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|20|72.10.164.178|30101|Canada|Montreal|GloboTech Communications|
 
 
 
