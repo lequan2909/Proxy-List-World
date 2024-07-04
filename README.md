@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|9|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|10|186.16.14.104|3131|Paraguay|Luque|Telecel S.A.|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |12|172.183.241.1|8080|United States|Chicago|Microsoft|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|38.41.5.85|999|Venezuela|Ocumare|MDS TELECOM C.A.|
-|15|72.10.164.178|8659|Canada|Montreal|GloboTech Communications|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|67.43.227.227|30357|Canada|Montreal|GloboTech Communications|
-|18|191.97.16.74|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|15|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|187.188.101.205|999|Mexico|Union de Credito Agricola de Hermosillo|Total Play Telecomunicaciones SA De CV|
+|19|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 
 
 
