@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|154.82.63.178|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|7|34.41.132.8|80|United States|Council Bluffs|Google LLC|
-|8|20.190.104.113|80|Australia|Melbourne|Microsoft Corporation|
-|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|103.187.146.18|888|Indonesia|Jakarta|Cloud Host Pte Ltd|
-|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|70.90.138.109|8080|United States|Ann Arbor|Comcast Cable Communications, LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
+|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|24.172.82.94|53281|United States|Concord|Spectrum|
-|19|154.82.63.178|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|13231|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|25883|Canada|Montreal|GloboTech Communications|
+|19|94.154.152.116|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|20|20.190.104.113|80|Australia|Melbourne|Microsoft Corporation|
 
 
 
