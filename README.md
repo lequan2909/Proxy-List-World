@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|36.73.133.101|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|7|185.233.247.186|8080|Türkiye|Reyhanlı|Veganet Teknolojileri ve Hizmetleri LTD STI|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|24.172.82.94|53281|United States|Concord|Spectrum|
-|10|24.204.29.115|8080|United States|Longview|Network IP|
-|11|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
-|12|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
-|13|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|31411|Canada|Montreal|GloboTech Communications|
+|6|61.19.109.236|8080|Thailand|Bangkok|CAT-ISP|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|9|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
+|14|24.204.29.115|8080|United States|Longview|Network IP|
+|15|103.187.146.18|888|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|20.193.144.20|80|India|Pune|Microsoft Corporation|
 |18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.228|21621|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|72.10.160.171|18705|Canada|Montreal|GloboTech Communications|
 
 
 
