@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.137.52.85|100|Bangladesh|Dhaka|Aamra Networks Limited|
-|4|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|8|213.19.123.178|229|Czechia|Dolni Ujezd|FORTECH|
-|9|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|10|103.79.143.12|2256|Vietnam|Văn Quán|CADI|
-|11|107.172.209.246|8989|United States|Dallas|ColoCrossing|
-|12|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
-|13|191.97.16.74|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|14|109.86.182.203|3128|Ukraine|Kharkiv|Triolan|
-|15|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|16|143.198.95.133|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|3|110.78.149.109|8080|Thailand|Bangkok|CAT-BB|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|14|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|15|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|16|107.172.209.246|8989|United States|Dallas|ColoCrossing|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
