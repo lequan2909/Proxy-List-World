@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|16|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|19|34.126.178.198|3128|Singapore|Singapore|Google LLC|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|11|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|185.244.150.224|3128|The Netherlands|Capelle aan den IJssel|Host Sailor Ltd|
 
 
 
