@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|164.163.43.102|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|13|72.2.102.228|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|38.91.101.96|8850|United States|New York|GTHost|
-|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|17|72.10.164.178|8721|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|8293|Canada|Montreal|GloboTech Communications|
-|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|124.122.137.180|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|20|103.194.172.130|8080|Indonesia|Bandung|MYNET|
 
 
 
