@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.87.169.151|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|10|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|11|188.132.150.199|8080|Turkey|Bahçelievler|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|13|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|16|45.190.79.251|999|Mexico|Cuquío|Meta Networks SA De CV|
-|17|8.210.2.235|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|102.68.131.31|8080|Libya|Tripoli|Rawafed|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|210.247.253.36|3128|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|91.228.53.239|4128|Germany|Düsseldorf|comtrance service GmbH|
+|20|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 
 
 
