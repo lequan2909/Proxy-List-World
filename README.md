@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.124.87.144|3128|Vietnam|Phúc Lai|BKNS|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
-|14|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|103.136.82.252|83|India|Ranchi|Protoact Digital Network Pvt. Ltd|
-|17|20.193.144.20|80|India|Pune|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|69.165.74.83|3128|Germany|Frankfurt am Main|LLC Baxet|
+|3|103.156.15.101|1111|Indonesia|Pondok Bambu|PT Lintas Jaringan Nusantara|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|107.172.209.246|8989|United States|Dallas|ColoCrossing|
+|11|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.193.144.20|80|India|Pune|Microsoft Corporation|
+|16|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|20|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
 
 
 
