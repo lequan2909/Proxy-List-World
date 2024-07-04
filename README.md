@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |2|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|5|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|8|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|202.93.245.46|8080|Indonesia|Mojokerto|DWPNAP|
-|11|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|12|23.166.88.217|3128|Switzerland|Zurich|GTHost|
-|13|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|7|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
+|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|11|61.19.109.236|8080|Thailand|Bangkok|CAT-ISP|
+|12|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|57.128.84.153|3128|France|Gravelines|OVH SAS|
 |15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |17|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|201.71.3.22|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
