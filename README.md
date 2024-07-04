@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|7|20.190.104.113|80|Australia|Melbourne|Microsoft Corporation|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|11|103.28.17.1|8080|Indonesia|Jakarta|PT Centrix Media Teknologi|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|15|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|152.42.245.98|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
-|20|84.247.129.226|3128|Germany|Düsseldorf|Contabo GmbH|
+|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|36.73.133.101|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|11|103.178.43.21|8080|Indonesia|Jakarta|PT PHATRIA INTI PERSADA|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
+|15|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|203.57.255.139|3128|China|Wenquan|Cloud Computing Corporation|
 
 
 
