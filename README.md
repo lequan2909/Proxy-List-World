@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|6|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|7|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|8|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
-|12|154.82.63.126|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|154.82.63.252|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|67.43.236.20|11919|Canada|Montreal|GloboTech Communications|
-|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|18|72.10.164.178|4169|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|67.43.227.226|16659|Canada|Montreal|GloboTech Communications|
+|3|203.146.170.109|3128|Thailand|Bangkok|CS Loxinfo Public Company Limited|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|210.103.95.118|8080|South Korea|Yeonje-gu|Korea Telecom|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|165.225.106.128|30001|India|Mumbai|ZSCALER, INC.|
+|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
