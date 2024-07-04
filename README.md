@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|2|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|3|91.231.61.241|443|Poland|Krakow|FIRMA USLUGOWO-HANDLOWA "AG-net" JOANNA MACZENSKA|
-|4|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|5|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
+|3|42.96.13.221|3557|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
 |6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|203.150.128.46|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|45.124.87.144|3128|Vietnam|Phúc Lai|BKNS|
-|11|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|12|210.245.83.71|1803|Vietnam|Hanoi|FPT Telecom Company|
-|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|16|67.43.227.228|25923|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|41.77.7.234|3129|Zambia|Chililabombwe|Airtel Zambia|
-|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|20|72.10.164.178|26261|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|9|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|10|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|12|103.166.33.110|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
+|13|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
+|14|43.252.236.157|8080|Indonesia|Bogor|NET|
+|15|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|20|103.163.244.4|83|India|Panipat|Infolink System|
 
 
 
