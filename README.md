@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|4|217.52.247.77|1976|Egypt|Cairo|Etisalat Misr|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|10|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|11|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|12|210.247.252.4|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|14|34.126.178.198|3128|Singapore|Singapore|Google LLC|
-|15|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|43.252.236.157|8080|Indonesia|Bogor|NET|
-|18|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
-|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|20|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|45.124.87.144|3128|Vietnam|Phúc Lai|BKNS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|15.204.216.229|8081|United States|Reston|OVH SAS|
+|13|107.172.209.246|8989|United States|Dallas|ColoCrossing|
+|14|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|17|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|18|34.126.178.198|3128|Singapore|Singapore|Google LLC|
+|19|202.29.222.254|8080|Thailand|Bangkok|Office of Info.Tech. Admin. for Educational Development|
+|20|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
 
 
 
