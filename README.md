@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.2.235|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|8|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|17|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|18|67.43.227.228|16601|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|20.193.144.20|80|India|Pune|Microsoft Corporation|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|67.43.236.22|28607|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|103.189.123.149|80|Indonesia|Bandung|PT Ikhlas Cipta Teknologi|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|10|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|107.172.209.246|8989|United States|Dallas|ColoCrossing|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|20|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
 
 
 
