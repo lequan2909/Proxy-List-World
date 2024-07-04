@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.133.10.165|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|15.204.151.141|31158|United States|Reston|OVH SAS|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|3|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|202.47.188.94|5566|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
 |10|57.128.84.153|3128|France|Gravelines|OVH SAS|
 |11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|13|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|18|103.126.86.200|3127|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|43.133.10.165|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.148.130.50|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
