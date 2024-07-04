@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 |3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|5|102.68.131.31|8080|Libya|Tripoli|Rawafed|
-|6|45.201.134.38|8080|Cambodia|Phnom Penh|EZECOM Co., Ltd.|
-|7|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
-|8|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|9|77.48.22.49|33347|Czechia|Plumlov|Vodafone Czech Republic|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|77.48.22.49|33347|Czechia|Plumlov|Vodafone Czech Republic|
+|6|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|103.126.86.200|3127|Indonesia|Purworejo|PT. Rasi Bintang Perkasa|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|13|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|16|43.252.236.157|8080|Indonesia|Bogor|NET|
-|17|131.100.48.97|999|Colombia|Neiva|Fibernet TV SAS|
-|18|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|11|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
+|12|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.177.235.132|82|India|Bengaluru|Coastal Live Channel|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
