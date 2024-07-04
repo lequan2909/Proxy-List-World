@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|59.9.27.95|3128|South Korea|Pocheon-si|Korea Telecom|
-|3|210.247.252.184|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|210.247.252.34|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|180.178.40.26|3128|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|19|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|190.60.36.78|8080|Colombia|Corozal|IFX NETWORKS COLOMBIA|
+|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|12|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|187.17.166.66|92|Brazil|Birigui|Ensite Brasil Telecomunicações Ltda - ME|
+|16|5.165.18.187|8080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|17|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|18|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|19|103.134.220.128|1111|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
