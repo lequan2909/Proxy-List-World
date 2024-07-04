@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|27.50.29.82|8080|Indonesia|South Tangerang|PT. Mora Telematika Indonesia|
 |9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |10|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|157.15.80.20|7777|Indonesia|Menggala|PT Digitama Network Indonesia|
-|14|129.150.48.1|3128|United States|Chicago|Oracle Corporation|
-|15|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|16|27.147.131.41|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
-|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|20|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|15|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|129.150.48.1|3128|United States|Chicago|Oracle Corporation|
+|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
