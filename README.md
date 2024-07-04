@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
+|4|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|5|154.82.63.252|40000|Hong Kong|Hong Kong|Starbow Ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|154.82.63.133|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|9|154.82.63.126|40000|Hong Kong|Hong Kong|Starbow Ltd|
 |10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|154.82.63.126|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|178.130.94.9|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|18|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|19|118.99.127.224|8080|Indonesia|Malang|Biznet Metronet|
-|20|72.10.164.178|2563|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
 
 
 
