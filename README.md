@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|103.203.175.33|84|India|Hyderabad|Softgaurd Powertronics|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|9|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |19|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|20|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
