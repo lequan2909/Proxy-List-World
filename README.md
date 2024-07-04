@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
-|8|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|9|103.57.80.51|58080|India|Bengaluru|Allnet Broadband Network Pvt Ltd|
-|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|12|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|13|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|14|185.132.125.4|24099|Hong Kong|Hong Kong|M247 Europe SRL|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.228.253|1671|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|5|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
