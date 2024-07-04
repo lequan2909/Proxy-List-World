@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|4|8.210.2.235|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|16|67.43.228.250|11341|Canada|Montreal|GloboTech Communications|
-|17|164.163.43.102|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|110.34.13.4|8080|Nepal|Kathmandu|Subisu Cablenet|
+|14|190.94.212.165|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|16|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
+|17|67.43.228.250|11341|Canada|Montreal|GloboTech Communications|
 |18|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|19|67.43.227.228|1433|Canada|Montreal|GloboTech Communications|
+|20|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
