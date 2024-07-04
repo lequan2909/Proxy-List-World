@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|158.255.212.55|9300|Austria|Vienna|EDIS GmbH|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 |6|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|8|172.99.188.154|3128|Netherlands|Amsterdam|GTHost|
-|9|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|10|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|11|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|15.204.216.229|20135|United States|Reston|OVH SAS|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|13|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|14|172.99.188.154|3128|Netherlands|Amsterdam|GTHost|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|18|154.82.63.226|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|20|154.82.63.182|40000|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
