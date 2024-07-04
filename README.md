@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|5|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|18|14.225.3.194|3128|Vietnam|Bac Ninh|Vietnam Posts and Telecommunications Group|
-|19|103.247.23.65|2022|Indonesia|Bekasi|PT wifian Solution|
-|20|67.43.227.228|13957|Canada|Montreal|GloboTech Communications|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|7|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|8|27.50.29.82|8080|Indonesia|South Tangerang|PT. Mora Telematika Indonesia|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|20|157.15.80.20|7777|Indonesia|Menggala|PT Digitama Network Indonesia|
 
 
 
