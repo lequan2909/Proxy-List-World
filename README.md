@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|1.10.211.114|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|103.218.25.169|58080|Bangladesh|Dhaka|Carnival Internet|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|20.193.144.20|80|India|Pune|Microsoft Corporation|
-|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|18|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
-|19|191.97.16.74|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|20|67.43.228.253|6233|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|36.73.133.101|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|10|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.193.144.20|80|India|Pune|Microsoft Corporation|
+|13|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|14|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|15|123.49.44.103|80|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|103.195.16.2|8080|India|Alwar|Alwar Online Pvt. Ltd|
+|19|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
 
 
 
