@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5084** proxies at the latest update. Usable proxies are below.
+> Scraper found **4959** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|218|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|768|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|643|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|470|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2670|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|45.71.3.52|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|8|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|9|91.228.53.239|4128|Germany|Düsseldorf|comtrance service GmbH|
-|10|36.67.123.173|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|14|34.126.178.198|3128|Singapore|Singapore|Google LLC|
-|15|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
-|16|67.43.227.227|5113|Canada|Montreal|GloboTech Communications|
-|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|11|67.43.227.227|5113|Canada|Montreal|GloboTech Communications|
+|12|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|67.43.236.20|25921|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|209.18.52.160|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|16|72.10.160.91|18813|Canada|Montreal|GloboTech Communications|
+|17|72.2.102.226|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|20|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
