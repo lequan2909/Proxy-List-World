@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|95.216.147.59|3128|Finland|Helsinki|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|182.191.84.39|80|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|7|103.154.91.182|8080|Indonesia|Penggilingan|MORATELINDONAP|
 |8|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
-|9|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|10|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|11|72.10.160.94|8585|Canada|Montreal|GloboTech Communications|
-|12|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
-|13|180.179.35.244|9889|India|Mumbai|NetMagic Solutions Pvt Ltd|
-|14|67.43.228.250|22843|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|6843|Canada|Montreal|GloboTech Communications|
-|16|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|17|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|18|67.43.228.253|17301|Canada|Montreal|GloboTech Communications|
-|19|49.70.175.219|34150|China|Shanghai|Chinanet|
-|20|34.126.178.198|3128|Singapore|Singapore|Google LLC|
+|9|185.82.98.222|9094|Lebanon|Tripoli|Protected|
+|10|177.234.212.190|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|13|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|14|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|15|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|17|209.18.49.62|8080|United States|Northampton|Carbon Lehigh Intermediate Unit 21|
+|18|72.10.160.94|8585|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.251|4139|Canada|Montreal|GloboTech Communications|
+|20|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
 
 
 
