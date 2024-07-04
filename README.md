@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|222.127.60.56|8083|Philippines|Lahug|Globe Telecom|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|11|123.49.44.103|80|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|1.10.211.114|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|8|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|171.245.118.203|5002|Vietnam|Quảng Ninh|Viettel Corporation|
+|12|31.13.212.50|3128|Bulgaria|Sofia|DarkNet Ltd|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|45.233.67.210|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
+|18|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|19|67.43.236.20|3343|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
