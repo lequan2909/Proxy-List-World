@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|38.91.101.96|8850|United States|New York|GTHost|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|202.89.74.202|8080|India|Ropar|WORLDPHONE|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|178.128.18.220|1337|Singapore|Singapore|DigitalOcean, LLC|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|16|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
-|17|72.10.160.170|1947|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|72.2.102.227|8080|United States|Allentown|Carbon Lehigh Intermediate Unit 21|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|13|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|14|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|15|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.238.210.31|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |18|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|20|72.10.160.170|27987|Canada|Montreal|GloboTech Communications|
 
 
 
