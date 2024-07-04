@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|42.116.153.152|4003|Vietnam|Hanoi|FPT Telecom Company|
-|4|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
-|7|103.125.50.223|8080|Indonesia|Pondok Bambu|PT. Eka Mas Republik|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.166.33.110|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|10|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.69.193.148|1311|Vietnam|Thanh Xuân District|SOHA|
-|15|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
-|16|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|17|186.148.195.168|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|42.96.13.221|3557|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
-|20|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|75.144.206.153|31280|United States|Wallingford|Comcast Cable Communications, LLC|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|16|172.99.188.154|3128|Netherlands|Amsterdam|GTHost|
+|17|61.19.109.236|8080|Thailand|Bangkok|CAT-ISP|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
