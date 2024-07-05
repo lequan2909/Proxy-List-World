@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|38.91.101.96|8850|United States|New York|GTHost|
 |4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|119.76.142.167|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|15|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
-|16|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|7|34.126.178.198|3128|Singapore|Singapore|Google LLC|
+|8|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|11|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|17|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|18|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
+|19|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|20|177.124.38.231|3128|Brazil|Ribeirao do Ouro|SN Internet Navegantes Ltda ME|
 
 
 
