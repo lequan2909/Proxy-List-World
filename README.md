@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|10|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
-|13|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|210.245.83.71|1803|Vietnam|Hanoi|FPT Telecom Company|
-|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|18|67.43.236.22|31967|Canada|Montreal|GloboTech Communications|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|72.10.160.170|8473|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|7|210.245.83.71|1803|Vietnam|Hanoi|FPT Telecom Company|
+|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|179.50.90.164|8118|Colombia|Medellín|GTD COLOMBIA|
+|11|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|14|210.245.83.71|1803|Vietnam|Hanoi|FPT Telecom Company|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|72.10.164.178|4343|Canada|Montreal|GloboTech Communications|
 
 
 
