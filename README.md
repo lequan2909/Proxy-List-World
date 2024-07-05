@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|123.49.44.103|80|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|167.103.10.106|11197|Japan|Tokyo|ZSCALER, INC.|
-|14|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|17|136.226.254.183|11197|India|Mumbai|ZSCALER, INC.|
-|18|136.226.238.174|11197|Japan|Tokyo|ZSCALER, INC.|
-|19|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
-|20|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|4|45.14.245.247|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|43.134.16.101|3333|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|14|136.226.254.183|11197|India|Mumbai|ZSCALER, INC.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|17|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|136.226.238.174|11197|Japan|Tokyo|ZSCALER, INC.|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
