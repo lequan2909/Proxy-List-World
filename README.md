@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|124.217.97.131|8080|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|9|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|10|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|11|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
-|12|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|14|72.10.160.92|23157|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|22903|Canada|Montreal|GloboTech Communications|
-|17|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|15.204.216.229|9329|United States|Reston|OVH SAS|
+|2|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|4|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|5|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|116.68.170.115|8019|Indonesia|Jakarta||
+|8|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|9|36.85.75.46|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|13|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|38.56.23.193|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|15.204.216.229|2256|United States|Reston|OVH SAS|
+|18|72.10.160.92|23157|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
