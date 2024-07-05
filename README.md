@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|196.250.239.229|8787|South Africa|Cape Town|West Indian Ocean Cable Company|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
 |10|69.165.74.83|3128|Germany|Frankfurt am Main|LLC Baxet|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|18|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
-|19|185.105.16.241|8080|Spain|Valencia|Carrier Enabler announced IPs|
-|20|45.229.10.98|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
+|11|185.111.167.124|8080|Ukraine|Shchyolkino|AziNet|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|19|202.150.153.218|8080|Indonesia|Bandung|PT Comtronics Systems|
+|20|32.140.234.250|83|United States|Cuyahoga Falls|AT&T Services, Inc.|
 
 
 
