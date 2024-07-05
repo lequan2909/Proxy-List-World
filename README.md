@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|38.91.101.96|8850|United States|New York|GTHost|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|72.10.160.94|20299|Canada|Montreal|GloboTech Communications|
-|10|103.184.4.42|3535|India|Mumbai|Web Werks India Pvt. Ltd.|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|13|72.10.164.178|2155|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.254|19755|Canada|Montreal|GloboTech Communications|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|72.10.164.178|2155|Canada|Montreal|GloboTech Communications|
-|17|45.14.245.247|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|18|72.10.160.92|21883|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|20077|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|20077|Canada|Montreal|GloboTech Communications|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|51.254.220.89|3128|France|Gravelines|OVH SAS|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|45.14.245.247|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|10|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|14|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|15|202.57.25.152|8099|Indonesia|Semarang|announced of WINET|
+|16|134.35.46.2|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|17|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|190.60.36.78|8080|Colombia|Corozal|IFX NETWORKS COLOMBIA|
+|20|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
 
 
 
