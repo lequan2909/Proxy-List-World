@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|45.152.188.241|3128|United States|Washington|Cogent Communications|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|15.204.216.229|8081|United States|Reston|OVH SAS|
-|17|121.100.19.82|7088|Indonesia|Malang|NAP.Net.id - Network Access Point|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|17|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
 |18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|20|181.209.77.250|999|Argentina|Maria Grande|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
 
 
 
