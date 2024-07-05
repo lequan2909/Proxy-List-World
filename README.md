@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|9|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
-|10|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|72.10.160.90|18889|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|12683|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|109.109.166.176|8103|United Kingdom|Knutsford|Vispa Limited|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|11|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|12|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|TBKNET|
+|13|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|14|27.76.181.42|8080|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|18|124.217.97.131|8080|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
 
 
 
