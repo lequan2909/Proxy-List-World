@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|67.43.236.20|5017|Canada|Montreal|GloboTech Communications|
-|15|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|16|72.10.160.174|11959|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|21841|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|4247|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.250|21841|Canada|Montreal|GloboTech Communications|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|13|172.233.120.89|8000|Spain|Madrid|Akamai Technologies, Inc.|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
