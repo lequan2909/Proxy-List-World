@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|118.99.127.114|8080|Indonesia|Malang|Biznet Metronet|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|8|154.82.63.52|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |10|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|13|204.111.233.60|8888|United States|Farmville|Shenandoah Cable Television LLC|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|154.82.63.159|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|16|171.229.210.228|10000|Vietnam|Hanoi|Viettel Corporation|
-|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|19|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|11|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|12|217.197.237.74|8080|Russia|St Petersburg|SEVEREN|
+|13|15.204.216.229|9140|United States|Reston|OVH SAS|
+|14|107.172.209.246|8989|United States|Dallas|ColoCrossing|
+|15|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|20|210.245.83.71|1803|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
