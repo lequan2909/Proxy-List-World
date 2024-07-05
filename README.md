@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|4|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|103.175.237.4|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|45.122.228.10|8899|Australia|Seaforth|NETPTYLTD|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|72.10.164.178|18957|Canada|Montreal|GloboTech Communications|
-|20|103.218.25.169|58080|Bangladesh|Dhaka|Carnival Internet|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|38.91.101.96|8850|United States|New York|GTHost|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|168.181.196.76|8080|Brazil|Alfredo Chaves|Windx Telecomunicações|
 
 
 
