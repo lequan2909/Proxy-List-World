@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|51.8.224.206|9000|Germany|Magdeburg|Microsoft Germany|
-|4|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.216.229|9329|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|5|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.193.144.20|80|India|Pune|Microsoft Corporation|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|67.43.236.20|17203|Canada|Montreal|GloboTech Communications|
-|19|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|9|182.253.36.52|33128|Indonesia|Sukabumi|BIZNET|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|20.193.144.20|80|India|Pune|Microsoft Corporation|
 |20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
