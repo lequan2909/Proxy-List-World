@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.216.229|9864|United States|Reston|OVH SAS|
-|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|9|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|103.170.22.51|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
-|12|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|17|20.193.144.20|80|India|Pune|Microsoft Corporation|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|104.129.194.43|54321|United States|Reston|ZSCALER, INC.|
-|20|165.225.72.38|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
+|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|15.204.216.229|20135|United States|Reston|OVH SAS|
+|10|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|200.53.18.198|8080|Brazil|São Bento do Sul|Acessoline Telecom|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
