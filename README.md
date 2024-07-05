@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.216.229|2256|United States|Reston|OVH SAS|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|5|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
 |6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|7|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|11|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
-|12|38.156.191.232|999|Mexico|Aguascalientes|Digy Networks S.A De C.V.|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
-|16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|17|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.172|31733|Canada|Montreal|GloboTech Communications|
-|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|9|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
+|10|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|20|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
 
 
 
