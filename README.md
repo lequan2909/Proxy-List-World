@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|6|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|3|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|15.204.216.229|9329|United States|Reston|OVH SAS|
-|12|67.43.236.20|25125|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|30305|Canada|Montreal|GloboTech Communications|
-|14|15.204.216.229|9329|United States|Reston|OVH SAS|
-|15|67.43.227.227|30305|Canada|Montreal|GloboTech Communications|
-|16|45.95.174.121|31280|France|Strasbourg|Host Europe|
-|17|15.204.216.229|9329|United States|Reston|OVH SAS|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.164.178|15925|Canada|Montreal|GloboTech Communications|
-|20|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
+|8|109.109.166.176|8103|United Kingdom|Knutsford|Vispa Limited|
+|9|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
+|10|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|11|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|12|164.163.42.5|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|15.204.216.229|8081|United States|Reston|OVH SAS|
+|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|19|15.204.216.229|8081|United States|Reston|OVH SAS|
+|20|67.43.227.227|30305|Canada|Montreal|GloboTech Communications|
 
 
 
