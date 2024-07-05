@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|210.247.252.194|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|14|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|15|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|16|210.247.252.4|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|17|103.69.21.192|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|19|210.247.252.242|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|154.82.63.127|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
 
 
 
