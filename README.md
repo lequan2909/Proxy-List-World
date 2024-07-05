@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
 |9|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|13|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|80.66.81.27|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 |14|210.245.83.71|1803|Vietnam|Hanoi|FPT Telecom Company|
 |15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|15.204.216.229|8081|United States|Reston|OVH SAS|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|20|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|18|45.122.228.10|8899|Australia|Seaforth|NETPTYLTD|
+|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|20|15.204.216.229|13051|United States|Reston|OVH SAS|
 
 
 
