@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|7|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|8|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.158.148.158|3128|France|Paris|Online S.A.S.|
-|10|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|82.165.180.64|3128|France|Paris|IONOS SE|
-|14|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|15|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|16|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|17|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|18|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|20|49.49.12.22|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|14|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|16|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|17|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|18|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
