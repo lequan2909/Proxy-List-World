@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|34.126.178.198|3128|Singapore|Singapore|Google LLC|
-|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|9|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|8|103.79.143.12|2256|Vietnam|Văn Quán|CADI|
+|9|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|14|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|15|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|16|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|17|82.165.180.64|3128|France|Paris|IONOS SE|
-|18|38.91.101.96|8850|United States|New York|GTHost|
-|19|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|20|119.76.142.167|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|11|20.193.144.20|80|India|Pune|Microsoft Corporation|
+|12|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|16|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|17|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|18|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|19|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
