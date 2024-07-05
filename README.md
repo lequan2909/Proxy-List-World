@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|38.91.101.96|8850|United States|New York|GTHost|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|49.49.148.122|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|8|104.129.199.51|10160|United States|Los Angeles|ZSCALER, INC.|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|15.204.216.229|9329|United States|Reston|OVH SAS|
-|17|72.10.160.90|25271|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|25271|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|28809|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|20419|Canada|Montreal|GloboTech Communications|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
+|8|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|14|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|49.49.148.122|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|17|72.10.164.178|2319|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|18889|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|27149|Canada|Montreal|GloboTech Communications|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
