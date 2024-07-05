@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|175.100.91.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|16|103.69.151.189|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|17|67.43.227.230|19989|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|20437|Canada|Montreal|GloboTech Communications|
-|19|23.24.160.17|8080|United States|Miami|Comcast Cable Communications|
-|20|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|4|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|10|67.43.227.230|19989|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
+|14|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|16|67.43.228.253|19287|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.19|29919|Canada|Montreal|GloboTech Communications|
+|18|175.106.11.172|8080|Indonesia|Jakarta|Quantum Dist POP KK|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.20|32853|Canada|Montreal|GloboTech Communications|
 
 
 
