@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|103.173.230.104|8080|Indonesia|Serang|PT Jaringan Internet Banten|
-|4|38.91.101.96|8850|United States|New York|GTHost|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.16.101|3333|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|171.245.124.52|5020|Vietnam|Ha Long|Viettel Corporation|
-|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|12|197.98.201.99|11337|South Africa|Johannesburg|Dimension Data|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|17|72.10.160.174|24411|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|45.230.169.6|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.173.230.104|8080|Indonesia|Serang|PT Jaringan Internet Banten|
+|13|103.125.117.50|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|16|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
+|17|15.204.216.229|8081|United States|Reston|OVH SAS|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|57.128.84.153|3128|France|Gravelines|OVH SAS|
 |20|67.43.228.251|3159|Canada|Montreal|GloboTech Communications|
 
 
