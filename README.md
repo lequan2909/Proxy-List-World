@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|12|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|13|205.233.79.194|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 |16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|205.233.79.194|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
