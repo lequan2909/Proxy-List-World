@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|27.147.131.41|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
-|18|186.208.248.46|8080|Brazil|Cuité|Pbnet Telecom|
-|19|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
-|20|15.204.151.141|31158|United States|Reston|OVH SAS|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|6|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|175.41.148.78|3128|Singapore|Singapore|Amazon.com, Inc.|
+|9|27.102.85.55|3128|South Korea|Uiwang-si|Daou Technology|
+|10|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|11|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|12|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|13|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|14|20.193.144.20|80|India|Pune|Microsoft Corporation|
+|15|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
