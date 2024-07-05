@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|38.91.101.96|8850|United States|New York|GTHost|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|38.91.101.96|8850|United States|New York|GTHost|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|202.89.74.202|8080|India|Ropar|WORLDPHONE|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|36.83.52.30|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|57.128.84.153|3128|France|Gravelines|OVH SAS|
+|16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|15.204.216.229|9329|United States|Reston|OVH SAS|
+|19|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
