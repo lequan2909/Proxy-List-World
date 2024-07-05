@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
-|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|38.156.191.232|999|Mexico|Aguascalientes|Digy Networks S.A De C.V.|
-|20|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|154.82.63.127|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 
 
 
