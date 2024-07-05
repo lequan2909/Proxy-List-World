@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|14|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|72.10.160.173|17811|Canada|Montreal|GloboTech Communications|
-|17|171.245.124.52|5020|Vietnam|Ha Long|Viettel Corporation|
-|18|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|19|72.10.160.90|2579|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|31651|Canada|Montreal|GloboTech Communications|
+|7|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|121.101.135.94|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|18|72.10.160.92|31737|Canada|Montreal|GloboTech Communications|
+|19|15.204.216.229|9312|United States|Reston|OVH SAS|
+|20|171.245.124.52|5020|Vietnam|Ha Long|Viettel Corporation|
 
 
 
