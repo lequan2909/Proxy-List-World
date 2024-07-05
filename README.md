@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
-|3|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
 |4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|41.60.26.210|32650|Mauritius|Ebene CyberCity|Maintainer Liquid Telecommunications Operations Limited|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|14|118.103.233.235|8080|Pakistan|Karachi|Connect Communication|
-|15|103.231.239.126|58080|Bangladesh|Dhaka|Carnival Internet|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|27.77.128.15|8080|Vietnam|Đồng Nai Province|Newass2011xDSLHCMC|
-|18|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|19|103.137.111.231|8086|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|15|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
 
 
 
