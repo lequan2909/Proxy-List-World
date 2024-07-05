@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|103.79.143.12|2256|Vietnam|Văn Quán|CADI|
-|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|185.217.136.67|1337|The Netherlands|Amsterdam|Hbing Limited|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|11|210.245.83.71|1803|Vietnam|Hanoi|FPT Telecom Company|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|210.245.83.71|1803|Vietnam|Hanoi|FPT Telecom Company|
+|11|103.56.206.65|4995|Indonesia|Medan|Argon Data Communication|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
-|14|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|15|154.82.63.63|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|24.172.82.94|53281|United States|Concord|Spectrum|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|20|43.134.16.101|3333|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
