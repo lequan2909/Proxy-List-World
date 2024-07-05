@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|14.225.44.205|1599|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|107.172.209.246|8989|United States|Dallas|ColoCrossing|
-|9|45.115.65.98|3128|Indonesia|Batam|PT. Solusindo Bintang Pratama|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|138.59.151.162|8080|Brazil|Porto Feliz|Wireless Comm Services LTDA|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|38.91.101.96|8850|United States|New York|GTHost|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
+|15|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 |18|15.204.216.229|9312|United States|Reston|OVH SAS|
-|19|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|20|38.91.101.96|8850|United States|New York|GTHost|
+|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|20|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
