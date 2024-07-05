@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|9|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|10|34.126.178.198|3128|Singapore|Singapore|Google LLC|
-|11|119.76.142.167|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|51.158.148.158|3128|France|Paris|Online S.A.S.|
-|16|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|19|27.72.63.61|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|11|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|13|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|128.92.239.190|8080|United States|Pasadena|Spectrum|
+|18|134.35.19.18|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
+|19|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|20|57.128.84.153|3128|France|Gravelines|OVH SAS|
 
 
 
