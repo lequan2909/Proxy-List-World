@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
+|4|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|5|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|38.91.101.96|8850|United States|New York|GTHost|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|15|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|103.166.8.234|3125|Indonesia|Jakarta|PT Akses Bersama Sedaya|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
+|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
