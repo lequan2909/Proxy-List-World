@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.83.97.46|7777|Indonesia|Yogyakarta|PT. Foxline Mediadata Indonusa|
-|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|9|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|10|149.86.142.101|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|45.229.31.33|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
-|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|36.66.171.243|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|134.35.19.18|8080|Yemen|Sanaa Governorate|Public Telecommunication Corporation|
-|16|195.142.255.130|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|17|107.172.209.246|8989|United States|Dallas|ColoCrossing|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|57.128.84.153|3128|France|Gravelines|OVH SAS|
-|20|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|15|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|38.91.101.96|8850|United States|New York|GTHost|
+|19|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|20|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
 
 
 
