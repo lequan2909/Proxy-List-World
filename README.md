@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5134** proxies at the latest update. Usable proxies are below.
+> Scraper found **5055** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|257|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|585|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|328|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2927|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|4|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|5|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.48.71.50|83|India|Hyderabad|Country Online Services PVT LTD|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|12|101.51.107.147|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|16|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
-|17|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|103.218.25.169|58080|Bangladesh|Dhaka|Carnival Internet|
+|9|187.188.101.205|999|Mexico|Union de Credito Agricola de Hermosillo|Total Play Telecomunicaciones SA De CV|
+|10|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|67.43.227.227|18363|Canada|Montreal|GloboTech Communications|
+|13|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|14|67.43.227.228|20537|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|18567|Canada|Montreal|GloboTech Communications|
+|16|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|67.43.236.20|2431|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2431|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|18363|Canada|Montreal|GloboTech Communications|
 
 
 
