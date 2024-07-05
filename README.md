@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|7|45.189.252.245|999|Mexico|Alvarado|Tracered SA De CV|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
 |8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|9|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|10|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
-|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|136.226.232.124|10993|India|Mumbai|ZSCALER, INC.|
-|17|67.43.227.228|32635|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|39.129.73.6|443|China|Kunming|China Mobile|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|182.253.109.219|8080|Indonesia|Semarang|Biznet Metronet|
+|15|187.188.101.205|999|Mexico|Union de Credito Agricola de Hermosillo|Total Play Telecomunicaciones SA De CV|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|103.69.151.189|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.20|27767|Canada|Montreal|GloboTech Communications|
 
 
 
