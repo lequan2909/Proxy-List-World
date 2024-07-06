@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
 |4|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|5|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|6|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|38.156.74.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|202.179.91.97|58080|India|Mumbai|Ankhnet|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|103.69.20.89|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|19|185.198.165.216|10001|The Netherlands|Dronten|Green Floid LLC|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
