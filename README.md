@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|8|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|11|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|186.180.66.138|8080|Colombia|Cúcuta|Colombia Móvil|
-|15|204.199.202.132|999|Mexico|Teotihuacán|Level 3 Communications, Inc.|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|18|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|62.60.128.155|3128|Iran|Tehran|NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|13|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|14|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|15|103.126.148.24|8080|Bangladesh|Dhaka|Delta Software and Communication Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|72.10.160.170|24237|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|2641|Canada|Montreal|GloboTech Communications|
 
 
 
