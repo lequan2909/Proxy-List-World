@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|45.152.188.241|3128|United States|Washington|Cogent Communications|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|18|103.112.149.41|8080|Bangladesh|Khulna|Royalnet|
-|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|8|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|222.127.60.56|8083|Philippines|Lahug|Globe Telecom|
+|16|114.9.19.66|3127|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|210.61.216.63|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 
 
 
