@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|45.152.188.241|3128|United States|Washington|Cogent Communications|
 |5|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|7|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|8|164.163.42.19|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|9|164.163.42.8|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|10|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|7|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|10|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|12|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|16|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|19|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|20|45.152.188.241|3128|United States|Washington|Cogent Communications|
 
 
 
