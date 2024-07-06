@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |4|45.152.188.241|3128|United States|Washington|Cogent Communications|
 |5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|34.41.132.8|80|United States|Council Bluffs|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|13|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|103.69.193.148|1311|Vietnam|Thanh Xuân District|SOHA|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|38.49.137.242|999|Mexico|San Miguel de Allende|Ientc S De RL De CV|
+|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|10|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|11|77.41.146.49|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|15|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|72.10.164.178|32517|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
