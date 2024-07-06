@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|5|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|6|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|11|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|8|152.42.245.98|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|10|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|3.229.53.219|3128|United States|Ashburn|Amazon Technologies Inc.|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.236.20|24049|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|46.229.235.158|8088|Slovakia|Bratislava|VNET|
-|18|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|67.43.227.227|17661|Canada|Montreal|GloboTech Communications|
+|15|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
+|19|3.229.53.219|3128|United States|Ashburn|Amazon Technologies Inc.|
+|20|58.136.171.97|8080|Thailand|Udon Thani|AIS-Fibre|
 
 
 
