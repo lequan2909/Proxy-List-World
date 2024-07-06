@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|171.6.79.137|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|171.6.79.137|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|6|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |8|15.204.216.229|2313|United States|Reston|OVH SAS|
-|9|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|82.165.180.64|3128|France|Paris|IONOS SE|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|222.127.60.56|8083|Philippines|Lahug|Globe Telecom|
-|14|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|15|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|16|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|19|67.43.236.20|9831|Canada|Montreal|GloboTech Communications|
-|20|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|10|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|12|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|17|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|67.43.227.230|19573|Canada|Montreal|GloboTech Communications|
+|19|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
