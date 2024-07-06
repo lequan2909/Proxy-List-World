@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|5|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|12|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|38.91.101.96|8850|United States|New York|GTHost|
-|17|38.91.101.96|8850|United States|New York|GTHost|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|46.166.165.33|4026|Lithuania|Šiauliai|Cherry Servers|
+|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|15|67.43.227.228|3721|Canada|Montreal|GloboTech Communications|
+|16|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
+|18|67.43.228.250|16615|Canada|Montreal|GloboTech Communications|
+|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|20|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
