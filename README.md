@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|45.152.188.241|3128|United States|Washington|Cogent Communications|
 |5|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.239.252.212|58080|Bangladesh|Dhaka|Carnival Internet|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|17|41.159.154.43|3128|Gabon|Libreville|Gabon Telecom Internet Network Autonomous System|
-|18|171.237.96.124|5000|Vietnam|Hanoi|Viettel Corporation|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|190.128.195.58|999|Paraguay|Asunción|Telecel S.A.|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|14|45.112.127.222|9191|Indonesia|Tangerang|FIBERNET|
+|15|182.53.50.2|3128|Thailand|Ban Mai Khao|TOT Public Company Limited|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|18|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|19|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
