@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|2|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|12|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|10|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|45.112.127.222|9191|Indonesia|Tangerang|FIBERNET|
+|13|70.63.90.245|8080|United States|Wilmington|Spectrum|
 |14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|103.134.220.128|1111|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|103.129.115.245|8096|Bangladesh|Meherpur|Earth Tel|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|103.26.110.46|84|India|Tirunelveli|Niss Networks|
+|19|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|20|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
