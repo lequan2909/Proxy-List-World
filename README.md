@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|12|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|13|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|14|84.247.129.226|3128|Germany|Düsseldorf|Contabo GmbH|
-|15|107.172.209.246|8989|United States|Dallas|ColoCrossing|
-|16|45.5.196.62|9898|Brazil|Cascavel|Rpnet Informatica Ltda - ME|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|15.204.216.229|9312|United States|Reston|OVH SAS|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|194.176.114.36|3128|Russia|Irkutsk|Electronniy gorod, Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|9|72.10.160.174|29247|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|19175|Canada|Montreal|GloboTech Communications|
+|11|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|202.179.90.217|58080|India|Mumbai|Ankhnet|
+|13|72.10.164.178|18517|Canada|Montreal|GloboTech Communications|
+|14|103.171.244.64|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|15|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|16|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|17|39.129.73.6|443|China|Kunming|China Mobile|
+|18|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|67.43.227.228|10241|Canada|Montreal|GloboTech Communications|
 
 
 
