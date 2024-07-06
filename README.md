@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|45.152.188.212|3128|United States|Washington|Cogent Communications|
 |6|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|7|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|114.5.199.222|80|Indonesia|Bandung|PT. INDOSAT Tbk|
-|14|154.82.63.127|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|45.230.50.3|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|19|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|20|72.10.160.170|16375|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
+|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|181.214.208.191|8080|The Netherlands|Amsterdam|rack400 com netherlands Infrastructure|
+|15|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
+|16|72.10.160.170|25461|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|13865|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|13865|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8395|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|12269|Canada|Montreal|GloboTech Communications|
 
 
 
