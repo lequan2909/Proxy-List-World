@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.70.203.116|999|Ecuador|Chone|Ufinet Panama S.A.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|13|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|14|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|46.166.165.33|4026|Lithuania|Šiauliai|Cherry Servers|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|11|54.220.91.181|80|Ireland|Dublin|Amazon.com, Inc.|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|114.130.86.145|5443|Bangladesh|Dhaka|Mango Teleservices Limited|
+|17|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
+|18|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
