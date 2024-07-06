@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|103.69.193.148|1311|Vietnam|Thanh Xuân District|SOHA|
-|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|103.166.226.10|8181|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|38.91.101.96|8850|United States|New York|GTHost|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|49.48.124.132|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|103.69.193.148|1311|Vietnam|Thanh Xuân District|SOHA|
+|19|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
+|20|154.82.63.231|40000|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
