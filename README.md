@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|121.126.128.98|45212|South Korea|Gwangmyeong|Korea Telecom|
-|9|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|10|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|72.10.160.171|19653|Canada|Montreal|GloboTech Communications|
-|13|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|14|15.204.216.229|20135|United States|Reston|OVH SAS|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|67.43.236.20|14459|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.20|14459|Canada|Montreal|GloboTech Communications|
-|19|15.204.216.229|20135|United States|Reston|OVH SAS|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|5|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|7|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|113.160.154.32|19132|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
+|13|164.163.42.8|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|14|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|15|164.163.42.19|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
