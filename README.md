@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|4|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.154.113.90|8080|Indonesia|Jakarta|MORATELINDONAP|
-|12|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|13|203.150.128.47|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|18|72.10.164.178|32717|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
