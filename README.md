@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|6|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|5|203.150.113.140|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
 |7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|24.124.46.18|800|United States|Clear Lake|Midcontinent Communications|
-|10|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|24.124.46.18|800|United States|Clear Lake|Midcontinent Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|38.156.74.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|15.204.216.229|12876|United States|Reston|OVH SAS|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|13|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|14|158.69.7.48|8050|Canada|Montreal|OVH SAS|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|17|103.79.143.12|2256|Vietnam|Văn Quán|CADI|
+|18|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|19|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|20|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
 
 
 
