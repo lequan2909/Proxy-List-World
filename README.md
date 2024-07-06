@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|7|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|10|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|6|202.154.18.69|8081|Indonesia|Lamongan|DIGITNET|
+|7|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|212.174.79.177|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|15|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|18|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.220.206.138|59417|Bangladesh|Dhaka|KS Network|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|20|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
 
 
 
