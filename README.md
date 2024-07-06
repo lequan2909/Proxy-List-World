@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|8|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|9|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|12|83.69.248.185|8081|Russia|Moscow|Citytelecom LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|7|172.99.188.228|3128|Netherlands|Amsterdam|GTHost|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|11|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
 |13|67.43.227.228|25453|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|185.221.219.98|3128|Netherlands|Amsterdam|GTHost|
-|17|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|18|72.10.160.90|8277|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|10615|Canada|Montreal|GloboTech Communications|
-|20|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|14|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|15|103.89.233.226|83|India|Mangalore|Deenet Services Pvt. Ltd|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|154.73.28.89|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|185.221.219.98|3128|Netherlands|Amsterdam|GTHost|
+|19|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|20|72.10.160.90|9181|Canada|Montreal|GloboTech Communications|
 
 
 
