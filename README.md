@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|5|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|6|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|7|164.163.42.19|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|8|164.163.42.8|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|10|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|11|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|18|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|19|15.204.216.229|8181|United States|Reston|OVH SAS|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|164.163.42.27|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|15.204.216.229|20135|United States|Reston|OVH SAS|
+|17|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|18|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|19|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
