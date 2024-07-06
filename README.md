@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
 |10|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|11|103.171.244.64|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|43.134.16.101|3333|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|121.101.135.94|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|16|172.99.188.178|3128|Netherlands|Amsterdam|GTHost|
+|17|197.248.75.221|8103|Kenya|Nairobi|Safaricom Limited|
+|18|41.65.55.3|1981|Egypt|Giza|Etisalat Misr Mobile BB|
+|19|152.42.229.153|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.79.143.12|2256|Vietnam|Văn Quán|CADI|
 
 
 
