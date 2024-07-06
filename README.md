@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|1|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|6|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|7|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|191.97.6.150|999|Colombia|Líbano|TV AZTECA SUCURSAL COLOMBIA|
-|18|38.7.131.33|999|Dominican Republic|Esperanza|SERVICIOS NUÑEZ EIRL|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.239.254.20|58080|Bangladesh|Dhaka|Carnival Internet|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|15.204.216.229|23125|United States|Reston|OVH SAS|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|169.255.56.177|3128|Ghana|Accra|VIDOLU Group Pty Ltd-Web4Africa|
+|17|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|20|58.69.137.62|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
