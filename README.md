@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|5|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|185.198.165.216|10001|The Netherlands|Dronten|Green Floid LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|49.48.69.175|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|188.209.237.33|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |19|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|172.99.188.228|3128|Netherlands|Amsterdam|GTHost|
 
 
 
