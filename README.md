@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|8|15.204.216.229|9864|United States|Reston|OVH SAS|
-|9|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|10|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|15|85.208.253.162|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|172.99.188.228|3128|Netherlands|Amsterdam|GTHost|
-|18|15.204.216.229|9864|United States|Reston|OVH SAS|
-|19|85.94.24.27|1488|Russia|Noginsk|PJSC Rostelecom|
-|20|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|7|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|188.125.169.11|8080|Turkey|Beylikduzu|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|54.220.91.181|80|Ireland|Dublin|Amazon.com, Inc.|
+|13|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|17|15.204.216.229|27391|United States|Reston|OVH SAS|
+|18|154.82.63.127|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|154.82.63.118|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|20|15.204.216.229|27391|United States|Reston|OVH SAS|
 
 
 
