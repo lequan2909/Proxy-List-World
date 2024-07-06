@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|203.150.113.190|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|5|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|45.152.188.240|3128|United States|Washington|Cogent Communications|
 |8|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|164.163.42.8|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|11|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|164.163.42.19|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|15|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|16|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|20|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|15|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|188.125.167.71|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
