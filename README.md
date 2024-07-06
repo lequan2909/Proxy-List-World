@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
-|2|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|4|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
-|13|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|14|114.9.26.110|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|5|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|6|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|13|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
 |15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
