@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|5|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |6|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|8|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|38.91.101.96|8850|United States|New York|GTHost|
-|18|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|62.60.128.151|3128|Iran|Tehran|NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|14|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
+|18|103.141.51.212|1111|India|Karur|Sri Krishna Internet Services Private Limited|
+|19|210.247.252.4|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
