@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|6|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|13|114.110.19.33|8080|Indonesia|Bandung|BITEK|
-|14|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|17|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|19|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|20|58.11.15.119|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|7|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|8|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|13|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|14|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|19|103.184.180.30|8080|Indonesia|Diwek|Lintas Data Prima, PT|
+|20|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 
 
 
