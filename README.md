@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|4|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|15.204.216.229|27391|United States|Reston|OVH SAS|
-|9|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|10|15.204.216.229|27391|United States|Reston|OVH SAS|
-|11|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|154.82.63.118|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|15|129.205.198.122|8080|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|20|15.204.216.229|27391|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|5|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|11|15.204.216.229|8081|United States|Reston|OVH SAS|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|15.204.216.229|8081|United States|Reston|OVH SAS|
+|17|15.204.216.229|8081|United States|Reston|OVH SAS|
+|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
