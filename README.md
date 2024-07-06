@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|9|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|10|143.198.144.80|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|13|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|17|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|180.191.20.194|8082|Philippines|Cabanatuan City|Globe Telecom|
-|19|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|20|43.134.16.101|3333|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|8|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|9|203.128.73.122|8910|Indonesia|Sunter Agung|Neuviz|
+|10|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|165.16.27.36|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|41.33.179.195|8080|Egypt|Cairo|TE Data|
+|15|15.204.216.229|15346|United States|Reston|OVH SAS|
+|16|172.99.188.178|3128|Netherlands|Amsterdam|GTHost|
+|17|27.147.131.41|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
+|18|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|19|181.176.71.193|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
