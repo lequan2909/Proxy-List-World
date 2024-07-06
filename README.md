@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|119.76.142.189|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|6|171.6.79.137|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|178.130.76.219|8080|Yemen|Dhamār|Yemen-net-bb-pool 178|
-|9|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|12|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|72.10.160.171|10095|Canada|Montreal|GloboTech Communications|
-|18|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.135.48.30|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|7|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|10|72.10.160.90|6505|Canada|Montreal|GloboTech Communications|
+|11|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|13|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|14|72.10.160.93|13839|Canada|Montreal|GloboTech Communications|
+|15|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|16|182.53.50.2|3128|Thailand|Ban Mai Khao|TOT Public Company Limited|
+|17|72.10.160.174|18355|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|24575|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|31363|Canada|Montreal|GloboTech Communications|
+|20|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
 
 
 
