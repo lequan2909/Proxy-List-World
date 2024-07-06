@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|6|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|7|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.168.44.83|3127|Indonesia|Boyolali|PT CYB Media Group|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|16|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
-|17|103.111.207.138|32650|Indonesia|Jakarta|PT Cyberindo Aditama|
-|18|87.97.60.4|18080|Hungary|Budapest|INVITEL Zrt|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
 
 
 
