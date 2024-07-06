@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|1|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
 |2|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|11|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|12|103.153.246.142|8181|Indonesia|Purwakarta|PRIMAHOME|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|103.184.180.30|8080|Indonesia|Diwek|Lintas Data Prima, PT|
-|15|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|16|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|17|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|18|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|103.87.169.175|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|7|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|222.124.202.144|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|18|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
