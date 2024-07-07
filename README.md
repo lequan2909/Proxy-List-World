@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|103.231.236.14|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|7|154.73.28.253|8080|Libya|Tripoli|Rawafed|
-|8|82.200.205.126|8081|Kazakhstan|Shymkent|JSC Kazakhtelecom|
-|9|15.204.216.229|5738|United States|Reston|OVH SAS|
-|10|72.10.160.90|8895|Canada|Montreal|GloboTech Communications|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|67.43.236.20|30757|Canada|Montreal|GloboTech Communications|
-|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|5|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|10|15.204.216.229|5738|United States|Reston|OVH SAS|
+|11|67.43.236.20|11433|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|8895|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|23951|Canada|Montreal|GloboTech Communications|
 |14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.82.135.135|7001|Vietnam|Thanh Khe|Cloudfly Corporation|
-|16|67.43.227.227|30819|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|6549|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|4485|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.227.227|30819|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|11433|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|23951|Canada|Montreal|GloboTech Communications|
+|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.82.135.135|7001|Vietnam|Thanh Khe|Cloudfly Corporation|
 
 
 
