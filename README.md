@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|103.172.79.233|10017|Vietnam|Phường Mười Lăm|HIGHTECHK|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|14|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|15|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|16|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|222.254.19.93|3334|Vietnam|Hanoi|VNPT Corp|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |19|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|20|66.23.195.93|3128|United States|Dallas|Dot-Tech LLC|
+|20|103.145.14.56|8080|Indonesia|Cirebon|PT Pembangunan Sarana Telematika|
 
 
 
