@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|5|203.150.128.208|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|8|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
 |9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
-|11|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|16|103.137.110.42|8080|Indonesia|Probolinggo|PT. Capoeng Digital Nusantara|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|223.205.180.6|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|20|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|103.114.97.98|8999|Bangladesh|Chatkhil|Skynet Chowmuhani|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|17|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|18|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|103.48.70.185|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
