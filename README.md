@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|67.43.228.252|10579|Canada|Montreal|GloboTech Communications|
-|7|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|8|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|2|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.156.16.227|8080|Indonesia|Babakangarut|RSTNET|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |12|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
+|14|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|80.66.81.27|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
 |18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
