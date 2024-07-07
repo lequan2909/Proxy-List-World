@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|10|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|14|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|15|15.204.216.229|16836|United States|Reston|OVH SAS|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|18|15.204.216.229|16836|United States|Reston|OVH SAS|
-|19|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|5|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|12|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|13|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|20|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
 
 
 
