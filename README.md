@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|31.47.53.114|3128|Iran|Tehran|AFranet Co|
-|11|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|12|222.127.60.56|8083|Philippines|Lahug|Globe Telecom|
-|13|165.255.244.220|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.236.20|23529|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|4683|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|72.10.164.178|22959|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|17491|Canada|Montreal|GloboTech Communications|
+|9|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|14|188.132.221.188|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|15.204.216.229|9140|United States|Reston|OVH SAS|
+|16|38.91.101.96|8850|United States|New York|GTHost|
+|17|31.47.53.114|3128|Iran|Tehran|AFranet Co|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|149.86.144.132|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
 
 
 
