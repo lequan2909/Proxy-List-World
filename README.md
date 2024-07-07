@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|114.129.19.139|8080|Indonesia|Kandang|PT Hipernet Indodata|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|115.127.98.18|58080|Bangladesh|Dhaka|BRACNet Limited|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|67.43.227.227|20311|Canada|Montreal|GloboTech Communications|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|67.43.227.227|32683|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|37.79.166.54|8080|Russia|Perm|Rostelecom networks|
-|19|72.10.164.178|16913|Canada|Montreal|GloboTech Communications|
-|20|191.97.16.74|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|16|14.188.161.6|443|Vietnam|Hanoi|VNPT|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|20|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
