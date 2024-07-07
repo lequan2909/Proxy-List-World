@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|13|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|15.204.216.229|30483|United States|Reston|OVH SAS|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|15.204.216.229|30483|United States|Reston|OVH SAS|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|71.36.105.165|33333|United States|Portland|CenturyLink|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
 
 
 
