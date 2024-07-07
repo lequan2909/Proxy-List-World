@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|6|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|8|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|9|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|10|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|11|67.43.228.253|19539|Canada|Montreal|GloboTech Communications|
-|12|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|13|72.10.160.171|13455|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.229|7267|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|18757|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|5453|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|13455|Canada|Montreal|GloboTech Communications|
-|18|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|19|176.213.141.107|8080|Russia|Severnyy|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
-|20|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|12|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|13|72.10.160.171|31011|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|28883|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.171|31011|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|18757|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.229|14633|Canada|Montreal|GloboTech Communications|
+|18|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|19|67.43.236.20|5453|Canada|Montreal|GloboTech Communications|
+|20|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
 
 
 
