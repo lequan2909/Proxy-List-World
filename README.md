@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|119.76.142.141|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|4|159.192.133.250|8088|Thailand|Bang Rak|CAT-BB|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|3.82.108.5|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|9|154.82.63.235|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|10|103.175.237.12|3125|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|11|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|12|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|8|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|81.0.197.250|5808|Czechia|Prague|CASA to WIA transfer|
+|10|15.204.216.229|8081|United States|Reston|OVH SAS|
+|11|72.10.164.178|31515|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|23195|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.226|21213|Canada|Montreal|GloboTech Communications|
 |14|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|15|162.252.84.93|80|United States|Tampa|HIVELOCITY, Inc.|
-|16|84.54.185.203|8080|Bulgaria|Burgas|ComNet Bulgaria Ltd|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|72.10.164.178|31515|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|23195|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.21|6465|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|25489|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|16333|Canada|Montreal|GloboTech Communications|
+|20|15.204.216.229|8081|United States|Reston|OVH SAS|
 
 
 
