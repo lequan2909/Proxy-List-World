@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|1|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|2|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
 |3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|7|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
-|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|15|171.6.79.137|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|82.165.180.64|3128|France|Paris|IONOS SE|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
-|19|172.99.188.178|3128|Netherlands|Amsterdam|GTHost|
-|20|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|9|15.204.216.229|20135|United States|Reston|OVH SAS|
+|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.130.82.46|8080|Indonesia|Bengkalis|PT Central Digital Network|
+|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|17|82.165.180.64|3128|France|Paris|IONOS SE|
+|18|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|189.124.91.145|7171|Brazil|Presidente Venceslau|FIT Telecom Eireli|
 
 
 
