@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|11|34.41.132.8|80|United States|Council Bluffs|Google LLC|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
-|16|180.180.218.250|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|34.41.132.8|80|United States|Council Bluffs|Google LLC|
-|18|15.204.216.229|26129|United States|Reston|OVH SAS|
-|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|5.56.124.176|6734|Moldova|Bălţi|JSC "Moldtelecom" S.A|
+|13|154.82.63.28|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|14|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
