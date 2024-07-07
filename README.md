@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|186.150.207.207|8080|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|5|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
+|6|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|103.172.79.233|10017|Vietnam|Phường Mười Lăm|HIGHTECHK|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|15.204.216.229|12148|United States|Reston|OVH SAS|
-|19|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|16|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
+|17|101.255.165.218|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|42.96.13.32|2857|Vietnam|Yên Phúc|Bach Kim Network solutions Join stock company|
+|19|190.14.249.174|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
+|20|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 
