@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|67.43.227.228|17543|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|10311|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|22979|Canada|Montreal|GloboTech Communications|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|67.43.236.20|14507|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|14079|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.160.92|31703|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|17543|Canada|Montreal|GloboTech Communications|
-|18|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|19|72.10.160.92|31703|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|1123|Canada|Montreal|GloboTech Communications|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.144.18.35|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|11|202.69.38.82|8080|Pakistan|Lahore|Advertiese Flag|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|67.43.227.228|26929|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|15755|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|28125|Canada|Montreal|GloboTech Communications|
+|19|15.204.216.229|8081|United States|Reston|OVH SAS|
+|20|15.204.216.229|8081|United States|Reston|OVH SAS|
 
 
 
