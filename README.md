@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|6|72.10.160.94|21055|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|67.43.236.21|18189|Canada|Montreal|GloboTech Communications|
-|10|15.204.216.229|27088|United States|Reston|OVH SAS|
-|11|72.10.160.171|13325|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|15585|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|15585|Canada|Montreal|GloboTech Communications|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.160.90|5067|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|1123|Canada|Montreal|GloboTech Communications|
-|17|15.204.216.229|27088|United States|Reston|OVH SAS|
-|18|72.10.160.170|1839|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|5067|Canada|Montreal|GloboTech Communications|
-|20|103.171.244.64|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|8|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|15|72.10.164.178|3739|Canada|Montreal|GloboTech Communications|
+|16|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|72.10.160.90|16353|Canada|Montreal|GloboTech Communications|
+|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 
 
 
