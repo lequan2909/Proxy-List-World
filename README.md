@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|9|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|12|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|14|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|15|139.255.33.242|3128|Indonesia|Jakarta|PT. LINKNET|
-|16|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|17|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|67.43.228.250|6445|Canada|Montreal|GloboTech Communications|
+|11|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|14|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|15|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|19|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|20|15.204.216.229|23346|United States|Reston|OVH SAS|
 
 
 
