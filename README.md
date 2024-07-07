@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|2|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|1|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|154.82.63.178|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|6|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|17|14.102.108.58|8080|India|Delhi|World Phone Internet Services Pvt Ltd|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|15.204.216.229|26129|United States|Reston|OVH SAS|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|16|188.244.38.227|7999|Russia|Moscow|2COM|
+|17|15.204.216.229|26129|United States|Reston|OVH SAS|
+|18|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
 
 
 
