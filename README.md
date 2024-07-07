@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|115.127.98.18|58080|Bangladesh|Dhaka|BRACNet Limited|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
-|15|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|15.204.216.229|8081|United States|Reston|OVH SAS|
-|20|38.91.101.96|8850|United States|New York|GTHost|
+|3|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|31.220.20.221|80|United States|Asheville|HOSTINGER GB|
+|10|15.204.216.229|5738|United States|Reston|OVH SAS|
+|11|103.114.52.130|8080|Indonesia|Klaten|Proxy-registered|
+|12|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|15.204.216.229|5738|United States|Reston|OVH SAS|
+|15|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|16|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|72.10.164.178|31739|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
