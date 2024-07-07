@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|5|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|2|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|4|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|15|15.204.216.229|20135|United States|Reston|OVH SAS|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|103.141.180.254|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|19|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
-|20|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|15.204.216.229|2313|United States|Reston|OVH SAS|
+|13|103.137.111.231|8086|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
+|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
