@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|5|8.219.84.200|8085|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|4|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
+|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|7|216.238.115.107|31280|Brazil|Osasco|The Constant Company, LLC|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|14|151.236.14.178|18080|The Netherlands|Schiphol|EDIS GmbH|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|15.204.151.149|31158|United States|Reston|OVH SAS|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|120.28.204.19|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|20|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|17|65.20.188.53|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|18|185.111.167.124|8080|Ukraine|Shchyolkino|AziNet|
+|19|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
+|20|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
