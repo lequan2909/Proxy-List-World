@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|101.255.209.118|8080|Indonesia|Wanaherang|PT Remala Abadi|
-|12|51.222.102.172|80|Canada|Beauharnois|OVH SAS|
-|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
-|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|18|42.116.153.152|4003|Vietnam|Hanoi|FPT Telecom Company|
-|19|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|2|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|77.41.146.45|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|13|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|16|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|15.204.216.229|15281|United States|Reston|OVH SAS|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
