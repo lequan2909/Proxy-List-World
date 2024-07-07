@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|6|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|7|46.246.80.2|8118|Sweden|Stockholm|Portlane Network|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|14.188.161.6|443|Vietnam|Hanoi|VNPT|
+|4|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.111.136.110|443|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|67.43.228.253|8053|Canada|Montreal|GloboTech Communications|
-|14|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
-|15|15.204.216.229|5738|United States|Reston|OVH SAS|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|103.147.135.254|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|15|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|72.10.164.178|30367|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|72.10.164.178|30367|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|30367|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|32257|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|15.204.216.229|20135|United States|Reston|OVH SAS|
+|19|36.155.9.130|3128|China|Nanjing|China Mobile Communications Corporation|
+|20|67.43.236.20|17421|Canada|Montreal|GloboTech Communications|
 
 
 
