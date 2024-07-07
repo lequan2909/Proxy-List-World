@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.91.101.96|8850|United States|New York|GTHost|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|49.51.244.112|8888|United States|San Jose|OPHL|
-|9|103.14.225.158|3128|Vietnam|Hanoi|VNB|
-|10|15.204.216.229|6000|United States|Reston|OVH SAS|
-|11|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|12|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|185.167.59.215|80|Moldova|Taraclia|Caghet-plus SRL|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|45.12.214.202|3128|The Netherlands|Dronten|Zomro B.V.|
-|16|38.91.101.96|8850|United States|New York|GTHost|
-|17|72.10.160.90|32205|Canada|Montreal|GloboTech Communications|
-|18|84.247.129.226|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|202.57.2.19|80|Indonesia|Pademangan Timur|Primanet - ISP|
-|20|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|1|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|103.144.18.35|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|31.47.53.114|3128|Iran|Tehran|AFranet Co|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|15.204.216.229|6000|United States|Reston|OVH SAS|
+|12|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|49.51.244.112|8888|United States|San Jose|OPHL|
+|16|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.175.237.12|3125|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
