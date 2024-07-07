@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.144.18.35|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|5|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
-|6|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|7|203.150.113.245|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|8|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|3.82.108.5|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
-|16|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|20|72.10.164.178|4731|Canada|Montreal|GloboTech Communications|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|3.82.108.5|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|7|154.82.63.235|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|9|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
+|10|43.245.249.22|8989|Indonesia|Pekanbaru|PT Smart Media Pratama|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|103.164.112.123|10001|Indonesia|Jakarta|SOLUSINET|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|15|67.43.228.254|1487|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|24821|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|28915|Canada|Montreal|GloboTech Communications|
+|18|15.204.216.229|15346|United States|Reston|OVH SAS|
+|19|67.43.227.229|1879|Canada|Montreal|GloboTech Communications|
+|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
