@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|154.82.63.235|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|9|154.82.63.235|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|10|72.10.160.170|4155|Canada|Montreal|GloboTech Communications|
-|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|12|15.204.216.229|2313|United States|Reston|OVH SAS|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|17|67.43.228.252|2977|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.94|32543|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|29039|Canada|Montreal|GloboTech Communications|
-|20|181.78.17.250|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|1|38.91.101.96|8850|United States|New York|GTHost|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|154.82.63.235|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|159.192.133.250|8088|Thailand|Bang Rak|CAT-BB|
+|12|15.204.216.229|8081|United States|Reston|OVH SAS|
+|13|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|14|154.82.63.235|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|15|103.173.230.88|8080|Indonesia|Serang|PT Jaringan Internet Banten|
+|16|15.204.216.229|8081|United States|Reston|OVH SAS|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|15.204.216.229|8081|United States|Reston|OVH SAS|
+|19|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|20|103.173.231.18|3127|Indonesia|Serang|PT Jaringan Internet Banten|
 
 
 
