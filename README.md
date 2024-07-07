@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|110.78.149.58|8080|Thailand|Bangkok|CAT-BB|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
 |11|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|38.91.101.96|8850|United States|New York|GTHost|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|12|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|13|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
+|14|161.34.66.56|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|15.204.216.229|8081|United States|Reston|OVH SAS|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|18|67.43.236.20|18045|Canada|Montreal|GloboTech Communications|
+|19|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|67.43.228.253|29359|Canada|Montreal|GloboTech Communications|
 
 
 
