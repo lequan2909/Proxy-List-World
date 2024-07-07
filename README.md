@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|6|103.172.79.233|10017|Vietnam|Phường Mười Lăm|HIGHTECHK|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|103.84.177.222|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|15|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|16|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|17|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|18|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
-|19|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|20|188.136.132.201|7060|Iran|Isfahan|Ariana Gostar Spadana|
+|5|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|80.66.89.201|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|13|77.41.146.45|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|177.85.5.98|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
+|16|103.88.90.70|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|17|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|18|200.94.96.174|999|Mexico|Villa de Cos|Alestra, S. de R.L. de C.V.|
+|19|182.93.82.191|8080|Nepal|Dharān|Subisu Cablenet|
+|20|58.147.189.138|8080|Indonesia|Pontianak|PT Transhybrid Communication|
 
 
 
