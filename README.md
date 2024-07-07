@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|3.82.108.5|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|3.82.108.5|3128|United States|Ashburn|Amazon Technologies Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|3.82.108.5|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|3.82.108.5|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|67.43.236.20|30547|Canada|Montreal|GloboTech Communications|
-|13|114.69.225.6|82|India|Dhanbad|World Phone Internet Service Pvt. Ltd.|
-|14|119.2.52.152|8282|Indonesia|Pugeran Maguwoharjo|GMEDIA|
-|15|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|17|72.10.164.178|6397|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|67.43.228.253|15945|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|11|103.250.130.111|8080|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|154.82.63.25|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|17|67.43.227.227|18697|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|12787|Canada|Montreal|GloboTech Communications|
+|19|103.110.34.140|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
