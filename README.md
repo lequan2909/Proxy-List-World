@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5672** proxies at the latest update. Usable proxies are below.
+> Scraper found **5836** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|75|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|947|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1111|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|371|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3321|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|119.76.142.141|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.82.63.235|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|9|159.192.133.250|8088|Thailand|Bang Rak|CAT-BB|
-|10|72.10.164.178|20363|Canada|Montreal|GloboTech Communications|
-|11|15.204.216.229|15346|United States|Reston|OVH SAS|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|14|72.10.160.92|28435|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|38.56.70.75|999|Dominican Republic|Santo Domingo|Orbitek SRL|
-|18|72.10.160.90|30759|Canada|Montreal|GloboTech Communications|
-|19|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|20|38.91.101.96|8850|United States|New York|GTHost|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|220.77.157.168|3128|South Korea|Geoje|Korea Telecom|
+|9|154.82.63.235|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|10|15.204.216.229|15346|United States|Reston|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|13|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|14|15.204.216.229|15346|United States|Reston|OVH SAS|
+|15|72.10.164.178|23299|Canada|Montreal|GloboTech Communications|
+|16|173.212.244.38|3128|Germany|Nuremberg|Contabo GmbH|
+|17|67.43.236.20|18987|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|118.218.123.235|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
