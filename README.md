@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|3|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|123.49.44.103|3128|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|36.95.194.52|8080|Indonesia|Cempaka Putih Barat|PT. Telekomunikasi Indonesia|
-|14|15.204.216.229|30483|United States|Reston|OVH SAS|
-|15|87.250.5.188|8181|Russia|Izhevsk|MARK-ITT|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|6|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|190.192.228.174|8080|Argentina|Lanús|Telecom Argentina S.A.|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|65.20.189.104|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|18|103.48.70.185|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|17|15.204.216.229|15346|United States|Reston|OVH SAS|
+|18|15.204.216.229|15346|United States|Reston|OVH SAS|
+|19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
