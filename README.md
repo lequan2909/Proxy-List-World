@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
-|16|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|17|72.10.160.94|32605|Canada|Montreal|GloboTech Communications|
-|18|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|19|103.175.237.12|3125|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|20|67.43.227.228|9257|Canada|Montreal|GloboTech Communications|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|15.204.216.229|6000|United States|Reston|OVH SAS|
+|9|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|67.43.227.228|9257|Canada|Montreal|GloboTech Communications|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.236.20|21965|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|9519|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|67.43.227.228|9257|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
 
 
 
