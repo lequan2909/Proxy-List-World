@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|139.255.41.118|8080|Indonesia|Jakarta|PT. LINKNET|
-|10|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|67.43.236.20|26105|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|8877|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|9951|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|8877|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|20|67.43.227.227|9951|Canada|Montreal|GloboTech Communications|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.180.123.203|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|67.43.236.20|26105|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|1549|Canada|Montreal|GloboTech Communications|
+|16|38.91.101.96|8850|United States|New York|GTHost|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|20|72.10.164.178|8877|Canada|Montreal|GloboTech Communications|
 
 
 
