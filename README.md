@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|8|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|9|15.204.216.229|27088|United States|Reston|OVH SAS|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|12|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|13|190.14.10.19|999|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|14|67.43.236.20|20031|Canada|Montreal|GloboTech Communications|
-|15|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|67.43.227.227|32897|Canada|Montreal|GloboTech Communications|
-|18|15.204.216.229|27088|United States|Reston|OVH SAS|
-|19|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.160.90|11003|Canada|Montreal|GloboTech Communications|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|18|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|15.204.216.229|16689|United States|Reston|OVH SAS|
 
 
 
