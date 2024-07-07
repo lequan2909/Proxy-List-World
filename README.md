@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|8|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|9|72.10.164.178|24759|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|9897|Canada|Montreal|GloboTech Communications|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|67.43.227.227|9897|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|38.91.101.96|8850|United States|New York|GTHost|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|168.195.102.12|4583|Brazil|Belo Horizonte|BTT TELECOMUNICACOES S.A.|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|24759|Canada|Montreal|GloboTech Communications|
+|2|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|36.73.135.58|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|62.23.184.85|8080|France|Paris|COLT Technology Services Group Limited|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|181.78.85.45|998|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|10|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|13|67.43.227.227|15297|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|15297|Canada|Montreal|GloboTech Communications|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|72.10.164.178|24759|Canada|Montreal|GloboTech Communications|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|72.10.164.178|24759|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
