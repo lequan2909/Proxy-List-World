@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|5|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|6|15.204.216.229|8081|United States|Reston|OVH SAS|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|135.181.150.19|8118|Finland|Helsinki|Hetzner Online GmbH|
-|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.227.227|3989|Canada|Montreal|GloboTech Communications|
-|11|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|14|72.10.164.178|26677|Canada|Montreal|GloboTech Communications|
-|15|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|72.10.164.178|26677|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3989|Canada|Montreal|GloboTech Communications|
-|19|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
-|20|72.10.160.173|3041|Canada|Montreal|GloboTech Communications|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|46.8.252.100|8123|Kazakhstan|Karaganda|AstanaMegatel Ltd.|
+|7|103.155.199.151|8080|Indonesia|Sukabumi|PT Lintas Jaringan Nusantara|
+|8|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|167.250.99.22|8080|Brazil|Caririaçu|Provedor Cariri Conect|
+|11|46.166.165.33|4026|Lithuania|Šiauliai|Cherry Servers|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.227.227|3989|Canada|Montreal|GloboTech Communications|
+|15|203.30.236.119|8080|Indonesia|Melati|PT Media Sarana Data|
+|16|103.165.212.210|8080|Indonesia|Bulak|PT iForte Global Internet|
+|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|19|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
