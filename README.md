@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|8|51.255.204.242|8392|France|Gravelines|OVH SAS|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|34.41.132.8|80|United States|Council Bluffs|Google LLC|
-|14|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |15|38.91.101.96|8850|United States|New York|GTHost|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|18|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|20|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
 
 
 
