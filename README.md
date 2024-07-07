@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
 |5|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|111.1.61.62|3128|China|Wenzhou|China Mobile communications corporation|
-|13|24.172.82.94|53281|United States|Concord|Spectrum|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|17|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|14|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|141.147.155.140|21000|Japan|Osaka|Oracle Corporation|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |19|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
