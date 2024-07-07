@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5731** proxies at the latest update. Usable proxies are below.
+> Scraper found **5607** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1013|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|889|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|391|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3069|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.152.188.241|3128|United States|Washington|Cogent Communications|
-|5|45.152.188.212|3128|United States|Washington|Cogent Communications|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|45.152.188.212|3128|United States|Washington|Cogent Communications|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|45.152.188.241|3128|United States|Washington|Cogent Communications|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|15.204.216.229|30483|United States|Reston|OVH SAS|
-|11|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|12|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|13|38.91.101.96|8850|United States|New York|GTHost|
-|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|15|149.86.144.132|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|16|121.101.135.94|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|17|181.233.62.0|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|20|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|12|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|13|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|20|31.47.53.114|3128|Iran|Tehran|AFranet Co|
 
 
 
