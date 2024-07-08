@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|34.41.132.8|80|United States|Council Bluffs|Google LLC|
 |6|38.91.101.96|8850|United States|New York|GTHost|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|15.204.216.229|20135|United States|Reston|OVH SAS|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|136.226.67.4|10160|United States|Los Angeles|ZSCALER, INC.|
 |13|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
-|14|15.204.216.229|20135|United States|Reston|OVH SAS|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|72.10.164.178|31865|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|31087|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|31315|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|17013|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31865|Canada|Montreal|GloboTech Communications|
+|14|118.99.127.76|8080|Indonesia|Malang|Biznet Metronet|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|38.91.101.96|8850|United States|New York|GTHost|
+|17|67.43.236.20|30511|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.93|31087|Canada|Montreal|GloboTech Communications|
+|19|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
