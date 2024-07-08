@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|51.20.15.8|8081|Sweden|Stockholm|Amazon.com, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|10|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|11|15.204.216.229|1215|United States|Reston|OVH SAS|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|18|72.10.160.90|8695|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|23799|Canada|Montreal|GloboTech Communications|
-|20|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|1|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|2|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|15|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|72.10.160.90|2327|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|20|72.10.160.91|23799|Canada|Montreal|GloboTech Communications|
 
 
 
