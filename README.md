@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.248.4.99|8888|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.20.15.8|8081|Sweden|Stockholm|Amazon.com, Inc.|
-|6|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|10|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.228.253|15247|Canada|Montreal|GloboTech Communications|
-|16|189.193.254.98|8080|Mexico|Acambay|Tele Go, Inc|
-|17|67.43.236.20|5381|Canada|Montreal|GloboTech Communications|
-|18|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|19|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|20|72.10.160.90|9101|Canada|Montreal|GloboTech Communications|
+|3|165.22.52.162|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|6|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
+|7|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|8|103.165.37.42|32650|Indonesia|Jakarta|PT iForte Global Internet|
+|9|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|10|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|4.189.238.64|6666|Japan|Tokyo|Microsoft Corporation|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|16|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.162.63.121|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|20|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
 
 
 
