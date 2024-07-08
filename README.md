@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|103.153.142.18|8080|India|Keonjhargarh|Om Jay Infotech|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|35.245.75.186|6666|United States|Washington|Google LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|67.43.227.226|3395|Canada|Montreal|GloboTech Communications|
-|13|45.115.65.98|3128|Indonesia|Batam|PT. Solusindo Bintang Pratama|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
-|17|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
-|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|19|72.10.160.90|22361|Canada|Montreal|GloboTech Communications|
-|20|172.105.56.59|9093|India|Mumbai|Akamai Technologies|
+|3|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
+|4|20.37.98.213|3128|Japan|Tokyo|Microsoft Corporation|
+|5|103.112.45.46|8080|Indonesia|Bandung|PT.Globalnet Multi Data|
+|6|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|9|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|35.245.75.186|6666|United States|Washington|Google LLC|
+|14|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|41.65.55.27|1981|Egypt|Giza|Etisalat Misr Mobile BB|
+|18|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|19|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
+|20|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
