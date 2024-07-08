@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|7|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.164.178|32521|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|32521|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|2731|Canada|Montreal|GloboTech Communications|
-|13|15.204.216.229|5263|United States|Reston|OVH SAS|
-|14|67.43.227.227|2731|Canada|Montreal|GloboTech Communications|
-|15|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|160.248.2.185|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|67.43.236.18|8553|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.22|5291|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|1661|Canada|Montreal|GloboTech Communications|
+|2|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|3|201.19.243.109|8086|Brazil|Belém|V tal|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.87.171.119|32650|India|Jaipur|Tejays|
+|10|46.252.255.90|18080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|15.204.216.229|20135|United States|Reston|OVH SAS|
+|15|36.88.253.86|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|67.43.227.227|2281|Canada|Montreal|GloboTech Communications|
+|18|181.209.111.82|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|72.10.160.170|1661|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
