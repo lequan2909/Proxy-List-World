@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.227.227|2667|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|15705|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.22|28113|Canada|Montreal|GloboTech Communications|
-|17|103.167.68.77|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.90|27927|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|15.204.216.229|9329|United States|Reston|OVH SAS|
+|14|103.147.128.65|83|India|Bānka|Xpress Fiber Private Limited|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|67.43.228.253|13289|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|67.43.228.253|13289|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|13289|Canada|Montreal|GloboTech Communications|
 
 
 
