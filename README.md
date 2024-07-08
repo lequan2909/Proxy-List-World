@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.152.188.240|3128|United States|Washington|Cogent Communications|
 |2|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.166.10.138|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|13|15.204.216.229|1215|United States|Reston|OVH SAS|
-|14|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|43.135.182.82|11111|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|20|67.43.228.252|22083|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|10|103.83.178.43|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|14|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|72.10.160.90|32637|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|67.43.228.252|22959|Canada|Montreal|GloboTech Communications|
+|19|15.204.216.229|18301|United States|Reston|OVH SAS|
+|20|154.82.63.127|40006|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
