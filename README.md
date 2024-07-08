@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|12|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|17|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|18|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|19|173.249.10.82|3128|Germany|Nuremberg|Contabo GmbH|
-|20|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|4|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|173.249.10.82|3128|Germany|Nuremberg|Contabo GmbH|
+|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|11|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|13|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|14|185.221.219.98|3128|Netherlands|Amsterdam|GTHost|
+|15|77.41.146.43|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|16|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
