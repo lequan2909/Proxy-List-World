@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
-|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|15.204.216.229|9864|United States|Reston|OVH SAS|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|17|161.34.66.56|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|19|176.95.249.63|8080|Germany|Hanover|Vodafone GmbH|
-|20|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
+|8|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|15.204.216.229|1215|United States|Reston|OVH SAS|
+|14|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|19|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|20|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
