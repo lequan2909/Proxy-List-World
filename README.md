@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|38.91.101.96|8850|United States|New York|GTHost|
-|5|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|6|31.47.54.122|3128|Iran|Tehran|Afranet|
-|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|35.245.75.186|6666|United States|Washington|Google LLC|
-|11|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|12|67.43.236.20|18895|Canada|Montreal|GloboTech Communications|
-|13|15.204.216.229|2515|United States|Reston|OVH SAS|
-|14|45.191.75.176|999|Colombia|Miranda|Global Raices|
-|15|67.43.227.227|16831|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|5955|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|16831|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|5723|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.229|25989|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|16831|Canada|Montreal|GloboTech Communications|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|16|103.147.73.50|7777|Indonesia|Kediri|ALFATINDO|
+|17|75.144.206.153|31280|United States|Wallingford|Comcast Cable Communications, LLC|
+|18|82.200.131.166|58080|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|19|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
