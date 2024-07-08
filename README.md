@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6140** proxies at the latest update. Usable proxies are below.
+> Scraper found **6044** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|78|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1076|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|980|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|419|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3609|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.91.241.89|80|United States|Portland|Amazon.com, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
-|6|20.232.120.176|80|United States|Boydton|Microsoft Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|9|15.204.216.229|23346|United States|Reston|OVH SAS|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.91.241.89|80|United States|Portland|Amazon.com, Inc.|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|15.204.216.229|23346|United States|Reston|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|119.15.88.108|8083|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|15|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
-|20|15.204.216.229|23346|United States|Reston|OVH SAS|
+|12|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|103.231.239.18|58080|Bangladesh|Dhaka|Carnival Internet|
+|15|82.200.131.166|58080|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|16|15.204.216.229|16836|United States|Reston|OVH SAS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|15.204.216.229|16836|United States|Reston|OVH SAS|
 
 
 
