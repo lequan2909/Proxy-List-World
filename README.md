@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|110.78.179.86|8080|Thailand|Ko Samui|CAT-BB|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.20.15.8|8081|Sweden|Stockholm|Amazon.com, Inc.|
+|6|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|8|61.7.191.202|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|15.204.216.229|9864|United States|Reston|OVH SAS|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|17|103.180.118.170|8080|Indonesia|Mojokerto|PT Persada Data Multimedia|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
+|12|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|13|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|19|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|20|72.10.164.178|6499|Canada|Montreal|GloboTech Communications|
 
 
 
