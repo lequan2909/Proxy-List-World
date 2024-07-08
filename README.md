@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5746** proxies at the latest update. Usable proxies are below.
+> Scraper found **5773** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|80|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|834|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|861|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|350|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3524|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|72.10.164.178|18143|Canada|Montreal|GloboTech Communications|
-|14|15.204.216.229|17396|United States|Reston|OVH SAS|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|17|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|20|67.43.236.20|21349|Canada|Montreal|GloboTech Communications|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|9|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|10|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|14|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|15|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|16|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|17|15.204.216.229|26129|United States|Reston|OVH SAS|
+|18|15.204.216.229|26129|United States|Reston|OVH SAS|
+|19|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|20|72.10.160.93|3701|Canada|Montreal|GloboTech Communications|
 
 
 
