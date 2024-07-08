@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
-|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |4|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|5|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|15.204.216.229|5772|United States|Reston|OVH SAS|
 |17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
