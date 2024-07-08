@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|118.99.127.76|8080|Indonesia|Malang|Biznet Metronet|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|5|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
-|8|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.228.253|10477|Canada|Montreal|GloboTech Communications|
-|18|104.129.199.63|10160|United States|Los Angeles|ZSCALER, INC.|
-|19|72.10.160.94|8889|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|7|77.105.136.28|1995|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|10|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|72.10.160.94|29741|Canada|Montreal|GloboTech Communications|
+|15|35.245.75.186|6666|United States|Washington|Google LLC|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|72.10.160.90|30649|Canada|Montreal|GloboTech Communications|
+|18|161.34.39.55|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|20|72.10.160.173|20085|Canada|Montreal|GloboTech Communications|
 
 
 
