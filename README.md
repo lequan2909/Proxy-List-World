@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.91.101.96|8850|United States|New York|GTHost|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|36.93.54.174|49784|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|6|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|103.112.45.46|8080|Indonesia|Bandung|PT.Globalnet Multi Data|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|35.245.75.186|6666|United States|Washington|Google LLC|
-|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|67.43.236.20|2629|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|22361|Canada|Montreal|GloboTech Communications|
-|18|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|103.178.194.114|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|72.10.164.178|29581|Canada|Montreal|GloboTech Communications|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|72.10.164.178|29581|Canada|Montreal|GloboTech Communications|
+|17|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|18|38.91.101.96|8850|United States|New York|GTHost|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|67.43.227.227|5863|Canada|Montreal|GloboTech Communications|
 
 
 
