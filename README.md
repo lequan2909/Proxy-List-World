@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|2|38.91.101.96|8850|United States|New York|GTHost|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|19|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|20|15.204.216.229|5772|United States|Reston|OVH SAS|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|38.7.131.1|999|Dominican Republic|Esperanza|SERVICIOS NUÑEZ EIRL|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|15.204.216.229|23346|United States|Reston|OVH SAS|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
 
 
 
