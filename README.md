@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.91.241.89|80|United States|Portland|Amazon.com, Inc.|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|5.252.21.60|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|103.164.214.122|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|36.85.115.91|8080|Indonesia|Pontianak|PT. TELKOM INDONESIA|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|41.220.131.18|8040|Tanzania|Arusha|Habari Node Ltd|
-|20|182.53.143.200|8180|Thailand|Bangkok|TOT Public Company Limited|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|35.91.241.89|80|United States|Portland|Amazon.com, Inc.|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|13|15.204.216.229|16836|United States|Reston|OVH SAS|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|16|172.174.5.182|8080|United States|Boydton|Microsoft|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|67.43.228.253|16995|Canada|Montreal|GloboTech Communications|
 
 
 
