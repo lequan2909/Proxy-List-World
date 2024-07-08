@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|9|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|10|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|103.179.182.155|8090|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|12|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|13|15.204.216.229|9329|United States|Reston|OVH SAS|
-|14|119.15.88.108|8083|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|15.204.216.229|9329|United States|Reston|OVH SAS|
-|17|103.231.239.27|58080|Bangladesh|Dhaka|Carnival Internet|
-|18|15.204.216.229|9329|United States|Reston|OVH SAS|
-|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|20|67.43.236.20|5381|Canada|Montreal|GloboTech Communications|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|11|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|15|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|16|15.204.216.229|9864|United States|Reston|OVH SAS|
+|17|15.204.216.229|9864|United States|Reston|OVH SAS|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|103.161.130.153|3127|Indonesia|Langgen|PT Jaringan Internet Nusantara|
 
 
 
