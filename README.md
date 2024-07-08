@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|5|103.168.44.83|3127|Indonesia|Boyolali|PT CYB Media Group|
-|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|15.204.216.229|9864|United States|Reston|OVH SAS|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|67.43.227.227|29841|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|4445|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|6563|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.228.254|27763|Canada|Montreal|GloboTech Communications|
-|15|15.204.216.229|9864|United States|Reston|OVH SAS|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|67.43.236.20|23631|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|1151|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|6563|Canada|Montreal|GloboTech Communications|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|146.0.75.178|11197|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|15.204.216.229|27088|United States|Reston|OVH SAS|
+|8|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|67.43.228.250|6563|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.228.253|4445|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|23631|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|6563|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|15.204.216.229|27088|United States|Reston|OVH SAS|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|15.204.216.229|27088|United States|Reston|OVH SAS|
+|20|67.43.228.251|32505|Canada|Montreal|GloboTech Communications|
 
 
 
