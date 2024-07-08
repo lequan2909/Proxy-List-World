@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|7|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|101.51.107.86|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|103.191.58.114|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|13|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|14|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|154.64.255.157|1080|Hong Kong|Hong Kong|NetLab Global|
+|1|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|8|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
+|14|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|15|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|67.43.228.251|1979|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|26507|Canada|Montreal|GloboTech Communications|
 
 
 
