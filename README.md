@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|101.109.54.99|8080|Thailand|Pattaya|TOT Public Company Limited|
-|4|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|101.109.54.99|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|8|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|10|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|15.204.216.229|2515|United States|Reston|OVH SAS|
-|12|139.162.48.62|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|13|38.91.101.96|8850|United States|New York|GTHost|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|14|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
 |15|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|16|72.10.164.178|2169|Canada|Montreal|GloboTech Communications|
-|17|15.204.216.229|2515|United States|Reston|OVH SAS|
-|18|15.204.216.229|2515|United States|Reston|OVH SAS|
-|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|23.134.91.168|3128|France|Paris|GTHost|
+|16|103.46.186.110|8085|Indonesia|Ujungmenteng|PT Air Lintas Komunikasi|
+|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|15.204.216.229|9864|United States|Reston|OVH SAS|
 
 
 
