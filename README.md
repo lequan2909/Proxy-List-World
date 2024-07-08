@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|8|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|9|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
-|13|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|14|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|77.41.146.43|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|19|38.91.101.96|8850|United States|New York|GTHost|
-|20|195.80.50.100|9090|Russia|St Petersburg|TimeWeb Ltd.|
+|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|2|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|11|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|12|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
+|17|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|15.204.216.229|9312|United States|Reston|OVH SAS|
+|20|103.179.253.49|8181|Indonesia|Mekarjaya|PT Pusaka Kreasi Mandiri|
 
 
 
