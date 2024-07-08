@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|24.124.46.18|800|United States|Clear Lake|Midcontinent Communications|
-|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|6|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|15.204.216.229|6000|United States|Reston|OVH SAS|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|15.204.216.229|6000|United States|Reston|OVH SAS|
-|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.160.90|15491|Canada|Montreal|GloboTech Communications|
-|17|154.82.63.63|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|18|67.43.227.227|1731|Canada|Montreal|GloboTech Communications|
-|19|180.9.181.232|8080|Japan|Kobe|NTT Communications Corporation|
-|20|72.10.164.178|7527|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|16|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.191.115.238|83|India|Bānka|Xpress Fiber Private Limited|
+|20|15.204.216.229|15346|United States|Reston|OVH SAS|
 
 
 
