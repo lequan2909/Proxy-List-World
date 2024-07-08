@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|103.125.50.223|8080|Indonesia|Pondok Bambu|PT. Eka Mas Republik|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
 |10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|12|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|17|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|16|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|19|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|20|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
