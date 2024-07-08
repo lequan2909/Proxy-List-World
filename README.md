@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|103.133.71.60|6776|Indonesia|Depok|PT Maxindo Mitra Solusi|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|12|72.10.164.178|3155|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|3155|Canada|Montreal|GloboTech Communications|
-|14|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|15|72.10.160.90|30905|Canada|Montreal|GloboTech Communications|
-|16|200.70.56.203|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|17|77.83.173.176|3128|The Netherlands|Dronten|Zomro B.V.|
-|18|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|19|67.43.236.20|32889|Canada|Montreal|GloboTech Communications|
-|20|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.164.178|9413|Canada|Montreal|GloboTech Communications|
+|20|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
 
 
 
