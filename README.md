@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|7|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|8|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|13|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|14|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|16|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|17|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|18|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|19|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|38.91.101.96|8850|United States|New York|GTHost|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|6|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|7|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|8|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
+|12|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|185.221.219.98|3128|Netherlands|Amsterdam|GTHost|
+|17|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|19|154.64.255.157|1080|Hong Kong|Hong Kong|NetLab Global|
+|20|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
