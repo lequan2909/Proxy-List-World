@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.3.246.31|1186|Vietnam|Quan Tan Phu|VDATA|
-|3|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|3|176.95.249.63|8080|Germany|Hanover|Vodafone GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|6|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|13|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|15.204.216.229|9864|United States|Reston|OVH SAS|
+|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|9|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|103.124.139.137|8080|Indonesia|Kartasura|Global Media Data Prima|
+|11|15.204.216.229|9864|United States|Reston|OVH SAS|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|14|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|15|49.48.43.203|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|16|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|17|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
 |18|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
 
 
 
