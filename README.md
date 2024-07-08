@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|5|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|6|103.181.148.129|8080|India|Chennai|JR COMMUNICATIONS|
+|1|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|4|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|110.78.179.86|8080|Thailand|Ko Samui|CAT-BB|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
-|13|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|15|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|16|36.64.20.207|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|17|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|15.204.216.229|1215|United States|Reston|OVH SAS|
+|8|27.147.143.18|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|10|66.70.197.196|8050|Brazil|Mairi|OVH Hosting|
+|11|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|103.156.17.137|8181|Indonesia|Indramayu|RSTNET|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|19|15.204.216.229|1215|United States|Reston|OVH SAS|
+|20|67.43.227.227|7229|Canada|Montreal|GloboTech Communications|
 
 
 
