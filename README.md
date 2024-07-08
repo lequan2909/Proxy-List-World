@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|178.128.220.36|8123|Singapore|Singapore|DigitalOcean, LLC|
-|4|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|5|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.160.174|2503|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|31915|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|19237|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|15.204.216.229|12148|United States|Reston|OVH SAS|
+|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.10.160.91|31915|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|19237|Canada|Montreal|GloboTech Communications|
+|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.164.178|11523|Canada|Montreal|GloboTech Communications|
+|12|161.34.39.55|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|72.10.160.90|13589|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|13589|Canada|Montreal|GloboTech Communications|
+|15|15.204.216.229|12148|United States|Reston|OVH SAS|
+|16|67.43.236.18|19933|Canada|Montreal|GloboTech Communications|
 |17|67.43.236.20|19237|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|12187|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|13589|Canada|Montreal|GloboTech Communications|
+|18|15.204.216.229|12148|United States|Reston|OVH SAS|
+|19|67.43.236.20|19237|Canada|Montreal|GloboTech Communications|
 |20|72.10.164.178|11523|Canada|Montreal|GloboTech Communications|
 
 
