@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |7|38.91.101.96|8850|United States|New York|GTHost|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|102.221.224.153|8080|Libya|Benghazi|SmartLink IT and Networking|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|14|146.0.75.178|11197|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|102.39.215.83|9090|South Africa|Cape Town|Vox Telecom|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|15|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|20|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
