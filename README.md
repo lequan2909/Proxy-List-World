@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|164.163.42.9|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|5|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|129.150.48.1|3128|United States|Chicago|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|164.163.42.9|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|7|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|15.204.216.229|16689|United States|Reston|OVH SAS|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|32987|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|29813|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|5755|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.227.228|29813|Canada|Montreal|GloboTech Communications|
+|15|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|16|67.43.227.227|24027|Canada|Montreal|GloboTech Communications|
+|17|101.109.54.99|8080|Thailand|Pattaya|TOT Public Company Limited|
+|18|95.164.113.232|443|Finland|Helsinki|Stark Industries Solutions LTD|
+|19|72.10.164.178|14835|Canada|Montreal|GloboTech Communications|
+|20|38.91.101.96|8850|United States|New York|GTHost|
 
 
 
