@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|67.43.228.253|6243|Canada|Montreal|GloboTech Communications|
-|9|69.20.150.165|8080|United States|Tetonia|JAB Wireless, INC.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.160.90|12575|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|21011|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|16911|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|6243|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.172|11599|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|22863|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|16183|Canada|Montreal|GloboTech Communications|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
-|20|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|191.97.16.19|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|5|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|72.10.160.90|10143|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|13095|Canada|Montreal|GloboTech Communications|
+|13|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|14|31.220.20.221|80|United States|Asheville|HOSTINGER GB|
+|15|15.204.216.229|9864|United States|Reston|OVH SAS|
+|16|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|17|67.43.228.253|13095|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|27069|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|13095|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.172|11599|Canada|Montreal|GloboTech Communications|
 
 
 
