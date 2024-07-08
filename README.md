@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|38.91.101.96|8850|United States|New York|GTHost|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|5|152.26.229.42|9443|United States|Huntersville|MCNC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|185.221.219.98|3128|Netherlands|Amsterdam|GTHost|
-|8|67.43.236.20|25085|Canada|Montreal|GloboTech Communications|
-|9|173.249.10.82|3128|Germany|Nuremberg|Contabo GmbH|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.160.90|19599|Canada|Montreal|GloboTech Communications|
-|12|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|13|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|14|72.10.160.90|19599|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|3817|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|7817|Canada|Montreal|GloboTech Communications|
-|17|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.160.173|3239|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|25085|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|20765|Canada|Montreal|GloboTech Communications|
+|1|152.26.229.42|9443|United States|Huntersville|MCNC|
+|2|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|3|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|6|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|7|72.10.160.90|19599|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.90|19599|Canada|Montreal|GloboTech Communications|
+|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|10|67.43.227.227|5133|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|6753|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.174|21821|Canada|Montreal|GloboTech Communications|
+|13|173.249.10.82|3128|Germany|Nuremberg|Contabo GmbH|
+|14|72.10.160.173|3239|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|11103|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.93|32399|Canada|Montreal|GloboTech Communications|
+|17|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|18|72.10.160.93|32399|Canada|Montreal|GloboTech Communications|
+|19|185.221.219.98|3128|Netherlands|Amsterdam|GTHost|
+|20|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
 
 
 
