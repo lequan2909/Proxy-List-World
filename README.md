@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|5|164.163.42.9|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|103.81.64.52|8080|Indonesia|Bandar Lampung|QIUNET|
-|9|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|10|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|11|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|38.91.101.96|8850|United States|New York|GTHost|
-|13|67.43.228.253|7671|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|7671|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.94|21055|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|27853|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|3055|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|7671|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|7671|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|30359|Canada|Montreal|GloboTech Communications|
+|3|171.7.26.212|8080|Thailand|Nonthaburi|Triple T Broadband Public Company Limited|
+|4|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|154.82.63.127|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|182.253.109.224|8080|Indonesia|Semarang|Biznet Metronet|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|12|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|67.43.228.253|29731|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|29731|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.94|21055|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|29731|Canada|Montreal|GloboTech Communications|
 
 
 
