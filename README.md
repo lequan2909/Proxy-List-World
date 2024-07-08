@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.152.188.240|3128|United States|Washington|Cogent Communications|
-|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|38.91.101.96|8850|United States|New York|GTHost|
-|14|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
-|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|16|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|65.21.130.230|8888|Finland|Helsinki|Hetzner Online GmbH|
+|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|11|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|45.152.188.240|3128|United States|Washington|Cogent Communications|
+|18|8.216.132.13|31280|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|103.245.16.222|8888|Indonesia|Jakarta|PT Quantum Tera Network|
 
 
 
