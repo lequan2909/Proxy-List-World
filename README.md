@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.227.228|2557|Canada|Montreal|GloboTech Communications|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|15.204.216.229|10359|United States|Reston|OVH SAS|
-|13|72.10.160.172|1235|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|2557|Canada|Montreal|GloboTech Communications|
-|15|15.204.216.229|10359|United States|Reston|OVH SAS|
-|16|194.31.108.52|55555|Iran|Tehran|Laser Company Ltd|
-|17|72.10.164.178|9463|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|11763|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.253|33083|Canada|Montreal|GloboTech Communications|
+|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|11|72.10.160.172|1235|Canada|Montreal|GloboTech Communications|
+|12|15.204.216.229|13848|United States|Reston|OVH SAS|
+|13|67.43.228.253|9335|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|67.43.227.227|12147|Canada|Montreal|GloboTech Communications|
+|16|161.34.39.55|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|18|67.43.228.253|9335|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|9463|Canada|Montreal|GloboTech Communications|
+|20|15.204.216.229|13848|United States|Reston|OVH SAS|
 
 
 
