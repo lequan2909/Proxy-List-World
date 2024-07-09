@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|221.118.79.16|8080|Japan|Toyota|AITAI|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|10|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|154.82.63.252|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|13|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
 |14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|67.43.228.253|22871|Canada|Montreal|GloboTech Communications|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|67.43.227.226|12757|Canada|Montreal|GloboTech Communications|
-|20|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|17|67.43.227.226|12757|Canada|Montreal|GloboTech Communications|
+|18|43.153.10.60|40010|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|20|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
