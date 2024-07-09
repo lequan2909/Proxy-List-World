@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|67.43.228.253|8811|Canada|Montreal|GloboTech Communications|
+|11|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|19327|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|1275|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|6863|Canada|Montreal|GloboTech Communications|
+|17|15.204.216.229|1220|United States|Reston|OVH SAS|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|72.10.160.173|2047|Canada|Montreal|GloboTech Communications|
+
 
 
 ## Contributing
