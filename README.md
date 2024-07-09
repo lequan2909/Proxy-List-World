@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|10|67.43.236.20|17515|Canada|Montreal|GloboTech Communications|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|67.43.227.228|17973|Canada|Montreal|GloboTech Communications|
-|15|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|3.235.13.168|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|72.10.164.178|18739|Canada|Montreal|GloboTech Communications|
-|18|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|20|112.137.142.8|2240|Vietnam|Hanoi|VietNam National University|
+|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|8|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|10|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|12|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|14|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
