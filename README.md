@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
-|9|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|10|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|11|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|15.204.216.229|6060|United States|Reston|OVH SAS|
-|14|72.10.160.90|3063|Canada|Montreal|GloboTech Communications|
-|15|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.39.55|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
+|16|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|72.10.160.90|3063|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|16553|Canada|Montreal|GloboTech Communications|
+|19|15.204.216.229|12148|United States|Reston|OVH SAS|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
