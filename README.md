@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|67.43.227.226|21155|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 |15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
+|16|67.43.227.227|6033|Canada|Montreal|GloboTech Communications|
 |17|67.43.227.226|21155|Canada|Montreal|GloboTech Communications|
-|18|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|18|72.10.160.171|22743|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 
 
 
