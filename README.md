@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.184.180.30|8080|Indonesia|Diwek|Lintas Data Prima, PT|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|43.243.174.3|83|India|Pune|Shah Solutions|
-|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|10|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
-|11|24.152.49.189|999|Dominican Republic|Cotuí|Lightwave S.R.L|
-|12|80.66.81.27|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|13|67.43.228.253|19579|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|3053|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|14011|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|3053|Canada|Montreal|GloboTech Communications|
-|17|15.204.216.229|7563|United States|Reston|OVH SAS|
-|18|72.10.160.171|24479|Canada|Montreal|GloboTech Communications|
-|19|15.204.216.229|7563|United States|Reston|OVH SAS|
-|20|72.10.164.178|5937|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.150.48.1|3128|United States|Chicago|Oracle Corporation|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|164.163.42.20|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|15.204.216.229|24244|United States|Reston|OVH SAS|
+|16|15.204.216.229|24244|United States|Reston|OVH SAS|
+|17|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|18|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|19|72.10.160.171|24479|Canada|Montreal|GloboTech Communications|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
