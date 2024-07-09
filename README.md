@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|5|31.24.251.112|3128|France|Paris|BitWeb LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|13|15.204.216.229|25151|United States|Reston|OVH SAS|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|72.10.160.171|13427|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|17887|Canada|Montreal|GloboTech Communications|
-|17|20.232.120.176|80|United States|Boydton|Microsoft Corporation|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.174|20417|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|13427|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|67.43.227.227|10563|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|13427|Canada|Montreal|GloboTech Communications|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|72.10.160.174|11763|Canada|Montreal|GloboTech Communications|
+|15|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|38.91.101.96|8850|United States|New York|GTHost|
+|17|154.82.63.252|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|18|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
+|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|20|15.204.216.229|25151|United States|Reston|OVH SAS|
 
 
 
