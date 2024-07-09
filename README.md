@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|67.43.227.227|4355|Canada|Montreal|GloboTech Communications|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
 |8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|35.245.75.186|6666|United States|Washington|Google LLC|
-|13|72.10.160.170|1561|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.19|15609|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|1561|Canada|Montreal|GloboTech Communications|
+|10|15.204.216.229|15183|United States|Reston|OVH SAS|
+|11|15.204.216.229|15183|United States|Reston|OVH SAS|
+|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|15.204.216.229|15183|United States|Reston|OVH SAS|
 |16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|17|72.10.160.172|28223|Canada|Montreal|GloboTech Communications|
-|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|67.43.236.19|15609|Canada|Montreal|GloboTech Communications|
+|17|15.204.216.229|15183|United States|Reston|OVH SAS|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|15.204.216.229|15183|United States|Reston|OVH SAS|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
