@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5711** proxies at the latest update. Usable proxies are below.
+> Scraper found **5757** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|84|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|871|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|917|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|294|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3504|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|7|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|8|3.235.13.168|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|10|67.43.228.253|9335|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|32907|Canada|Montreal|GloboTech Communications|
-|12|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|13|181.78.94.238|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|221.118.79.16|8080|Japan|Toyota|AITAI|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|10|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|67.43.227.227|6085|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|25111|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|15685|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|5497|Canada|Montreal|GloboTech Communications|
-|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|20|72.10.164.178|26287|Canada|Montreal|GloboTech Communications|
+|15|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|67.43.228.253|22871|Canada|Montreal|GloboTech Communications|
+|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|19|67.43.227.226|12757|Canada|Montreal|GloboTech Communications|
+|20|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
