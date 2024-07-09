@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|67.43.227.227|10979|Canada|Montreal|GloboTech Communications|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|67.43.228.253|28601|Canada|Montreal|GloboTech Communications|
+|9|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|72.10.160.90|4693|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|9107|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|9107|Canada|Montreal|GloboTech Communications|
 |13|67.43.236.20|32967|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|22765|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22765|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|31871|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|22765|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|22765|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|1747|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|27475|Canada|Montreal|GloboTech Communications|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|172.99.188.129|3128|Netherlands|Amsterdam|GTHost|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.160.90|4693|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|1747|Canada|Montreal|GloboTech Communications|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|72.10.164.178|9107|Canada|Montreal|GloboTech Communications|
 
 
 
