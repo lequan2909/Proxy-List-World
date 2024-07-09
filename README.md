@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|101.255.165.218|8080|Indonesia|Bekasi|PT Remala Abadi|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|17|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|18|38.183.209.231|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|19|67.43.228.253|18047|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|18047|Canada|Montreal|GloboTech Communications|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|7|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|46.161.195.182|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|13|154.82.63.235|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|14|154.82.63.252|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|154.82.63.225|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|20|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
 
 
 
