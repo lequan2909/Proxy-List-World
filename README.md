@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.83.0.38|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|15|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|16|103.231.238.234|58080|Bangladesh|Dhaka|Carnival Internet|
-|17|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|45.5.118.43|999|Guatemala|Guatemala City|Infinitum S.A.|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|5|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|6|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|16|154.82.63.63|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|19|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
