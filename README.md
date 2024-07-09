@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|6|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|38.91.101.96|8850|United States|New York|GTHost|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 |9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|10|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|161.34.66.66|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|67.43.227.228|2331|Canada|Montreal|GloboTech Communications|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|95.164.113.232|443|Finland|Helsinki|Stark Industries Solutions LTD|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|13|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
 |17|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.160.170|14971|Canada|Montreal|GloboTech Communications|
-|19|103.247.14.103|1111|Indonesia|Klaten|TERABIT|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|19|103.191.196.44|8082|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|20|161.34.66.66|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
