@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.91.101.96|8850|United States|New York|GTHost|
-|3|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|15.204.216.229|1413|United States|Reston|OVH SAS|
-|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|15|72.10.160.172|2679|Canada|Montreal|GloboTech Communications|
-|16|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|17|72.10.164.178|1345|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|7643|Canada|Montreal|GloboTech Communications|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|15.204.216.229|1413|United States|Reston|OVH SAS|
+|2|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|15.204.216.229|4538|United States|Reston|OVH SAS|
+|14|15.204.216.229|4538|United States|Reston|OVH SAS|
+|15|15.204.216.229|4538|United States|Reston|OVH SAS|
+|16|72.10.160.172|2679|Canada|Montreal|GloboTech Communications|
+|17|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|18|201.77.110.129|999|Mexico|Union Campesina|Nidix Networks S.a. De C.V.|
+|19|161.34.66.56|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|67.43.228.253|14851|Canada|Montreal|GloboTech Communications|
 
 
 
