@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
+|2|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|72.10.160.93|4523|Canada|Montreal|GloboTech Communications|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|103.159.96.20|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|10|67.43.228.253|1567|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|21507|Canada|Montreal|GloboTech Communications|
-|12|15.204.216.229|1411|United States|Reston|OVH SAS|
-|13|67.43.227.228|16683|Canada|Montreal|GloboTech Communications|
-|14|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|67.43.227.228|16683|Canada|Montreal|GloboTech Communications|
-|16|91.185.84.228|3128|Russia|Moscow|CloudMTS|
-|17|72.10.164.178|21507|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|26193|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|5357|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|23467|Canada|Montreal|GloboTech Communications|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|15.204.216.229|1306|United States|Reston|OVH SAS|
+|9|72.10.160.93|10797|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|22781|Canada|Montreal|GloboTech Communications|
+|11|15.204.216.229|1306|United States|Reston|OVH SAS|
+|12|103.159.96.20|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|13|72.10.160.90|31409|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|9991|Canada|Montreal|GloboTech Communications|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|5.196.111.29|20000|France|Gravelines|OVH SAS|
+|17|67.43.227.228|16683|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|9991|Canada|Montreal|GloboTech Communications|
+|19|94.179.109.254|8081|Ukraine|Kyiv|UKRTELECOM|
+|20|67.43.227.228|16683|Canada|Montreal|GloboTech Communications|
 
 
 
