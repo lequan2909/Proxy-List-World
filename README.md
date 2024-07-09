@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|11|72.10.164.178|32861|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|72.10.164.178|32861|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|3513|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|32861|Canada|Montreal|GloboTech Communications|
-|16|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|7|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
+|8|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|15.204.216.229|1411|United States|Reston|OVH SAS|
+|15|15.204.216.229|1411|United States|Reston|OVH SAS|
+|16|72.10.164.178|32861|Canada|Montreal|GloboTech Communications|
 |17|72.10.164.178|32861|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|12249|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|32861|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|31745|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|15.204.216.229|1411|United States|Reston|OVH SAS|
+|20|67.43.228.253|1161|Canada|Montreal|GloboTech Communications|
 
 
 
