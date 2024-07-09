@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|38.91.101.96|8850|United States|New York|GTHost|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|9|72.10.164.178|26287|Canada|Montreal|GloboTech Communications|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
 |11|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|12|72.10.164.178|26287|Canada|Montreal|GloboTech Communications|
-|13|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
-|14|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|15|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|18|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
-|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|20|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|14|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
+|17|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|19|67.43.228.253|9335|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
