@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|9|172.211.131.65|8080|Netherlands|Amsterdam|Microsoft|
-|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|11|185.89.156.2|44224|Albania|Tirana|ATU|
-|12|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
-|13|72.10.160.94|2261|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|29485|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|17|67.43.227.226|30175|Canada|Montreal|GloboTech Communications|
-|18|15.204.216.229|10359|United States|Reston|OVH SAS|
-|19|72.10.160.90|29485|Canada|Montreal|GloboTech Communications|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|8|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|15|172.211.131.65|8080|Netherlands|Amsterdam|Microsoft|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|72.10.164.178|20565|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|19|67.43.227.227|17661|Canada|Montreal|GloboTech Communications|
+|20|15.204.216.229|10359|United States|Reston|OVH SAS|
 
 
 
