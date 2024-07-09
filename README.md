@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|15.204.216.229|5824|United States|Reston|OVH SAS|
-|6|164.163.42.20|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|7|15.204.216.229|5824|United States|Reston|OVH SAS|
-|8|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|164.163.42.20|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|15.204.216.229|7563|United States|Reston|OVH SAS|
+|9|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.160.170|10827|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|16|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|17|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|18|72.10.164.178|5983|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|25259|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5983|Canada|Montreal|GloboTech Communications|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|15.204.216.229|7563|United States|Reston|OVH SAS|
+|13|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|14|15.204.216.229|7563|United States|Reston|OVH SAS|
+|15|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|16|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
+|17|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|67.43.227.227|9943|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|9943|Canada|Montreal|GloboTech Communications|
+|20|15.204.216.229|7563|United States|Reston|OVH SAS|
 
 
 
