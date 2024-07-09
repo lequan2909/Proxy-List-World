@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|15.204.216.229|1411|United States|Reston|OVH SAS|
-|11|15.204.216.229|1411|United States|Reston|OVH SAS|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|15.204.216.229|1411|United States|Reston|OVH SAS|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|12277|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|12277|Canada|Montreal|GloboTech Communications|
-|18|103.169.254.9|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|19|67.43.236.20|17469|Canada|Montreal|GloboTech Communications|
-|20|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|14|15.204.216.229|20757|United States|Reston|OVH SAS|
+|15|15.204.216.229|20757|United States|Reston|OVH SAS|
+|16|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
