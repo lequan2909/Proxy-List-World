@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|67.43.227.227|20373|Canada|Montreal|GloboTech Communications|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|152.26.229.86|9443|United States|Huntersville|MCNC|
-|5|72.10.164.178|14765|Canada|Montreal|GloboTech Communications|
-|6|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|7|67.43.236.21|3411|Canada|Montreal|GloboTech Communications|
-|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|9|72.10.164.178|14765|Canada|Montreal|GloboTech Communications|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.160.91|12383|Canada|Montreal|GloboTech Communications|
-|12|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|221.118.79.16|8080|Japan|Toyota|AITAI|
-|15|67.43.227.227|20373|Canada|Montreal|GloboTech Communications|
-|16|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
-|17|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|18|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
-|20|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|8|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|10|103.103.88.100|8090|Bangladesh|Chittagong|Easy Net - BD|
+|11|146.0.75.178|11197|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|67.43.227.227|20373|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|5311|Canada|Montreal|GloboTech Communications|
+|16|102.38.13.9|19000|Libya|Tripoli|GKL|
+|17|67.43.236.21|3411|Canada|Montreal|GloboTech Communications|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|72.10.164.178|14765|Canada|Montreal|GloboTech Communications|
+|20|154.82.63.252|40006|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
