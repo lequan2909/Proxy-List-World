@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|14|154.82.63.63|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|15|67.43.236.20|20565|Canada|Montreal|GloboTech Communications|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|67.43.227.226|11011|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|13529|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|25157|Canada|Montreal|GloboTech Communications|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|31.24.251.112|3128|France|Paris|BitWeb LLC|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|15.204.216.229|20135|United States|Reston|OVH SAS|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|17|173.249.10.82|3128|Germany|Nuremberg|Contabo GmbH|
+|18|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|67.43.236.20|20565|Canada|Montreal|GloboTech Communications|
 
 
 
