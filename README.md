@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|95.164.113.232|443|Finland|Helsinki|Stark Industries Solutions LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|103.166.226.10|8181|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|5|95.164.113.232|443|Finland|Helsinki|Stark Industries Solutions LTD|
+|6|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|11|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |12|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |13|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|14|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|15|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|16|72.10.164.178|3237|Canada|Montreal|GloboTech Communications|
-|17|34.41.132.8|80|United States|Council Bluffs|Google LLC|
-|18|95.164.113.232|443|Finland|Helsinki|Stark Industries Solutions LTD|
-|19|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
-|20|72.10.164.178|3237|Canada|Montreal|GloboTech Communications|
+|14|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|15|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|16|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|17|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|18|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
