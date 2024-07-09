@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|7|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|8|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
 |9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
-|11|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|101.255.165.218|8080|Indonesia|Bekasi|PT Remala Abadi|
 |15|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
 |16|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|173.249.10.82|3128|Germany|Nuremberg|Contabo GmbH|
-|18|72.10.164.178|1791|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|10953|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|6193|Canada|Montreal|GloboTech Communications|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|72.10.164.178|32369|Canada|Montreal|GloboTech Communications|
+|19|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|20|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
