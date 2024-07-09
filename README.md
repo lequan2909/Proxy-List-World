@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|4|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
-|5|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|8|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|72.10.160.91|14907|Canada|Montreal|GloboTech Communications|
-|18|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|19|67.43.227.227|16379|Canada|Montreal|GloboTech Communications|
-|20|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
 
 
 
