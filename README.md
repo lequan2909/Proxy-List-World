@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|72.10.160.90|27797|Canada|Montreal|GloboTech Communications|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|82.165.180.64|3128|France|Paris|IONOS SE|
-|9|72.10.164.178|32625|Canada|Montreal|GloboTech Communications|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|12|72.10.164.178|32625|Canada|Montreal|GloboTech Communications|
-|13|161.34.39.55|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.227.226|4653|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|15063|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|24171|Canada|Montreal|GloboTech Communications|
-|17|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|18|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|20|67.43.228.253|4481|Canada|Montreal|GloboTech Communications|
+|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|42.119.163.219|8080|Vietnam|Hanoi|FPT Telecom Company|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|80.66.81.44|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|9|103.42.120.31|8080|Indonesia|Jakarta|PT Transhybrid Communication|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|13|103.88.237.129|84|India|Hyderabad|Mana Communications|
+|14|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|15|154.82.63.63|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
