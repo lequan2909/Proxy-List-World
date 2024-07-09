@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|4|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
 |6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
 |9|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.42.120.31|8080|Indonesia|Jakarta|PT Transhybrid Communication|
-|11|103.156.15.35|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|12|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|24.124.46.18|800|United States|Clear Lake|Midcontinent Communications|
+|10|103.82.26.77|1996|Vietnam|Cầu Giấy District|Phong Thuy media joint stock company|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|15|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
 |20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
