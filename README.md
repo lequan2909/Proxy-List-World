@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|164.163.42.20|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|36.67.203.74|8082|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|15.204.216.229|1220|United States|Reston|OVH SAS|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|15.204.216.229|1220|United States|Reston|OVH SAS|
+|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|164.163.42.20|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|9|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.160.172|32937|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|22691|Canada|Montreal|GloboTech Communications|
-|17|15.204.216.229|1220|United States|Reston|OVH SAS|
-|18|67.43.228.250|1205|Canada|Montreal|GloboTech Communications|
-|19|186.96.31.46|7070|Mexico|Cholula|Total Play Telecomunicaciones SA De CV|
-|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|13|15.204.216.229|1220|United States|Reston|OVH SAS|
+|14|15.204.216.229|1220|United States|Reston|OVH SAS|
+|15|15.204.216.229|1220|United States|Reston|OVH SAS|
+|16|15.204.216.229|1220|United States|Reston|OVH SAS|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|15.204.216.229|1220|United States|Reston|OVH SAS|
+|19|67.43.228.250|1205|Canada|Montreal|GloboTech Communications|
+|20|15.204.216.229|1220|United States|Reston|OVH SAS|
 
 
 
