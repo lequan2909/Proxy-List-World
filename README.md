@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|38.91.101.96|8850|United States|New York|GTHost|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|9|49.48.42.168|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|12|15.204.216.229|4538|United States|Reston|OVH SAS|
-|13|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|24.204.29.115|8080|United States|Longview|Network IP|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|15.204.216.229|4538|United States|Reston|OVH SAS|
 |18|67.43.227.227|27707|Canada|Montreal|GloboTech Communications|
-|19|15.204.216.229|4538|United States|Reston|OVH SAS|
-|20|67.43.227.227|27707|Canada|Montreal|GloboTech Communications|
+|19|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
