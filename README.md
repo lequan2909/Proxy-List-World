@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|164.163.42.20|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|14|103.87.170.62|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|10|15.204.216.229|7563|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|14|15.204.216.229|7563|United States|Reston|OVH SAS|
 |15|15.204.216.229|7563|United States|Reston|OVH SAS|
 |16|152.26.229.42|9443|United States|Huntersville|MCNC|
 |17|15.204.216.229|7563|United States|Reston|OVH SAS|
-|18|72.10.164.178|32079|Canada|Montreal|GloboTech Communications|
-|19|182.253.109.229|8080|Indonesia|Semarang|Biznet Metronet|
-|20|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|18|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|19|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|20|103.87.170.62|32650|India|Jaipur|Tejays Industries Pvt Ltd|
 
 
 
