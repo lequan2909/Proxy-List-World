@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|6|38.91.101.96|8850|United States|New York|GTHost|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|103.154.77.204|8080|Indonesia|Magelang|T2NET|
-|9|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|13|103.123.64.234|3128|Indonesia|Surabaya|CEPATNET|
-|14|45.201.134.38|8080|Cambodia|Phnom Penh|EZECOM Co., Ltd.|
-|15|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|16|45.114.144.114|32650|India|Jaipur|Tejays Dynamic Limited|
-|17|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
-|20|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|12|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|103.186.204.52|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|18|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|20|191.102.248.5|8085|Argentina|Rosario|IP·RED|
 
 
 
