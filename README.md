@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|10|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|11|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
 |12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|3.235.13.168|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|39.129.73.6|443|China|Kunming|China Mobile|
-|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|17|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 
 
 
