@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|14.160.26.79|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|8|103.165.157.235|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|103.133.26.126|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|13|15.204.216.229|20135|United States|Reston|OVH SAS|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|17|136.226.67.12|10160|United States|Los Angeles|ZSCALER, INC.|
-|18|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|19|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|20|67.43.228.253|7783|Canada|Montreal|GloboTech Communications|
+|15|154.82.63.63|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|16|190.94.212.165|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|15.204.216.229|5263|United States|Reston|OVH SAS|
+|19|67.43.228.253|10521|Canada|Montreal|GloboTech Communications|
+|20|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
