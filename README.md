@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|5|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|91.108.130.18|3128|Iran|Ahvaz|Rayaneh Gostar Farzanegan Ahvaz LTD|
-|9|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|14|15.204.216.229|5534|United States|Reston|OVH SAS|
-|15|15.204.216.229|5534|United States|Reston|OVH SAS|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
