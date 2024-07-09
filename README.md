@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|6|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|7|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|3.235.13.168|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|129.159.88.228|80|United States|Ashburn|Oracle Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|15|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|16|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|17|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|18|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|6|47.243.65.210|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|14|3.235.13.168|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|16|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|160.248.7.207|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
 
 
 
