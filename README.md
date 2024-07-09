@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|3.235.13.168|3128|United States|Ashburn|Amazon Technologies Inc.|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|27.76.181.42|8080|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|17|103.168.254.138|8086|Indonesia|Jepara|PT Fahasa Tri Data|
-|18|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.170|12819|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|7|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.10.160.170|16549|Canada|Montreal|GloboTech Communications|
+|9|203.205.9.105|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|10|152.26.229.42|9443|United States|Huntersville|MCNC|
+|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|67.43.236.20|10671|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|24063|Canada|Montreal|GloboTech Communications|
+|16|3.235.13.168|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|34.41.132.8|80|United States|Council Bluffs|Google LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|20|72.10.160.170|16549|Canada|Montreal|GloboTech Communications|
 
 
 
