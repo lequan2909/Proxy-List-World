@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|109.236.85.118|11028|The Netherlands|Naaldwijk|WorldStream B.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|210.247.252.146|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|210.247.253.111|3128|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|154.82.63.166|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|5|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
 |10|38.91.101.96|8850|United States|New York|GTHost|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|38.91.101.96|8850|United States|New York|GTHost|
-|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|210.247.252.189|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|19|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|14|172.174.5.182|8080|United States|Boydton|Microsoft|
+|15|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|16|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|20|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
 
 
 
