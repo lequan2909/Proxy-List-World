@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|67.43.228.253|23485|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|13965|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.227.227|19113|Canada|Montreal|GloboTech Communications|
-|15|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|24.204.29.115|8080|United States|Longview|Network IP|
-|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|18|72.10.164.178|13965|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|19113|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|23485|Canada|Montreal|GloboTech Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|8|187.62.209.119|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|9|203.111.253.40|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|19|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
