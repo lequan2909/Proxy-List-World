@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|8|164.163.42.30|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|210.247.253.111|3128|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|164.163.42.30|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|17|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|14.225.3.194|3128|Vietnam|Bac Ninh|Vietnam Posts and Telecommunications Group|
+|19|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|20|67.43.228.251|2263|Canada|Montreal|GloboTech Communications|
 
 
 
