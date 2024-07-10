@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|9|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|91.185.55.254|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|15|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|161.34.66.66|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|67.43.227.226|19341|Canada|Montreal|GloboTech Communications|
-|19|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|95.217.46.118|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|9|14.42.120.226|3128|South Korea|Yangju|Korea Telecom|
+|10|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
+|11|72.10.160.90|29055|Canada|Montreal|GloboTech Communications|
+|12|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|67.43.227.226|19341|Canada|Montreal|GloboTech Communications|
+|14|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|15|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|16|161.34.66.66|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|67.43.227.227|8781|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|30729|Canada|Montreal|GloboTech Communications|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|188.165.52.148|3128|France|Roubaix|OVH SAS|
 
 
 
