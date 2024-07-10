@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|203.150.128.177|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|113.160.154.32|19132|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|13|210.247.252.29|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|14|67.43.228.254|28873|Canada|Montreal|GloboTech Communications|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|210.247.252.102|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|210.247.252.29|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|17|45.150.223.132|3128|United States|Ashburn|AT&T Services, Inc.|
-|18|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|72.10.164.178|8055|Canada|Montreal|GloboTech Communications|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|45.150.223.132|3128|United States|Ashburn|AT&T Services, Inc.|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
