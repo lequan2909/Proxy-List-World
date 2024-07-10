@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|95.217.46.118|3128|Finland|Helsinki|Hetzner Online GmbH|
-|3|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|177.93.36.151|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|154.82.63.93|40216|Hong Kong|Hong Kong|Starbow Ltd|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|15|38.91.101.96|8850|United States|New York|GTHost|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|1|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|6|154.82.63.93|40216|Hong Kong|Hong Kong|Starbow Ltd|
+|7|137.184.123.71|3131|United States|Santa Clara|DigitalOcean, LLC|
+|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|67.43.227.227|22997|Canada|Montreal|GloboTech Communications|
+|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|17|72.10.164.178|3991|Canada|Montreal|GloboTech Communications|
 |18|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|19|67.43.227.228|26991|Canada|Montreal|GloboTech Communications|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|67.43.236.20|8855|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|13259|Canada|Montreal|GloboTech Communications|
 
 
 
