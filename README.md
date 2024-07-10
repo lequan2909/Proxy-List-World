@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
-|10|15.204.216.229|5824|United States|Reston|OVH SAS|
-|11|181.78.82.213|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|3|3.6.60.173|80|India|Mumbai|Amazon Technologies Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|15.204.216.229|16187|United States|Reston|OVH SAS|
+|11|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|15.204.216.229|5824|United States|Reston|OVH SAS|
-|15|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|16|67.43.236.20|24889|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|72.10.160.90|31063|Canada|Montreal|GloboTech Communications|
-|19|15.204.216.229|5824|United States|Reston|OVH SAS|
-|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|15|15.204.216.229|16187|United States|Reston|OVH SAS|
+|16|72.10.160.90|25261|Canada|Montreal|GloboTech Communications|
+|17|15.204.216.229|16187|United States|Reston|OVH SAS|
+|18|15.204.216.229|16187|United States|Reston|OVH SAS|
+|19|72.10.160.171|7093|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|25261|Canada|Montreal|GloboTech Communications|
 
 
 
