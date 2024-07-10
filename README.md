@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|210.247.252.29|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|45.150.223.132|3128|United States|Ashburn|AT&T Services, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
-|16|72.10.164.178|30203|Canada|Montreal|GloboTech Communications|
-|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.227.227|1173|Canada|Montreal|GloboTech Communications|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|210.247.252.102|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|12|45.150.223.132|3128|United States|Ashburn|AT&T Services, Inc.|
+|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|210.247.252.75|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.164.178|13029|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|15491|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|24433|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.92|8185|Canada|Montreal|GloboTech Communications|
 
 
 
