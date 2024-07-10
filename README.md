@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.247.252.146|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|6|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|210.247.253.216|3128|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|10|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|210.247.252.102|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|210.247.252.29|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|210.247.253.111|3128|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|15.204.151.142|31158|United States|Reston|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|210.247.252.146|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|9|210.247.252.29|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|10|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|15|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|15.204.216.229|5824|United States|Reston|OVH SAS|
+|19|161.34.66.56|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
