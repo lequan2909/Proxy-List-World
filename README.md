@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|38.91.101.96|8850|United States|New York|GTHost|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|210.247.252.102|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|164.163.42.33|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|109.236.86.4|12756|The Netherlands|Naaldwijk|WorldStream B.V.|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|94.253.81.152|8080|Russia|Ivanteyevka|Itkm ISP|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|164.163.42.30|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
 
 
 
