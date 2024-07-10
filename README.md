@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|7|15.204.216.229|21801|United States|Reston|OVH SAS|
-|8|15.204.216.229|21801|United States|Reston|OVH SAS|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|160.248.4.99|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|14|72.10.160.170|19367|Canada|Montreal|GloboTech Communications|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|67.43.236.21|7773|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|23113|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|24689|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|21965|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21965|Canada|Montreal|GloboTech Communications|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|10|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|15.204.216.229|14390|United States|Reston|OVH SAS|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
