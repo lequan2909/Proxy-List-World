@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|93.190.141.73|12756|The Netherlands|Naaldwijk|CUSTOMERPANEL|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|119.235.209.92|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|13|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
+|16|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|17|45.176.97.98|999|Dominican Republic|Santo Domingo Este|Cable Onda Oriental, SRL|
+|18|72.10.164.178|5231|Canada|Montreal|GloboTech Communications|
 |19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|20|72.10.160.174|2681|Canada|Montreal|GloboTech Communications|
 
 
 
