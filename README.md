@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|6|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|7|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|14.42.120.226|3128|South Korea|Yangju|Korea Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|89.38.96.110|11499|The Netherlands|Naaldwijk|WorldStream B.V.|
+|7|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
 |8|93.190.143.158|11066|The Netherlands|Naaldwijk|CUSTOMERPANEL|
-|9|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|11|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|17|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|18|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|19|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|154.82.63.180|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|15|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|18|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 
 
 
