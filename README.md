@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|38.91.101.96|8850|United States|New York|GTHost|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|15.204.216.229|6060|United States|Reston|OVH SAS|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|11|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|15.204.216.229|6060|United States|Reston|OVH SAS|
-|20|15.204.216.229|6060|United States|Reston|OVH SAS|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|15.204.216.229|6060|United States|Reston|OVH SAS|
+|19|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|20|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
 
 
 
