@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|154.82.63.182|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|6|14.42.120.226|3128|South Korea|Yangju|Korea Telecom|
-|7|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|13|95.217.46.118|3128|Finland|Helsinki|Hetzner Online GmbH|
+|1|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|103.56.206.65|4995|Indonesia|Medan|Argon Data Communication|
+|7|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|103.155.198.105|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|13|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
 |14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|18|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|19|72.10.160.173|27703|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12343|Canada|Montreal|GloboTech Communications|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|17|67.43.236.20|7265|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|12343|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|24669|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
