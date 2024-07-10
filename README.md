@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.162.62.92|8080|Indonesia|Yogyakarta|PT Ring Media Nusantara|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|190.102.149.77|999|Peru|Lima|Optical Technologies S.A.C.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|103.247.23.201|8080|Indonesia|Bekasi|PT wifian Solution|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|7639|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|6991|Canada|Montreal|GloboTech Communications|
-|18|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|72.10.164.178|7639|Canada|Montreal|GloboTech Communications|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|203.150.128.177|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|14|103.187.113.165|3125|Indonesia|Tubanan|PT Adi Solusindo Teknologi|
+|15|72.10.164.178|28853|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|103.87.169.206|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|18|72.10.164.178|28853|Canada|Montreal|GloboTech Communications|
+|19|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|20|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 
 
 
