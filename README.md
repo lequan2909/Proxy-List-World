@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.239.252.212|58080|Bangladesh|Dhaka|Carnival Internet|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|13|67.43.228.253|8587|Canada|Montreal|GloboTech Communications|
-|14|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|67.43.227.227|2037|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|16945|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|38.91.101.96|8850|United States|New York|GTHost|
-|20|67.43.228.253|8587|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|181.78.11.217|999|Colombia|San Diego|IFX Networks Argentina S.R.L|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|91.185.55.254|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|14|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|67.43.228.253|2637|Canada|Montreal|GloboTech Communications|
+|17|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|14.42.120.226|3128|South Korea|Yangju|Korea Telecom|
+|20|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
 
 
 
