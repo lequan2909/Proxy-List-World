@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|12|77.41.146.22|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|13|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|14|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|15|80.66.81.43|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|140.115.70.111|80|Taiwan|Zhongli District|T-NCU.EDU.TW|
+|7|103.154.230.58|8080|Indonesia|Lamongan|DIGITNET|
+|8|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|9|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|49.49.63.152|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|67.43.236.20|13295|Canada|Montreal|GloboTech Communications|
+|18|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|19|72.10.164.178|15047|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|8785|Canada|Montreal|GloboTech Communications|
 
 
 
