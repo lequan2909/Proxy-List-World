@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|1|160.248.3.28|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|38.91.101.96|8850|United States|New York|GTHost|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|38.91.101.96|8850|United States|New York|GTHost|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|43.134.186.199|3218|Singapore|Singapore|Aceville Pte.ltd|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|36.64.195.242|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|38.91.101.96|8850|United States|New York|GTHost|
 
 
 
