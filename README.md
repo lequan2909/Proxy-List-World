@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|1|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.76.151.52|8181|Indonesia|Purwakarta|PT. Java Digital Nusantara|
+|6|15.204.216.229|14390|United States|Reston|OVH SAS|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|12|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|20|15.204.216.229|11818|United States|Reston|OVH SAS|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|67.43.227.229|9005|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|14449|Canada|Montreal|GloboTech Communications|
+|14|15.204.216.229|14390|United States|Reston|OVH SAS|
+|15|67.43.236.20|11223|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|13241|Canada|Montreal|GloboTech Communications|
+|17|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|19|67.43.228.253|29215|Canada|Montreal|GloboTech Communications|
+|20|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
 
 
 
