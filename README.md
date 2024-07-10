@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.229.23.194|11031|The Netherlands|Naaldwijk|WorldStream B.V.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|9|181.209.82.197|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|4|210.247.252.31|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|91.229.23.194|11031|The Netherlands|Naaldwijk|WorldStream B.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|20|210.247.252.189|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|210.247.252.102|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|12|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|13|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|210.247.252.146|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|15.204.216.229|5824|United States|Reston|OVH SAS|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|20|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
 
 
 
