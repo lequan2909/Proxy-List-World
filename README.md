@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
-|7|15.204.216.229|5824|United States|Reston|OVH SAS|
-|8|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|15.204.216.229|6060|United States|Reston|OVH SAS|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
 |9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|10|67.43.228.253|8827|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|8827|Canada|Montreal|GloboTech Communications|
-|12|15.204.216.229|5824|United States|Reston|OVH SAS|
-|13|72.10.164.178|27103|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.227.226|3749|Canada|Montreal|GloboTech Communications|
-|16|15.204.216.229|5824|United States|Reston|OVH SAS|
-|17|67.43.227.227|13047|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|20925|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|27103|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|24203|Canada|Montreal|GloboTech Communications|
+|10|190.187.163.2|999|Peru|Lima|Americatel Peru S.A.|
+|11|15.204.216.229|6060|United States|Reston|OVH SAS|
+|12|15.204.216.229|6060|United States|Reston|OVH SAS|
+|13|15.204.216.229|6060|United States|Reston|OVH SAS|
+|14|67.43.228.253|8827|Canada|Montreal|GloboTech Communications|
+|15|15.204.216.229|6060|United States|Reston|OVH SAS|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|15.204.216.229|6060|United States|Reston|OVH SAS|
+|18|72.10.164.178|10003|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|10003|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|27877|Canada|Montreal|GloboTech Communications|
 
 
 
