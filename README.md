@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|49.49.63.152|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.169.129.4|1111|Indonesia|Cirebon|PT Media Akses Data|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|109.236.86.4|12469|The Netherlands|Naaldwijk|WorldStream B.V.|
-|9|89.38.99.28|12935|The Netherlands|Naaldwijk|WorldStream B.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|109.236.84.12|12844|The Netherlands|Naaldwijk|WorldStream B.V.|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|38.91.101.96|8850|United States|New York|GTHost|
-|14|185.165.240.228|11558|The Netherlands|Naaldwijk|WorldStream B.V.|
+|2|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|7|154.82.63.166|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|154.82.63.166|40000|Hong Kong|Hong Kong|Starbow Ltd|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|72.10.160.171|25169|Canada|Montreal|GloboTech Communications|
+|16|91.229.23.206|12273|The Netherlands|Naaldwijk|WorldStream B.V.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.18|15399|Canada|Montreal|GloboTech Communications|
 
 
 
