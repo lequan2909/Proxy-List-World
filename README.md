@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|15.204.216.229|5824|United States|Reston|OVH SAS|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|200.24.159.158|999|Ecuador|Cuenca|Negocios Y Telefonia Nedetel S.A|
-|10|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|181.78.82.213|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|13|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|14|135.181.150.19|8118|Finland|Helsinki|Hetzner Online GmbH|
-|15|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|16|15.204.216.229|5824|United States|Reston|OVH SAS|
-|17|109.236.93.35|12514|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|72.10.160.90|27927|Canada|Montreal|GloboTech Communications|
-|19|15.204.216.229|5824|United States|Reston|OVH SAS|
-|20|72.10.160.90|27927|Canada|Montreal|GloboTech Communications|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|9|15.204.216.229|15905|United States|Reston|OVH SAS|
+|10|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|11|15.204.216.229|15905|United States|Reston|OVH SAS|
+|12|15.204.216.229|15905|United States|Reston|OVH SAS|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|72.10.160.90|1513|Canada|Montreal|GloboTech Communications|
+|15|15.204.216.229|15905|United States|Reston|OVH SAS|
+|16|72.10.164.178|4953|Canada|Montreal|GloboTech Communications|
+|17|15.204.216.229|15905|United States|Reston|OVH SAS|
+|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|19|15.204.216.229|15905|United States|Reston|OVH SAS|
+|20|67.43.228.253|2981|Canada|Montreal|GloboTech Communications|
 
 
 
