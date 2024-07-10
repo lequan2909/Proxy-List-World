@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|154.82.63.218|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|8|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|10|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|67.43.236.20|23009|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|15255|Canada|Montreal|GloboTech Communications|
-|13|45.56.96.113|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|14|67.43.227.227|13295|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.236.20|23009|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|8487|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2635|Canada|Montreal|GloboTech Communications|
+|2|89.38.97.81|11458|The Netherlands|Naaldwijk|WorldStream B.V.|
+|3|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|4|154.82.63.182|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|5|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|154.82.63.121|40000|Hong Kong|Hong Kong|Starbow Ltd|
+|11|36.64.52.226|8081|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|12|103.239.252.212|58080|Bangladesh|Dhaka|Carnival Internet|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|15|67.43.236.20|20969|Canada|Montreal|GloboTech Communications|
+|16|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.91|28467|Canada|Montreal|GloboTech Communications|
 |19|38.91.101.96|8850|United States|New York|GTHost|
-|20|67.43.228.253|1699|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|20969|Canada|Montreal|GloboTech Communications|
 
 
 
