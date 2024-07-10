@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.4.99|8888|Japan|Takasago|NTT PC Communications, Inc.|
 |3|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.82.63.93|40216|Hong Kong|Hong Kong|Starbow Ltd|
-|9|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
 |11|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
-|16|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.48.71.18|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|15.204.216.229|7563|United States|Reston|OVH SAS|
-|20|171.244.60.55|8080|Vietnam|Bac Son|VIETEL|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|217.77.102.14|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|18|171.244.60.55|8080|Vietnam|Bac Son|VIETEL|
+|19|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
