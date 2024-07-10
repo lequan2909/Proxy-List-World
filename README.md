@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|15.204.216.229|28191|United States|Reston|OVH SAS|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|15|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
-|16|45.70.201.186|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|19|15.204.216.229|28191|United States|Reston|OVH SAS|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|15.204.216.229|4538|United States|Reston|OVH SAS|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|160.248.79.202|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|14|67.43.236.18|5871|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|15.204.216.229|4538|United States|Reston|OVH SAS|
+|17|72.10.160.90|2573|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|15933|Canada|Montreal|GloboTech Communications|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|15.204.216.229|4538|United States|Reston|OVH SAS|
 
 
 
