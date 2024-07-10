@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5726** proxies at the latest update. Usable proxies are below.
+> Scraper found **5727** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|131|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|132|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|861|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|474|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.66.56|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|217.182.194.108|3128|France|Gravelines|OVH SAS|
-|5|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|23.134.91.47|3128|France|Paris|GTHost|
-|8|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|12|15.204.151.141|31158|United States|Reston|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|200.108.190.42|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
+|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|4|173.249.10.82|3128|Germany|Nuremberg|Contabo GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|10|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|15.204.151.142|31158|United States|Reston|OVH SAS|
+|15|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|16|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|103.105.76.216|8080|Indonesia|Bojonegoro|GARUDA|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 
 
 
