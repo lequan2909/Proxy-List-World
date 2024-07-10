@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|210.247.252.29|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|210.247.252.75|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|38.91.101.96|8850|United States|New York|GTHost|
-|16|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|210.247.252.102|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|210.247.252.29|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|103.87.169.206|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|14|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|15|67.43.236.20|26063|Canada|Montreal|GloboTech Communications|
+|16|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|17|67.43.227.227|15151|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|17159|Canada|Montreal|GloboTech Communications|
+|19|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|20|67.43.228.251|32055|Canada|Montreal|GloboTech Communications|
 
 
 
