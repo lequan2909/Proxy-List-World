@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|15|154.82.63.93|40216|Hong Kong|Hong Kong|Starbow Ltd|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|18|15.204.216.229|1217|United States|Reston|OVH SAS|
-|19|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|20|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|160.248.7.46|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|10|131.196.14.115|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|15.204.216.229|1217|United States|Reston|OVH SAS|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|178.207.11.148|3129|Russia|Naberezhnyye Chelny|TATTELECOM|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 
 
 
