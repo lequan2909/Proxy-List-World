@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|12|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|20|15.204.216.229|11818|United States|Reston|OVH SAS|
+
 
 
 ## Contributing
