@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.82.63.93|40216|Hong Kong|Hong Kong|Starbow Ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|4|38.91.101.96|8850|United States|New York|GTHost|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|117.102.103.146|9890|Indonesia|Jakarta|BIZNET|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|67.43.227.227|13295|Canada|Montreal|GloboTech Communications|
-|12|61.129.2.212|8080|China|Beijing|CHINANET|
-|13|67.43.227.226|15255|Canada|Montreal|GloboTech Communications|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|72.10.164.178|30937|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.22|13637|Canada|Montreal|GloboTech Communications|
-|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|18|5.196.111.29|20477|France|Gravelines|OVH SAS|
-|19|67.43.236.21|13637|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|13295|Canada|Montreal|GloboTech Communications|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|9|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|67.43.227.227|14365|Canada|Montreal|GloboTech Communications|
+|13|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
+|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|15|67.43.236.22|13637|Canada|Montreal|GloboTech Communications|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|67.43.236.21|13637|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|12121|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.228.250|23243|Canada|Montreal|GloboTech Communications|
 
 
 
