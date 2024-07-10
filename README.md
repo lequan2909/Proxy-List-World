@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|15.204.216.229|1411|United States|Reston|OVH SAS|
 |8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|12|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
-|13|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|14|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|15.204.216.229|14645|United States|Reston|OVH SAS|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|10|104.199.205.181|3128|Taiwan|Taipei|Google LLC|
+|11|15.204.216.229|1411|United States|Reston|OVH SAS|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|15.204.151.141|31158|United States|Reston|OVH SAS|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
 |20|185.221.219.98|3128|Netherlands|Amsterdam|GTHost|
 
 
