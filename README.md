@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|15.204.216.229|4538|United States|Reston|OVH SAS|
-|7|15.204.216.229|4538|United States|Reston|OVH SAS|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|103.132.54.41|8182|Indonesia|Pekalongan|PT. ADEAKSA INDO JAYATAMA|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|15.204.216.229|4538|United States|Reston|OVH SAS|
 |11|15.204.216.229|4538|United States|Reston|OVH SAS|
-|12|15.204.216.229|4538|United States|Reston|OVH SAS|
-|13|15.204.216.229|4538|United States|Reston|OVH SAS|
-|14|15.204.216.229|4538|United States|Reston|OVH SAS|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|72.10.160.90|27825|Canada|Montreal|GloboTech Communications|
-|17|160.248.92.13|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|18|72.10.164.178|7443|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|7443|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|27825|Canada|Montreal|GloboTech Communications|
+|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|15.204.216.229|4538|United States|Reston|OVH SAS|
+|17|95.214.123.11|8080|Hungary|Kecskemét|Deltakon Kft.|
+|18|15.204.216.229|4538|United States|Reston|OVH SAS|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
