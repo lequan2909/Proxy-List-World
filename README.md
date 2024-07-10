@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|38.91.101.96|8850|United States|New York|GTHost|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
-|15|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
-|16|161.34.66.56|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|15.204.216.229|6060|United States|Reston|OVH SAS|
+|11|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|161.34.66.56|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|15.204.216.229|6060|United States|Reston|OVH SAS|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
