@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.91.101.96|8850|United States|New York|GTHost|
-|2|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|119.93.43.16|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|137.184.123.71|3131|United States|Santa Clara|DigitalOcean, LLC|
-|6|46.175.1.65|8080|Slovakia|Michalovce|Andrex s.r.o.|
-|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|8|171.6.72.7|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|13|72.10.160.91|8487|Canada|Montreal|GloboTech Communications|
-|14|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|190.2.209.58|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|17|95.217.46.118|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|104.225.150.168|3128|United States|Los Angeles|IT7 Networks Inc|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|72.10.160.91|8487|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|12|72.10.160.90|13259|Canada|Montreal|GloboTech Communications|
+|13|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|14|72.10.160.90|13259|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|25863|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|4445|Canada|Montreal|GloboTech Communications|
+|17|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|18|72.10.160.90|13259|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|4233|Canada|Montreal|GloboTech Communications|
 |20|67.43.228.251|27403|Canada|Montreal|GloboTech Communications|
 
 
