@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|12|154.82.63.63|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|17|15.204.216.229|11025|United States|Reston|OVH SAS|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|15.204.216.229|21801|United States|Reston|OVH SAS|
+|15|15.204.216.229|21801|United States|Reston|OVH SAS|
+|16|5.44.101.53|13128|Germany|Frankfurt am Main|Alvotech GmbH via velia.net|
+|17|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
 |19|67.43.228.252|12425|Canada|Montreal|GloboTech Communications|
-|20|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
