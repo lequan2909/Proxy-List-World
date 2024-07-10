@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
 |5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |6|14.42.120.226|3128|South Korea|Yangju|Korea Telecom|
-|7|49.49.63.152|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|8|89.39.104.214|11264|The Netherlands|Naaldwijk|WorldStream B.V.|
-|9|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|72.10.160.174|22691|Canada|Montreal|GloboTech Communications|
-|14|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|15|67.43.236.20|11625|Canada|Montreal|GloboTech Communications|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|38.91.101.96|8850|United States|New York|GTHost|
-|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|28515|Canada|Montreal|GloboTech Communications|
+|12|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|13|45.70.85.8|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|14|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|15|135.181.150.19|8118|Finland|Helsinki|Hetzner Online GmbH|
+|16|172.99.188.178|3128|Netherlands|Amsterdam|GTHost|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
