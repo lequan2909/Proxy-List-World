@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.91.101.96|8850|United States|New York|GTHost|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|15.204.216.229|4538|United States|Reston|OVH SAS|
-|12|15.204.216.229|4538|United States|Reston|OVH SAS|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|15|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|15.204.216.229|4538|United States|Reston|OVH SAS|
-|18|15.204.216.229|4538|United States|Reston|OVH SAS|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|67.43.228.250|13315|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|15.204.151.149|31158|United States|Reston|OVH SAS|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|15.204.216.229|4538|United States|Reston|OVH SAS|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
