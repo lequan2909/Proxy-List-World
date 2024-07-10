@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.82.63.121|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|154.82.63.127|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|10|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|13|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|14|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|154.82.63.182|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|14.42.120.226|3128|South Korea|Yangju|Korea Telecom|
-|19|72.10.160.90|13401|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|67.43.228.251|17937|Canada|Montreal|GloboTech Communications|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|72.10.164.178|9649|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.228|10805|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|2587|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|20849|Canada|Montreal|GloboTech Communications|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|191.102.248.8|8084|Argentina|Rosario|IP·RED|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.160.174|2483|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|20849|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|4895|Canada|Montreal|GloboTech Communications|
 
 
 
