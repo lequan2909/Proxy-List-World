@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5481** proxies at the latest update. Usable proxies are below.
+> Scraper found **5531** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|144|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|572|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|622|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|455|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3352|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|154.82.63.218|40000|Hong Kong|Hong Kong|Starbow Ltd|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
-|12|15.204.216.229|16187|United States|Reston|OVH SAS|
-|13|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
-|14|67.43.227.227|31943|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.254|3317|Canada|Montreal|GloboTech Communications|
-|16|15.204.216.229|16187|United States|Reston|OVH SAS|
-|17|15.204.216.229|16187|United States|Reston|OVH SAS|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|67.43.236.18|17509|Canada|Montreal|GloboTech Communications|
+|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|15.204.216.229|5824|United States|Reston|OVH SAS|
+|13|154.82.63.153|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|14|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|15|15.204.216.229|5824|United States|Reston|OVH SAS|
+|16|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|17|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|18|67.43.227.227|14751|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.154.139.130|8080|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
