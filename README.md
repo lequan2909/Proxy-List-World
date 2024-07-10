@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|9|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|10|191.102.248.8|8084|Argentina|Rosario|IP·RED|
-|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|38.91.101.96|8850|United States|New York|GTHost|
-|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|67.43.228.253|20849|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|72.10.164.178|9649|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|137.184.123.71|3131|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.148.201.67|8080|Indonesia|Surakarta|WORTEL|
+|8|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|13|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|16|72.10.164.178|21391|Canada|Montreal|GloboTech Communications|
+|17|31.220.53.93|3128|United States|Asheville|HOSTINGER US|
+|18|72.10.160.90|2587|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|12439|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|20849|Canada|Montreal|GloboTech Communications|
 
 
 
