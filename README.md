@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.4.99|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|4|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|154.82.63.235|40006|Hong Kong|Hong Kong|Starbow Ltd|
-|13|154.82.63.93|40216|Hong Kong|Hong Kong|Starbow Ltd|
-|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
-|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|72.10.164.178|20873|Canada|Montreal|GloboTech Communications|
+|3|161.34.33.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|154.82.63.93|40216|Hong Kong|Hong Kong|Starbow Ltd|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
+|16|154.82.63.93|40216|Hong Kong|Hong Kong|Starbow Ltd|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|103.141.51.212|1111|India|Karur|Sri Krishna Internet Services Private Limited|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
