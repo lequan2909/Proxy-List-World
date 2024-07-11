@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6036** proxies at the latest update. Usable proxies are below.
+> Scraper found **6182** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|187|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|814|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|604|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3619|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|217.23.1.5|11778|The Netherlands|Naaldwijk|WorldStream B.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|13|103.153.137.5|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|14|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|212.57.136.248|8080|Russia|Turgoyak|PJSC Rostelecom|
-|20|67.43.228.250|27801|Canada|Montreal|GloboTech Communications|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|8|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 
 
 
