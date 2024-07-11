@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|38.91.101.96|8850|United States|New York|GTHost|
-|6|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|7|122.144.6.66|3777|Indonesia|Pengarengan|Maxindo|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
+|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|10|84.247.141.245|80|Germany|Düsseldorf|Contabo GmbH|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
 |13|38.91.101.96|8850|United States|New York|GTHost|
-|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|17|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|128.92.239.190|8080|United States|Pasadena|Spectrum|
-|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|20|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|17|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|18|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|19|195.161.41.163|8080|Russia|Moscow|JSC RTComm.RU|
+|20|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
 
 
 
