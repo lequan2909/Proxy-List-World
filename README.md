@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|16|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|72.10.160.171|2651|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|17949|Canada|Montreal|GloboTech Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|195.161.41.163|8080|Russia|Moscow|JSC RTComm.RU|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|45.122.228.10|8899|Australia|Seaforth|NETPTYLTD|
+|18|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|20|72.10.164.178|16719|Canada|Montreal|GloboTech Communications|
 
 
 
