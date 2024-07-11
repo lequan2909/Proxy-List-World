@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|72.10.164.178|9335|Canada|Montreal|GloboTech Communications|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|72.10.160.171|24953|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|24953|Canada|Montreal|GloboTech Communications|
-|19|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|20|161.34.66.56|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|163.172.33.137|4001|France|Vitry-sur-Seine|Online S.A.S.|
+|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|8|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|9|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|180.250.143.189|17|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|149.102.134.2|3128|United Kingdom|Portsmouth|Cogent Communications|
+|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 
 
 
