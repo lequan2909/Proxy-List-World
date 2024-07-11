@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|72.10.160.90|9201|Canada|Montreal|GloboTech Communications|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|15|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|17|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
-|18|72.10.164.178|28667|Canada|Montreal|GloboTech Communications|
-|19|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|103.169.254.9|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|45.76.92.219|10255|Germany|Frankfurt am Main|The Constant Company|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|14|137.59.48.226|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|38.91.101.96|8850|United States|New York|GTHost|
+|18|45.229.31.34|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
+|19|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|20|38.91.101.96|8850|United States|New York|GTHost|
 
 
 
