@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|7|38.91.101.96|8850|United States|New York|GTHost|
+|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
 |9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|38.91.101.96|8850|United States|New York|GTHost|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|178.132.1.120|11208|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|45.76.92.219|10255|Germany|Frankfurt am Main|The Constant Company|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|103.47.164.242|8080|India|New Delhi|Magus Sales and Services Private limited|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|89.39.107.35|11276|The Netherlands|Naaldwijk|WorldStream B.V.|
+|20|182.253.69.95|8080|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
