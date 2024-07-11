@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|113.160.247.27|19132|Vietnam|Ninh Binh|VietNam Post and Telecom Corporation|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 |6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|191.252.196.14|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|12|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|15|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|72.10.160.173|21909|Canada|Montreal|GloboTech Communications|
+|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|10|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|67.43.228.252|31897|Canada|Montreal|GloboTech Communications|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|72.10.160.90|6177|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|14855|Canada|Montreal|GloboTech Communications|
+|17|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|18|72.10.164.178|14855|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|14855|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|4551|Canada|Montreal|GloboTech Communications|
 
 
 
