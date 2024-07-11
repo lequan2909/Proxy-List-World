@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.146.185.141|1111|Indonesia|Wonogiri|YAMNET|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|171.244.60.55|8080|Vietnam|Bac Son|VIETEL|
-|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|154.82.63.41|40182|Hong Kong|Hong Kong|Starbow Ltd|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|15|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|110.78.147.112|8080|Thailand|Ao Nang|CAT-BB|
+|19|38.91.101.96|8850|United States|New York|GTHost|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
