@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
+|2|38.183.144.117|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.133.63.134|8181|Indonesia|Bandar Lampung|TLINK|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|12|38.156.23.12|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|62.112.9.224|11145|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|67.43.227.228|26005|Canada|Montreal|GloboTech Communications|
-|20|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
 
 
 
