@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.91.101.96|8850|United States|New York|GTHost|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|101.109.134.72|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|104.129.199.71|10160|United States|Los Angeles|ZSCALER, INC.|
-|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|14|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|15|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|19|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|11|49.48.50.233|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|72.10.164.178|1295|Canada|Montreal|GloboTech Communications|
+|17|177.93.60.70|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
+|18|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
+|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|20|38.56.70.75|999|Dominican Republic|Santo Domingo|Orbitek SRL|
 
 
 
