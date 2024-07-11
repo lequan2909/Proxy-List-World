@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|191.252.196.14|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|9|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|58.136.171.97|8080|Thailand|Udon Thani|AIS-Fibre|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
-|18|72.10.160.90|13993|Canada|Montreal|GloboTech Communications|
-|19|38.91.101.96|8850|United States|New York|GTHost|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|129.205.198.122|8080|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|110.235.129.14|1337|Philippines|Marikina City|RADIUS TELECOMS, INC.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
 |20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
