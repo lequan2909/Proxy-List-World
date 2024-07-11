@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|38.91.101.96|8850|United States|New York|GTHost|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|10|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
-|11|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|20|72.10.164.178|29643|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|17|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 
 
 
