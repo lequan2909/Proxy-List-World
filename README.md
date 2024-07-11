@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|11|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|67.43.236.19|18019|Canada|Montreal|GloboTech Communications|
+|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|171.244.60.55|8080|Vietnam|Bac Son|VIETEL|
+|15|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|16|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|17|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|20|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
 
 
 
