@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5562** proxies at the latest update. Usable proxies are below.
+> Scraper found **5576** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|175|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|656|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|419|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3354|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
-|13|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|72.10.164.178|30863|Canada|Montreal|GloboTech Communications|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|19|72.10.164.178|30863|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|135.181.150.19|8118|Finland|Helsinki|Hetzner Online GmbH|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.170|26039|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|12593|Canada|Montreal|GloboTech Communications|
+|18|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|19|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
+|20|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
