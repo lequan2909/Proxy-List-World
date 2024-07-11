@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|171.6.73.77|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|2|171.6.73.77|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|109.111.154.103|53281|Russia|Kaliningrad|TIS-DIALOG|
 |7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|49.48.53.146|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|109.111.154.103|53281|Russia|Kaliningrad|TIS-DIALOG|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|116.202.165.119|3124|Germany|Nuremberg|Hetzner Online GmbH|
-|15|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|49.48.53.146|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|12|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 |17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|200.24.131.126|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
 
 
 
