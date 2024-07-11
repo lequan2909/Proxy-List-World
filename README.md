@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|89.39.107.35|11276|The Netherlands|Naaldwijk|WorldStream B.V.|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.112.45.46|8080|Indonesia|Bandung|PT.Globalnet Multi Data|
-|18|45.150.223.132|3128|United States|Ashburn|AT&T Services, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|20|38.91.101.96|8850|United States|New York|GTHost|
 
 
 
