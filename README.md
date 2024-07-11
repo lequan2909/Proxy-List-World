@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|45.133.107.64|81|Russia|Mezmay|Art-net LLC|
+|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
 |12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|72.10.160.90|7221|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.90|7221|Canada|Montreal|GloboTech Communications|
-|16|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|67.43.236.20|14665|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|9063|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|6341|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|7221|Canada|Montreal|GloboTech Communications|
+|13|190.2.209.58|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|14|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
 
 
 
