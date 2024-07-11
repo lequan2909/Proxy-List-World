@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|4|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.171.245.14|8080|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|7|103.146.185.141|1111|Indonesia|Wonogiri|YAMNET|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|11|185.208.102.101|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|171.244.60.55|8080|Vietnam|Bac Son|VIETEL|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
