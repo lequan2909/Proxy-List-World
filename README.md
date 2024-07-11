@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|171.228.219.71|4001|Vietnam|Lao Cai|Viettel Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
-|12|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|103.165.125.182|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|17|72.10.164.178|3361|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|27111|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|25085|Canada|Montreal|GloboTech Communications|
-|20|27.76.181.42|8080|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|189.124.85.225|7171|Brazil|Presidente Venceslau|FIT Telecom Eireli|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|14|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
+|15|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
+|16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|17|38.91.101.96|8850|United States|New York|GTHost|
+|18|72.10.164.178|26143|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
 
 
 
