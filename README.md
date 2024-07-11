@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|38.91.101.96|8850|United States|New York|GTHost|
-|9|202.12.80.158|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|10|195.161.41.163|8080|Russia|Moscow|JSC RTComm.RU|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
-|15|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|16|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|17|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|18|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|38.91.101.96|8850|United States|New York|GTHost|
+|18|43.252.236.157|8080|Indonesia|Bogor|NET|
+|19|72.10.164.178|16667|Canada|Montreal|GloboTech Communications|
+|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
