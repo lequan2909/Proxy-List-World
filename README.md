@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|35.236.176.50|3128|Taiwan|Taipei|Google LLC|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|185.32.5.130|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|67.43.236.20|29117|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|25391|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25391|Canada|Montreal|GloboTech Communications|
-|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|20|72.10.164.178|25391|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|72.10.160.173|6089|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|35.236.176.50|3128|Taiwan|Taipei|Google LLC|
+|15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|18|72.10.164.178|29075|Canada|Montreal|GloboTech Communications|
+|19|45.233.67.210|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
+|20|72.10.160.90|8199|Canada|Montreal|GloboTech Communications|
 
 
 
