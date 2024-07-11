@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|38.91.101.96|8850|United States|New York|GTHost|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|67.43.227.228|1945|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|45.130.146.195|3128|Russia|Novosibirsk|LLC Baxet|
-|20|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|10|45.7.64.100|999|Mexico|Tulancingo|Maysnet SA De CV|
+|11|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|38.91.101.96|8850|United States|New York|GTHost|
+|17|24.204.29.115|8080|United States|Longview|Network IP|
+|18|171.244.60.55|8080|Vietnam|Bac Son|VIETEL|
+|19|67.43.227.228|25693|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
