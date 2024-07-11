@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|6|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|7|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|11|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.227.226|27825|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|31853|Canada|Montreal|GloboTech Communications|
-|16|181.209.82.195|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|72.10.160.170|14105|Canada|Montreal|GloboTech Communications|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|103.191.196.54|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|191.252.196.14|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|10|103.175.237.12|3125|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|11|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|12|186.227.112.65|8080|Brazil|Guaraniaçu|Orssatto Telecom Telecomunicacoes - Eireli|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|20|67.43.227.227|27397|Canada|Montreal|GloboTech Communications|
 
 
 
