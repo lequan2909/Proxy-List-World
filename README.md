@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|14|154.82.63.61|40208|Hong Kong|Hong Kong|Starbow Ltd|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|72.10.160.90|2475|Canada|Montreal|GloboTech Communications|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|110.78.147.112|8080|Thailand|Ao Nang|CAT-BB|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|67.43.227.226|31701|Canada|Montreal|GloboTech Communications|
+|16|154.82.63.180|40227|Hong Kong|Hong Kong|Starbow Ltd|
+|17|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|18|212.42.116.161|8080|Kyrgyzstan|Bishkek|"ElCat" Ltd.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
