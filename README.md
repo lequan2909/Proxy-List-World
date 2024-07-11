@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|3.6.60.173|80|India|Mumbai|Amazon Technologies Inc|
-|4|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|45.56.96.113|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|9|141.147.155.140|21000|Japan|Osaka|Oracle Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|12|38.91.101.96|8850|United States|New York|GTHost|
-|13|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|65.108.126.45|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|3.6.60.173|80|India|Mumbai|Amazon Technologies Inc|
+|5|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|11|65.108.126.45|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|177.234.241.36|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|20|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
