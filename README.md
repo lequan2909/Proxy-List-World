@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|103.191.196.54|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|8|117.144.175.203|8800|China|Shanghai|China Mobile communications corporation|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|11|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|12|72.10.164.178|9153|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|28819|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|9041|Canada|Montreal|GloboTech Communications|
-|15|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
-|19|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
-|20|72.10.164.178|9153|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|187.251.230.10|3128|Mexico|Ixhuatlan del Cafe|Total Play Telecomunicaciones SA De CV|
+|13|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|72.10.164.178|30863|Canada|Montreal|GloboTech Communications|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|19|72.10.164.178|30863|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
