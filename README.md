@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|13|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|14|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|17|82.200.131.166|58080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|18|38.156.75.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
-|20|204.157.247.149|999|Dominican Republic|Santo Domingo|Airtime Technology SRL|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.188.167.25|999|Mexico|La Barca|Velocom SA De CV|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|8|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
+|9|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|14|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|15|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|18|38.56.70.75|999|Dominican Republic|Santo Domingo|Orbitek SRL|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
