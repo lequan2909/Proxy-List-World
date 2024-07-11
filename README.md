@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|103.82.233.2|53281|Indonesia|Jakarta|PT. Jurnal Consulting Indonesia|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|103.230.49.132|8080|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|67.43.236.20|18039|Canada|Montreal|GloboTech Communications|
 
 
 
