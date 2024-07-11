@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
 |2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|72.10.164.178|11577|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11577|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|9015|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11577|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|12|135.181.150.19|8118|Finland|Helsinki|Hetzner Online GmbH|
+|13|72.10.164.178|11577|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|11577|Canada|Montreal|GloboTech Communications|
+|15|103.41.32.133|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|16|67.43.227.228|17941|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|11577|Canada|Montreal|GloboTech Communications|
+|18|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
 |19|67.43.227.228|17941|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11577|Canada|Montreal|GloboTech Communications|
+|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 
 
 
