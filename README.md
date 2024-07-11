@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|64.176.81.67|8083|Singapore|Singapore|The Constant Company|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|150.140.193.137|3128|Greece|Pátrai|UPATRAS|
-|6|181.31.225.234|3128|Argentina|Cipolletti|Telecom Argentina S.A|
+|6|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
 |7|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|64.176.81.67|8083|Singapore|Singapore|The Constant Company|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|38.91.101.96|8850|United States|New York|GTHost|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|15|216.176.187.99|39865|United States|Seattle|Wowrack.com|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|103.237.144.232|1311|Vietnam|Binh An|LVSOFT|
+|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
