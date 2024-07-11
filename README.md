@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|147.91.21.31|8080|Serbia|Belgrade|Akademska mreza Republike Srbije - AMRES|
-|10|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|147.91.21.31|8080|Serbia|Belgrade|Akademska mreza Republike Srbije - AMRES|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|123.184.216.168|10011|China|Shenyang|Chinanet|
+|14|58.136.171.97|8080|Thailand|Udon Thani|AIS-Fibre|
+|15|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
 |17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|1117|Canada|Montreal|GloboTech Communications|
-|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|20|67.43.228.253|12167|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|28987|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|67.43.228.253|29617|Canada|Montreal|GloboTech Communications|
 
 
 
