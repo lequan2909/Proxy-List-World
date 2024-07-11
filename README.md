@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|158.255.212.55|9300|Austria|Vienna|EDIS GmbH|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.181.168.202|8080|India|Madurai|Mrkr Communications Private Limited|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|147.91.21.31|8080|Serbia|Belgrade|Akademska mreza Republike Srbije - AMRES|
 |7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|67.43.227.227|1441|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|21273|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|32935|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|32935|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|32935|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|4563|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.70.203.98|999|Ecuador|Chone|Ufinet Panama S.A.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|80.66.81.44|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|18|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|38.91.101.96|8850|United States|New York|GTHost|
 
 
 
