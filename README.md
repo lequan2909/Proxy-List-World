@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|147.91.21.31|8080|Serbia|Belgrade|Akademska mreza Republike Srbije - AMRES|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|14|160.248.4.99|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|72.10.160.92|5955|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1325|Canada|Montreal|GloboTech Communications|
-|18|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|19|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|17|160.248.4.99|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.160.92|5955|Canada|Montreal|GloboTech Communications|
+|20|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
 
 
 
