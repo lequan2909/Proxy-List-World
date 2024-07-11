@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|147.91.21.31|8080|Serbia|Belgrade|Akademska mreza Republike Srbije - AMRES|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|123.184.216.168|10011|China|Shenyang|Chinanet|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|67.43.228.253|1301|Canada|Montreal|GloboTech Communications|
-|19|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|20|151.236.14.178|18080|The Netherlands|Schiphol|EDIS GmbH|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|202.154.19.7|8080|Indonesia|Lamongan|DIGITNET|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|16|23.134.91.77|3128|France|Paris|GTHost|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|67.43.228.253|10727|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|5829|Canada|Montreal|GloboTech Communications|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
