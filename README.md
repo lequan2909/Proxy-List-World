@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|3|181.65.180.190|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|11|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|13|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|16|45.224.22.63|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|17|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.90|7221|Canada|Montreal|GloboTech Communications|
-|20|38.91.101.96|8850|United States|New York|GTHost|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|9|66.27.58.70|8080|United States|Del Mar|Spectrum|
+|10|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.160.90|13167|Canada|Montreal|GloboTech Communications|
+|15|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|16|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|17|72.10.164.178|29349|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|67.43.236.19|1517|Canada|Montreal|GloboTech Communications|
+|20|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
