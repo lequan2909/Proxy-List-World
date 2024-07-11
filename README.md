@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|38.91.101.96|8850|United States|New York|GTHost|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|171.244.60.55|8080|Vietnam|Bac Son|VIETEL|
-|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|20|103.245.76.9|32650|Cambodia|Siem Reap|AKCTV Pte. Ltd.|
+|13|201.221.9.105|8080|Uruguay|Montevideo|Tecnowind S.A.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|17|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|18|72.10.160.170|30835|Canada|Montreal|GloboTech Communications|
+|19|38.91.101.96|8850|United States|New York|GTHost|
+|20|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
