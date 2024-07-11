@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |11|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|14|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|17|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|20|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|202.150.153.218|8080|Indonesia|Bandung|PT Comtronics Systems|
+|15|45.76.92.219|10255|Germany|Frankfurt am Main|The Constant Company|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|38.91.101.96|8850|United States|New York|GTHost|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
