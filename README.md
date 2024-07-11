@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|191.252.196.14|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|191.252.196.14|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|67.43.227.228|30919|Canada|Montreal|GloboTech Communications|
-|13|200.5.196.218|3128|Argentina|Ezeiza|Telefonica de Argentina|
-|14|67.43.236.20|32721|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|15815|Canada|Montreal|GloboTech Communications|
-|16|191.252.196.14|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|67.43.228.253|17479|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|21825|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|17479|Canada|Montreal|GloboTech Communications|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|15|72.10.164.178|25621|Canada|Montreal|GloboTech Communications|
+|16|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|23.134.91.77|3128|France|Paris|GTHost|
+|19|67.43.236.20|3079|Canada|Montreal|GloboTech Communications|
+|20|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
 
 
 
