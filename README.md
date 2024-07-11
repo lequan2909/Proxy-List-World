@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.68.168.207|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|109.111.154.103|53281|Russia|Kaliningrad|TIS-DIALOG|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|11|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|58.136.171.97|8080|Thailand|Udon Thani|AIS-Fibre|
-|16|72.10.164.178|21115|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|32953|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|4021|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|67.43.227.227|15147|Canada|Montreal|GloboTech Communications|
+|8|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|136.226.65.30|10160|United States|Los Angeles|ZSCALER, INC.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|15|72.10.164.178|2717|Canada|Montreal|GloboTech Communications|
+|16|89.191.239.138|8989|Russia|Moscow|PJSC Rostelecom|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|67.43.227.227|2653|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|28999|Canada|Montreal|GloboTech Communications|
 
 
 
