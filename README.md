@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.154.145.204|8081|Indonesia|Sidoarjo|MORATELINDONAP|
-|13|103.126.148.24|8080|Bangladesh|Dhaka|Delta Software and Communication Limited|
-|14|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|16|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|20|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|14|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|18|72.10.164.178|9523|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|2691|Canada|Montreal|GloboTech Communications|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
