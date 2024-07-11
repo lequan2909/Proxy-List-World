@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|45.76.92.219|10255|Germany|Frankfurt am Main|The Constant Company|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
-|11|67.43.228.250|27339|Canada|Montreal|GloboTech Communications|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|67.43.228.250|27339|Canada|Montreal|GloboTech Communications|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|67.43.227.226|10327|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|14863|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|16443|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|7669|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|2447|Canada|Montreal|GloboTech Communications|
-|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|2|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|67.43.228.250|27339|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|27339|Canada|Montreal|GloboTech Communications|
+|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|17|67.43.228.253|18417|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|11985|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|67.43.236.20|5313|Canada|Montreal|GloboTech Communications|
 
 
 
