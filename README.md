@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|123.184.216.168|10011|China|Shenyang|Chinanet|
-|12|160.248.4.99|8888|Japan|Takasago|NTT PC Communications, Inc.|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|12719|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26253|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.94|21333|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|16829|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|32671|Canada|Montreal|GloboTech Communications|
+|3|38.91.101.96|8850|United States|New York|GTHost|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|13|160.248.4.99|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|45.130.146.195|3128|Russia|Novosibirsk|LLC Baxet|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|72.10.164.178|5539|Canada|Montreal|GloboTech Communications|
+|18|64.110.70.140|6666|South Korea|Seoul|Oracle Corporation|
+|19|72.10.160.94|2277|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|19975|Canada|Montreal|GloboTech Communications|
 
 
 
