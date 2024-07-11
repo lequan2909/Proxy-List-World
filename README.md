@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|49.48.50.233|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|15|213.3.34.39|443|Switzerland|Spreitenbach|Swisscom (Schweiz) AG - Bluewin|
-|16|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|17|72.10.164.178|21017|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|25445|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|14665|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14665|Canada|Montreal|GloboTech Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|49.48.50.233|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|13|72.10.164.178|21017|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|14665|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|7347|Canada|Montreal|GloboTech Communications|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|72.10.160.170|10497|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.93|26993|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|7347|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|21017|Canada|Montreal|GloboTech Communications|
 
 
 
