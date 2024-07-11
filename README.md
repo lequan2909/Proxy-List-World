@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|38.91.101.96|8850|United States|New York|GTHost|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|154.82.63.63|40000|Hong Kong|Hong Kong|Starbow Ltd|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|103.159.96.20|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|17|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
