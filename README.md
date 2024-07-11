@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|9|182.52.131.3|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|16|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
-|20|123.184.216.168|10011|China|Shenyang|Chinanet|
+|1|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|12|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|45.122.228.10|8899|Australia|Seaforth|NETPTYLTD|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
+|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|121.151.223.163|1337|South Korea|Mungyeong|Korea Telecom|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|161.34.66.35|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
