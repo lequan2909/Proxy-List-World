@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|551|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|551|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|551|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|38.91.101.96|8850|United States|New York|GTHost|
 |3|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|38.188.248.43|8181|Indonesia|Madiun|PT. Menaksopal Link Nusantara|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|16|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
-|17|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
-|20|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|7|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|12|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|160.248.4.99|8888|Japan|Takasago|NTT PC Communications, Inc.|
+|15|72.10.160.92|22277|Canada|Montreal|GloboTech Communications|
+|16|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|17|208.87.130.154|80|United States|Los Angeles|HIVELOCITY, Inc.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|67.43.227.227|33259|Canada|Montreal|GloboTech Communications|
 
 
 
