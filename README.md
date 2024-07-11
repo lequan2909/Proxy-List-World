@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|170.238.104.213|8080|Brazil|Sao Fidelis|Ubbinet Provedor de Servicos de Internet Ltda ME|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|5.45.93.252|4000|The Netherlands|Amsterdam|Scalaxy B.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|35.236.176.50|3128|Taiwan|Taipei|Google LLC|
-|15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|16|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|17|190.187.163.2|999|Peru|Lima|Americatel Peru S.A.|
-|18|72.10.164.178|23199|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|14797|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23199|Canada|Montreal|GloboTech Communications|
+|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|103.80.230.21|8080|Indonesia|Medan|PT Dream Network Solusindo|
+|7|157.230.127.125|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|175.119.224.167|8080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|11|222.243.174.132|81|China|Xiangtan|Chinanet|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|15|35.236.176.50|3128|Taiwan|Taipei|Google LLC|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|18|72.10.160.90|4969|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|4969|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31827|Canada|Montreal|GloboTech Communications|
 
 
 
