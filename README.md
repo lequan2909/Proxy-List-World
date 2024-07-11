@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|10|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|11|200.24.131.125|999|Ecuador|La Troncal|Negocios Y Telefonia Nedetel S.A|
-|12|49.48.50.233|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|13|164.163.42.25|10000|Argentina|Villa Angela|Interret Villa Angela SRL|
+|1|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|2|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|177.93.60.70|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
+|11|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|72.10.164.178|33083|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|12085|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|12085|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|28027|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|4215|Canada|Montreal|GloboTech Communications|
+|15|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|16|49.48.50.233|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|72.10.164.178|8541|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|8541|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|13599|Canada|Montreal|GloboTech Communications|
 
 
 
