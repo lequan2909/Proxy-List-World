@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|72.10.160.92|5635|Canada|Montreal|GloboTech Communications|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|172.105.56.59|9093|India|Mumbai|Akamai Technologies|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|67.43.227.226|32091|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|10651|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13201|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|26959|Canada|Montreal|GloboTech Communications|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|15|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|67.43.228.253|13367|Canada|Montreal|GloboTech Communications|
+|19|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|20|67.43.227.226|32091|Canada|Montreal|GloboTech Communications|
 
 
 
