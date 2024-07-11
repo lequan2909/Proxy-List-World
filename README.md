@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|67.43.227.228|23737|Canada|Montreal|GloboTech Communications|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
-|11|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
-|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|19|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|186.0.144.104|58080|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
+|12|103.156.233.181|3125|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|131.100.51.252|999|Colombia|Neiva|Fibernet TV SAS|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 
 
 
