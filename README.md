@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|67.43.228.252|22093|Canada|Montreal|GloboTech Communications|
-|10|45.76.92.219|10255|Germany|Frankfurt am Main|The Constant Company|
-|11|67.43.227.227|13635|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|32847|Canada|Montreal|GloboTech Communications|
-|13|109.201.13.187|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|14|72.10.160.90|29351|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|19507|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|15531|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|15531|Canada|Montreal|GloboTech Communications|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|67.43.228.251|18663|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|15635|Canada|Montreal|GloboTech Communications|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
 
 
 
