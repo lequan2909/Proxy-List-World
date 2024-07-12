@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|72.10.160.90|29641|Canada|Montreal|GloboTech Communications|
-|9|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|10|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|13|67.43.227.227|7241|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|18835|Canada|Montreal|GloboTech Communications|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|7|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|9|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|14|72.10.160.90|14067|Canada|Montreal|GloboTech Communications|
 |15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 |16|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|17|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|19|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|20|67.43.236.20|4633|Canada|Montreal|GloboTech Communications|
+|17|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
+|18|72.10.160.91|11089|Canada|Montreal|GloboTech Communications|
+|19|119.96.100.63|30000|China|Wuhan|CHINANET Hubei province network|
+|20|67.43.228.251|28523|Canada|Montreal|GloboTech Communications|
 
 
 
