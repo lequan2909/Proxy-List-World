@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|10|88.255.102.123|8080|Türkiye|Istanbul|TurkTelekom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
 |11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|16|136.226.65.8|10160|United States|Los Angeles|ZSCALER, INC.|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|181.49.122.78|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|72.10.160.93|27221|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|14|188.132.222.35|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|103.80.82.178|8181|Indonesia|Selong|Jaringanku Sarana Nusantara|
+|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|17|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|18|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
