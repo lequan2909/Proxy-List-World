@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
-|3|124.105.48.232|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|101.255.164.238|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|113.160.155.121|19132|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|13|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|38.91.101.96|8850|United States|New York|GTHost|
-|16|111.8.155.54|11111|China|Xiangtan|China Mobile communications corporation|
-|17|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|58.136.171.97|8080|Thailand|Udon Thani|AIS-Fibre|
-|19|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|18|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|38.91.101.96|8850|United States|New York|GTHost|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
