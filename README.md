@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|7|152.26.229.42|9443|United States|Huntersville|MCNC|
-|8|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|5|152.26.229.42|9443|United States|Huntersville|MCNC|
+|6|67.43.227.227|20259|Canada|Montreal|GloboTech Communications|
+|7|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|8|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|9|72.10.160.90|10925|Canada|Montreal|GloboTech Communications|
 |10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.227.227|20259|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|20259|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|11489|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.95.174.121|31280|France|Strasbourg|Host Europe|
+|13|72.10.164.178|5231|Canada|Montreal|GloboTech Communications|
 |14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|72.10.164.178|6049|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|10925|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|11489|Canada|Montreal|GloboTech Communications|
-|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.227|20259|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|7339|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|10925|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|13565|Canada|Montreal|GloboTech Communications|
+|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|19|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|20|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
 
 
 
