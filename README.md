@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.91.101.96|8850|United States|New York|GTHost|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|103.247.23.201|8080|Indonesia|Cileungsir|PT wifian Solution|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.160.93|19787|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|14.177.4.119|23500|Vietnam|Hanoi|VNPT|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
 |12|72.10.164.178|31261|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|31261|Canada|Montreal|GloboTech Communications|
+|13|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
 |14|72.10.164.178|31261|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|15669|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|1153|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31261|Canada|Montreal|GloboTech Communications|
-|18|117.68.38.159|22700|China|Hefei|China Telecom|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|72.10.160.93|19787|Canada|Montreal|GloboTech Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|67.43.227.227|26719|Canada|Montreal|GloboTech Communications|
 
 
 
