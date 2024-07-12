@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|217.77.102.14|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|38.91.101.96|8850|United States|New York|GTHost|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
+|7|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|10|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|12|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|13|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|173.249.10.82|3128|Germany|Nuremberg|Contabo GmbH|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|38.91.101.96|8850|United States|New York|GTHost|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
