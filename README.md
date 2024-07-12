@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|9|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|23.134.91.77|3128|France|Paris|GTHost|
-|13|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|17|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|72.10.164.178|6749|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6749|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|112.204.177.95|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|115.78.15.45|8080|Vietnam|Ho Chi Minh City|VIETELftth|
+|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|11|103.144.18.35|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|217.77.102.14|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|14|134.35.16.138|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|177.37.160.81|8080|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
