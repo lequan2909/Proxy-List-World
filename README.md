@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|72.10.164.178|27647|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|27647|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|72.10.160.172|14233|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|27647|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|27647|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|12587|Canada|Montreal|GloboTech Communications|
-|17|39.129.73.6|443|China|Yuxi|China Mobile|
-|18|72.10.164.178|27647|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|27647|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|14187|Canada|Montreal|GloboTech Communications|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.164.178|22123|Canada|Montreal|GloboTech Communications|
+|12|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|13|89.187.191.111|8888|Czechia|Prague|DataCamp Limited|
+|14|72.10.164.178|22123|Canada|Montreal|GloboTech Communications|
+|15|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|72.10.164.178|22123|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|13659|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|19589|Canada|Montreal|GloboTech Communications|
+|20|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
 
 
 
