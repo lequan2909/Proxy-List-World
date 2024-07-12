@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
 |10|20.219.144.149|3128|India|Pune|Microsoft Corporation|
 |11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|17|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
-|18|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|19|72.10.164.178|27003|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27003|Canada|Montreal|GloboTech Communications|
+|12|103.173.138.240|1111|Indonesia|Babat|PT Serayu Multi Connection|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
+|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|72.10.164.178|18023|Canada|Montreal|GloboTech Communications|
 
 
 
