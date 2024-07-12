@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|119.15.88.108|8083|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|72.10.160.173|32847|Canada|Montreal|GloboTech Communications|
-|12|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
-|13|200.5.196.218|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|67.43.227.228|14541|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2633|Canada|Montreal|GloboTech Communications|
-|20|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|8|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
+|14|72.10.164.178|11029|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|182.16.171.65|43188|Indonesia|Depok|PT iForte Global Internet|
+|18|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
