@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|88.202.228.92|4545|United Kingdom|London|UK2.NET|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|38.91.101.96|8850|United States|New York|GTHost|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|38.91.101.96|8850|United States|New York|GTHost|
-|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|14|103.48.69.33|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|103.165.64.74|83|India|Seoni Chhapara|Navyug Networks Info Private Limited|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|160.248.3.114|3128|Japan|Takasago|NTT PC Communications, Inc.|
+|20|72.10.164.178|17301|Canada|Montreal|GloboTech Communications|
 
 
 
