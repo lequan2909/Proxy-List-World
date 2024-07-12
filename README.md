@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6103** proxies at the latest update. Usable proxies are below.
+> Scraper found **6050** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|183|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1039|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|422|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3501|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |5|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|38.91.101.96|8850|United States|New York|GTHost|
+|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|103.161.130.153|3127|Indonesia|Langgen|PT Jaringan Internet Nusantara|
-|17|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
-|18|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|14|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|15|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|168.194.169.108|999|Peru|Lima|FASTNET|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
