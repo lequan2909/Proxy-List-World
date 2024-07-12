@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|38.91.101.96|8850|United States|New York|GTHost|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|10|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
-|11|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
-|12|38.91.101.96|8850|United States|New York|GTHost|
-|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|14|189.124.90.13|7171|Brazil|Presidente Venceslau|FIT Telecom Eireli|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|82.200.80.118|8080|Russia|Novosibirsk|ZSTTK|
-|17|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|18|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|182.52.131.40|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|36.94.101.111|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|173.249.10.82|3128|Germany|Nuremberg|Contabo GmbH|
+|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|12|77.48.22.49|33347|Czechia|Plumlov|Vodafone Czech Republic|
+|13|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|17|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|18|14.241.111.97|8080|Vietnam|Hanoi|VNPT|
+|19|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|20|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
 
 
 
