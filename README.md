@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|103.178.42.26|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|18|67.43.236.20|7033|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|72.10.160.90|10513|Canada|Montreal|GloboTech Communications|
+|6|38.91.101.96|8850|United States|New York|GTHost|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|194.61.24.198|8080|Russia|Moscow|LLC "MEDIA SYSTEMS"|
+|9|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|10|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|72.10.160.90|21325|Canada|Montreal|GloboTech Communications|
+|14|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|15|72.10.164.178|9015|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.160.90|21325|Canada|Montreal|GloboTech Communications|
+|18|38.91.101.96|8850|United States|New York|GTHost|
+|19|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|20|67.43.236.20|22127|Canada|Montreal|GloboTech Communications|
 
 
 
