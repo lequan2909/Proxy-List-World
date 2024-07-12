@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|72.10.160.91|28843|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|3063|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|3063|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|16779|Canada|Montreal|GloboTech Communications|
-|14|39.129.73.6|443|China|Yuxi|China Mobile|
-|15|67.43.236.20|7583|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|33213|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|72.10.160.93|23613|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|28287|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.91|9519|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.91|9519|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|28287|Canada|Montreal|GloboTech Communications|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|72.10.160.90|28287|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|7583|Canada|Montreal|GloboTech Communications|
 |18|72.10.164.178|33213|Canada|Montreal|GloboTech Communications|
 |19|72.10.164.178|33213|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|30405|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|33213|Canada|Montreal|GloboTech Communications|
 
 
 
