@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
 |5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|13|101.255.166.142|3128|Indonesia|Bekasi|PT Remala Abadi|
-|14|103.144.18.35|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|91.185.55.254|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|17|136.226.65.8|10160|United States|Los Angeles|ZSCALER, INC.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
