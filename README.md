@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|110.78.186.228|8080|Thailand|Chon Buri|CAT-BB|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|157.119.211.133|8080|India|Tirupati|Finecom Internet services Pvt Ltd|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|67.43.228.251|32979|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|136.232.116.2|48976|India|Vadodara|Reliance Jio Infocomm Limited|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|123.184.216.168|10011|China|Shenyang|Chinanet|
-|20|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|13|110.78.186.228|8080|Thailand|Chon Buri|CAT-BB|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|67.43.228.251|5387|Canada|Montreal|GloboTech Communications|
+|16|103.41.32.133|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
