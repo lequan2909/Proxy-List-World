@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|103.180.118.5|8888|Indonesia|Gresik|PT Persada Data Multimedia|
-|8|103.164.117.186|3128|Indonesia|Jakarta|SOLUSINET|
+|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|2|38.91.101.96|8850|United States|New York|GTHost|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.217.224.201|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|16|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|217.77.102.14|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|13|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|103.172.70.191|8181|Indonesia|Kumendung Satu|AZNET|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|38.91.101.96|8850|United States|New York|GTHost|
+|20|77.48.22.49|33347|Czechia|Klopotovice|Vodafone Czech Republic|
 
 
 
