@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.129.115.245|8096|Bangladesh|Meherpur|Earth Tel|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
-|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|14|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|45.153.165.205|999|Dominican Republic|Santo Domingo|KW SERVICES RD, S.R.L.|
+|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|17|72.10.160.174|13953|Canada|Montreal|GloboTech Communications|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|177.53.154.5|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
 
 
 
