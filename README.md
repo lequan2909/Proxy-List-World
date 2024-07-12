@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|85.234.119.124|32650|Russia|Irkutsk|JSC "Regional company Svyaztranzit"|
-|7|172.99.188.91|3128|Netherlands|Amsterdam|GTHost|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|72.10.160.94|18483|Canada|Montreal|GloboTech Communications|
-|12|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|14|72.10.164.178|26765|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|67.43.236.19|18847|Canada|Montreal|GloboTech Communications|
-|17|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|18|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
-|19|67.43.227.228|28679|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|28679|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|7|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
+|12|45.80.207.212|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|16|67.43.228.250|7317|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|23671|Canada|Montreal|GloboTech Communications|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.226|8889|Canada|Montreal|GloboTech Communications|
 
 
 
