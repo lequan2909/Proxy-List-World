@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4596** proxies at the latest update. Usable proxies are below.
+> Scraper found **4590** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|211|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|462|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|456|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|236|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2729|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|23.134.91.77|3128|France|Paris|GTHost|
-|10|147.161.148.118|11194|Belgium|Brussels|Zscaler Switzerland GmbH|
-|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|67.43.228.253|33165|Canada|Montreal|GloboTech Communications|
-|13|183.91.80.194|8089|Indonesia|Kebonbawang|PT Aplikanusa Lintasarta|
-|14|147.161.168.108|11194|Germany|Munich|Zscaler MUC1|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.164.178|31955|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|22363|Canada|Montreal|GloboTech Communications|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|72.10.160.173|12727|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|72.10.160.173|32847|Canada|Montreal|GloboTech Communications|
+|12|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
+|13|200.5.196.218|3128|Argentina|Buenos Aires|Telefonica de Argentina|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|67.43.227.228|14541|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|2633|Canada|Montreal|GloboTech Communications|
+|20|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
 
 
 
