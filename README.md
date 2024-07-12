@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.91.101.96|8850|United States|New York|GTHost|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |3|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|152.26.229.86|9443|United States|Huntersville|MCNC|
-|5|103.156.17.153|1111|Indonesia|Indramayu|RSTNET|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.253|2083|Canada|Montreal|GloboTech Communications|
-|15|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|16|103.41.32.133|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|14|67.43.227.227|24923|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|8687|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
 |17|72.10.164.178|16029|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|20657|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|24923|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|72.10.164.178|16029|Canada|Montreal|GloboTech Communications|
+|19|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|20|72.10.164.178|16029|Canada|Montreal|GloboTech Communications|
 
 
 
