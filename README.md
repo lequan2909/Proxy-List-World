@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|5|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|152.26.229.86|9443|United States|Huntersville|MCNC|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|72.10.164.178|22195|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|67.43.228.252|32915|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|22195|Canada|Montreal|GloboTech Communications|
-|17|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|18|72.10.164.178|22195|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|13839|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|17991|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|72.10.160.93|6893|Canada|Montreal|GloboTech Communications|
+|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|39.129.73.6|443|China|Yuxi|China Mobile|
 
 
 
