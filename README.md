@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|10|177.234.240.124|1993|Ecuador|El Pangui|Ufinet Panama S.A.|
-|11|67.43.228.253|14803|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|4787|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.164.178|18499|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|4787|Canada|Montreal|GloboTech Communications|
-|16|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|17|190.92.151.66|9001|United States|Phoenix|A2 Hosting, Inc.|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|72.10.164.178|18499|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|18499|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|72.10.164.178|3185|Canada|Montreal|GloboTech Communications|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|67.43.236.20|4787|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|25681|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|72.10.164.178|3185|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|3185|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|1569|Canada|Montreal|GloboTech Communications|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|67.43.228.253|10335|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|1569|Canada|Montreal|GloboTech Communications|
+|18|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|19|67.43.236.20|4787|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|25681|Canada|Montreal|GloboTech Communications|
 
 
 
