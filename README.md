@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|45.184.155.238|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|17|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|18|103.217.224.201|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|19|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|20|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
 
 
 
