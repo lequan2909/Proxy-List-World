@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|49.48.90.74|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|38.91.101.96|8850|United States|New York|GTHost|
-|7|27.66.240.210|8080|Vietnam|Haiphong|Viettel Group|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.166.33.110|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|103.46.4.101|8080|Indonesia|Tembilahan|PT Akses Sentral Teknologi|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|18|168.228.51.84|999|Costa Rica|Heredia|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|19|72.10.164.178|20925|Canada|Montreal|GloboTech Communications|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|51.222.102.172|8080|Canada|Beauharnois|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|11|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
 
 
 
