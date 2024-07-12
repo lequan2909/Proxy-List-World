@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|4|110.78.186.228|8080|Thailand|Chon Buri|CAT-BB|
+|3|110.78.186.228|8080|Thailand|Chon Buri|CAT-BB|
+|4|88.202.228.92|4545|United Kingdom|London|UK2.NET|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|6|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
 |7|38.91.101.96|8850|United States|New York|GTHost|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|202.179.90.217|58080|India|Mumbai|Ankhnet|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|67.43.236.20|8787|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1981|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|172.174.5.182|8080|United States|Boydton|Microsoft|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|208.103.57.18|8181|United States|Swayzee|Swayzee Telephone Company, Inc.|
+|15|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|161.34.34.156|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|38.91.101.96|8850|United States|New York|GTHost|
 
 
 
