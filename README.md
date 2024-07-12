@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.153.113.206|8118|United States|Phoenix|Oracle Corporation|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.156.17.153|1111|Indonesia|Indramayu|RSTNET|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.10.160.92|13093|Canada|Montreal|GloboTech Communications|
-|15|36.64.52.226|8081|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|16|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|18|72.10.160.90|8325|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.236.20|22879|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|20|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
 
 
 
