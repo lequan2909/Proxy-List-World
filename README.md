@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.173.230.88|8080|Indonesia|Serang|PT Jaringan Internet Banten|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|27.77.128.15|8080|Vietnam|Đồng Nai Province|Newass2011xDSLHCMC|
-|15|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|41.60.26.210|32650|Mauritius|Ebene CyberCity|Maintainer Liquid Telecommunications Operations Limited|
-|19|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
-|20|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|103.173.230.88|8080|Indonesia|Serang|PT Jaringan Internet Banten|
+|6|58.136.171.97|8080|Thailand|Udon Thani|AIS-Fibre|
+|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|8|38.91.101.96|8850|United States|New York|GTHost|
+|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|14|20.219.144.149|3128|India|Pune|Microsoft Corporation|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|111.8.155.54|11111|China|Xiangtan|China Mobile communications corporation|
+|18|27.50.29.82|8080|Indonesia|South Tangerang|PT. Mora Telematika Indonesia|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
