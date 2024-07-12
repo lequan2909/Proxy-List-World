@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.91.101.96|8850|United States|New York|GTHost|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|178.48.68.61|18080|Hungary|Besenyszög|UPC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|101.255.209.254|8080|Indonesia|Wanaherang|PT Remala Abadi|
-|13|122.155.165.191|3128|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|14|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|213.226.71.67|31280|Germany|Frankfurt am Main|Melbikomas UAB|
+|2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|11|103.111.136.82|8080|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|185.208.101.121|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|TBKNET|
 |19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
