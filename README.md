@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|5.196.111.29|20233|France|Gravelines|OVH SAS|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|9|31.47.54.122|3128|Iran|Tehran|Afranet|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|31.47.54.122|3128|Iran|Tehran|Afranet|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
