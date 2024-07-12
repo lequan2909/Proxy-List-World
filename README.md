@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.245.16.222|8888|Indonesia|Jakarta|PT Quantum Tera Network|
+|8|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|10|217.77.102.14|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|15|95.31.138.233|8080|Russia|Moscow|CORBINA|
-|16|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
+|18|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
 |19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
