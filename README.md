@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
-|4|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|10|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|11|49.148.100.173|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|12|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
-|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.105.76.216|8080|Indonesia|Bojonegoro|GARUDA|
-|19|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|20|45.71.113.167|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|2|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|3|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|4|103.173.230.88|8080|Indonesia|Serang|PT Jaringan Internet Banten|
+|5|210.236.68.210|8080|Japan|Kariya|KATCH Network Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|38.91.101.96|8850|United States|New York|GTHost|
+|10|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|143.198.18.51|6666|United States|Clifton|DigitalOcean, LLC|
+|15|103.87.169.148|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|136.226.65.8|10160|United States|Los Angeles|ZSCALER, INC.|
+|20|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
 
 
 
