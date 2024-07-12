@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|7|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|8|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
-|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|116.202.165.119|3124|Germany|Nuremberg|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|38.91.101.96|8850|United States|New York|GTHost|
-|15|119.76.142.202|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|16|103.172.87.9|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|49.48.90.74|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|12|14.177.4.119|23500|Vietnam|Hanoi|VNPT|
+|13|136.226.65.8|10160|United States|Los Angeles|ZSCALER, INC.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
 |19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
