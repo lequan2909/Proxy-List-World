@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|72.10.160.90|4615|Canada|Montreal|GloboTech Communications|
-|13|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|14|72.10.164.178|14979|Canada|Montreal|GloboTech Communications|
-|15|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.164.178|14979|Canada|Montreal|GloboTech Communications|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|72.10.164.178|14979|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|38.91.101.96|8850|United States|New York|GTHost|
+|8|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|9|72.10.160.90|27415|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|26767|Canada|Montreal|GloboTech Communications|
+|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|67.43.227.227|26677|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|26767|Canada|Montreal|GloboTech Communications|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|72.10.160.90|27415|Canada|Montreal|GloboTech Communications|
+|17|39.129.73.6|443|China|Yuxi|China Mobile|
+|18|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|72.10.160.170|27987|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|27415|Canada|Montreal|GloboTech Communications|
 
 
 
