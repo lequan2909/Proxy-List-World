@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|209.38.196.178|8081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|38.91.101.96|8850|United States|New York|GTHost|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
-|15|190.83.15.21|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.176.97.98|999|Dominican Republic|Santo Domingo Este|Cable Onda Oriental, SRL|
+|10|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|14|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|38.156.75.200|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
+|17|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|18|103.173.128.50|8080|Indonesia|Batam|PT SOLNET INDONESIA|
+|19|45.201.136.117|9812|Cambodia|Phnom Penh|King Technologies Co|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
