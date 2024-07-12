@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|2|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
-|4|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|13|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|16|72.10.160.172|18727|Canada|Montreal|GloboTech Communications|
-|17|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|20|67.43.227.228|6083|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|191.97.16.127|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|201.47.88.21|3128|Brazil|São Paulo|Vivo|
+|15|77.48.22.49|33347|Czechia|Klopotovice|Vodafone Czech Republic|
+|16|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|17|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|18|72.10.160.172|9119|Canada|Montreal|GloboTech Communications|
+|19|183.91.80.194|8089|Indonesia|Kebonbawang|PT Aplikanusa Lintasarta|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
