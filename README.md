@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|14|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|15|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|168.194.169.108|999|Peru|Lima|FASTNET|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|122.222.186.86|8080|Japan|Araichō|ARTERIA Networks Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|200.37.253.75|999|Peru|Pampa Cangallo|Telefonica del Peru S.A.A.|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|103.19.59.19|8080|Indonesia|Madiun|BITSNET|
+|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|12|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|221.118.79.16|8080|Japan|Toyota|AITAI|
+|17|157.20.233.213|8080|Indonesia|Mranggen|PT Applewifi Selalu Lancar|
+|18|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|20|45.92.68.8|8080|Portugal|Lisbon|Pedro Pita Mendes Vaz|
 
 
 
