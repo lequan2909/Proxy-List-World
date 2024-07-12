@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5412** proxies at the latest update. Usable proxies are below.
+> Scraper found **5410** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|182|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|180|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|610|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|323|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|38.91.101.96|8850|United States|New York|GTHost|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|10|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|136.226.61.8|10230|United States|New York|ZSCALER, INC.|
 |15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|17|136.226.61.8|10230|United States|New York|ZSCALER, INC.|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|38.91.101.96|8850|United States|New York|GTHost|
-|20|136.226.77.22|8800|Canada|Toronto|ZSCALER, INC.|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|18|72.10.164.178|1981|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|136.226.69.31|10230|United States|Reston|ZSCALER, INC.|
 
 
 
