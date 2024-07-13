@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|38.91.101.96|8850|United States|New York|GTHost|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
-|14|67.43.236.20|4689|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|16655|Canada|Montreal|GloboTech Communications|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|67.43.236.20|4689|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|38.91.101.96|8850|United States|New York|GTHost|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|45.130.146.195|3128|Russia|Novosibirsk|LLC Baxet|
+|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.164.178|28459|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|21481|Canada|Montreal|GloboTech Communications|
 
 
 
