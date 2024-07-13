@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|38.91.101.96|8850|United States|New York|GTHost|
-|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|38.188.249.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|38.91.101.96|8850|United States|New York|GTHost|
-|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|203.150.128.68|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|188.125.167.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
 
 
 
