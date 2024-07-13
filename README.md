@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|38.91.101.96|8850|United States|New York|GTHost|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|38.91.101.96|8850|United States|New York|GTHost|
-|12|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|11|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|16|185.236.182.3|18080|Colombia|Sibundoy|Hydra Soluciones Empresariales Ingeniería SAS|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|180.130.190.32|3000|China|Dali|China Unicom Yunnan Province Network|
 |19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.227.227|2187|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|17113|Canada|Montreal|GloboTech Communications|
 
 
 
