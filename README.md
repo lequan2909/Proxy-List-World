@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.228.253|26497|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|9127|Canada|Montreal|GloboTech Communications|
+|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|79.111.13.155|50625|Russia|Moscow|PJSC MegaFon|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|72.10.164.178|25239|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
