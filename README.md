@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
 |10|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|38.91.101.96|8850|United States|New York|GTHost|
-|19|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 |20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
