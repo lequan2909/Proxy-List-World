@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5244** proxies at the latest update. Usable proxies are below.
+> Scraper found **5179** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|215|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|583|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|518|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|289|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3199|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.253|29389|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|13499|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|67.43.228.253|29389|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|13499|Canada|Montreal|GloboTech Communications|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|9|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|13|67.43.227.228|12283|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.227|13117|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|13117|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|13785|Canada|Montreal|GloboTech Communications|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
