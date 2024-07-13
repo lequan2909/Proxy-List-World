@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|6|72.10.164.178|13189|Canada|Montreal|GloboTech Communications|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|72.10.160.170|24111|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|27701|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|17689|Canada|Montreal|GloboTech Communications|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.160.91|25057|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|11953|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13189|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|27701|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13189|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.164.178|13189|Canada|Montreal|GloboTech Communications|
+|12|45.230.51.130|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|13|67.43.227.227|2931|Canada|Montreal|GloboTech Communications|
+|14|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|15|72.10.160.90|28869|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |19|72.10.164.178|13189|Canada|Montreal|GloboTech Communications|
-|20|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|20|67.43.228.253|17689|Canada|Montreal|GloboTech Communications|
 
 
 
