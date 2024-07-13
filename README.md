@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|72.10.160.90|29453|Canada|Montreal|GloboTech Communications|
-|17|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|18|170.238.104.213|8080|Brazil|São Fidélis|Ubbinet Provedor de Servicos de Internet Ltda ME|
-|19|67.43.236.20|29279|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|17895|Canada|Montreal|GloboTech Communications|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|9|186.125.218.147|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|10|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|11|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|14|190.110.35.105|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|15|182.253.122.156|8080|Indonesia|Surabaya|BIZNET|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|103.110.10.132|8181|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
 
 
 
