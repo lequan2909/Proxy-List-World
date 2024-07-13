@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|77.68.111.73|3128|United Kingdom|London|IONOS SE|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|10|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|12|36.94.30.238|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.164.178|14005|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|33269|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.164.178|14005|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14005|Canada|Montreal|GloboTech Communications|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|177.130.104.118|33333|Brazil|Presidente Prudente|FIT Telecom Eireli|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|18|72.10.164.178|16047|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|16047|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
