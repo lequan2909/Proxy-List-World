@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|7|152.26.229.42|9443|United States|Huntersville|MCNC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
-|14|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|190.187.163.2|999|Peru|San Juan de Lurigancho|Americatel Peru S.A.|
-|17|72.10.160.90|7719|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|5703|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|12269|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3249|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|14|72.10.164.178|26827|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.21|10183|Canada|Montreal|GloboTech Communications|
+|16|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
+|17|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
+|18|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|19|58.136.171.97|8080|Thailand|Udon Thani|AIS-Fibre|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
