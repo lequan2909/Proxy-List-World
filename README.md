@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.156.16.227|8080|Indonesia|Indramayu|RSTNET|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|11|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 
 
 
