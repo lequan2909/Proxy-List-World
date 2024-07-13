@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|190.5.195.116|3128|Colombia|Popayán|Emtel S.a. E.S.P.|
-|5|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|14|72.10.164.178|18391|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.160.170|18663|Canada|Montreal|GloboTech Communications|
-|17|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.227.227|20037|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|72.10.164.178|28459|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.170|18663|Canada|Montreal|GloboTech Communications|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|67.43.227.227|33035|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|28459|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|67.43.228.253|4909|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|28459|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|27441|Canada|Montreal|GloboTech Communications|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|72.10.160.174|17533|Canada|Montreal|GloboTech Communications|
+|18|190.5.195.116|3128|Colombia|Popayán|Emtel S.a. E.S.P.|
+|19|72.10.164.178|28459|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|27441|Canada|Montreal|GloboTech Communications|
 
 
 
