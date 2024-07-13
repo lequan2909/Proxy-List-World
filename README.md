@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|190.5.195.116|3128|Colombia|Popayán|Emtel S.a. E.S.P.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
-|7|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|14|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|15|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|17|72.10.160.90|21103|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1849|Canada|Montreal|GloboTech Communications|
-|19|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|72.10.160.90|21103|Canada|Montreal|GloboTech Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|190.5.195.116|3128|Colombia|Popayán|Emtel S.a. E.S.P.|
+|8|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|103.170.22.51|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|143.198.194.227|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|72.10.164.178|13173|Canada|Montreal|GloboTech Communications|
 
 
 
