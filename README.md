@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|11|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|12|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
-|13|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|14|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
+|5|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|6|103.168.44.210|3127|Indonesia|Boyolali|PT CYB Media Group|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|8|202.47.188.132|8090|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|12|84.255.40.228|8998|Malta|Sliema|Melita plc|
+|13|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|103.247.23.201|8080|Indonesia|Cileungsir|PT wifian Solution|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|23.166.88.205|3128|Switzerland|Zurich|GTHost|
-|19|45.190.52.24|8080|Brazil|Palhoça|Exa Internet|
-|20|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|19|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 
 
 
