@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|4|38.91.101.96|8850|United States|New York|GTHost|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|119.96.100.63|30000|China|Wuhan|CHINANET Hubei province network|
-|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|72.10.164.178|32741|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|25427|Canada|Montreal|GloboTech Communications|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|27.147.139.142|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|72.10.160.91|7945|Canada|Montreal|GloboTech Communications|
 |11|152.26.229.42|9443|United States|Huntersville|MCNC|
 |12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|14|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|16|72.10.160.174|29247|Canada|Montreal|GloboTech Communications|
-|17|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|18|72.10.160.90|24199|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|7945|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|30937|Canada|Montreal|GloboTech Communications|
+|13|193.201.126.104|3129|Russia|Moscow|Stark Industries Solutions LTD|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|185.236.182.3|18080|Colombia|Sibundoy|Hydra Soluciones Empresariales Ingeniería SAS|
+|17|45.233.67.226|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
+|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|19|72.10.164.178|8663|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|1243|Canada|Montreal|GloboTech Communications|
 
 
 
