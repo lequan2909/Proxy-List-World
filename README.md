@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|6|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|14|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|190.2.209.58|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 |20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
