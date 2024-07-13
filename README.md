@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|72.10.164.178|10869|Canada|Montreal|GloboTech Communications|
-|12|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.171|18323|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|67.43.236.20|22405|Canada|Montreal|GloboTech Communications|
-|18|59.124.9.67|3128|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|19|72.10.160.90|24677|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|22405|Canada|Montreal|GloboTech Communications|
+|4|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|5|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|14|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
