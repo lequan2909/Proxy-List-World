@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|11|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|170.246.85.109|50991|Ecuador|Cuenca|Servicable Cia. Ltda.|
+|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|38.91.101.96|8850|United States|New York|GTHost|
+|15|38.91.101.96|8850|United States|New York|GTHost|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|18|72.10.164.178|31499|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|31499|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
