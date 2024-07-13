@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|190.5.195.116|3128|Colombia|Popayán|Emtel S.a. E.S.P.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|10|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
-|11|50.201.133.122|3366|United States|Richmond|Comcast Cable Communications, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.164.178|13145|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.160.90|25799|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13145|Canada|Montreal|GloboTech Communications|
-|20|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.250.215.8|8080|India|New Delhi|Geocity Network Solutions PVT LTD|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|8|72.10.164.178|13145|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|25799|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|25799|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|72.10.160.174|17533|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|13145|Canada|Montreal|GloboTech Communications|
+|14|186.125.218.163|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|15|72.10.160.173|3299|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|8933|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|13145|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|13145|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|20279|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|25799|Canada|Montreal|GloboTech Communications|
 
 
 
