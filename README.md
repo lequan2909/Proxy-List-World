@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
 |8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|38.91.101.96|8850|United States|New York|GTHost|
+|13|38.91.101.96|8850|United States|New York|GTHost|
+|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|212.46.210.239|8080|Russia|Moscow|VympelKom broadband internet|
-|17|38.91.101.96|8850|United States|New York|GTHost|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|38.91.101.96|8850|United States|New York|GTHost|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|45.130.146.195|3128|Russia|Novosibirsk|LLC Baxet|
 |20|67.43.236.18|11203|Canada|Montreal|GloboTech Communications|
 
 
