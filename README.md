@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |8|172.183.241.1|8080|United States|Chicago|Microsoft|
 |9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.160.174|28851|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|3857|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|10915|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|3581|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|14655|Canada|Montreal|GloboTech Communications|
+|12|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|13|72.10.160.92|25537|Canada|Montreal|GloboTech Communications|
 |14|72.10.160.90|14655|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|14655|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|128.92.239.190|8080|United States|Bell Gardens|Spectrum|
-|18|72.10.160.92|25537|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|10915|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|7713|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.174|10563|Canada|Montreal|GloboTech Communications|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|67.43.236.19|11629|Canada|Montreal|GloboTech Communications|
+|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|19|67.43.227.227|14513|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|1143|Canada|Montreal|GloboTech Communications|
 
 
 
