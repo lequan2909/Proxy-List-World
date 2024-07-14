@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|152.26.229.86|9443|United States|Huntersville|MCNC|
 |2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|5|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |10|43.129.82.248|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|101.255.209.118|8080|Indonesia|Jakarta|PT Remala Abadi|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|45.228.233.94|999|Guatemala|Guatemala City|Infinitum S.A.|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|185.236.182.3|18080|Colombia|Sibundoy|Hydra Soluciones Empresariales Ingeniería SAS|
-|20|38.91.101.96|8850|United States|New York|GTHost|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|15|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.179.46.49|6789|India|Mumbai|Jeebr Cloud Solution PVT LTD|
 
 
 
