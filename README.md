@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
 |15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
+|17|183.91.80.194|8089|Indonesia|Kebonbawang|PT Aplikanusa Lintasarta|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|72.10.164.178|20057|Canada|Montreal|GloboTech Communications|
+|20|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
 
 
 
