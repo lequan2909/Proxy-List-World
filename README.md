@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|14.207.73.186|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|72.10.164.178|29423|Canada|Montreal|GloboTech Communications|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|67.43.227.227|3025|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.93|8787|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|29423|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|8113|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|24445|Canada|Montreal|GloboTech Communications|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|67.43.236.20|27637|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|33027|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|29423|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|103.154.118.154|17378|Indonesia|Jakarta|MORATELINDONAP|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|67.43.228.250|17885|Canada|Montreal|GloboTech Communications|
+|10|14.207.73.186|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|11|67.43.227.227|4261|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|4261|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|30577|Canada|Montreal|GloboTech Communications|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|72.10.164.178|30577|Canada|Montreal|GloboTech Communications|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|18|72.10.160.90|17731|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
