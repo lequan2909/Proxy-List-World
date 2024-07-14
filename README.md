@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5012** proxies at the latest update. Usable proxies are below.
+> Scraper found **4978** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|251|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|553|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|249|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|521|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3021|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|TBKNET|
-|7|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|36.67.199.171|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|19|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|20|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|177.234.241.35|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|72.10.164.178|27329|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.228.250|20757|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|67.43.236.20|15129|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.252|9619|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|67.43.227.227|4709|Canada|Montreal|GloboTech Communications|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
