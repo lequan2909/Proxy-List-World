@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|72.10.164.178|8911|Canada|Montreal|GloboTech Communications|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|152.26.229.42|9443|United States|Huntersville|MCNC|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|72.10.164.178|8911|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|8911|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|8911|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|14151|Canada|Montreal|GloboTech Communications|
-|15|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|67.43.236.18|14415|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|6363|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|6643|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|5899|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|14415|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|7|72.10.164.178|19691|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|72.10.160.90|11323|Canada|Montreal|GloboTech Communications|
+|12|14.207.73.186|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|13|67.43.236.20|20353|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|3155|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.21|5899|Canada|Montreal|GloboTech Communications|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|72.10.164.178|19691|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|20353|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.22|18279|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|14151|Canada|Montreal|GloboTech Communications|
 
 
 
