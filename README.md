@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |3|68.183.179.43|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|38.91.101.96|8850|United States|New York|GTHost|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|10|38.91.101.96|8850|United States|New York|GTHost|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|11|38.91.101.96|8850|United States|New York|GTHost|
+|12|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|15|116.68.170.115|8019|Indonesia|Jakarta||
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|191.103.219.225|48612|Colombia|Medellín|Edatel S.a. E.S.P|
+|15|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
