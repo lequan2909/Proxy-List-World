@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|12|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|17|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
