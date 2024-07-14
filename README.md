@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|7|38.91.101.96|8850|United States|New York|GTHost|
-|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|124.122.137.180|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|3|51.91.119.25|3128|France|Roubaix|OVH SAS|
+|4|152.26.229.86|9443|United States|Huntersville|MCNC|
+|5|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|19|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
