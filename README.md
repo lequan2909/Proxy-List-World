@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|2|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|3|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|9|103.184.180.30|8080|Indonesia|Magetan|Lintas Data Prima, PT|
-|10|203.30.236.119|8080|Indonesia|Melati|PT Media Sarana Data|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|43.129.82.248|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|41.203.213.211|8103|Kenya|Nairobi|Safaricom Limited|
-|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|19|23.166.88.217|3128|Switzerland|Zurich|GTHost|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|3|152.26.229.86|9443|United States|Huntersville|MCNC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|38.91.101.96|8850|United States|New York|GTHost|
+|11|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|45.71.113.167|999|Ecuador|Samborondón|Ufinet Panama S.A.|
+|15|43.129.82.248|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|118.99.127.224|8080|Indonesia|Malang|Biznet Metronet|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
