@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |9|182.253.109.11|8080|Indonesia|Semarang|Biznet Metronet|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|72.10.160.92|32905|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|72.10.164.178|5451|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|5451|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|5451|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|32905|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|22309|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|22309|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|32905|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|24669|Canada|Montreal|GloboTech Communications|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|18343|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.92|1505|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|18343|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|18343|Canada|Montreal|GloboTech Communications|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|72.10.160.92|1505|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|8523|Canada|Montreal|GloboTech Communications|
+|20|5.196.111.29|20107|France|Gravelines|OVH SAS|
 
 
 
