@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|72.10.164.178|25311|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.171|5265|Canada|Montreal|GloboTech Communications|
-|10|182.253.109.11|8080|Indonesia|Semarang|Biznet Metronet|
+|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|10|154.73.29.1|8080|Libya|Tripoli|Rawafed|
 |11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|72.10.164.178|25311|Canada|Montreal|GloboTech Communications|
-|13|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
-|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|15|67.43.228.253|30175|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|20301|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|19203|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|1259|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|5265|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|19203|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|3609|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|25311|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|25311|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|4419|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.172|27443|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|25311|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|3609|Canada|Montreal|GloboTech Communications|
+|19|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
