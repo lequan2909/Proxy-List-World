@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.91.101.96|8850|United States|New York|GTHost|
-|3|23.134.91.77|3128|France|Paris|GTHost|
-|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|1|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|15|72.10.164.178|1971|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|23575|Canada|Montreal|GloboTech Communications|
-|17|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
+|12|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|72.10.164.178|1971|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|23575|Canada|Montreal|GloboTech Communications|
+|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
