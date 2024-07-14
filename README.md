@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|72.10.160.90|22993|Canada|Montreal|GloboTech Communications|
 |8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|72.10.160.90|22993|Canada|Montreal|GloboTech Communications|
-|10|103.176.96.211|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|11|67.43.236.21|6593|Canada|Montreal|GloboTech Communications|
-|12|186.225.19.57|8080|Brazil|Mogi das Cruzes|76 TELECOMUNICAÇÃO LTDA|
-|13|67.43.236.20|26313|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|16|72.10.164.178|30001|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|20285|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|25455|Canada|Montreal|GloboTech Communications|
-|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|20|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|72.10.160.93|20285|Canada|Montreal|GloboTech Communications|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|67.43.227.227|8831|Canada|Montreal|GloboTech Communications|
+|16|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|17|72.10.164.178|30001|Canada|Montreal|GloboTech Communications|
+|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|19|67.43.236.20|7967|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
