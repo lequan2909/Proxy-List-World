@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.238.231.121|1994|Peru|Ica|Telefonica Del Peru|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|79.106.108.150|8079|Albania|Tepelenë|ALBTELECOM VI|
 |6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|11|72.10.160.173|4523|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|28873|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|14131|Canada|Montreal|GloboTech Communications|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|72.10.160.90|29451|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|25273|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|12117|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|67.43.227.227|14131|Canada|Montreal|GloboTech Communications|
+|11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|9965|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|29451|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.236.20|17117|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|11065|Canada|Montreal|GloboTech Communications|
+|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.228|12117|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|17117|Canada|Montreal|GloboTech Communications|
 
 
 
