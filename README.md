@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|58.136.171.97|8080|Thailand|Udon Thani|AIS-Fibre|
-|15|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|38.91.101.96|8850|United States|New York|GTHost|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|8|103.189.116.109|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|10|101.109.176.76|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|14|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|38.91.101.96|8850|United States|New York|GTHost|
+|17|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|118.99.96.170|8080|Indonesia|Jakarta|Biznet Networks|
+|20|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
