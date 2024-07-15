@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|7|67.43.227.228|18531|Canada|Montreal|GloboTech Communications|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|72.10.160.172|4391|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|12827|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|3431|Canada|Montreal|GloboTech Communications|
-|12|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|13|67.43.227.227|3507|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|9381|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|67.43.236.20|12827|Canada|Montreal|GloboTech Communications|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|67.43.227.227|3507|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3431|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|3507|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.90|3361|Canada|Montreal|GloboTech Communications|
+|7|67.43.227.228|12659|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|15265|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|67.43.227.227|15265|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.173|4033|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.18|9381|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|12827|Canada|Montreal|GloboTech Communications|
+|14|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|15|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|67.43.227.227|15265|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2629|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|12827|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.164.178|2629|Canada|Montreal|GloboTech Communications|
 
 
 
