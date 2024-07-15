@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|67.43.228.250|20619|Canada|Montreal|GloboTech Communications|
-|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|12|67.43.236.20|28187|Canada|Montreal|GloboTech Communications|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.164.178|22039|Canada|Montreal|GloboTech Communications|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.228|33157|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|15593|Canada|Montreal|GloboTech Communications|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|14|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|30885|Canada|Montreal|GloboTech Communications|
+|18|88.255.106.27|8080|Türkiye|Istanbul|TurkTelekom|
+|19|67.43.236.20|15397|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|10805|Canada|Montreal|GloboTech Communications|
 
 
 
