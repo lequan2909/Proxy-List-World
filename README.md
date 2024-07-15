@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|67.43.227.227|19597|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.173|32751|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|19597|Canada|Montreal|GloboTech Communications|
+|9|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
+|10|67.43.227.227|8863|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.173|24805|Canada|Montreal|GloboTech Communications|
 |12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|14|67.43.227.227|19597|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|30929|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|1417|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|19597|Canada|Montreal|GloboTech Communications|
-|18|188.225.24.22|3128|Russia|St Petersburg|TimeWeb Co. LTD|
-|19|72.10.160.171|24667|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|14241|Canada|Montreal|GloboTech Communications|
+|13|195.87.136.2|5331|Türkiye|Magnesia ad Sipylum|Vodafone NET Iletisim Hizmetleri Anonim Sirketi|
+|14|67.43.228.253|14241|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|26963|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|8863|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|26963|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|24667|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|26963|Canada|Montreal|GloboTech Communications|
+|20|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
