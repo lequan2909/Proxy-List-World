@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|8|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
-|9|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|14|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|7|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|9|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|10|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|14|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|20|221.118.79.16|8080|Japan|Toyota|AITAI|
+|17|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|18|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
