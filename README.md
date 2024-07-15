@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|67.43.227.227|8729|Canada|Montreal|GloboTech Communications|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|67.43.228.251|25157|Canada|Montreal|GloboTech Communications|
-|6|67.43.236.20|22307|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|1587|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.18|19393|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|8729|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|4029|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|4029|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|8447|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|3211|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|4029|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|7757|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|4029|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|4029|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|6227|Canada|Montreal|GloboTech Communications|
-|19|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|123.108.92.70|8082|Pakistan|Faisalabad|A.A Networks PVT Ltd|
+|10|67.43.227.227|5425|Canada|Montreal|GloboTech Communications|
+|11|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|12|67.43.228.251|25157|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|5425|Canada|Montreal|GloboTech Communications|
+|14|5.196.111.29|20000|France|Gravelines|OVH SAS|
+|15|67.43.227.227|5425|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|30333|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|8367|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|20413|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|11141|Canada|Montreal|GloboTech Communications|
+|20|180.211.161.110|8080|Bangladesh|Tāngāil|Bangladesh Telegraph & Telephone Board|
 
 
 
