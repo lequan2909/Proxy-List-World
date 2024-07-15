@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|14|31.220.56.69|3128|United States|Asheville|HOSTINGER US|
-|15|72.10.160.92|10253|Canada|Montreal|GloboTech Communications|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|154.52.101.103|9090|Türkiye|Sancaktepe|Netbone Telekomunikasyon A.S.|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|119.2.43.143|8080|Indonesia|Jakarta Pusat|PT. Laxo Global Akses|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|10|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|13|103.174.238.113|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|19|72.10.164.178|18351|Canada|Montreal|GloboTech Communications|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
