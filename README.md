@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|11|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.154.145.204|8081|Indonesia|Sidoarjo|MORATELINDONAP|
-|14|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
-|15|64.176.81.67|8083|Singapore|Singapore|The Constant Company|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|18|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|201.150.9.53|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
-|20|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|67.43.236.18|6107|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.92|27537|Canada|Montreal|GloboTech Communications|
+|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|19|67.43.236.20|6139|Canada|Montreal|GloboTech Communications|
+|20|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 
 
 
