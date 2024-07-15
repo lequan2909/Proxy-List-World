@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|6|23.166.88.36|3128|Switzerland|Zurich|GTHost|
-|7|72.10.164.178|18199|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.251|19761|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|30081|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|18199|Canada|Montreal|GloboTech Communications|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|67.43.236.20|30081|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.228.252|26709|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.94|28181|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|18199|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|18199|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|19761|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|21023|Canada|Montreal|GloboTech Communications|
-|20|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|7|67.43.228.252|26709|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.20|30081|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|11|72.10.164.178|3409|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|14|72.10.164.178|3409|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|67.43.227.227|21023|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.251|19931|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.251|19931|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|3409|Canada|Montreal|GloboTech Communications|
 
 
 
