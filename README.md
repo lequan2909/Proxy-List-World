@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|9|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|10|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.136.82.252|83|India|Ranchi|Protoact Digital Network Pvt. Ltd|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|101.108.1.229|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|188.132.166.51|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|12|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|157.20.218.31|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.227.227|29509|Canada|Montreal|GloboTech Communications|
 
 
 
