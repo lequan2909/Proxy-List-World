@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|10|67.43.227.227|4265|Canada|Montreal|GloboTech Communications|
-|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|12|67.43.228.253|28847|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|14631|Canada|Montreal|GloboTech Communications|
-|14|171.242.251.232|5020|Vietnam|Vĩnh Tường|Viettel Corporation|
-|15|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|11|103.172.70.138|1111|Indonesia|Sukabumi|AZNET|
+|12|67.43.228.253|6823|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|2091|Canada|Montreal|GloboTech Communications|
+|14|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.227|4265|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|1269|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14631|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|4115|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|14631|Canada|Montreal|GloboTech Communications|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|20|67.43.228.253|6823|Canada|Montreal|GloboTech Communications|
 
 
 
