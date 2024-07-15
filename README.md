@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|10|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|103.153.63.213|3128|Indonesia|Rejoagung Satu|IMEDIANET|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|67.43.236.20|5445|Canada|Montreal|GloboTech Communications|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|191.97.16.74|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|16|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|72.10.164.178|32581|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|22439|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.254|32283|Canada|Montreal|GloboTech Communications|
 
 
 
