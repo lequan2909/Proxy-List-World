@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|67.43.236.19|18019|Canada|Montreal|GloboTech Communications|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|13|103.87.228.187|8080|Indonesia|Bandar Lampung|ZITLINE|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|67.43.236.20|19175|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|2451|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|31725|Canada|Montreal|GloboTech Communications|
-|18|58.80.134.185|1080|Japan|Suita|ARTERIA Networks Corporation|
-|19|67.43.236.18|3693|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|18019|Canada|Montreal|GloboTech Communications|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|16|67.43.236.19|12573|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|67.43.227.226|7445|Canada|Montreal|GloboTech Communications|
 
 
 
