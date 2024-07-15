@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.91|10515|Canada|Montreal|GloboTech Communications|
-|16|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|15|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|16|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 |17|72.10.160.90|31225|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2445|Canada|Montreal|GloboTech Communications|
-|19|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
-|20|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|18|72.10.164.178|22465|Canada|Montreal|GloboTech Communications|
+|19|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|72.10.160.171|8315|Canada|Montreal|GloboTech Communications|
 
 
 
