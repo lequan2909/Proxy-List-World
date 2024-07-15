@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|10|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|18|67.43.228.251|27465|Canada|Montreal|GloboTech Communications|
-|19|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|67.43.228.253|26361|Canada|Montreal|GloboTech Communications|
+|1|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|8|89.30.96.166|3128|France|Suresnes|BSO Network Solutions|
+|9|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.164.178|31937|Canada|Montreal|GloboTech Communications|
+|12|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.160.90|28653|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|28653|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|31937|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.251|11489|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|31429|Canada|Montreal|GloboTech Communications|
 
 
 
