@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|141.144.231.186|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|115.166.102.238|8080|Indonesia|Jakarta|ISATNET|
-|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|10|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|103.80.88.74|80|Indonesia|Gorontalo|PT Jala Lintas Media|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.236.20|24163|Canada|Montreal|GloboTech Communications|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
 |13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|17|67.43.236.20|11951|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|25295|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|4935|Canada|Montreal|GloboTech Communications|
-|20|103.228.246.131|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|14|72.10.164.178|9083|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|67.43.228.253|2753|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|25295|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|9083|Canada|Montreal|GloboTech Communications|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
 
 
 
