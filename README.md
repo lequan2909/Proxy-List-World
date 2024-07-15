@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.246.247.149|3128|Hong Kong|Mong Kok|Cloudie Limited|
-|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|17|67.43.227.227|26141|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|13|14.225.8.195|3218|Vietnam|Bắc Ninh|Vietnam Posts and Telecommunications Group|
+|14|103.169.189.125|3125|Indonesia|Magetan|Sarana Media Cemerlang|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|67.43.227.227|13267|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 
 
 
