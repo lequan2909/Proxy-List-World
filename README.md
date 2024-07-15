@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|5|67.43.227.227|21175|Canada|Montreal|GloboTech Communications|
-|6|67.43.228.250|9899|Canada|Montreal|GloboTech Communications|
-|7|67.43.236.19|32255|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|16371|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|21175|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|8291|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|9|67.43.227.227|10381|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|67.43.228.250|9899|Canada|Montreal|GloboTech Communications|
 |12|67.43.227.228|27887|Canada|Montreal|GloboTech Communications|
-|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|67.43.236.20|8291|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.94|22841|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|21175|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|16371|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|21175|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|6991|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|21175|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|10381|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.94|22841|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|10381|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.230|2399|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|9419|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|26513|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|16539|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|6991|Canada|Montreal|GloboTech Communications|
 
 
 
