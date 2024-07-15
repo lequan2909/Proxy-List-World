@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|5|185.25.204.192|8080|Italy|Milan|Servereasy Italy|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|67.43.236.20|13013|Canada|Montreal|GloboTech Communications|
-|13|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|14|72.10.160.170|22685|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|3337|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|10975|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|8663|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3337|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3337|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|13013|Canada|Montreal|GloboTech Communications|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|67.43.236.20|32223|Canada|Montreal|GloboTech Communications|
+|17|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|72.10.164.178|1717|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1717|Canada|Montreal|GloboTech Communications|
 
 
 
