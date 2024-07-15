@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|45.124.87.104|3128|Vietnam|Phúc Lai|BKNS|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|45.124.87.89|3128|Vietnam|Phúc Lai|BKNS|
-|19|67.43.228.253|9919|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|29667|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|45.124.87.104|3128|Vietnam|Phúc Lai|BKNS|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|45.124.87.89|3128|Vietnam|Phúc Lai|BKNS|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|67.43.228.253|32657|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.251|23069|Canada|Montreal|GloboTech Communications|
+|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|19|72.10.164.178|11135|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|2025|Canada|Montreal|GloboTech Communications|
 
 
 
