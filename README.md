@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|72.10.160.170|32665|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|2843|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|2843|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|67.43.236.20|2843|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.92|12967|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|30309|Canada|Montreal|GloboTech Communications|
+|19|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|67.43.227.227|26539|Canada|Montreal|GloboTech Communications|
 
 
 
