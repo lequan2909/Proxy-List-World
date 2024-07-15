@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.228.253|2133|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|67.43.228.250|13527|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|2133|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|29029|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|9249|Canada|Montreal|GloboTech Communications|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.228.253|2133|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|9249|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|32239|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|9249|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|67.43.228.253|17453|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|67.43.236.20|9249|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|33167|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.228.253|17453|Canada|Montreal|GloboTech Communications|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|16|72.10.164.178|33167|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.144.18.35|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|19|67.43.228.253|17453|Canada|Montreal|GloboTech Communications|
+|20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
