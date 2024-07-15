@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|102.38.13.9|19000|Libya|Tripoli|GKL|
 |5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|67.43.236.20|28963|Canada|Montreal|GloboTech Communications|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|72.10.160.90|28821|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|12295|Canada|Montreal|GloboTech Communications|
-|12|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|13|67.43.227.228|12205|Canada|Montreal|GloboTech Communications|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|9|72.10.160.90|7531|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|12|67.43.227.227|17221|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|29545|Canada|Montreal|GloboTech Communications|
 |14|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|67.43.227.226|31563|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|2449|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|8833|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|2449|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|29053|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|31563|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|32615|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|17221|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|31563|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|12393|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|12393|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|17221|Canada|Montreal|GloboTech Communications|
 
 
 
