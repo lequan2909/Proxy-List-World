@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|34.143.221.240|8103|Singapore|Singapore|Google LLC|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|8|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|67.43.227.228|25217|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|9249|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|67.43.227.228|25217|Canada|Montreal|GloboTech Communications|
-|14|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|17|34.143.221.240|8103|Singapore|Singapore|Google LLC|
-|18|85.10.199.41|3128|Germany|Munich|Hetzner Online GmbH|
+|7|34.143.221.240|8103|Singapore|Singapore|Google LLC|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|67.43.236.20|25921|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|25217|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.228|25217|Canada|Montreal|GloboTech Communications|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|67.43.236.20|25921|Canada|Montreal|GloboTech Communications|
+|15|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|67.43.236.20|25921|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|25217|Canada|Montreal|GloboTech Communications|
 |19|67.43.227.228|25217|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1181|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|9843|Canada|Montreal|GloboTech Communications|
 
 
 
