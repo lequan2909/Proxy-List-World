@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|6|101.255.209.118|8080|Indonesia|Jakarta|PT Remala Abadi|
-|7|129.159.67.33|80|United States|Ashburn|Oracle Corporation|
-|8|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|186.148.181.70|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|13|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|67.43.227.227|4969|Canada|Montreal|GloboTech Communications|
-|17|195.116.24.237|8080|Poland|Kock|Orange Polska Spolka Akcyjna|
-|18|72.10.164.178|20321|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|29711|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|27013|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|129.159.67.33|80|United States|Ashburn|Oracle Corporation|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|129.159.67.33|80|United States|Ashburn|Oracle Corporation|
+|13|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|67.43.227.227|14793|Canada|Montreal|GloboTech Communications|
 
 
 
