@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|187.157.243.254|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|113.160.247.27|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|39.129.73.6|443|China|Yuxi|China Mobile|
-|15|67.43.236.20|17157|Canada|Montreal|GloboTech Communications|
-|16|165.225.72.154|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|17|67.43.236.18|30029|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|30033|Canada|Montreal|GloboTech Communications|
-|19|165.225.72.150|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|9|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|67.43.236.20|32671|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|72.10.164.178|7689|Canada|Montreal|GloboTech Communications|
+|19|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|20|165.225.72.150|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
