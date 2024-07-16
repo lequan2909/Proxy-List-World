@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|103.175.237.12|3125|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|72.10.160.170|8787|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|152.26.229.42|9443|United States|Huntersville|MCNC|
+|11|72.10.160.170|18779|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|18891|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|12393|Canada|Montreal|GloboTech Communications|
 |14|72.10.164.178|12393|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|12393|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|4419|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|12393|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|12393|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|13317|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12393|Canada|Montreal|GloboTech Communications|
-|20|103.87.169.146|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|17|67.43.227.228|13317|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|12393|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|9871|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|14897|Canada|Montreal|GloboTech Communications|
 
 
 
