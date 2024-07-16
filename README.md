@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4872** proxies at the latest update. Usable proxies are below.
+> Scraper found **4954** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|94|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|746|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|302|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2854|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|14|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|67.43.227.227|5747|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.90|14209|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|29117|Canada|Montreal|GloboTech Communications|
+|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|14|190.120.249.180|999|Venezuela|Caracas|CORPORACION FIBEX TELECOM, C.A.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|17|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|67.43.228.251|3791|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|18549|Canada|Montreal|GloboTech Communications|
 
 
 
