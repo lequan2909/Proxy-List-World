@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.171|33179|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|9315|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|137.59.48.226|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|13|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|187.157.243.254|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|17|72.10.164.178|9321|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|9321|Canada|Montreal|GloboTech Communications|
+|19|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
