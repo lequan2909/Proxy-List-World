@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
 |6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|88.255.102.13|8080|Türkiye|Istanbul|TurkTelekom|
 |10|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|11|187.188.169.169|8080|Mexico|Santa Cruz Huitziltepec|Total Play Telecomunicaciones SA De CV|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|81.12.40.250|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|72.10.160.90|18887|Canada|Montreal|GloboTech Communications|
-|20|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
+|18|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|72.10.160.90|17413|Canada|Montreal|GloboTech Communications|
 
 
 
