@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
 |7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|16|67.43.227.227|6297|Canada|Montreal|GloboTech Communications|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|67.43.228.253|32863|Canada|Montreal|GloboTech Communications|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|103.178.42.26|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|17|103.167.71.39|8080|Indonesia|Mukomuko|PT Rubyan Network Solution|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|159.196.157.188|8080|Australia|Sydney|Aussie Broadband|
 
 
 
