@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|180.211.162.146|8080|Bangladesh|Kāfrul|Bangladesh Telegraph & Telephone Board|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|12|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|14|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|148.230.206.229|8080|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|18|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|19|36.89.16.186|8866|Indonesia|Setia Budi|PT. Telekomunikasi Indonesia|
-|20|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
+|7|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|14|36.64.153.4|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|17|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|103.141.51.212|1111|India|Karur|Sri Krishna Internet Services Private Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
