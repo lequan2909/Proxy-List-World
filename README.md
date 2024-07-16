@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|117.0.204.40|5106|Vietnam|Hanoi|Viettel Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
-|19|67.43.236.21|8285|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2433|Canada|Montreal|GloboTech Communications|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|8|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|14|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|139.84.175.136|3129|India|Noida|The Constant Company, LLC|
+|20|101.255.118.86|8080|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
