@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|7|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|16|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|13|103.177.235.133|83|India|Bengaluru|Coastal Live Channel|
+|14|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|15|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|19|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
