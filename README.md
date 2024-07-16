@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.10.160.170|22195|Canada|Montreal|GloboTech Communications|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|72.10.164.178|16039|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|6725|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|16039|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|22195|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|22631|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|12381|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|12381|Canada|Montreal|GloboTech Communications|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|152.26.229.42|9443|United States|Huntersville|MCNC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|72.10.160.170|25957|Canada|Montreal|GloboTech Communications|
+|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|14|172.99.188.129|3128|Netherlands|Amsterdam|GTHost|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|67.43.227.228|22631|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|25957|Canada|Montreal|GloboTech Communications|
+|18|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
+|19|67.43.227.227|6629|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|6461|Canada|Montreal|GloboTech Communications|
 
 
 
