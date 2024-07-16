@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|10|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|13|102.213.84.250|8080|Nigeria|Irewe|Globacom Limited|
-|14|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|38.7.3.11|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|5|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|67.43.236.20|22317|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|20761|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|15023|Canada|Montreal|GloboTech Communications|
 
 
 
