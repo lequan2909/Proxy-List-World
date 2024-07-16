@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.236.20|16167|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|27601|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|27601|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|32139|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|22871|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|12011|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|17131|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|17741|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|3869|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|67.43.236.18|1479|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|8851|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|8851|Canada|Montreal|GloboTech Communications|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|72.10.164.178|8851|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|10333|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.90|24381|Canada|Montreal|GloboTech Communications|
+|19|45.251.139.247|3129|United States| Los Angeles|Zenlayer Inc|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
