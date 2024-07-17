@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|3|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|4|180.250.143.189|17|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|67.43.236.21|8307|Canada|Montreal|GloboTech Communications|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|20|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|113.203.238.82|8080|Pakistan|Karachi|SHARP TELECOM (PRIVATE) LIMITED|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|12|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.156.233.157|3456|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|16|72.10.160.90|2703|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|13837|Canada|Montreal|GloboTech Communications|
+|18|51.91.119.25|3128|France|Roubaix|OVH SAS|
+|19|72.10.164.178|1625|Canada|Montreal|GloboTech Communications|
+|20|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
 
 
 
