@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|7|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
-|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|12|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|14|67.43.227.228|13793|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.164.178|9129|Canada|Montreal|GloboTech Communications|
 |17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|9129|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|9129|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|31143|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|21415|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|67.43.227.227|4543|Canada|Montreal|GloboTech Communications|
 
 
 
