@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|84.47.211.50|8080|Iran|Tehran|Asiatech|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|67.43.227.228|27157|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|67.43.228.253|30507|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|28381|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|1181|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|28381|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|84.47.211.50|8080|Iran|Tehran|Asiatech|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|72.10.164.178|3027|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
