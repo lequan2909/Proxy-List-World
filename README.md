@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5667** proxies at the latest update. Usable proxies are below.
+> Scraper found **5665** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|134|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|773|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|771|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|396|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3406|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|179.228.17.8|8080|Brazil|São Paulo|Vivo|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|103.87.169.194|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|11|67.43.227.227|24337|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|22851|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|20649|Canada|Montreal|GloboTech Communications|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.160.171|2367|Canada|Montreal|GloboTech Communications|
-|16|103.228.246.151|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|17|45.133.107.10|81|Russia|Mezmay|Art-net LLC|
-|18|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|19|72.10.160.174|5631|Canada|Montreal|GloboTech Communications|
-|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|170.84.48.222|8080|Brazil|Rio de Janeiro|VIP RIO TELECOMUNICAÇÕES LTDA - EPP|
+|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|7|103.228.246.151|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|8|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|11|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|72.10.164.178|27763|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|27763|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|67.43.227.227|21919|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.19|21379|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|21919|Canada|Montreal|GloboTech Communications|
+|18|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
+|19|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|20|67.43.236.20|22851|Canada|Montreal|GloboTech Communications|
 
 
 
