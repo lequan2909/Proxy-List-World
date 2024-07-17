@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|9|103.231.238.186|58080|Bangladesh|Dhaka|Carnival Internet|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|18|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
