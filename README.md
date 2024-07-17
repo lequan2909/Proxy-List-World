@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|12|103.54.218.202|8080|Indonesia|Pancoran|PT. Mora Telematika Indonesia|
+|2|103.191.165.23|3128|Indonesia|Subang|PT Sakti Wijaya Network|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|103.54.218.202|8080|Indonesia|Pancoran|PT. Mora Telematika Indonesia|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|5.9.112.247|3128|Germany|Mainz|Hetzner Online GmbH|
+|12|184.82.130.44|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
 |13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|14|72.10.164.178|25935|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|10995|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|28985|Canada|Montreal|GloboTech Communications|
-|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|18|67.43.227.229|6981|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|2703|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|10995|Canada|Montreal|GloboTech Communications|
+|14|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|15|72.10.164.178|1625|Canada|Montreal|GloboTech Communications|
+|16|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|17|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|18|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
