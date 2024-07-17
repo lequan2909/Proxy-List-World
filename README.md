@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|82.200.237.11|8080|Kazakhstan|Atyrau|Kazakhtelecom Data Network Administration|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.57.80.190|58080|India|Bengaluru|Allnet Broadband Network Pvt Ltd|
-|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|10|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|67.43.227.227|9725|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|6539|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|11965|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|10325|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|33061|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|15|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|16|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|19|67.43.227.227|3309|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
