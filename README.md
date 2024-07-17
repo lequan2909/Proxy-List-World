@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|203.150.128.95|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
 |8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|203.150.128.95|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|72.10.160.170|1205|Canada|Montreal|GloboTech Communications|
-|12|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|16|103.239.252.235|58080|Bangladesh|Dhaka|Carnival Internet|
-|17|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|18|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|19|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.236.19|19599|Canada|Montreal|GloboTech Communications|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|11|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|15|72.10.164.178|21431|Canada|Montreal|GloboTech Communications|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|72.10.164.178|21431|Canada|Montreal|GloboTech Communications|
+|18|31.28.163.149|31280|Ukraine|Kyiv|1 Cloud Lab s.r.o.|
+|19|103.26.110.202|84|India|Mayiladuthurai|Niss Networks|
+|20|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
 
 
 
