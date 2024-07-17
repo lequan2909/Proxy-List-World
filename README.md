@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|3|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|11|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|67.43.236.20|6967|Canada|Montreal|GloboTech Communications|
-|16|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|72.10.164.178|13803|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|20467|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|7187|Canada|Montreal|GloboTech Communications|
-|20|20.190.104.113|80|Australia|Melbourne|Microsoft Corporation|
+|10|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|11|51.210.255.127|80|France|Gravelines|OVH SAS|
+|12|203.150.128.205|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|72.10.164.178|1277|Canada|Montreal|GloboTech Communications|
 
 
 
