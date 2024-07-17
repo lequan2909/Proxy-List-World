@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|7|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
 |8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|13|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|67.43.236.20|23021|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|67.43.236.18|17973|Canada|Montreal|GloboTech Communications|
-|19|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
 
 
 
