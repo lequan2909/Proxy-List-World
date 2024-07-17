@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|41.59.200.27|3030|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|12|67.43.227.228|17891|Canada|Montreal|GloboTech Communications|
-|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|14|72.10.164.178|8831|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|17891|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|7267|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|18519|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|27965|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|22675|Canada|Montreal|GloboTech Communications|
-|20|181.58.31.201|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|72.10.164.178|32973|Canada|Montreal|GloboTech Communications|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|19|72.10.160.173|16309|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|27423|Canada|Montreal|GloboTech Communications|
 
 
 
