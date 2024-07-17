@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|139.255.116.54|80|Indonesia|Tangerang|PT. LINKNET|
-|3|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|4|119.2.52.152|8282|Indonesia|Pugeran Maguwoharjo|GMEDIA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|1|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|139.255.116.54|80|Indonesia|Tangerang|PT. LINKNET|
+|4|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|5|146.190.101.222|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
 |13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|104.211.76.173|808|India|Pune|Microsoft Corporation|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|72.10.164.178|9361|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|72.10.164.178|33241|Canada|Montreal|GloboTech Communications|
+|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|17|72.10.164.178|33241|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|21187|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2987|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|33241|Canada|Montreal|GloboTech Communications|
 
 
 
