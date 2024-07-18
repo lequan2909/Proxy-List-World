@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|6|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|103.145.160.5|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|12|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|20|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|5|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|9|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|16|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|17|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
