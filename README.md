@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|7|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|103.160.184.158|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
+|12|49.248.13.186|1526|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|13|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|49.151.23.182|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
 |17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 
 
 
