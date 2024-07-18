@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|4|80.66.89.201|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.164.178|13423|Canada|Montreal|GloboTech Communications|
-|18|45.224.22.177|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|46.246.80.13|3128|Sweden|Stockholm|Portlane Network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|103.69.21.192|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|183.88.212.184|8080|Thailand|Na Kluea|Triple T Broadband Public Company Limited|
+|19|185.105.16.241|8080|Spain|Gata de Gorgos|Carrier Enabler announced IPs|
+|20|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
