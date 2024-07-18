@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |4|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|5|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.251.28.148|8081|United States|Santa Clara|Alibaba Cloud LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|103.18.77.36|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|13|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|171.6.75.221|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|17|5.83.248.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
-|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|20|72.10.160.90|13327|Canada|Montreal|GloboTech Communications|
+|5|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|72.10.160.90|25043|Canada|Montreal|GloboTech Communications|
+|20|181.58.31.201|8080|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
