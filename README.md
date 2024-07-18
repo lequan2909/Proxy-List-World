@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|19|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|5|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|119.76.142.209|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
+|8|49.48.109.111|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|31.47.54.122|3128|Iran|Tehran|Afranet|
+|14|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
