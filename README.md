@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|80.66.89.201|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|201.77.108.72|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
-|10|203.150.128.78|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|45.190.184.137|999|Honduras|San Marcos de Colón|Ufinet Panama S.A.|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
-|19|103.176.227.197|8009|Indonesia|Brebes|PT Pass Internet Indonesia|
-|20|72.10.160.172|3155|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|186.148.195.165|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|181.233.93.88|8080|Brazil|Belém|J.A TELECOM.PE|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.227|16539|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|28707|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|10471|Canada|Montreal|GloboTech Communications|
+|20|39.129.73.6|443|China|Yuxi|China Mobile|
 
 
 
