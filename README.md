@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.247.23.202|8080|Indonesia|Cileungsir|PT wifian Solution|
-|8|193.111.124.25|8080|Indonesia|Garut|CV Atha Media Prima|
-|9|207.230.8.70|999|Colombia|Bogotá|Cogent Communications|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|67.43.227.227|6655|Canada|Montreal|GloboTech Communications|
-|14|177.107.16.252|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.118.221.52|3128|United States|Des Moines|Microsoft Corporation|
-|17|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|18|67.43.228.253|30671|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|32821|Canada|Montreal|GloboTech Communications|
-|20|103.111.136.110|443|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|193.111.124.25|8080|Indonesia|Garut|CV Atha Media Prima|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|67.43.228.253|30671|Canada|Montreal|GloboTech Communications|
+|12|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|13|72.10.160.170|12605|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|12605|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|18625|Canada|Montreal|GloboTech Communications|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|43.252.236.157|8080|Indonesia|Bogor|NET|
+|18|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|19|109.236.44.178|8080|Albania|Tirana|Abissnet sh.a.|
+|20|67.43.228.253|30671|Canada|Montreal|GloboTech Communications|
 
 
 
