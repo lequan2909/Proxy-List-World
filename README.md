@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|119.42.86.164|8080|Thailand|Bang Rak|CAT-BB|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|101.109.176.76|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|10|176.100.216.164|80|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|14|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|5.78.118.7|10000|United States|Portland|Hetzner Online GmbH|
+|12|200.37.253.75|999|Peru|Pampa Cangallo|Telefonica del Peru S.A.A.|
+|13|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|29217|Canada|Montreal|GloboTech Communications|
 
 
 
