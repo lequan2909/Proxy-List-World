@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.175.237.12|3125|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|80.66.89.201|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|7|103.176.227.197|8009|Indonesia|Brebes|PT Pass Internet Indonesia|
+|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|67.43.236.20|6929|Canada|Montreal|GloboTech Communications|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|67.43.227.226|21351|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|28515|Canada|Montreal|GloboTech Communications|
-|18|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|19|67.43.228.253|2487|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|33131|Canada|Montreal|GloboTech Communications|
+|10|182.253.40.149|8080|Indonesia|Samaan|BIZNET|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|176.222.224.1|8118|Czechia|Kladno|Cable-NET s.r.o.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|16|67.43.236.20|20709|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|21351|Canada|Montreal|GloboTech Communications|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
+|19|72.10.164.178|29207|Canada|Montreal|GloboTech Communications|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
