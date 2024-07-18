@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|2|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|7|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|8|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
-|9|67.43.236.20|5657|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.18|24063|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|67.43.227.227|30815|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|5657|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|67.43.236.20|5657|Canada|Montreal|GloboTech Communications|
-|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|72.10.164.178|31221|Canada|Montreal|GloboTech Communications|
-|20|38.7.131.1|999|Dominican Republic|Esperanza|SERVICIOS NUÑEZ EIRL|
+|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|6|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|193.111.124.25|8080|Indonesia|Garut|CV Atha Media Prima|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|12|67.43.236.18|24063|Canada|Montreal|GloboTech Communications|
+|13|128.92.239.190|8080|United States|Bell Gardens|Spectrum|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|185.105.16.241|8080|Spain|Gata de Gorgos|Carrier Enabler announced IPs|
+|17|45.227.195.121|8082|Brazil|São Lourenço do Oeste|Mhnet Telecom|
+|18|24.204.29.115|8080|United States|Longview|Network IP|
+|19|67.43.227.227|8185|Canada|Montreal|GloboTech Communications|
+|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
