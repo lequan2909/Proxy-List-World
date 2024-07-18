@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|162.217.73.165|80|United States|San Francisco|Monkey Brains|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|13|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|162.217.73.165|80|United States|San Francisco|Monkey Brains|
+|9|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|195.201.230.161|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
+|16|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|17|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|103.81.214.254|83|India|Faridabad|Hps Digital Broadband|
+|20|27.147.142.138|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
