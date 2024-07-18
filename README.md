@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5325** proxies at the latest update. Usable proxies are below.
+> Scraper found **5315** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|158|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|157|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3227|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|72.10.160.90|23907|Canada|Montreal|GloboTech Communications|
-|7|152.26.229.42|9443|United States|Huntersville|MCNC|
-|8|72.10.164.178|22347|Canada|Montreal|GloboTech Communications|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.227.227|14363|Canada|Montreal|GloboTech Communications|
-|11|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|72.10.164.178|22347|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.230|8773|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|23907|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|4363|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|13759|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22347|Canada|Montreal|GloboTech Communications|
-|20|207.138.39.145|999|Venezuela|Caracas|Galanet Solution C.A.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|36.88.148.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|24.204.29.115|8080|United States|Longview|Network IP|
+|13|67.43.227.226|22067|Canada|Montreal|GloboTech Communications|
+|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|15|72.10.164.178|1557|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|1557|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|8183|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.164.178|1557|Canada|Montreal|GloboTech Communications|
+|20|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
 
 
 
