@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |3|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|5|45.231.223.250|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|6|109.236.44.178|8080|Albania|Tirana|Abissnet sh.a.|
-|7|177.107.16.252|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
-|10|72.10.164.178|30549|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|14863|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|72.10.160.90|22979|Canada|Montreal|GloboTech Communications|
-|14|88.212.46.231|23500|Slovakia|Košice|Antik Network|
-|15|67.43.228.253|26827|Canada|Montreal|GloboTech Communications|
-|16|212.112.120.252|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|67.43.227.227|32389|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|26827|Canada|Montreal|GloboTech Communications|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.147.73.50|7777|Indonesia|Kediri|ALFATINDO|
+|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|7|193.111.124.25|8080|Indonesia|Garut|CV Atha Media Prima|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|12|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|13|185.139.94.70|8080|Germany|Ravensburg|Norbert Herter trading as Regionetz.net|
+|14|67.43.227.227|32389|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|10727|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|4477|Canada|Montreal|GloboTech Communications|
+|17|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|18|45.230.51.130|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|19|67.43.227.227|32389|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
