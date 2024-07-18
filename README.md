@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|8|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|5|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|6|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
+|11|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|18|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|20|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
