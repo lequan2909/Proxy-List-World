@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|187.157.243.254|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|46.229.235.158|8088|Slovakia|Bratislava|VNET|
-|9|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|103.115.20.26|8090|Indonesia|Subang|PMYNET|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
 |13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|72.10.164.178|18153|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.160.90|6793|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|18153|Canada|Montreal|GloboTech Communications|
-|18|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|191.102.248.5|8084|Argentina|Rosario|IP·RED|
+|14|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|18|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
