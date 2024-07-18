@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|171.6.75.221|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|103.165.43.140|8080|Indonesia|Jagirsidosermo|PT iForte Global Internet|
-|15|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|18|72.10.160.90|21657|Canada|Montreal|GloboTech Communications|
-|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|20|72.10.160.174|7847|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
+|14|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
