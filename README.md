@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|152.26.229.42|9443|United States|Huntersville|MCNC|
-|8|103.26.110.202|84|India|Mayiladuthurai|Niss Networks|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|72.10.164.178|17139|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|30613|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|19141|Canada|Montreal|GloboTech Communications|
-|15|24.204.29.115|8080|United States|Longview|Network IP|
-|16|72.10.160.90|30613|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|33261|Canada|Montreal|GloboTech Communications|
-|18|5.196.111.29|20477|France|Gravelines|OVH SAS|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|67.43.228.252|11547|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|10|67.43.227.228|16593|Canada|Montreal|GloboTech Communications|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|72.10.160.90|22097|Canada|Montreal|GloboTech Communications|
+|13|142.147.114.50|8080|United States|Weatherford|Nextlink Broadband|
+|14|67.43.227.228|16593|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.252|30409|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|19|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
