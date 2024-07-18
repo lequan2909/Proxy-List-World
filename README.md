@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|103.76.151.90|8090|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|10|67.43.227.226|17995|Canada|Montreal|GloboTech Communications|
-|11|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|12|67.43.228.253|20143|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|18591|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|32455|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.227.227|23239|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|18591|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|23239|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|6291|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|20143|Canada|Montreal|GloboTech Communications|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.227.226|6765|Canada|Montreal|GloboTech Communications|
+|12|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|13|222.243.174.132|81|China|Xiangtan|Chinanet|
+|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|67.43.228.253|28703|Canada|Montreal|GloboTech Communications|
+|16|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
+|18|72.10.160.173|6291|Canada|Montreal|GloboTech Communications|
+|19|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
+|20|72.10.164.178|14879|Canada|Montreal|GloboTech Communications|
 
 
 
