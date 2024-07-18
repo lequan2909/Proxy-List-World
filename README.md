@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|9|134.35.21.250|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|19|88.150.15.30|8080|Germany|Magdeburg|MDlink online service center GmbH|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|4|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|185.221.219.63|3128|Netherlands|Amsterdam|GTHost|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|72.10.164.178|17277|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|10481|Canada|Montreal|GloboTech Communications|
+|20|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
 
 
 
