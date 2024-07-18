@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|72.10.160.90|27791|Canada|Montreal|GloboTech Communications|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|72.10.164.178|29787|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|27791|Canada|Montreal|GloboTech Communications|
-|11|190.61.43.121|999|Colombia|Manizales|Ufinet Panama S.A.|
-|12|67.43.228.253|23253|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.227.227|3039|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|32979|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|29787|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|22067|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|4365|Canada|Montreal|GloboTech Communications|
-|19|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|72.10.160.90|23907|Canada|Montreal|GloboTech Communications|
+|7|152.26.229.42|9443|United States|Huntersville|MCNC|
+|8|72.10.164.178|22347|Canada|Montreal|GloboTech Communications|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|67.43.227.227|14363|Canada|Montreal|GloboTech Communications|
+|11|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|72.10.164.178|22347|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.230|8773|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|23907|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|4363|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|13759|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|22347|Canada|Montreal|GloboTech Communications|
+|20|207.138.39.145|999|Venezuela|Caracas|Galanet Solution C.A.|
 
 
 
