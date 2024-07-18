@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|204.199.202.132|999|Mexico|Teotihuacán|Level 3 Communications, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|67.43.236.20|3303|Canada|Montreal|GloboTech Communications|
-|12|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|43.252.236.157|8080|Indonesia|Bogor|NET|
-|15|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|16|72.10.164.178|3973|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|15463|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3973|Canada|Montreal|GloboTech Communications|
-|19|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
-|20|72.10.160.90|1035|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|16|85.232.243.235|8080|Poland|Warsaw|ATMAN|
+|17|72.10.164.178|17139|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|72.10.160.90|26531|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|9473|Canada|Montreal|GloboTech Communications|
 
 
 
