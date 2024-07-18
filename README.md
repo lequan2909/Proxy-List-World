@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|10|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|6729|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|21483|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|6729|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|6729|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|20|67.43.228.253|3295|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|72.10.160.90|3791|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|13739|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|13739|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.203.181.34|8080|Mexico|Cocoyoc|Total Play Telecomunicaciones SA De CV|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|67.43.228.253|3295|Canada|Montreal|GloboTech Communications|
+|19|190.223.60.131|3128|Peru|Tacna|America Movil Peru S.A.C.|
+|20|72.10.164.178|13739|Canada|Montreal|GloboTech Communications|
 
 
 
