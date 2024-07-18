@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|1.0.170.50|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|5.78.118.7|10000|United States|Portland|Hetzner Online GmbH|
-|13|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|14|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
+|8|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|41.59.210.2|8080|Tanzania|Tanga|Tanzania Telecommunications CO. LTD|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|102.38.13.9|19000|Libya|Tripoli|GKL|
+|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
 
 
 
