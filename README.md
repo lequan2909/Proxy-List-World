@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.165.155.60|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|103.170.22.51|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|12|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|5.78.118.7|10000|United States|Portland|Hetzner Online GmbH|
+|20|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
 
 
 
