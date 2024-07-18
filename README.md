@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
-|11|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|15|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|16|72.10.160.170|28495|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|29085|Canada|Montreal|GloboTech Communications|
-|18|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|19|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|20|72.10.160.90|1887|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|8|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|12|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|13|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
 
 
 
