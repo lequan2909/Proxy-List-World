@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|128.92.239.190|8080|United States|Bell Gardens|Spectrum|
-|7|103.183.56.3|8080|Indonesia|Tasikmalaya|PT Multi Karya Athira|
-|8|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|67.43.227.227|5871|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|3399|Canada|Montreal|GloboTech Communications|
-|16|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
-|17|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|18|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|19|67.43.227.227|5871|Canada|Montreal|GloboTech Communications|
-|20|179.108.220.184|8080|Brazil|Santos Dumont|Conecta Ltda.|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|152.26.229.42|9443|United States|Huntersville|MCNC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|67.43.227.227|30815|Canada|Montreal|GloboTech Communications|
+|10|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|11|67.43.227.227|30815|Canada|Montreal|GloboTech Communications|
+|12|58.80.134.185|1080|Japan|Suita|ARTERIA Networks Corporation|
+|13|72.10.160.93|18507|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.94|18661|Canada|Montreal|GloboTech Communications|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|17|72.10.164.178|31221|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|31221|Canada|Montreal|GloboTech Communications|
+|19|24.124.46.18|800|United States|Lawrence|Midcontinent Communications|
+|20|67.43.236.20|14449|Canada|Montreal|GloboTech Communications|
 
 
 
