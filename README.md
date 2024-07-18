@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|23.143.160.193|999|Puerto Rico|Villalba|Unonet Corp|
-|16|101.255.116.163|33333|Indonesia|Jakarta|PT Remala Abadi|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|27.77.128.15|8080|Vietnam|Đồng Nai Province|Newass2011xDSLHCMC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
 
 
 
