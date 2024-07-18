@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|103.165.155.60|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|16|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
+|11|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|12|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|16|103.172.35.13|8080|Indonesia|Temanggung|PT Lintas Jaringan Nusantara|
+|17|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
