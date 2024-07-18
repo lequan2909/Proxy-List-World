@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|9|36.67.208.62|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|67.43.236.20|20857|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|9139|Canada|Montreal|GloboTech Communications|
-|12|2.138.25.228|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|9139|Canada|Montreal|GloboTech Communications|
-|17|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
-|18|72.10.160.170|32077|Canada|Montreal|GloboTech Communications|
-|19|222.243.174.132|81|China|Xiangtan|Chinanet|
-|20|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|1|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|10|72.10.160.170|14927|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|22283|Canada|Montreal|GloboTech Communications|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|190.181.59.212|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
+|16|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|17|84.54.191.22|8080|Bulgaria|Nesebar|ComNet Bulgaria Ltd.|
+|18|88.255.65.113|8080|Turkey|Reyhanlı|Turk Telekomunikasyon Anonim Sirketi|
+|19|72.10.160.90|30389|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
