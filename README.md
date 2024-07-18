@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|3|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|9|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
 |12|103.145.160.5|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 |16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|20|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
 
 
 
