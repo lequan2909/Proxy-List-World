@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
-|8|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|18|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|19|20.219.144.149|3128|India|Pune|Microsoft Corporation|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|185.221.219.19|3128|Netherlands|Amsterdam|GTHost|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|14|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|119.2.43.143|8080|Indonesia|Jakarta Pusat|PT. Laxo Global Akses|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
