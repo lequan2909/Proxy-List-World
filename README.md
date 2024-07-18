@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.53.78.26|8080|Indonesia|Surabaya|INTI|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|13|67.43.228.253|4481|Canada|Montreal|GloboTech Communications|
-|14|58.80.134.185|1080|Japan|Suita|ARTERIA Networks Corporation|
-|15|109.108.107.122|8080|Czechia|Lanškroun|Nordic Telecom Regional s.r.o.|
-|16|67.43.227.226|1143|Canada|Montreal|GloboTech Communications|
-|17|203.194.108.23|3129|India|Mumbai|In2cable|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|103.247.23.202|8080|Indonesia|Cileungsir|PT wifian Solution|
-|20|67.43.227.227|1221|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|58.80.134.185|1080|Japan|Suita|ARTERIA Networks Corporation|
+|5|103.113.79.123|80|Indonesia|Guntur|Indonesia Network Information Center|
+|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|9|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|212.112.120.252|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|177.107.16.252|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|109.236.44.178|8080|Albania|Tirana|Abissnet sh.a.|
+|17|124.158.167.155|2909|Indonesia|Jakarta|ICON+|
+|18|187.85.82.222|55676|Brazil|Barbacena|Vero S.A|
+|19|103.164.116.172|8080|Indonesia|Jakarta|SOLUSINET|
+|20|67.43.227.227|12457|Canada|Montreal|GloboTech Communications|
 
 
 
