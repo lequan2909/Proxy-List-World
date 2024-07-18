@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|16|72.10.160.174|22749|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.227|26063|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|30613|Canada|Montreal|GloboTech Communications|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|72.10.164.178|13275|Canada|Montreal|GloboTech Communications|
+|6|67.43.228.253|3249|Canada|Montreal|GloboTech Communications|
+|7|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|8|72.10.164.178|13275|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.228|16593|Canada|Montreal|GloboTech Communications|
+|10|67.43.228.253|3249|Canada|Montreal|GloboTech Communications|
+|11|38.183.145.126|9090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|12|72.10.160.90|18355|Canada|Montreal|GloboTech Communications|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|67.43.236.22|15991|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|13275|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|4365|Canada|Montreal|GloboTech Communications|
+|17|182.253.40.149|8080|Indonesia|Samaan|BIZNET|
+|18|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|19|72.10.164.178|13275|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|19987|Canada|Montreal|GloboTech Communications|
 
 
 
