@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|4|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
 |6|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|7|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|13|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|45.70.201.253|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|128.92.239.190|8080|United States|Bell Gardens|Spectrum|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
 |17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|67.43.228.253|13739|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|20|181.58.31.201|8080|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
