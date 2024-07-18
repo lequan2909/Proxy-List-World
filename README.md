@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|72.10.164.178|30549|Canada|Montreal|GloboTech Communications|
-|6|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|7|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|190.104.129.38|22800|Paraguay|Asunción|Núcleo S.A.|
-|9|72.10.164.178|30549|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|19509|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|21875|Canada|Montreal|GloboTech Communications|
-|12|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|13|67.43.236.20|5587|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|13085|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|13023|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|2841|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|103.76.151.90|8090|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|10|72.10.164.178|30549|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|5587|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|19509|Canada|Montreal|GloboTech Communications|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|15|190.181.59.212|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
+|16|67.43.228.253|27149|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|1841|Canada|Montreal|GloboTech Communications|
 |18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|72.10.164.178|30549|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|30549|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|23815|Canada|Montreal|GloboTech Communications|
 
 
 
