@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|85.172.15.98|8083|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|49.248.13.186|4153|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|49.151.23.182|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|19|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
 
 
 
