@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|7|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|6|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|7|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|9|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|13.91.243.29|3128|United States|San Francisco|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|19|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
-|20|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
