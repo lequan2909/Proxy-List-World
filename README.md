@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|187.157.243.254|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
 |9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.236.20|28393|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|31393|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.172|22003|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.252|5125|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.91|18031|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23471|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|23471|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|16889|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|1129|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23471|Canada|Montreal|GloboTech Communications|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|72.10.160.93|20347|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.164.178|6133|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|6133|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|6133|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|14031|Canada|Montreal|GloboTech Communications|
 
 
 
