@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|72.10.160.91|2425|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|72.10.164.178|9725|Canada|Montreal|GloboTech Communications|
-|12|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|72.10.160.91|2425|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|26061|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|9725|Canada|Montreal|GloboTech Communications|
 |15|72.10.164.178|9725|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.90|22379|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|27749|Canada|Montreal|GloboTech Communications|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|67.43.236.20|32833|Canada|Montreal|GloboTech Communications|
+|16|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.227|1071|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|20979|Canada|Montreal|GloboTech Communications|
 
 
 
