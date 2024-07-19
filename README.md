@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|118.97.30.42|8099|Indonesia|Semarang|Telekomunikasi Indonesia|
-|4|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|7|103.26.110.202|84|India|Mayiladuthurai|Niss Networks|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|72.10.164.178|19723|Canada|Montreal|GloboTech Communications|
 |9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.52.36.49|32650|India|Hyderabad|VAINAVIINDUSTRIESLTD|
-|11|72.10.164.178|28417|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|28417|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|24779|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|28417|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|25587|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|28417|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|1063|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28417|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.42|9443|United States|Huntersville|MCNC|
+|11|72.10.164.178|19723|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|19723|Canada|Montreal|GloboTech Communications|
+|13|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|142.147.114.50|8080|United States|Weatherford|Nextlink Broadband|
+|16|67.43.228.253|33161|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|19723|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|170.238.104.213|8080|Brazil|São Fidélis|Ubbinet Provedor de Servicos de Internet Ltda ME|
+|20|67.43.236.20|11243|Canada|Montreal|GloboTech Communications|
 
 
 
