@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|13|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|14|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|15|103.124.197.229|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|103.109.125.155|4444|Indonesia|Medan|PT. PANCA DUTA UTAMA|
-|18|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.18.77.36|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|45.4.202.73|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
