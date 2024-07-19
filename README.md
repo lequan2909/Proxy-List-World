@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|5|202.69.38.163|8080|Pakistan|Lahore|Advertiese Flag|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|5.78.118.7|10000|United States|Portland|Hetzner Online GmbH|
-|8|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
-|9|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|67.43.236.20|16443|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8205|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|22037|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.164.178|8205|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|29277|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|16443|Canada|Montreal|GloboTech Communications|
+|2|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|4|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|5|103.87.169.194|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|202.69.38.163|8080|Pakistan|Lahore|Advertiese Flag|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|72.10.164.178|7049|Canada|Montreal|GloboTech Communications|
+|20|103.179.246.30|8080|Pakistan|Multan|Orbit Networks Private Limited|
 
 
 
