@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|187.157.243.254|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|8|103.167.170.210|7777|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|89.191.239.138|8989|Russia|Moscow|PJSC Rostelecom|
-|11|67.43.228.253|8827|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|1435|Canada|Montreal|GloboTech Communications|
-|13|20.190.104.113|80|Australia|Melbourne|Microsoft Corporation|
-|14|67.43.228.253|8827|Canada|Montreal|GloboTech Communications|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
-|18|67.43.236.18|22439|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17297|Canada|Montreal|GloboTech Communications|
-|20|212.109.195.161|31280|Russia|Khimki|JSC IOT|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|67.43.227.228|1435|Canada|Montreal|GloboTech Communications|
+|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
+|12|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
+|13|185.105.16.241|8080|Spain|Gata de Gorgos|Carrier Enabler announced IPs|
+|14|67.43.236.18|22439|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.90|27773|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.19|19105|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|67.43.228.253|24715|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|27289|Canada|Montreal|GloboTech Communications|
 
 
 
