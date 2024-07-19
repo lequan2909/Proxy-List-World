@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.90|21985|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|21985|Canada|Montreal|GloboTech Communications|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|7|5.9.112.247|3128|Germany|Mainz|Hetzner Online GmbH|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|72.10.160.90|17585|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.88.238.225|83|India|Hyderabad|Mana Communications|
+|13|72.10.160.90|17585|Canada|Montreal|GloboTech Communications|
+|14|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|15|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|180.94.83.122|8080|Afghanistan|Kabul|AFTEL in Kabul|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|67.43.236.22|28285|Canada|Montreal|GloboTech Communications|
 
 
 
