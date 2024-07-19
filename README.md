@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|4|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|14.225.3.194|3128|Vietnam|Bắc Ninh|Vietnam Posts and Telecommunications Group|
-|13|72.10.160.90|2443|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|67.43.236.20|29529|Canada|Montreal|GloboTech Communications|
-|17|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|18|67.43.227.227|8197|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|2443|Canada|Montreal|GloboTech Communications|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|7|185.241.176.227|3128|Russia|St Petersburg|"OBIT" Ltd.|
+|8|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|9|223.206.60.251|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|94.198.221.4|3128|Kazakhstan|Almaty|TimeWeb Ltd.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|101.255.118.10|3127|Indonesia|Jakarta|PT Remala Abadi|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|72.10.160.90|21561|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|20|72.10.160.93|14855|Canada|Montreal|GloboTech Communications|
 
 
 
