@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|118.99.102.64|8080|Indonesia|Jakarta|Biznet Metronet|
-|3|103.87.169.194|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|6|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|7|202.69.38.163|8080|Pakistan|Lahore|Advertiese Flag|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|7|103.87.169.194|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|202.69.38.163|8080|Pakistan|Lahore|Advertiese Flag|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|72.10.160.90|30157|Canada|Montreal|GloboTech Communications|
-|13|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|14|72.10.164.178|14025|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|14025|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|72.10.160.90|30157|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|72.10.160.174|26243|Canada|Montreal|GloboTech Communications|
-|19|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|18|72.10.160.90|30157|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|30157|Canada|Montreal|GloboTech Communications|
 |20|67.43.227.227|18273|Canada|Montreal|GloboTech Communications|
 
 
