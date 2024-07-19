@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|77.48.22.49|33347|Czechia|Klopotovice|Vodafone Czech Republic|
-|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|20|189.203.181.34|8080|Mexico|Cocoyoc|Total Play Telecomunicaciones SA De CV|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|101.255.40.98|8080|Indonesia|South Tangerang|PT Remala Abadi|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|18|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 
 
 
