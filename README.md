@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
-|13|180.191.255.147|8081|Philippines|General Trias|Globe Telecom|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|18|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
-|19|67.43.227.228|4139|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|32271|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.234.28.218|8181|Indonesia|Blora|PT Agung Barokah Network|
+|12|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|13|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|14|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|15|67.43.228.251|32271|Canada|Montreal|GloboTech Communications|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
