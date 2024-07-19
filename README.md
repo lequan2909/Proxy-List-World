@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|152.26.229.86|9443|United States|Huntersville|MCNC|
-|5|185.221.219.19|3128|Netherlands|Amsterdam|GTHost|
-|6|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|7|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|67.43.228.253|17407|Canada|Montreal|GloboTech Communications|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|72.10.164.178|19495|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|10655|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|32091|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|26129|Canada|Montreal|GloboTech Communications|
-|15|185.221.219.63|3128|Netherlands|Amsterdam|GTHost|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|72.10.164.178|19495|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|32091|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|7129|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|17407|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|152.26.229.86|9443|United States|Huntersville|MCNC|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|67.43.228.253|3213|Canada|Montreal|GloboTech Communications|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|72.10.160.171|26129|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|3361|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|19495|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.92|6205|Canada|Montreal|GloboTech Communications|
+|15|39.129.73.6|443|China|Yuxi|China Mobile|
+|16|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|67.43.236.20|7129|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 
 
 
