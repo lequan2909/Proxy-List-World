@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
-|9|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|223.25.110.227|8080|Indonesia|Malang|SinergiNet|
-|14|72.10.160.91|8257|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|10245|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|5141|Canada|Montreal|GloboTech Communications|
-|17|116.202.165.119|3121|Germany|Augsburg|Hetzner Online GmbH|
-|18|67.43.228.254|17287|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|19885|Canada|Montreal|GloboTech Communications|
-|20|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|94.75.76.3|8080|Poland|Warsaw|ASTER Sp. z o.o|
+|10|186.148.195.166|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
+|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|190.202.111.202|8080|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|16|138.118.106.121|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|17|72.10.160.90|19885|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|10245|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|72.10.164.178|5141|Canada|Montreal|GloboTech Communications|
 
 
 
