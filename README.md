@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|182.253.40.149|8080|Indonesia|Samaan|BIZNET|
-|6|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|7|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.160.174|26709|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|72.10.164.178|9649|Canada|Montreal|GloboTech Communications|
+|15|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|16|39.129.73.6|443|China|Yuxi|China Mobile|
+|17|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|67.43.227.226|12191|Canada|Montreal|GloboTech Communications|
+|20|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
 
 
 
