@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|6|103.167.170.210|7777|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|7|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
-|17|72.10.164.178|17293|Canada|Montreal|GloboTech Communications|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|20|188.165.52.148|3128|France|Roubaix|OVH SAS|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|72.10.164.178|10031|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
 
 
 
