@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|10|67.43.236.20|3849|Canada|Montreal|GloboTech Communications|
-|11|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
-|12|72.10.164.178|17143|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|17143|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|3317|Canada|Montreal|GloboTech Communications|
-|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|19|67.43.236.20|3849|Canada|Montreal|GloboTech Communications|
-|20|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|5|36.67.208.59|32650|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|201.77.108.72|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
+|10|67.43.228.252|19461|Canada|Montreal|GloboTech Communications|
+|11|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
+|15|72.10.164.178|17143|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|201.77.108.72|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|18|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
 
 
 
