@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|185.241.176.227|3128|Russia|St Petersburg|"OBIT" Ltd.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|223.206.60.251|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |12|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|67.43.228.253|14781|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|18087|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|39.129.73.6|443|China|Yuxi|China Mobile|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|39.129.73.6|443|China|Yuxi|China Mobile|
+|18|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
 |19|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|20|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|20|72.10.160.90|26851|Canada|Montreal|GloboTech Communications|
 
 
 
