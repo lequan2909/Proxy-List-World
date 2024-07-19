@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.177.10.139|8080|Indonesia|Kediri|PT Nalendra Gigantara Media|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.80.88.74|443|Indonesia|Gorontalo|PT Jala Lintas Media|
-|13|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|72.10.160.90|24177|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|20221|Canada|Montreal|GloboTech Communications|
-|17|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|72.10.160.90|24177|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|20317|Canada|Montreal|GloboTech Communications|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|6|103.41.33.77|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|12|72.10.160.90|22459|Canada|Montreal|GloboTech Communications|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|67.43.227.230|33163|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|202.12.80.7|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|20|72.10.160.90|22459|Canada|Montreal|GloboTech Communications|
 
 
 
