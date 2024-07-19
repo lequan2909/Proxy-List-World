@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|13|72.10.160.174|21611|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|17|72.10.164.178|11393|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|24981|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.172|13945|Canada|Montreal|GloboTech Communications|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|10|72.10.160.174|7543|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|7139|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.227.228|24981|Canada|Montreal|GloboTech Communications|
+|14|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.236.20|5863|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|181.58.31.201|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|67.43.227.227|7457|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|7139|Canada|Montreal|GloboTech Communications|
 
 
 
