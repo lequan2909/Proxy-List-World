@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|109.123.80.30|9480|Germany|Frankfurt am Main|UK2.NET|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|202.69.38.163|8080|Pakistan|Lahore|Advertiese Flag|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|41.33.203.115|1982|Egypt|Cairo|TE Data|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.56.160.78|2403|Vietnam|Ho Chi Minh City|INETSOFT|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|2087|Canada|Montreal|GloboTech Communications|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|67.43.236.20|18151|Canada|Montreal|GloboTech Communications|
-|19|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|27.112.70.59|1111|Indonesia|Jakarta|GRAHANET|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
