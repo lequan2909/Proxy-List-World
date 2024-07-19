@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|12|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.124.197.229|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|20|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
 
 
 
