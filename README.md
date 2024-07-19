@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|152.26.229.42|9443|United States|Huntersville|MCNC|
-|8|67.43.228.253|16855|Canada|Montreal|GloboTech Communications|
-|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|72.10.160.90|3563|Canada|Montreal|GloboTech Communications|
-|11|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
-|12|103.122.0.91|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|13|67.43.236.20|17985|Canada|Montreal|GloboTech Communications|
-|14|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|15|67.43.227.227|17979|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.90|3563|Canada|Montreal|GloboTech Communications|
-|18|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
-|19|72.10.160.172|22371|Canada|Montreal|GloboTech Communications|
-|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|188.132.222.3|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|195.8.52.207|8080|Poland|Ustrzyki Dolne|WIDE-NET II Sp. z o.o.|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|103.122.0.91|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
