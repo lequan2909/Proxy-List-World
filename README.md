@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|11|27.121.82.54|8090|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|4211|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|67.43.227.228|10115|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|72.10.164.178|5175|Canada|Montreal|GloboTech Communications|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|67.43.227.228|10115|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.164.178|5175|Canada|Montreal|GloboTech Communications|
+|16|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|72.10.164.178|5175|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|23163|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|72.10.160.170|3375|Canada|Montreal|GloboTech Communications|
 
 
 
