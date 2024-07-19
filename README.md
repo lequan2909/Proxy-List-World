@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|67.43.228.254|9929|Canada|Montreal|GloboTech Communications|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|67.43.227.227|32195|Canada|Montreal|GloboTech Communications|
+|9|138.59.151.162|8080|Brazil|Porto Feliz|Wireless Comm Services LTDA|
 |10|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|14|67.43.228.253|22815|Canada|Montreal|GloboTech Communications|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|67.43.227.227|32195|Canada|Montreal|GloboTech Communications|
-|17|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
-|18|72.10.160.90|23771|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|32195|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|32195|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|72.10.160.90|17585|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|22815|Canada|Montreal|GloboTech Communications|
+|18|181.58.31.201|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|67.43.227.227|16527|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|16527|Canada|Montreal|GloboTech Communications|
 
 
 
