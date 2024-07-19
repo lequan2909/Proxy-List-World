@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|72.10.164.178|3227|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|3227|Canada|Montreal|GloboTech Communications|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|72.10.160.90|13891|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|9081|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|3227|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|21505|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|9081|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|3227|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.230|33207|Canada|Montreal|GloboTech Communications|
-|16|190.144.238.66|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|67.43.227.227|9081|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|165.16.6.153|1981|Libya|Benghazi|Aljeel Aljadeed Technology|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|8|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|9|72.10.164.178|1315|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|72.10.160.170|21505|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|72.10.160.170|21505|Canada|Montreal|GloboTech Communications|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
+|19|186.148.175.118|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
+|20|72.10.164.178|1315|Canada|Montreal|GloboTech Communications|
 
 
 
