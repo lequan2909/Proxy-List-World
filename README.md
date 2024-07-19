@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
-|13|192.162.234.223|8080|Ukraine|Khmilnyk|PP "Vinasterisk"|
-|14|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|190.94.212.222|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|103.148.39.38|83|India|Bengaluru|Broadway Communication Pvt Ltd|
+|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
