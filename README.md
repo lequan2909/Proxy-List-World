@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |2|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|5|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|6|72.10.160.170|9023|Canada|Montreal|GloboTech Communications|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|67.43.227.228|27485|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|9023|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|5809|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|5809|Canada|Montreal|GloboTech Communications|
-|14|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
-|15|103.26.110.202|84|India|Mayiladuthurai|Niss Networks|
-|16|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|67.43.227.228|27485|Canada|Montreal|GloboTech Communications|
-|19|116.202.165.119|3121|Germany|Augsburg|Hetzner Online GmbH|
-|20|72.10.164.178|5809|Canada|Montreal|GloboTech Communications|
+|3|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|7|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|12|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|13|116.202.165.119|3121|Germany|Augsburg|Hetzner Online GmbH|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.227|25221|Canada|Montreal|GloboTech Communications|
+|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
