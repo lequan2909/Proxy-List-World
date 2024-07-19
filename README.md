@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|4|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|5|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|6|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|164.92.207.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
