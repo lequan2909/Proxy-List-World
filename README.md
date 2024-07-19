@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|3|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|6|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.228|13667|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|26363|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|67.43.228.250|14939|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|67.43.227.227|14739|Canada|Montreal|GloboTech Communications|
-|19|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|20|72.10.160.90|1201|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.229.42|9443|United States|Huntersville|MCNC|
+|11|67.43.227.228|13667|Canada|Montreal|GloboTech Communications|
+|12|185.105.16.241|8080|Spain|Gata de Gorgos|Carrier Enabler announced IPs|
+|13|72.10.160.170|11449|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|23.134.91.73|3128|France|Paris|GTHost|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.160.90|1415|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|31721|Canada|Montreal|GloboTech Communications|
+|19|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
