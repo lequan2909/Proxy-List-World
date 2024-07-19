@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4846** proxies at the latest update. Usable proxies are below.
+> Scraper found **4931** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|191|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|192|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|297|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2820|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|6|103.41.33.77|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|12|72.10.160.90|22459|Canada|Montreal|GloboTech Communications|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|67.43.227.230|33163|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|202.12.80.7|82|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|20|72.10.160.90|22459|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|14.225.3.194|3128|Vietnam|Bắc Ninh|Vietnam Posts and Telecommunications Group|
+|13|72.10.160.90|2443|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|67.43.236.20|29529|Canada|Montreal|GloboTech Communications|
+|17|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|18|67.43.227.227|8197|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|2443|Canada|Montreal|GloboTech Communications|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
