@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|67.43.228.254|8943|Canada|Montreal|GloboTech Communications|
-|8|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.227.228|25769|Canada|Montreal|GloboTech Communications|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|64.176.81.67|8083|Singapore|Singapore|The Constant Company|
-|13|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|14|59.124.9.67|3128|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|15|72.10.160.170|8451|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|25769|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26399|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|2873|Canada|Montreal|GloboTech Communications|
-|19|182.253.40.149|8080|Indonesia|Samaan|BIZNET|
-|20|72.10.160.90|20083|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|67.43.227.228|31921|Canada|Montreal|GloboTech Communications|
+|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|72.10.160.90|11217|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|8497|Canada|Montreal|GloboTech Communications|
+|12|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
+|13|72.10.160.170|24885|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|15551|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.254|13291|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|11217|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|5507|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|5507|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|11217|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|24885|Canada|Montreal|GloboTech Communications|
 
 
 
