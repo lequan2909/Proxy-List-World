@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|101.255.165.218|8080|Indonesia|Bekasi|PT Remala Abadi|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|5.9.112.247|3128|Germany|Mainz|Hetzner Online GmbH|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|185.105.16.241|8080|Spain|Gata de Gorgos|Carrier Enabler announced IPs|
-|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|72.10.164.178|21995|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|21995|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21995|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|31311|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|21253|Canada|Montreal|GloboTech Communications|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|72.10.164.178|10495|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|10495|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|10495|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|13497|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|10495|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.92|7611|Canada|Montreal|GloboTech Communications|
+|16|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
+|17|67.43.227.226|21253|Canada|Montreal|GloboTech Communications|
+|18|24.204.29.115|8080|United States|Longview|Network IP|
+|19|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
+|20|67.43.228.251|30983|Canada|Montreal|GloboTech Communications|
 
 
 
