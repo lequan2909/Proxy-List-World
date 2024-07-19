@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|149.86.146.44|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|9|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.52.36.49|32650|India|Hyderabad|VAINAVIINDUSTRIESLTD|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.157.79.83|1111|Indonesia|Jakarta|EASTMEDIA|
-|16|67.43.228.252|24271|Canada|Montreal|GloboTech Communications|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|72.10.164.178|7725|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|30425|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|12999|Canada|Montreal|GloboTech Communications|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|38.51.60.131|999|Dominican Republic|Concepción de la Vega|Central Solutions Technology S.R.L.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|5.9.112.247|3128|Germany|Mainz|Hetzner Online GmbH|
+|13|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|14|116.202.165.119|3121|Germany|Augsburg|Hetzner Online GmbH|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
 
 
 
