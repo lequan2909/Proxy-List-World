@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|7|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|19|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|20|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|201.77.108.72|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
