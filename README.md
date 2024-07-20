@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|6|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|23.134.91.191|3128|France|Paris|GTHost|
-|11|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|107.172.209.246|9090|United States|Dallas|ColoCrossing|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
