@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|10|103.68.214.97|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|66.27.58.70|8080|United States|Compton|Spectrum|
-|16|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.236.20|4685|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|6|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|7|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
