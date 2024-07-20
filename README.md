@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
-|20|72.10.164.178|2323|Canada|Montreal|GloboTech Communications|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|3|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|4|103.83.97.46|7777|Indonesia|Yogyakarta|PT. Foxline Mediadata Indonusa|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|16|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|17|207.138.39.145|999|Venezuela|Caracas|Galanet Solution C.A.|
+|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
