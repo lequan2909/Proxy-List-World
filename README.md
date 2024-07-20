@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|103.108.156.38|8080|Indonesia|Bekasi|Pop Net Indonesia|
-|14|180.148.4.74|8080|Vietnam|Quận Một|VNTT|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|110.77.246.228|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|201.77.108.72|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|72.10.164.178|32889|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
