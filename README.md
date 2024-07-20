@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|23.134.91.168|3128|France|Paris|GTHost|
-|6|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|7|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|10|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|11|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
-|13|45.227.195.121|8082|Brazil|São Lourenço do Oeste|Mhnet Telecom|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|168.138.14.205|3128|Australia|Melbourne|Oracle Corporation|
-|16|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|17|72.10.164.178|26119|Canada|Montreal|GloboTech Communications|
-|18|188.132.221.188|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|189.203.181.34|8080|Mexico|Cocoyoc|Total Play Telecomunicaciones SA De CV|
-|20|190.181.59.212|999|Bolivia|Santa Cruz|AXS Bolivia S. A.|
+|2|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|72.10.164.178|24215|Canada|Montreal|GloboTech Communications|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
