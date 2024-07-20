@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.215.207.34|80|India|Kondagaon|Foxtel Telecommunications Pvt. Ltd.|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|64.6.8.5|8080|United States|Stronghurst|MTC Communications|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|200.59.10.42|999|Argentina|Belén de Escobar|COTELCAM|
-|18|103.157.116.163|8090|Indonesia|Cimahi|PT Cloud Teknologi Nusantara|
-|19|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
-|20|200.24.157.121|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|10|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|119.47.90.38|1111|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
 
 
 
