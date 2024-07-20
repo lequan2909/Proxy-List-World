@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|186.148.175.118|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|177.184.199.36|80|Brazil|Suzano|Wireless Comm Services LTDA|
-|13|72.10.160.90|15095|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|67.43.236.20|26875|Canada|Montreal|GloboTech Communications|
-|16|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|17|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|18|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|19|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|36.72.246.233|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|186.208.112.141|8080|Brazil|Rio de Janeiro|Voipglobe Servicos De COM Multimidia VIA Internet|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|24.172.82.94|53281|United States|Mt Pleasant|Spectrum|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|67.43.236.20|30281|Canada|Montreal|GloboTech Communications|
+|14|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|109.70.189.30|38880|Russia|Novyy Khushet|JSC Elektrosvyaz|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|72.10.160.90|20413|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
