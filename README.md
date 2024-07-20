@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|6|103.156.17.137|8181|Indonesia|Indramayu|RSTNET|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|67.43.227.226|4555|Canada|Montreal|GloboTech Communications|
-|15|179.108.209.63|8080|Brazil|Santa Cruz de Minas|Conecta Ltda.|
-|16|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|36.72.246.233|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|88.212.46.231|23500|Slovakia|Košice|Antik Network|
+|14|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
 |17|67.43.236.20|1865|Canada|Montreal|GloboTech Communications|
-|18|45.181.189.213|999|Colombia|Tame|Kalu De Colombia SAS|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|88.212.46.231|23500|Slovakia|Košice|Antik Network|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|20|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
 
 
 
