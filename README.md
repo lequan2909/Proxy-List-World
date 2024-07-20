@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5100** proxies at the latest update. Usable proxies are below.
+> Scraper found **5198** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|222|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|536|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|634|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|254|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3130|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|72.10.160.172|15633|Canada|Montreal|GloboTech Communications|
-|20|88.212.46.231|23500|Slovakia|Košice|Antik Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|11|72.10.160.92|24751|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|9863|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|13967|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|67.43.236.18|17049|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|4301|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|29339|Canada|Montreal|GloboTech Communications|
+|18|181.58.31.201|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|72.10.160.170|4535|Canada|Montreal|GloboTech Communications|
+|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 
 
 
