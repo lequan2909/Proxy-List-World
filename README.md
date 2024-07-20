@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|72.10.160.173|8179|Canada|Montreal|GloboTech Communications|
-|12|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.171|22335|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|67.43.236.20|15633|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|29443|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|15633|Canada|Montreal|GloboTech Communications|
+|3|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|168.138.14.205|3128|Australia|Melbourne|Oracle Corporation|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|19|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
