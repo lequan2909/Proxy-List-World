@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
 |4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |8|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|16|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|202.169.225.130|3128|Indonesia|Yogyakarta|Jogja Medianet|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|14|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
