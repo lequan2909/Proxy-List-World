@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|36.72.246.233|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.160.93|25775|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|10539|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|72.10.160.90|20487|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1963|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1963|Canada|Montreal|GloboTech Communications|
-|18|85.113.55.123|8080|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
-|19|182.253.40.149|8080|Indonesia|Samaan|BIZNET|
-|20|72.10.160.90|20487|Canada|Montreal|GloboTech Communications|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|72.10.160.90|20487|Canada|Montreal|GloboTech Communications|
+|17|191.102.248.9|8085|Argentina|Rosario|IP·RED|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|70.114.40.153|808|United States|San Antonio|Charter Communications|
+|20|103.130.82.46|8080|Indonesia|Bengkalis|PT Central Digital Network|
 
 
 
