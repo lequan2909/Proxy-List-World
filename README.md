@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|9|72.10.164.178|16409|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
-|15|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
-|16|72.10.160.172|2297|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|16409|Canada|Montreal|GloboTech Communications|
-|18|168.138.14.205|3128|Australia|Melbourne|Oracle Corporation|
-|19|67.43.227.227|3139|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|5741|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|6|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|8|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|14|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|17|177.130.104.106|33333|Brazil|Presidente Prudente|FIT Telecom Eireli|
+|18|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|19|168.138.14.205|3128|Australia|Melbourne|Oracle Corporation|
+|20|177.234.193.184|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
