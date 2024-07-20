@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.87.169.192|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|12|172.247.244.36|7777|United States|Los Angeles|Cnservers LLC|
-|13|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|1|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.18.232.18|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
+|12|103.189.116.109|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|103.87.169.192|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|17|107.172.209.246|9090|United States|Dallas|ColoCrossing|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
 
 
 
