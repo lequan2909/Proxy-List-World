@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|14|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|9|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 |15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|112.198.130.51|8082|Philippines|Nasugbu|Globe Telecom|
-|17|177.75.1.33|8080|Brazil|Planaltina|Networld Provedor e Servicos de Internet Ltda|
-|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|189.51.123.7|80|Brazil|Medina|Rapeedo Telecom|
+|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.46.186.110|8085|Indonesia|Jakarta|PT Air Lintas Komunikasi|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
 
 
 
