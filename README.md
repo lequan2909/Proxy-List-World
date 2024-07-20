@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|15|38.56.70.75|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
