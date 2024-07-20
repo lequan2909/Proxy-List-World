@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|3|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
 |4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|13|116.68.170.115|8019|Indonesia|Jakarta||
+|14|110.137.136.245|80|Indonesia|Palembang|PT. TELKOM INDONESIA|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
