@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|4|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.18.232.18|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
-|14|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|103.189.116.109|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|19|103.87.169.192|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|20|184.82.130.44|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|7|187.157.243.254|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|113.160.247.27|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|18|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
