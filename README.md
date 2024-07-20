@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|58.137.174.100|8080|Thailand|Huai Khwang|AGC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|16|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
