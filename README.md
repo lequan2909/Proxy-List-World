@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5234** proxies at the latest update. Usable proxies are below.
+> Scraper found **5141** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|191|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|634|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|192|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|300|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3151|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
 |7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|107.172.209.246|9090|United States|Dallas|ColoCrossing|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|165.225.113.215|10801|Singapore|Singapore|ZSCALER, INC.|
-|14|38.188.248.17|8080|Indonesia|Madiun|PT. Menaksopal Link Nusantara|
-|15|72.10.160.90|31099|Canada|Montreal|GloboTech Communications|
-|16|104.129.194.45|8800|United States|Reston|ZSCALER, INC.|
-|17|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
-|18|72.10.164.178|16051|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|18833|Canada|Montreal|GloboTech Communications|
-|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|11|107.172.209.246|9090|United States|Dallas|ColoCrossing|
+|12|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|104.129.194.104|9400|United States|Reston|ZSCALER, INC.|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|19|104.129.194.45|8800|United States|Reston|ZSCALER, INC.|
+|20|165.225.72.154|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
