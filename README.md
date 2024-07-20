@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|154.73.28.253|8080|Libya|Tripoli|Rawafed|
-|12|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|154.73.28.253|8080|Libya|Tripoli|Rawafed|
 |15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|72.10.160.173|25197|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|67.43.227.226|19469|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|8759|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|18999|Canada|Montreal|GloboTech Communications|
+|16|168.138.14.205|3128|Australia|Melbourne|Oracle Corporation|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|72.10.160.173|25197|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|12809|Canada|Montreal|GloboTech Communications|
 
 
 
