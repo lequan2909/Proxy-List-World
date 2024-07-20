@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|43.130.61.60|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|5|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|193.111.124.25|8080|Indonesia|Garut|CV Atha Media Prima|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|16|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
+|14|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
