@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.31.130.117|8080|United States|Watertown|Comcast Cable Communications|
-|2|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|3|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|168.138.14.205|3128|Australia|Melbourne|Oracle Corporation|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|38.7.131.1|999|Dominican Republic|Esperanza|SERVICIOS NUÑEZ EIRL|
 |9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|14|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|67.43.228.253|20009|Canada|Montreal|GloboTech Communications|
-|20|5.196.111.29|20477|France|Gravelines|OVH SAS|
+|10|72.10.164.178|19725|Canada|Montreal|GloboTech Communications|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|67.43.236.20|31315|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|15|88.212.46.231|23500|Slovakia|Košice|Antik Network|
+|16|72.10.160.90|10409|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|33237|Canada|Montreal|GloboTech Communications|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|168.138.14.205|3128|Australia|Melbourne|Oracle Corporation|
 
 
 
