@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|5|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|12|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|103.162.154.14|8888|Australia|Nikenbah|Serenitas Communities Holdings Pty Ltd|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|80.66.81.26|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|148.72.165.7|10527|United States|St Louis|GoDaddy.com|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|67.43.227.227|5253|Canada|Montreal|GloboTech Communications|
+|19|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
