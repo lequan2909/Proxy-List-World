@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|165.225.113.215|10801|Singapore|Singapore|ZSCALER, INC.|
-|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|104.129.194.104|8800|United States|Reston|ZSCALER, INC.|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|165.225.113.215|10801|Singapore|Singapore|ZSCALER, INC.|
+|6|191.102.107.238|999|Colombia|Chimichagua|TV AZTECA SUCURSAL COLOMBIA|
+|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|104.129.194.104|8800|United States|Reston|ZSCALER, INC.|
+|9|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|10|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
 |11|104.129.194.100|8800|United States|Reston|ZSCALER, INC.|
-|12|43.252.236.158|8080|Indonesia|Bogor|NET|
+|12|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 |13|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|16|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|17|14.225.3.194|3128|Vietnam|Bắc Ninh|Vietnam Posts and Telecommunications Group|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|20.84.219.130|3128|United States|Des Moines|Microsoft Corporation|
+|17|72.10.164.178|1113|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|72.10.160.93|1689|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|7667|Canada|Montreal|GloboTech Communications|
 
 
 
