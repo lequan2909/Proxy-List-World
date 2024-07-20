@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|8|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|9|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|10|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
+|13|103.48.71.46|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|103.169.254.37|8080|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
