@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|72.10.160.90|11677|Canada|Montreal|GloboTech Communications|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|67.43.227.229|11337|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|67.43.227.229|11337|Canada|Montreal|GloboTech Communications|
-|18|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|67.43.227.226|11457|Canada|Montreal|GloboTech Communications|
+|17|41.60.232.200|23500|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|18|72.10.164.178|19655|Canada|Montreal|GloboTech Communications|
+|19|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
