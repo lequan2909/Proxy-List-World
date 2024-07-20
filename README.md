@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5235** proxies at the latest update. Usable proxies are below.
+> Scraper found **5165** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|191|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|625|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|565|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|310|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|300|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3151|✅|
 
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
-|11|104.129.194.104|8800|United States|Reston|ZSCALER, INC.|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|14|104.129.194.45|8800|United States|Reston|ZSCALER, INC.|
-|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|72.10.164.178|10849|Canada|Montreal|GloboTech Communications|
-|18|104.129.194.43|8800|United States|Reston|ZSCALER, INC.|
-|19|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|165.225.113.215|10801|Singapore|Singapore|ZSCALER, INC.|
+|10|104.129.194.45|8800|United States|Reston|ZSCALER, INC.|
+|11|165.225.72.154|10801|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|12|72.10.160.172|32239|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|67.43.236.20|30675|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
+|17|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
+|18|14.225.3.194|3128|Vietnam|Bắc Ninh|Vietnam Posts and Telecommunications Group|
+|19|67.43.227.227|22143|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|24865|Canada|Montreal|GloboTech Communications|
 
 
 
