@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|17|91.185.55.143|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|18|103.48.68.90|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
