@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|72.10.160.91|8167|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|191.241.184.61|40033|Brazil|Nossa Senhora da Glória|NetGloria Telecom|
+|16|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|18|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 
 
 
