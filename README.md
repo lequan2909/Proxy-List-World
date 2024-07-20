@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|84.54.191.22|8080|Bulgaria|Nesebar|ComNet Bulgaria Ltd.|
-|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|72.10.160.90|5891|Canada|Montreal|GloboTech Communications|
-|16|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.160.90|5891|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|67.43.227.227|12741|Canada|Montreal|GloboTech Communications|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|105.112.135.165|8080|Nigeria|Lagos|Airtel Networks Limited|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|18|38.188.127.123|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|20.244.104.182|3128|India|Pune|Microsoft Corporation|
 
 
 
