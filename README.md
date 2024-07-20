@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5375** proxies at the latest update. Usable proxies are below.
+> Scraper found **5312** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|778|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|714|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|481|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2964|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|2|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|91.108.130.18|3128|Iran|Ahvaz|Rayaneh Gostar Farzanegan Ahvaz LTD|
+|10|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
 |11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|149.86.142.101|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|18|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.164.178|12547|Canada|Montreal|GloboTech Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.83.97.46|7777|Indonesia|Yogyakarta|PT. Foxline Mediadata Indonusa|
+|15|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.164.178|4175|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|5021|Canada|Montreal|GloboTech Communications|
 
 
 
