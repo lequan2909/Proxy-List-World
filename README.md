@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|36.94.27.73|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.42|9443|United States|Huntersville|MCNC|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.228.250|32331|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|67.43.228.253|15889|Canada|Montreal|GloboTech Communications|
-|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|103.161.130.153|3127|Indonesia|Langgen|PT Jaringan Internet Nusantara|
+|17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
 |19|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|20|72.10.160.91|18499|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
