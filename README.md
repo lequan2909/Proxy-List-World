@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|23.95.246.27|3129|United States|Dallas|HostPapa|
-|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|23.95.246.27|3129|United States|Dallas|HostPapa|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|23.95.246.27|3129|United States|Dallas|HostPapa|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|67.43.227.227|12217|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|7671|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|8731|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|195.158.3.198|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|72.10.164.178|25451|Canada|Montreal|GloboTech Communications|
+|15|109.164.38.189|2306|Czechia|České Budějovice|STARNET, s.r.o.|
+|16|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|17|67.43.227.227|12217|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|67.43.236.20|11031|Canada|Montreal|GloboTech Communications|
+|20|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
 
 
 
