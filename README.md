@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.111.207.138|32650|Indonesia|Jakarta|PT Cyberindo Aditama|
-|7|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|8|103.178.42.26|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|91.236.74.5|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
 
 
 
