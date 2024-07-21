@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|5|38.156.75.226|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|187.17.232.6|8089|Brazil|Valinhos|Lantec Comunicacao Multimidia Ltda|
-|8|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|9|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.227.228|9039|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10813|Canada|Montreal|GloboTech Communications|
-|17|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|18|72.10.160.90|8263|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|3549|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.22|4415|Canada|Montreal|GloboTech Communications|
+|7|189.3.69.230|8080|Brazil|Porto Alegre|Claro S.A.|
+|8|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|9|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|14|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|85.113.55.123|8080|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
+|17|67.43.227.228|13465|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 
 
 
