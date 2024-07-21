@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4963** proxies at the latest update. Usable proxies are below.
+> Scraper found **4981** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|25|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|559|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|578|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|291|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3130|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|67.43.227.227|21607|Canada|Montreal|GloboTech Communications|
 |5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.147.135.254|1080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
-|11|67.43.228.253|2685|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2063|Canada|Montreal|GloboTech Communications|
-|13|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|14|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|67.43.228.253|2685|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1503|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|67.43.228.253|2685|Canada|Montreal|GloboTech Communications|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|72.10.160.170|23737|Canada|Montreal|GloboTech Communications|
+|8|101.109.176.76|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|72.10.160.93|4247|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.226|21053|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.227.227|21607|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|2791|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|8599|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|21607|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2063|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|2063|Canada|Montreal|GloboTech Communications|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
