@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|103.56.149.58|8342|Indonesia|Surabaya|PT Beon Intermedia|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|181.78.64.172|999|Colombia|San Andrés de Sotavento|IFX Networks Argentina S.R.L|
-|18|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|4|103.56.149.58|8342|Indonesia|Surabaya|PT Beon Intermedia|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|7|18.118.31.131|80|United States|Dublin|Amazon.com, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|23.95.246.27|3129|United States|Dallas|HostPapa|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|18.118.31.131|80|United States|Dublin|Amazon.com, Inc.|
+|13|49.48.46.68|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|185.221.219.63|3128|Netherlands|Amsterdam|GTHost|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
