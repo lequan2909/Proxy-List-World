@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|185.208.101.216|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|67.43.236.20|1267|Canada|Montreal|GloboTech Communications|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|10|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|11|185.208.101.216|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|12|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|16|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|67.43.227.228|18223|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
