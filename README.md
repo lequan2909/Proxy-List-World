@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|15|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|3|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|7|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|72.10.160.170|21563|Canada|Montreal|GloboTech Communications|
+|13|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|67.43.228.253|27377|Canada|Montreal|GloboTech Communications|
+|18|103.151.223.209|8080|Indonesia|Bangkinang|CMEDIANET|
+|19|103.159.96.131|3125|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|20|20.244.104.182|3128|India|Pune|Microsoft Corporation|
 
 
 
