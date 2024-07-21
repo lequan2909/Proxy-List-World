@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|15|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|103.147.135.254|1080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|12|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|13|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|14|103.87.169.194|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|15|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
 |16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|67.43.227.228|31921|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|17|177.234.241.36|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|19|67.43.227.228|31921|Canada|Montreal|GloboTech Communications|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
