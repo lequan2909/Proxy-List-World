@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|23.95.246.27|3129|United States|Dallas|HostPapa|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|23.95.246.27|3129|United States|Dallas|HostPapa|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|23.95.246.27|3129|United States|Dallas|HostPapa|
+|6|5.161.210.232|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
 |9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
 |13|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|14|67.43.227.227|30539|Canada|Montreal|GloboTech Communications|
-|15|24.124.46.18|800|United States|Lawrence|Midcontinent Communications|
-|16|67.43.227.227|30539|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|19|72.10.164.178|11243|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|67.43.236.20|11189|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|11189|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|67.43.227.227|1373|Canada|Montreal|GloboTech Communications|
+|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|19|67.43.227.228|24667|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|30421|Canada|Montreal|GloboTech Communications|
 
 
 
