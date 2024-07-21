@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|23.95.246.27|3129|United States|Dallas|HostPapa|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|23.95.246.27|3129|United States|Dallas|HostPapa|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|67.43.228.253|21531|Canada|Montreal|GloboTech Communications|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|67.43.236.20|7241|Canada|Montreal|GloboTech Communications|
+|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 
 
 
