@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|67.43.236.19|11885|Canada|Montreal|GloboTech Communications|
-|10|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|11|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|72.10.164.178|19159|Canada|Montreal|GloboTech Communications|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|67.43.227.227|10283|Canada|Montreal|GloboTech Communications|
-|15|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|67.43.236.18|16177|Canada|Montreal|GloboTech Communications|
-|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|19|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|20|95.51.18.49|443|Poland|Wieluń|Orange Polska Spolka Akcyjna|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|17|67.43.236.19|15129|Canada|Montreal|GloboTech Communications|
+|18|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|19|67.43.228.253|13863|Canada|Montreal|GloboTech Communications|
+|20|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
 
 
 
