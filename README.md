@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|72.10.160.170|30543|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.226|13407|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|11191|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|24203|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|26207|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|24203|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|32379|Canada|Montreal|GloboTech Communications|
-|15|116.202.165.119|3121|Germany|Augsburg|Hetzner Online GmbH|
-|16|72.10.164.178|8591|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|11191|Canada|Montreal|GloboTech Communications|
-|18|210.73.75.166|80|China|Jinrongjie|NO.11 Xi San Huan Zhong Road, Beijing|
-|19|72.10.160.90|24203|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|8591|Canada|Montreal|GloboTech Communications|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|23.95.246.27|3129|United States|Dallas|HostPapa|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
+|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|72.10.160.90|11861|Canada|Montreal|GloboTech Communications|
+|17|119.47.90.38|1111|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|67.43.227.226|13407|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|11861|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|11743|Canada|Montreal|GloboTech Communications|
 
 
 
