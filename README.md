@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|18.118.31.131|80|United States|Dublin|Amazon.com, Inc.|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|11|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|181.78.64.172|999|Colombia|San Andrés de Sotavento|IFX Networks Argentina S.R.L|
-|20|67.43.236.20|3371|Canada|Montreal|GloboTech Communications|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.56.149.58|8342|Indonesia|Surabaya|PT Beon Intermedia|
+|11|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|12|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|23.134.91.53|3128|France|Paris|GTHost|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
