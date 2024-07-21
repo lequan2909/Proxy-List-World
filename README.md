@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|23.95.246.27|3129|United States|Dallas|HostPapa|
-|5|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|23.95.246.27|3129|United States|Dallas|HostPapa|
-|8|46.161.195.182|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|23.95.246.27|3129|United States|Dallas|HostPapa|
+|6|23.95.246.27|3129|United States|Dallas|HostPapa|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|23.95.246.27|3129|United States|Dallas|HostPapa|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
 |10|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|11|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|12|23.95.246.27|3129|United States|Dallas|HostPapa|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|67.43.236.21|27707|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.236.20|1565|Canada|Montreal|GloboTech Communications|
-|17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.228.253|14073|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|30143|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|25819|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|19153|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|67.43.236.20|1565|Canada|Montreal|GloboTech Communications|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|20.244.104.182|3128|India|Pune|Microsoft Corporation|
 
 
 
