@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|65.20.189.104|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|8|67.43.227.227|8003|Canada|Montreal|GloboTech Communications|
+|9|77.55.213.249|3128|Poland|Krakow|Nazwa.pl Sp.z.o.o.|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|12|103.169.254.9|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|13|72.10.164.178|29947|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|17041|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |16|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|67.43.227.227|8003|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|28957|Canada|Montreal|GloboTech Communications|
-|19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|20|72.10.160.90|32359|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|27881|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|29947|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|24169|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|6597|Canada|Montreal|GloboTech Communications|
 
 
 
