@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|189.198.224.1|80|Mexico|Guaymas|Mega Cable, S.A. de C.V.|
-|11|72.10.160.90|11351|Canada|Montreal|GloboTech Communications|
-|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
 |13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|15|72.10.160.170|22179|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|8053|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|22179|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|17211|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|11599|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|11351|Canada|Montreal|GloboTech Communications|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|202.179.91.97|58080|India|Mumbai|Ankhnet|
+|16|72.10.160.90|11351|Canada|Montreal|GloboTech Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|72.10.160.90|11351|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|13301|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
