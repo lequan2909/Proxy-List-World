@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|189.198.224.1|80|Mexico|Guaymas|Mega Cable, S.A. de C.V.|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|12|185.241.176.227|3128|Russia|St Petersburg|"OBIT" Ltd.|
+|9|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|20.235.159.154|80|India|Chennai|Microsoft Corporation|
 |13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|88.255.106.27|8080|Türkiye|Istanbul|TurkTelekom|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|181.78.82.213|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|20|67.43.236.20|9813|Canada|Montreal|GloboTech Communications|
+|16|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.87.169.194|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|20|189.203.181.34|8080|Mexico|Cocoyoc|Total Play Telecomunicaciones SA De CV|
 
 
 
