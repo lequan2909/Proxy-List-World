@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|7|67.43.236.20|23085|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.229|3093|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|11|67.43.228.250|3763|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|183.134.101.182|3128|China|Hangzhou|Chinanet|
-|14|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|67.43.227.228|13279|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|23085|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|2945|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.230|14105|Canada|Montreal|GloboTech Communications|
-|20|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|4|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|72.10.160.90|30795|Canada|Montreal|GloboTech Communications|
+|7|152.26.229.42|9443|United States|Huntersville|MCNC|
+|8|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
+|9|72.10.164.178|17197|Canada|Montreal|GloboTech Communications|
+|10|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|11|67.43.227.229|3093|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|7549|Canada|Montreal|GloboTech Communications|
+|13|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|16|67.43.236.20|7549|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|67.43.227.228|13279|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|8425|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|7549|Canada|Montreal|GloboTech Communications|
 
 
 
