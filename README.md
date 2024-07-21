@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|23.95.246.27|3129|United States|Dallas|HostPapa|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|171.6.74.186|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|67.43.236.22|8367|Canada|Montreal|GloboTech Communications|
-|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.228|6839|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26587|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|1417|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|23.95.246.27|3129|United States|Dallas|HostPapa|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.228|6839|Canada|Montreal|GloboTech Communications|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
