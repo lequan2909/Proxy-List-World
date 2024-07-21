@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|117.1.123.199|5102|Vietnam|Hanoi|Viettel Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|14|67.43.236.20|27945|Canada|Montreal|GloboTech Communications|
-|15|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|16|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|19|82.65.27.56|80|France|Paris|Proxad / Free SAS|
-|20|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|4|171.6.74.186|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|5|103.56.149.58|8342|Indonesia|Surabaya|PT Beon Intermedia|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|10|67.43.236.20|21787|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|2293|Canada|Montreal|GloboTech Communications|
+|12|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|13|72.10.164.178|3529|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|3529|Canada|Montreal|GloboTech Communications|
+|15|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|16|67.43.227.227|25107|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|19951|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
