@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
 |5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|16|202.137.8.150|8080|Indonesia|Bekasi|LINKNET|
-|17|67.43.228.253|15023|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13933|Canada|Montreal|GloboTech Communications|
-|19|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|72.10.160.171|30019|Canada|Montreal|GloboTech Communications|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|8|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
+|18|201.77.108.72|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|19|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
