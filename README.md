@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|67.43.227.227|2369|Canada|Montreal|GloboTech Communications|
-|5|67.43.236.20|32399|Canada|Montreal|GloboTech Communications|
-|6|152.26.229.42|9443|United States|Huntersville|MCNC|
-|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|72.10.160.173|3075|Canada|Montreal|GloboTech Communications|
-|9|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
-|10|67.43.228.253|29933|Canada|Montreal|GloboTech Communications|
-|11|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|72.10.160.170|4163|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|23145|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|29933|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|29933|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23145|Canada|Montreal|GloboTech Communications|
-|17|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|18|72.10.164.178|23145|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23145|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23145|Canada|Montreal|GloboTech Communications|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|152.26.229.42|9443|United States|Huntersville|MCNC|
+|6|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.173|17149|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|10807|Canada|Montreal|GloboTech Communications|
+|9|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|10|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.228.253|25807|Canada|Montreal|GloboTech Communications|
 
 
 
