@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|7|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|103.133.63.61|8080|Indonesia|Bandar Lampung|TLINK|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|103.13.204.24|8082|Indonesia|Pati|PT JARINGANKU SARANA NUSANTARA|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|17|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
-|18|85.113.55.123|8080|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
-|19|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
-|20|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|11|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|12|190.43.118.78|999|Peru|Lima|Telefonica Del Peru|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
