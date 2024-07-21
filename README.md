@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|93.170.123.5|8118|Ukraine|Lviv|FOP Hornostay Mykhaylo Ivanovych|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|10|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|16|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|72.10.160.171|17885|Canada|Montreal|GloboTech Communications|
-|20|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|9|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|17|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
