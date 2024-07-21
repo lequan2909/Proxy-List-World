@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|7|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|46.250.239.99|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|20.235.159.154|80|India|Chennai|Microsoft Corporation|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|112.78.131.6|8080|Indonesia|Jakarta Pusat|Biznet Networks|
+|10|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|11|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|12|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|114.9.26.110|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|15|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|16|188.132.222.70|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
