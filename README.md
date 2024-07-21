@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|23.95.246.27|3129|United States|Dallas|HostPapa|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|23.95.246.27|3129|United States|Dallas|HostPapa|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|9|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
-|16|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|72.10.160.90|9497|Canada|Montreal|GloboTech Communications|
-|18|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|20|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
+|11|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|13|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|17|67.43.227.227|28477|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|32307|Canada|Montreal|GloboTech Communications|
+|19|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|20|67.43.227.228|8423|Canada|Montreal|GloboTech Communications|
 
 
 
