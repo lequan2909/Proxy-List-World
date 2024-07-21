@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.56.149.58|8342|Indonesia|Surabaya|PT Beon Intermedia|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|16|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|17|212.92.148.164|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|13|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|14|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|24.204.29.115|8080|United States|Longview|Network IP|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|19|103.97.47.218|84|India|New Delhi|Esto Media Private Limited|
-|20|95.216.40.74|2086|Finland|Helsinki|Hetzner Online GmbH|
+|19|67.43.236.20|24007|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|1743|Canada|Montreal|GloboTech Communications|
 
 
 
