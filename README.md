@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
 |9|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|13|67.43.227.227|14093|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|8593|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|11595|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|26749|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.164.178|26749|Canada|Montreal|GloboTech Communications|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|67.43.227.226|11011|Canada|Montreal|GloboTech Communications|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|153.231.230.84|3128|Japan|Chiyoda|NTT Communications Corporation|
+|17|72.10.164.178|26749|Canada|Montreal|GloboTech Communications|
+|18|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.236.19|11139|Canada|Montreal|GloboTech Communications|
 
 
 
