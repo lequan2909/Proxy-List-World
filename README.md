@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|23.95.246.27|3129|United States|Dallas|HostPapa|
-|6|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|154.73.28.253|8080|Libya|Tripoli|Rawafed|
-|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|72.10.164.178|22353|Canada|Montreal|GloboTech Communications|
 |14|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|67.43.236.20|6433|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|2955|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|67.43.236.18|29801|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|22407|Canada|Montreal|GloboTech Communications|
+|16|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|82.197.71.157|3128|United States|Washington|Contabo Asia Private Limited|
+|19|67.43.236.18|29801|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|6363|Canada|Montreal|GloboTech Communications|
 
 
 
