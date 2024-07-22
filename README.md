@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|188.132.166.52|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
-|10|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
+|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|72.10.164.178|28359|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|11|72.10.164.178|28359|Canada|Montreal|GloboTech Communications|
 |12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
-|14|72.10.164.178|20715|Canada|Montreal|GloboTech Communications|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|72.10.164.178|20715|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26131|Canada|Montreal|GloboTech Communications|
-|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.164.178|20715|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|17171|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|6165|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.252|17171|Canada|Montreal|GloboTech Communications|
+|15|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|16|109.207.172.90|3128|The Netherlands|Amsterdam|ITGLOBAL.COM NL B.V.|
+|17|67.43.228.253|12859|Canada|Montreal|GloboTech Communications|
+|18|38.7.3.11|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|72.10.160.172|30675|Canada|Montreal|GloboTech Communications|
 
 
 
