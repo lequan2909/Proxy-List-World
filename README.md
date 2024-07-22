@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.127.220.251|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|6|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|7|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|8|103.234.159.5|8080|India|Bengaluru|MWPL|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|67.43.228.253|5915|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|52.60.241.7|8080|Canada|Toronto|Amazon Technologies Inc.|
+|3|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|4|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|182.253.10.21|8080|Indonesia|Jakarta|BIZNET|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|72.10.164.178|4059|Canada|Montreal|GloboTech Communications|
 |11|72.10.164.178|4059|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|5915|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|13867|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2267|Canada|Montreal|GloboTech Communications|
-|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|14831|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.236.20|18063|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|12673|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|3199|Canada|Montreal|GloboTech Communications|
+|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|39.129.73.6|443|China|Yuxi|China Mobile|
 
 
 
