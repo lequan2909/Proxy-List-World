@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|20|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
+|9|67.43.228.253|23507|Canada|Montreal|GloboTech Communications|
+|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|72.10.164.178|3183|Canada|Montreal|GloboTech Communications|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|67.43.228.252|19221|Canada|Montreal|GloboTech Communications|
+|16|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|19|67.43.236.20|29805|Canada|Montreal|GloboTech Communications|
+|20|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
 
 
 
