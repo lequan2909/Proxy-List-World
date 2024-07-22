@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
+|6|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 
 
 
