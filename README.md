@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|23.95.246.27|3129|United States|Dallas|HostPapa|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.227.227|25563|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|25563|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|25563|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|25563|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.172|2717|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|33051|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|18667|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|33051|Canada|Montreal|GloboTech Communications|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|72.10.160.173|6033|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|67.43.227.227|5309|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|8467|Canada|Montreal|GloboTech Communications|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|72.10.160.171|2441|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|8467|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|18667|Canada|Montreal|GloboTech Communications|
+|20|94.142.138.150|3129|Finland|Helsinki|Aeza International LTD|
 
 
 
