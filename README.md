@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|5|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|67.43.227.227|1593|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|30875|Canada|Montreal|GloboTech Communications|
+|3|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|4|213.165.248.42|3128|The Netherlands|Amsterdam|InMotion Hosting, Inc.|
+|5|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|67.43.227.227|1593|Canada|Montreal|GloboTech Communications|
 |8|72.10.164.178|30875|Canada|Montreal|GloboTech Communications|
-|9|193.123.37.162|31280|Netherlands|Amsterdam|Oracle Corporation|
-|10|67.43.236.20|27563|Canada|Montreal|GloboTech Communications|
-|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|72.10.160.172|19583|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|1593|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|30875|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|17647|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|27563|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|30875|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.236.20|27563|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|19165|Canada|Montreal|GloboTech Communications|
+|9|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|67.43.236.20|26957|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|3799|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.228|27653|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.171|15217|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|31125|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|30875|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|18|72.10.164.178|30875|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|30875|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|1593|Canada|Montreal|GloboTech Communications|
 
 
 
