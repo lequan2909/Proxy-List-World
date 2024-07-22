@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|23.95.246.27|3129|United States|Dallas|HostPapa|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|23.95.246.27|3129|United States|Dallas|HostPapa|
-|12|67.43.236.20|32525|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|30415|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|1473|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|9595|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|22267|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|32525|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|23.95.246.27|3129|United States|Dallas|HostPapa|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|67.43.236.20|13641|Canada|Montreal|GloboTech Communications|
+|12|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|72.10.164.178|16413|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|10497|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|14003|Canada|Montreal|GloboTech Communications|
 |18|67.43.236.22|8151|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|8237|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|30415|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|10497|Canada|Montreal|GloboTech Communications|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
