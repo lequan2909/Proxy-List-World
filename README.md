@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
 |4|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|7|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.252|4029|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.19|9811|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
-|13|39.129.73.6|443|China|Yuxi|China Mobile|
-|14|72.10.160.171|27801|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|19975|Canada|Montreal|GloboTech Communications|
-|17|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|103.228.246.130|6060|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|20|72.10.160.170|19975|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|31433|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|31433|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.170|22459|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|31433|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|22459|Canada|Montreal|GloboTech Communications|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|213.165.248.42|3128|The Netherlands|Amsterdam|InMotion Hosting, Inc.|
+|14|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|15|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|72.10.160.174|3153|Canada|Montreal|GloboTech Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|72.10.160.170|22459|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|18419|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31433|Canada|Montreal|GloboTech Communications|
 
 
 
