@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.180.122.52|8091|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|7|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|23.95.246.27|3129|United States|Dallas|HostPapa|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|180.248.38.225|8088|Indonesia|Malang|PT. TELKOM INDONESIA|
-|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|103.173.138.171|8080|Indonesia|Babat|PT Serayu Multi Connection|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|38.183.209.38|8181|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|7|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
+|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|191.102.248.5|8085|Argentina|Rosario|IP·RED|
+|14|67.43.236.21|18635|Canada|Montreal|GloboTech Communications|
+|15|180.248.38.225|8088|Indonesia|Malang|PT. TELKOM INDONESIA|
+|16|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|17|72.10.160.90|3089|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|28459|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|32933|Canada|Montreal|GloboTech Communications|
+|20|36.70.145.47|8081|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
 
 
 
