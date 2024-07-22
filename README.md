@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|45.233.67.210|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|13|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|20.232.120.176|80|United States|Boydton|Microsoft Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|138.68.129.50|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|103.48.68.123|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|72.10.164.178|22309|Canada|Montreal|GloboTech Communications|
+|10|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|11|109.207.172.90|3128|The Netherlands|Amsterdam|ITGLOBAL.COM NL B.V.|
+|12|72.10.160.170|4035|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
+|18|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
 
 
 
