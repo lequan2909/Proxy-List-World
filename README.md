@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|4|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|5|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
-|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|152.26.229.42|9443|United States|Huntersville|MCNC|
-|10|67.43.228.253|1253|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|29905|Canada|Montreal|GloboTech Communications|
-|12|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|13|67.43.228.251|11339|Canada|Montreal|GloboTech Communications|
-|14|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|72.10.164.178|4415|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|15389|Canada|Montreal|GloboTech Communications|
-|18|105.184.246.32|8080|South Africa|Pretoria|Telkom SA Ltd|
-|19|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|20|72.10.164.178|4415|Canada|Montreal|GloboTech Communications|
+|2|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|72.10.164.178|4139|Canada|Montreal|GloboTech Communications|
+|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.164.178|4139|Canada|Montreal|GloboTech Communications|
+|15|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|16|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|17|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
+|18|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|19|67.43.227.227|15583|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
