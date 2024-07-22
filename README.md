@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|7|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|212.237.170.86|80|Germany|Neu-Ulm|SWU TeleNet GmbH|
-|10|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|18|67.43.227.227|2549|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|26339|Canada|Montreal|GloboTech Communications|
-|20|36.94.101.111|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|67.43.227.227|12371|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|12371|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|21273|Canada|Montreal|GloboTech Communications|
+|18|103.48.68.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|5.196.111.29|20687|France|Gravelines|OVH SAS|
+|20|67.43.227.228|12371|Canada|Montreal|GloboTech Communications|
 
 
 
