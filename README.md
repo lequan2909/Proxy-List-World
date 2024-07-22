@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|152.26.229.42|9443|United States|Huntersville|MCNC|
-|7|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|8|72.10.160.90|23095|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|72.10.160.90|9045|Canada|Montreal|GloboTech Communications|
+|6|152.26.229.86|9443|United States|Huntersville|MCNC|
+|7|152.26.229.42|9443|United States|Huntersville|MCNC|
+|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|9|72.10.160.173|9341|Canada|Montreal|GloboTech Communications|
 |10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|67.43.227.229|31083|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|23943|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|23943|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|23943|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23943|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|31353|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|31353|Canada|Montreal|GloboTech Communications|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|72.10.164.178|31353|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|31353|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.171|18497|Canada|Montreal|GloboTech Communications|
 |17|72.10.160.94|10323|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|18497|Canada|Montreal|GloboTech Communications|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|72.10.160.90|9045|Canada|Montreal|GloboTech Communications|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
 
 
 
