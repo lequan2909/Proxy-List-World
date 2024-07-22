@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|4|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
-|8|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|18.118.31.131|80|United States|Dublin|Amazon.com, Inc.|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|16|72.10.164.178|18869|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|7851|Canada|Montreal|GloboTech Communications|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|72.10.160.90|7851|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|152.26.229.42|9443|United States|Huntersville|MCNC|
+|5|72.10.160.90|16575|Canada|Montreal|GloboTech Communications|
+|6|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|7|103.87.169.167|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|67.43.236.20|20311|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|188.132.166.52|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|17|67.43.227.228|2957|Canada|Montreal|GloboTech Communications|
+|18|103.153.134.22|8080|Indonesia|Tangerang|WMINET|
+|19|72.10.164.178|1333|Canada|Montreal|GloboTech Communications|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
