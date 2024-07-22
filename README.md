@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|72.10.164.178|13641|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|26005|Canada|Montreal|GloboTech Communications|
-|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.236.20|20003|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|20003|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|13641|Canada|Montreal|GloboTech Communications|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|72.10.160.90|14623|Canada|Montreal|GloboTech Communications|
-|20|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|72.10.164.178|31775|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.159.196.145|1080|Indonesia|Serang|PT Andalan Dinamika Informatika|
+|9|72.10.164.178|31775|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|67.43.228.251|12223|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
+|16|67.43.228.253|1651|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|31775|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.228.253|1651|Canada|Montreal|GloboTech Communications|
 
 
 
