@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|191.97.16.72|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|39.129.73.6|443|China|Yuxi|China Mobile|
 |7|72.10.164.178|23157|Canada|Montreal|GloboTech Communications|
-|8|103.172.70.191|8181|Indonesia|Kumendung Satu|AZNET|
-|9|72.10.160.93|12391|Canada|Montreal|GloboTech Communications|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|72.10.164.178|23157|Canada|Montreal|GloboTech Communications|
-|12|39.129.73.6|443|China|Yuxi|China Mobile|
-|13|103.156.217.101|1111|Indonesia|Cikarang|PT. Meiwa Mold Indonesia|
-|14|67.43.227.228|14983|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|12651|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|29747|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|23157|Canada|Montreal|GloboTech Communications|
-|18|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|67.43.236.20|32501|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|23157|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|13809|Canada|Montreal|GloboTech Communications|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|72.10.164.178|23157|Canada|Montreal|GloboTech Communications|
 |20|72.10.164.178|23157|Canada|Montreal|GloboTech Communications|
 
 
