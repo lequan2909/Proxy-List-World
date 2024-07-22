@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|67.43.228.251|25129|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|75.25.159.161|3128|United States|Danville|AT&T Services, Inc.|
-|13|67.43.236.20|1241|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|23843|Canada|Montreal|GloboTech Communications|
-|15|109.207.172.90|3128|The Netherlands|Amsterdam|ITGLOBAL.COM NL B.V.|
-|16|72.10.164.178|2727|Canada|Montreal|GloboTech Communications|
-|17|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|18|72.10.160.172|7487|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23843|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|29905|Canada|Montreal|GloboTech Communications|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|72.10.160.92|22215|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|29905|Canada|Montreal|GloboTech Communications|
+|13|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.160.172|30337|Canada|Montreal|GloboTech Communications|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
+|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.227.227|8251|Canada|Montreal|GloboTech Communications|
 
 
 
