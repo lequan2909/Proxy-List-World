@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|2|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|23.95.246.27|3129|United States|Dallas|HostPapa|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|103.82.132.179|7001|India|Faridabad|Cloudfly Corporation|
+|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|67.43.236.19|32021|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|21313|Canada|Montreal|GloboTech Communications|
-|15|103.47.164.242|8080|India|New Delhi|Magus Sales and Services Private limited|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|67.43.236.18|5435|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|2249|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|13077|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|13077|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|19635|Canada|Montreal|GloboTech Communications|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|72.10.160.170|32341|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.19|32021|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|19635|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|19635|Canada|Montreal|GloboTech Communications|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|67.43.236.18|20935|Canada|Montreal|GloboTech Communications|
 
 
 
