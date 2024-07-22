@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|4|23.95.246.27|3129|United States|Dallas|HostPapa|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|117.54.156.245|8080|Indonesia|Bandung|PT IndoInternet|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
