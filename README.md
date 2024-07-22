@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|9|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|10|67.43.228.253|29447|Canada|Montreal|GloboTech Communications|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|72.10.164.178|3033|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|3375|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|3033|Canada|Montreal|GloboTech Communications|
-|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|67.43.227.226|31259|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3033|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|20855|Canada|Montreal|GloboTech Communications|
-|20|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|10|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|72.10.164.178|13041|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|32227|Canada|Montreal|GloboTech Communications|
+|14|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|15|67.43.227.226|31259|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|13041|Canada|Montreal|GloboTech Communications|
+|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
