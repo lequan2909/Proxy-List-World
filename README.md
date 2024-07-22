@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|23.95.246.27|3129|United States|Dallas|HostPapa|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|67.43.227.228|23495|Canada|Montreal|GloboTech Communications|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|23.95.246.27|3129|United States|Dallas|HostPapa|
-|14|67.43.227.228|23495|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22405|Canada|Montreal|GloboTech Communications|
-|16|103.234.159.5|8080|India|Bengaluru|MWPL|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|67.43.236.20|15789|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|31373|Canada|Montreal|GloboTech Communications|
-|20|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|1|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|67.43.227.228|23495|Canada|Montreal|GloboTech Communications|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|67.43.227.228|23495|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|31373|Canada|Montreal|GloboTech Communications|
+|10|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|11|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.160.92|20653|Canada|Montreal|GloboTech Communications|
+|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|16|67.43.227.228|23495|Canada|Montreal|GloboTech Communications|
+|17|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|67.43.227.230|19579|Canada|Montreal|GloboTech Communications|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
