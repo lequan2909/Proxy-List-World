@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|23.95.246.27|3129|United States|Dallas|HostPapa|
 |7|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|9|38.183.209.38|8181|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|10|23.95.246.27|3129|United States|Dallas|HostPapa|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|38.183.209.38|8181|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|18.118.31.131|80|United States|Dublin|Amazon.com, Inc.|
-|14|72.10.160.173|14151|Canada|Montreal|GloboTech Communications|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|172.183.241.1|8080|United States|Chicago|Microsoft|
-|17|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|19|72.10.164.178|31805|Canada|Montreal|GloboTech Communications|
+|13|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|72.10.160.171|30507|Canada|Montreal|GloboTech Communications|
+|17|119.235.209.92|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
 |20|67.43.236.20|7597|Canada|Montreal|GloboTech Communications|
 
 
