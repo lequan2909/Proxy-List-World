@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|7|67.43.227.226|21687|Canada|Montreal|GloboTech Communications|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.236.20|14255|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|11747|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|15885|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|29317|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|29317|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|24047|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|22183|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|30157|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.228.250|25843|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|67.43.227.226|21687|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|72.10.160.90|6527|Canada|Montreal|GloboTech Communications|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.228.250|25843|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|6527|Canada|Montreal|GloboTech Communications|
 
 
 
