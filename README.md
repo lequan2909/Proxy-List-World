@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|9|67.43.227.227|20311|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|12705|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.252|8939|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|9253|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|20653|Canada|Montreal|GloboTech Communications|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|72.10.160.171|21213|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.227|20311|Canada|Montreal|GloboTech Communications|
-|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.236.21|7143|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|31667|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|13.60.52.250|8080|Sweden|Stockholm|Amazon.com, Inc.|
+|12|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|14|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.164.178|16807|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|16807|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
