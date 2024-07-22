@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|3|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.26.229.86|9443|United States|Huntersville|MCNC|
-|6|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|5.196.111.29|20060|France|Gravelines|OVH SAS|
-|9|72.10.164.178|11697|Canada|Montreal|GloboTech Communications|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|72.10.160.170|5447|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|2699|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|3749|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|24705|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|2699|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|24705|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|13031|Canada|Montreal|GloboTech Communications|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|7|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|10|72.10.164.178|18619|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|18619|Canada|Montreal|GloboTech Communications|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|72.10.164.178|18619|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|3749|Canada|Montreal|GloboTech Communications|
+|16|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|17|177.12.107.167|443|Brazil|Cajazeiras|Netline Telecom|
+|18|72.10.164.178|18619|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|30427|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.21|15753|Canada|Montreal|GloboTech Communications|
 
 
 
