@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|3|47.245.120.95|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|103.81.158.137|8080|India|Talwandi Bhai|Digitax India Communications Pvt Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|103.177.9.120|8181|Indonesia|Tumpang|PT Helium Sinergi Telekomunikasi|
-|9|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|7701|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|4037|Canada|Montreal|GloboTech Communications|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|207.138.39.145|999|Venezuela|Caracas|Galanet Solution C.A.|
+|10|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|38.183.209.38|8181|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|17|23.95.246.27|3129|United States|Dallas|HostPapa|
+|18|67.43.227.227|28181|Canada|Montreal|GloboTech Communications|
+|19|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|67.43.227.227|28181|Canada|Montreal|GloboTech Communications|
 
 
 
