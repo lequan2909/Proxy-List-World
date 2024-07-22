@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|7|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|212.92.148.162|8090|Russia|Veliky Novgorod|JSC Vimpelcom|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.156.141.87|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|9|72.10.164.178|31775|Canada|Montreal|GloboTech Communications|
 |10|72.10.160.90|14623|Canada|Montreal|GloboTech Communications|
-|11|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.227.227|32079|Canada|Montreal|GloboTech Communications|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|72.10.160.171|30781|Canada|Montreal|GloboTech Communications|
-|18|103.234.159.5|8080|India|Bengaluru|MWPL|
-|19|72.10.160.170|33131|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|14623|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|7319|Canada|Montreal|GloboTech Communications|
+|12|45.184.155.238|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.110.34.140|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|18|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|31775|Canada|Montreal|GloboTech Communications|
 
 
 
