@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|7|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
-|8|23.95.246.27|3129|United States|Dallas|HostPapa|
-|9|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
 |10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|15|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|17|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|17|67.43.228.253|11827|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|11827|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|25537|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|8621|Canada|Montreal|GloboTech Communications|
 
 
 
