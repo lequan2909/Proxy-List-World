@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|23.95.246.27|3129|United States|Dallas|HostPapa|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|7|203.150.128.212|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|67.43.227.227|3041|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|72.10.160.170|25633|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|20011|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.252|10919|Canada|Montreal|GloboTech Communications|
-|15|23.95.246.27|3129|United States|Dallas|HostPapa|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|67.43.236.20|9041|Canada|Montreal|GloboTech Communications|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.228.252|27887|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|15707|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|25633|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|20011|Canada|Montreal|GloboTech Communications|
 |19|67.43.236.20|9041|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|3041|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
