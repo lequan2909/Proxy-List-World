@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|5|67.43.228.253|11827|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.90|3071|Canada|Montreal|GloboTech Communications|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|67.43.227.227|18261|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|67.43.227.226|2855|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|10113|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.21|2733|Canada|Montreal|GloboTech Communications|
-|16|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
-|17|67.43.227.227|18261|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|24015|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|3167|Canada|Montreal|GloboTech Communications|
-|20|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|49.13.27.107|8888|Germany|Frankfurt am Main|Hetzner Online GmbH|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|23.95.246.27|3129|United States|Dallas|HostPapa|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|17|67.43.228.253|15565|Canada|Montreal|GloboTech Communications|
+|18|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.90|23159|Canada|Montreal|GloboTech Communications|
 
 
 
