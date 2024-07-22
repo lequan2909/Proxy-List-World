@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -45,18 +45,18 @@ Click the file format that you want and copy the URL.
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 |6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|159.69.203.183|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|67.43.228.253|18549|Canada|Montreal|GloboTech Communications|
-|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|72.10.164.178|31775|Canada|Montreal|GloboTech Communications|
-|11|71.142.238.33|8888|United States|Gainesville|AT&T Services, Inc.|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|18|72.10.160.174|3009|Canada|Montreal|GloboTech Communications|
+|7|152.26.229.42|9443|United States|Huntersville|MCNC|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|116.202.165.119|3124|Germany|Augsburg|Hetzner Online GmbH|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|72.10.164.178|26749|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|30773|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|3009|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|25985|Canada|Montreal|GloboTech Communications|
+|16|23.134.91.156|3128|France|Paris|GTHost|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|72.10.160.172|29273|Canada|Montreal|GloboTech Communications|
 |19|72.10.160.90|25985|Canada|Montreal|GloboTech Communications|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
