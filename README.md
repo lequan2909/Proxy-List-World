@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.156.217.101|1111|Indonesia|Cikarang|PT. Meiwa Mold Indonesia|
-|5|103.176.227.197|8009|Indonesia|Brebes|PT Pass Internet Indonesia|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|23.95.246.27|3129|United States|Dallas|HostPapa|
 |6|152.26.229.42|9443|United States|Huntersville|MCNC|
-|7|23.95.246.27|3129|United States|Dallas|HostPapa|
-|8|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|9|67.43.236.20|30371|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|19765|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|18825|Canada|Montreal|GloboTech Communications|
-|12|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|13|67.43.227.228|14983|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|6437|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|18825|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19765|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|6437|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|186.166.142.82|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
-|20|67.43.236.20|30371|Canada|Montreal|GloboTech Communications|
+|7|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|72.10.164.178|14851|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|14983|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|9933|Canada|Montreal|GloboTech Communications|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|67.43.227.227|21109|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.19|14727|Canada|Montreal|GloboTech Communications|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|72.10.160.170|11117|Canada|Montreal|GloboTech Communications|
+|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|67.43.236.18|17401|Canada|Montreal|GloboTech Communications|
 
 
 
