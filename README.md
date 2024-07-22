@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|179.32.44.133|80|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|75.84.199.80|80|United States|Sherman Oaks|Spectrum|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
 |12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|67.43.236.20|10799|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|3925|Canada|Montreal|GloboTech Communications|
-|15|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|185.221.219.69|3128|Netherlands|Amsterdam|GTHost|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|72.10.164.178|25525|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|27215|Canada|Montreal|GloboTech Communications|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|67.43.227.227|11403|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|67.43.227.226|5029|Canada|Montreal|GloboTech Communications|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|72.10.160.173|23815|Canada|Montreal|GloboTech Communications|
 
 
 
