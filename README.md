@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.156.17.153|1111|Indonesia|Indramayu|RSTNET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|177.12.107.167|443|Brazil|Cajazeiras|Netline Telecom|
 |6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|103.169.254.9|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|67.43.228.253|6431|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|18891|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|28395|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|3529|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|18891|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|18891|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|6431|Canada|Montreal|GloboTech Communications|
-|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|17|72.10.160.171|2641|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3529|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|28485|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|67.43.227.227|19513|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|8141|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|8141|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|8141|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.91|3251|Canada|Montreal|GloboTech Communications|
+|14|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|67.43.236.20|14645|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|19513|Canada|Montreal|GloboTech Communications|
+|17|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|18|67.43.228.253|6431|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|6431|Canada|Montreal|GloboTech Communications|
+|20|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 
