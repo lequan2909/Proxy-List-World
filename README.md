@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.183.241.1|8080|United States|Chicago|Microsoft|
-|2|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|5|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|6|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|4|67.43.227.227|24725|Canada|Montreal|GloboTech Communications|
+|5|152.26.229.42|9443|United States|Huntersville|MCNC|
+|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|202.162.213.178|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|9|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|12|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|13|67.43.236.20|17137|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|6171|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|67.43.227.227|31733|Canada|Montreal|GloboTech Communications|
-|17|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|67.43.236.19|6769|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
+|11|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
+|12|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|45.226.205.33|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|18|72.10.160.90|20541|Canada|Montreal|GloboTech Communications|
+|19|37.211.92.252|8080|Qatar|Doha|Ooredoo Q.S.C|
+|20|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
 
 
 
