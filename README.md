@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|180.94.83.122|8080|Afghanistan|Kabul|AFTEL in Kabul|
-|12|72.10.160.170|30063|Canada|Montreal|GloboTech Communications|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|207.138.39.145|999|Venezuela|Caracas|Galanet Solution C.A.|
-|15|67.43.236.20|15017|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1103|Canada|Montreal|GloboTech Communications|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|7|50.201.133.122|3366|United States|Richmond|Comcast Cable Communications, LLC|
+|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|119.235.209.92|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|157.90.203.104|12988|Germany|Falkenstein|Hetzner Online GmbH|
+|13|23.95.246.27|3129|United States|Dallas|HostPapa|
+|14|72.10.164.178|1103|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|9669|Canada|Montreal|GloboTech Communications|
+|16|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|72.10.164.178|1103|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|26113|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1103|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|23855|Canada|Montreal|GloboTech Communications|
+|19|101.255.118.10|3127|Indonesia|Jakarta|PT Remala Abadi|
+|20|72.10.160.91|27453|Canada|Montreal|GloboTech Communications|
 
 
 
