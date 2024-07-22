@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|5|67.43.236.20|15673|Canada|Montreal|GloboTech Communications|
-|6|152.26.229.42|9443|United States|Huntersville|MCNC|
-|7|72.10.160.170|1589|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.91|3029|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|67.43.228.254|30673|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|1589|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|4|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|5|152.26.229.42|9443|United States|Huntersville|MCNC|
+|6|72.10.160.170|28495|Canada|Montreal|GloboTech Communications|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|67.43.228.253|32273|Canada|Montreal|GloboTech Communications|
+|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |12|72.10.160.174|2483|Canada|Montreal|GloboTech Communications|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|67.43.228.253|24005|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.21|19289|Canada|Montreal|GloboTech Communications|
-|17|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|14|45.70.238.186|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|201.77.110.129|999|Mexico|Unión Campesina|Nidix Networks S.a. De C.V.|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|67.43.227.228|17903|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.22|1483|Canada|Montreal|GloboTech Communications|
 
 
 
