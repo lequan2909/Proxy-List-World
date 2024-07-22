@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|188.161.150.35|8080|Palestine|Tulkarm|Palestine Telecommunications Company|
-|14|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|15|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|12.133.53.17|83|United States|Chesterland|AT&T Services, Inc.|
-|17|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|18|67.43.236.20|13171|Canada|Montreal|GloboTech Communications|
-|19|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|15|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|16|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
+|17|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|18|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
