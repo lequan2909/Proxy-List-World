@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|4|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|72.10.160.90|6611|Canada|Montreal|GloboTech Communications|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
-|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
-|11|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|12|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
-|14|180.88.100.7|3128|China|Beijing|China Unicom Beijing Province Network|
-|15|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
-|16|67.43.236.20|11597|Canada|Montreal|GloboTech Communications|
-|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.230|20083|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|5915|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
+|7|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|72.10.160.90|8695|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.236.20|2267|Canada|Montreal|GloboTech Communications|
+|14|12.133.53.17|83|United States|Chesterland|AT&T Services, Inc.|
+|15|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|16|72.10.164.178|5999|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|13867|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.20|2267|Canada|Montreal|GloboTech Communications|
 |20|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
 
 
