@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|67.43.236.19|15681|Canada|Montreal|GloboTech Communications|
+|6|5.45.107.19|3128|Germany|Nuremberg|netcup GmbH|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|10|67.43.236.20|19161|Canada|Montreal|GloboTech Communications|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |11|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|12|67.43.236.21|19161|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|16649|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|72.10.160.172|16839|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11399|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|21273|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|19161|Canada|Montreal|GloboTech Communications|
-|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|20|72.10.160.90|16649|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|72.10.160.90|16649|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|78.47.185.44|2020|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
