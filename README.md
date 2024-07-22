@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|23.95.246.27|3129|United States|Dallas|HostPapa|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|18.118.31.131|80|United States|Dublin|Amazon.com, Inc.|
-|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|23.95.246.27|3129|United States|Dallas|HostPapa|
+|9|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|103.177.9.120|8181|Indonesia|Tumpang|PT Helium Sinergi Telekomunikasi|
+|12|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.228.253|29447|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.21|26447|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|31091|Canada|Montreal|GloboTech Communications|
-|17|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|212.109.195.161|31280|Russia|Khimki|JSC IOT|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|72.10.160.173|20223|Canada|Montreal|GloboTech Communications|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|67.43.228.253|12391|Canada|Montreal|GloboTech Communications|
+|16|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|172.183.241.1|8080|United States|Chicago|Microsoft|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
+|20|72.10.160.173|3981|Canada|Montreal|GloboTech Communications|
 
 
 
