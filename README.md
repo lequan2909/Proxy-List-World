@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|4|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|5|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|38.7.101.234|8080|Peru|Arequipa|Fiber Fix|
-|9|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.236.18|17753|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|72.10.160.90|8147|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|6249|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|8147|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|5741|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|6165|Canada|Montreal|GloboTech Communications|
-|19|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
-|20|67.43.227.227|6165|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
+|4|103.68.214.97|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|181.23.233.11|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|9|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|10|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|11|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|72.10.160.90|2015|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
+|18|67.43.227.227|2755|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|2015|Canada|Montreal|GloboTech Communications|
+|20|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
 
 
 
