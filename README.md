@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|164.100.104.29|8080|India|New Delhi|National Informatics Centre|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
-|8|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|9|67.43.227.227|30373|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|67.43.236.20|3097|Canada|Montreal|GloboTech Communications|
-|12|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|13|67.43.236.20|3097|Canada|Montreal|GloboTech Communications|
-|14|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|17|67.43.227.230|14491|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|24883|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|30373|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|15|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|16|67.43.236.20|23057|Canada|Montreal|GloboTech Communications|
+|17|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|18|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
