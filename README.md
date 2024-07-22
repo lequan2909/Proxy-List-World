@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|186.148.175.118|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
-|8|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|9|119.28.161.98|3128|South Korea|Seoul|ComsenzNet|
+|7|35.197.128.73|8888|Singapore|Singapore|Google LLC|
+|8|191.97.16.2|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|9|20.244.104.182|3128|India|Pune|Microsoft Corporation|
 |10|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|103.234.159.5|8080|India|Bengaluru|MWPL|
-|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|72.10.160.92|24825|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|32699|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|25409|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|18|67.43.228.253|29639|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|7247|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|72.10.160.92|24825|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|16043|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|67.43.227.228|20563|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|17141|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|25409|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|6385|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
