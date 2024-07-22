@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|8|72.10.160.90|29223|Canada|Montreal|GloboTech Communications|
-|9|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|103.178.194.190|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|67.43.228.250|5887|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|14609|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|21637|Canada|Montreal|GloboTech Communications|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|67.43.236.18|10801|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|14609|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|16123|Canada|Montreal|GloboTech Communications|
-|20|59.124.9.67|3128|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|5|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
+|9|72.10.160.90|5597|Canada|Montreal|GloboTech Communications|
+|10|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|11|72.10.164.178|23905|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|5597|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.173|11205|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|23905|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|16123|Canada|Montreal|GloboTech Communications|
+|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|17|72.10.160.170|2007|Canada|Montreal|GloboTech Communications|
+|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
 
 
 
