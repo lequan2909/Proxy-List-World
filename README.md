@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|15|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|18|67.43.228.253|12919|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|15551|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|6951|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.197.128.73|8888|Singapore|Singapore|Google LLC|
+|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|116.106.22.31|10001|Vietnam|Quận Phú Nhuận|Viettel Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|17|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
