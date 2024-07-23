@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.109.125.155|4444|Indonesia|Medan|PT. PANCA DUTA UTAMA|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|10|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|14|38.242.141.110|8008|Germany|Düsseldorf|Cogent Communications|
-|15|84.247.190.159|3128|Germany|Düsseldorf|Contabo GmbH|
-|16|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|103.191.196.54|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|13|190.94.212.247|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|19|72.10.164.178|2233|Canada|Montreal|GloboTech Communications|
+|20|20.244.104.182|3128|India|Pune|Microsoft Corporation|
 
 
 
