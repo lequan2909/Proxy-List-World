@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|9|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|10|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|14|72.10.164.178|1105|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|32697|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|1989|Canada|Montreal|GloboTech Communications|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|72.10.164.178|1105|Canada|Montreal|GloboTech Communications|
-|19|49.248.13.186|10089|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|20|72.10.164.178|1105|Canada|Montreal|GloboTech Communications|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|7|103.76.149.67|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|8|103.132.54.41|8182|Indonesia|Pekalongan|PT. ADEAKSA INDO JAYATAMA|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|18|67.43.236.20|8699|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|15387|Canada|Montreal|GloboTech Communications|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
