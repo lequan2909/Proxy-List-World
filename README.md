@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.236.20|2739|Canada|Montreal|GloboTech Communications|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|5|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|103.25.210.141|3319|Indonesia|Purwokerto|TRANSDATA|
 |14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|72.10.164.178|20017|Canada|Montreal|GloboTech Communications|
-|16|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|17|35.197.128.73|8888|Singapore|Singapore|Google LLC|
-|18|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|19|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|20|72.10.164.178|20017|Canada|Montreal|GloboTech Communications|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|17|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|18|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|67.43.236.20|7665|Canada|Montreal|GloboTech Communications|
 
 
 
