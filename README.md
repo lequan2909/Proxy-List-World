@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|140.99.255.14|8194|United States|Los Angeles|EpicUp Holdings Inc|
-|7|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|103.234.159.5|8080|India|Bengaluru|MWPL|
-|11|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|12|146.190.101.222|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|72.10.164.178|28981|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|28981|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|28585|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|19249|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|28935|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|20841|Canada|Montreal|GloboTech Communications|
-|19|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
-|20|67.43.236.20|20841|Canada|Montreal|GloboTech Communications|
+|6|152.26.229.42|9443|United States|Huntersville|MCNC|
+|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|10|72.10.160.90|24083|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|28585|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|24083|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|2369|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.92|23019|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|5911|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|24083|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2369|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|24083|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|12401|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
