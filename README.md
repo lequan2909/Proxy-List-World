@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|116.106.22.31|10001|Vietnam|Quận Phú Nhuận|Viettel Corporation|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|91.185.58.78|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|14|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|36.90.92.245|8080|Indonesia|Sambas|PT. Telekomunikasi Indonesia|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|35.197.128.73|8888|Singapore|Singapore|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|16|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|17|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|18|88.211.105.178|800|United Kingdom|Salford|Vaioni Group Ltd|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|36.90.92.245|8080|Indonesia|Sambas|PT. Telekomunikasi Indonesia|
 
 
 
