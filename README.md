@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|35.197.128.73|8888|Singapore|Singapore|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|13|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|14|72.10.164.178|3697|Canada|Montreal|GloboTech Communications|
 |15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|17|200.5.196.218|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|18|72.10.164.178|29703|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|15085|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|67.43.227.228|15085|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
