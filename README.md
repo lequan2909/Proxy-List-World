@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|223.130.160.191|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|168.0.239.224|8787|Brazil|São Sebastião do Passé|VOANET Telecomunicações Ltda.|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
-|16|67.43.227.229|6699|Canada|Montreal|GloboTech Communications|
-|17|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|94.182.40.51|3128|Iran|Tehran|Aria Shatel Company Ltd|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|15.235.171.220|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|17|72.10.164.178|1373|Canada|Montreal|GloboTech Communications|
 |18|72.10.160.90|26109|Canada|Montreal|GloboTech Communications|
-|19|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|20|5.196.111.29|20584|France|Gravelines|OVH SAS|
+|19|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|20|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
 
 
 
