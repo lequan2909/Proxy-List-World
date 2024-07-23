@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|72.10.164.178|30513|Canada|Montreal|GloboTech Communications|
-|10|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
-|13|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|14|72.10.160.171|23005|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|29547|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|30513|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|22023|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|29547|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|14159|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|14159|Canada|Montreal|GloboTech Communications|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|223.130.160.191|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|12|190.113.126.199|3128|Costa Rica|San José|Telecable Economico S.A.|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|72.10.160.90|3945|Canada|Montreal|GloboTech Communications|
+|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|67.43.228.253|13095|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|18733|Canada|Montreal|GloboTech Communications|
 
 
 
