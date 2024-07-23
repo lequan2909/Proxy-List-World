@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|206.1.203.166|9090|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|49.248.13.186|10089|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|87.255.12.183|3129|Russia|Khimki|BIG TELECOM CLOSED JSC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|16|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|17|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|67.43.227.227|15271|Canada|Montreal|GloboTech Communications|
-|20|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|66.206.15.148|8136|United States|Los Angeles|Primary|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|103.115.20.204|8080|Indonesia|Subang|PMYNET|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|206.1.203.166|9090|Venezuela|Maracaibo|Airtek Solutions C.A.|
 
 
 
