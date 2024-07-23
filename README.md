@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|5|182.253.235.67|8080|Indonesia|Jakarta|BIZNET|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
-|12|171.253.121.140|10005|Vietnam|Thanh Hóa|Viettel Corporation|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|15|67.43.227.227|5753|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|8837|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|32149|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.90|32149|Canada|Montreal|GloboTech Communications|
-|20|171.253.121.140|10005|Vietnam|Thanh Hóa|Viettel Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.160.170|11431|Canada|Montreal|GloboTech Communications|
+|12|171.253.121.140|10007|Vietnam|Thanh Hóa|Viettel Corporation|
+|13|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|14|72.10.164.178|10497|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|17301|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|19653|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.228|19653|Canada|Montreal|GloboTech Communications|
 
 
 
