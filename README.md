@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|171.249.173.171|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.197.128.73|8888|Singapore|Singapore|Google LLC|
-|9|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|14|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|177.54.226.50|8082|Brazil|Nova Olinda|Aranet Comunicacao Ltda|
-|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.164.178|22321|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|22515|Canada|Montreal|GloboTech Communications|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|8|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|11|82.197.71.157|3128|United States|Washington|Contabo Asia Private Limited|
+|12|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
+|17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|19|35.197.128.73|8888|Singapore|Singapore|Google LLC|
+|20|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
 
 
 
