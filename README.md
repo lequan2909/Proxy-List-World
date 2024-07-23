@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|101.255.169.250|8080|Indonesia|Bekasi|PT Remala Abadi|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|11|35.197.128.73|8888|Singapore|Singapore|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|72.10.160.91|20941|Canada|Montreal|GloboTech Communications|
-|19|100.34.217.177|999|United States|Philadelphia|Verizon Communications|
-|20|67.43.228.251|13957|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|9|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|10|190.113.126.199|3128|Costa Rica|San José|Telecable Economico S.A.|
+|11|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
+|14|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
 
 
 
