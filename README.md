@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|12|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|13|72.10.164.178|13303|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|1915|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.171|14581|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|19529|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|6133|Canada|Montreal|GloboTech Communications|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|7|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|180.179.35.244|9889|India|Mumbai|NetMagic Solutions Pvt Ltd|
+|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|15|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
