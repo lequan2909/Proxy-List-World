@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|8|51.15.102.243|3128|The Netherlands|Amsterdam|SCALEWAY|
-|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|51.158.191.37|3128|France|Paris|Online S.A.S.|
-|12|72.10.164.178|17579|Canada|Montreal|GloboTech Communications|
-|13|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|14|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|51.15.71.194|3128|The Netherlands|Amsterdam|SCALEWAY|
-|17|51.158.181.100|3128|France|Paris|Online S.A.S.|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|20|72.10.164.178|17579|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|8663|Canada|Montreal|GloboTech Communications|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|51.158.191.37|3128|France|Paris|Online S.A.S.|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|51.15.71.194|3128|The Netherlands|Amsterdam|SCALEWAY|
+|19|51.15.102.243|3128|The Netherlands|Amsterdam|SCALEWAY|
+|20|51.158.181.100|3128|France|Paris|Online S.A.S.|
 
 
 
