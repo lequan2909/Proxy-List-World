@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|67.43.227.226|16373|Canada|Montreal|GloboTech Communications|
-|10|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.164.178|2863|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.174|18937|Canada|Montreal|GloboTech Communications|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
-|14|72.10.164.178|2863|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|67.43.236.20|20345|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|8|66.206.15.148|8136|United States|Los Angeles|Primary|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|12|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
+|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.164.178|2863|Canada|Montreal|GloboTech Communications|
-|20|37.194.44.125|8080|Russia|Novosibirsk|Novotelecom Ltd.|
+|18|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|72.10.164.178|2863|Canada|Montreal|GloboTech Communications|
 
 
 
