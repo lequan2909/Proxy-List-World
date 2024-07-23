@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|49.248.13.186|8000|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|49.248.13.186|1526|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|5|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
 |8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|18|72.10.164.178|30733|Canada|Montreal|GloboTech Communications|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|35.197.128.73|8888|Singapore|Singapore|Google LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|13|1.4.214.178|8080|Thailand|Lat Bua Luang|TOT Public Company Limited|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|123.16.32.162|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|171.253.121.140|10006|Vietnam|Thanh Hóa|Viettel Corporation|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
