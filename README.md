@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|14|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|72.10.160.90|4411|Canada|Montreal|GloboTech Communications|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
+|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|16|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
