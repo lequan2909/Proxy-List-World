@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|8|35.197.128.73|8888|Singapore|Singapore|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|10|117.1.243.117|4001|Vietnam|Hanoi|Viettel Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
 |13|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
 |14|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|110.77.241.4|8080|Thailand|Pak Chong|CAT Telecom Public Company Limited|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
 |20|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 
 
