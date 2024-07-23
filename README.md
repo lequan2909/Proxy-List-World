@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|165.22.3.209|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|15|67.43.228.251|32745|Canada|Montreal|GloboTech Communications|
-|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|17|67.43.227.228|3517|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|25027|Canada|Montreal|GloboTech Communications|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|8|165.22.3.209|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|10|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|13|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|18|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
 |19|72.10.164.178|24893|Canada|Montreal|GloboTech Communications|
-|20|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|20|72.10.164.178|24893|Canada|Montreal|GloboTech Communications|
 
 
 
