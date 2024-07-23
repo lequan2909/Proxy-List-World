@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.63.114.203|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|4|103.63.114.205|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|5|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|6|103.36.10.41|1080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|12|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|103.164.235.105|8087|Indonesia|Serang|PT Bantani Media Utama|
-|15|186.96.68.11|80|Venezuela|Caracas|Gold Data C.A|
-|16|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|17|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|18|72.10.164.178|24893|Canada|Montreal|GloboTech Communications|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|67.43.236.20|18859|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.164.178|18033|Canada|Montreal|GloboTech Communications|
+|14|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|15|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|20|67.43.236.20|32815|Canada|Montreal|GloboTech Communications|
 
 
 
