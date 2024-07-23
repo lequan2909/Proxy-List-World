@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|7|171.228.174.105|10089|Vietnam|Hanoi|Viettel Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|103.132.54.41|8182|Indonesia|Pekalongan|PT. ADEAKSA INDO JAYATAMA|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 |12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|72.10.160.170|22275|Canada|Montreal|GloboTech Communications|
-|15|203.146.170.109|3128|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|16|72.10.160.90|18657|Canada|Montreal|GloboTech Communications|
-|17|113.11.183.15|8082|Indonesia|Purwodadi Grobogan|BIZNET|
-|18|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|14|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|16|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|17|203.146.170.109|3128|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|20|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
