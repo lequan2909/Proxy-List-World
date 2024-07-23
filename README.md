@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|12|190.110.35.104|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|15|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|18|72.10.160.92|2189|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.253|12227|Canada|Montreal|GloboTech Communications|
+|5|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|31.47.54.122|3128|Iran|Tehran|Afranet|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|103.116.82.135|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.164.178|1917|Canada|Montreal|GloboTech Communications|
 
 
 
