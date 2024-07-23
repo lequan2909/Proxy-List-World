@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
-|5|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|12|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|13|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
-|14|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
-|15|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|200.37.187.59|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|114.9.26.110|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|181.78.94.158|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|17|67.43.236.18|22369|Canada|Montreal|GloboTech Communications|
+|18|103.137.110.82|99|Indonesia|Probolinggo|PT. Capoeng Digital Nusantara|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|67.43.236.20|19787|Canada|Montreal|GloboTech Communications|
 
 
 
