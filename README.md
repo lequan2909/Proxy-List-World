@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|8|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|3|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|4|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|11|15.235.171.250|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|12|15.235.171.220|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|67.43.236.22|30877|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|72.10.160.173|4387|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|32019|Canada|Montreal|GloboTech Communications|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|103.137.110.82|99|Indonesia|Probolinggo|PT. Capoeng Digital Nusantara|
-|20|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|10|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|11|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|12|101.51.241.140|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|17|82.197.71.157|3128|United States|Washington|Contabo Asia Private Limited|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
