@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|15.235.171.250|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.160.90|3079|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.94|5273|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.20|18179|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|6107|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|10|152.26.229.42|9443|United States|Huntersville|MCNC|
+|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|72.10.160.94|5273|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|24269|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|29435|Canada|Montreal|GloboTech Communications|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.173|31763|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|18239|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|30819|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|30819|Canada|Montreal|GloboTech Communications|
 
 
 
