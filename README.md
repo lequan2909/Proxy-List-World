@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
-|11|103.82.135.177|7007|Vietnam|Thanh Khê|Cloudfly Corporation|
+|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|9|72.10.160.171|26787|Canada|Montreal|GloboTech Communications|
+|10|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|14|212.237.170.86|80|Germany|Neu-Ulm|SWU TeleNet GmbH|
-|15|72.10.160.90|32831|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|4617|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31377|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31377|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|18277|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|32831|Canada|Montreal|GloboTech Communications|
+|13|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
+|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.164.178|21053|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|28429|Canada|Montreal|GloboTech Communications|
+|17|103.82.135.177|7001|Vietnam|Thanh Khê|Cloudfly Corporation|
+|18|103.234.159.5|8080|India|Bengaluru|MWPL|
+|19|72.10.160.90|28429|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|28429|Canada|Montreal|GloboTech Communications|
 
 
 
