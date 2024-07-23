@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5507** proxies at the latest update. Usable proxies are below.
+> Scraper found **5512** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|54|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|799|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|432|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|382|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3319|✅|
 
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|101.255.169.250|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|17|67.43.227.227|7443|Canada|Montreal|GloboTech Communications|
-|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|19|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|71.142.238.33|8888|United States|Gainesville|AT&T Services, Inc.|
+|12|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|67.43.227.227|23947|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|8119|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|16823|Canada|Montreal|GloboTech Communications|
+|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|67.43.227.227|23947|Canada|Montreal|GloboTech Communications|
+|19|24.204.29.115|8080|United States|Longview|Network IP|
+|20|72.10.160.90|16823|Canada|Montreal|GloboTech Communications|
 
 
 
