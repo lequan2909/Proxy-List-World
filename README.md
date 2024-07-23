@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|19|64.176.81.67|8083|Singapore|Singapore|The Constant Company|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|103.10.71.81|80|Indonesia|Situsaeur|PT Wadma Berkah Sedaya|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|172.183.241.1|8080|United States|Chicago|Microsoft|
+|19|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
