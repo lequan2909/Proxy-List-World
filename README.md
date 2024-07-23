@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.189.123.235|3125|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
 |3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|38.7.1.185|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|11|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|12|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|13|116.105.56.247|10008|Vietnam|Da Lat|Viettel Corporation|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|143.90.226.79|8080|Japan|Chiyoda|SoftBank Corp.|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|72.10.160.92|32511|Canada|Montreal|GloboTech Communications|
 |16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.172|5991|Canada|Montreal|GloboTech Communications|
-|18|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|19|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|72.10.160.92|32511|Canada|Montreal|GloboTech Communications|
+|17|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|67.43.236.20|8961|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|8961|Canada|Montreal|GloboTech Communications|
 
 
 
