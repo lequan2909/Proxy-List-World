@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|35.197.128.73|8888|Singapore|Singapore|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|203.150.128.229|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|16|36.90.92.245|8080|Indonesia|Sambas|PT. Telekomunikasi Indonesia|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|19|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|20|49.248.13.186|8000|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|8|49.248.13.186|9091|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|27.64.18.8|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
