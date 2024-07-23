@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|9|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|171.228.174.105|10089|Vietnam|Hanoi|Viettel Corporation|
-|12|103.76.149.67|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|15.235.171.250|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|72.10.160.90|13167|Canada|Montreal|GloboTech Communications|
-|20|212.19.5.137|3128|Russia|Khabarovsk|JSC "Redcom-lnternet"|
+|8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|9|72.10.160.171|17421|Canada|Montreal|GloboTech Communications|
+|10|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|11|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|14|72.10.160.93|12331|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|7617|Canada|Montreal|GloboTech Communications|
+|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|152.67.8.225|80|India|Mumbai|Oracle Corporation|
 
 
 
