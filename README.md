@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|223.130.160.191|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|5|62.204.42.230|13313|The Netherlands|Naaldwijk|EUROHOSTER Ltd.|
-|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.16.118.166|8080|Indonesia|Madiun|CV Trustnet Media|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|223.130.160.191|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|67.43.227.227|29177|Canada|Montreal|GloboTech Communications|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|17|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|18|72.10.164.178|30513|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|30513|Canada|Montreal|GloboTech Communications|
-|20|163.172.33.137|4671|France|Vitry-sur-Seine|Online S.A.S.|
+|10|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|15|72.10.164.178|25883|Canada|Montreal|GloboTech Communications|
+|16|163.172.33.137|4671|France|Vitry-sur-Seine|Online S.A.S.|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|19|72.10.160.90|32205|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
