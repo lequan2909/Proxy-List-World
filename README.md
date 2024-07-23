@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.235.171.250|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
 |10|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
 |11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|13|72.10.160.174|27543|Canada|Montreal|GloboTech Communications|
+|13|88.211.105.178|800|United Kingdom|Salford|Vaioni Group Ltd|
 |14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|67.43.236.18|23579|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|14287|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|25595|Canada|Montreal|GloboTech Communications|
-|18|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|19|67.43.227.227|2647|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|28509|Canada|Montreal|GloboTech Communications|
+|15|35.209.205.161|8080|United States|Council Bluffs|Google LLC|
+|16|67.43.236.20|28509|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|9835|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.21|6533|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
