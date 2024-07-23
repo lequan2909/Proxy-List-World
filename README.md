@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.174|14965|Canada|Montreal|GloboTech Communications|
-|19|49.12.202.132|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|20|5.196.111.29|20043|France|Gravelines|OVH SAS|
+|12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|16|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|17|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|18|49.12.202.132|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
 
 
 
