@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|15.235.171.250|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |9|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.227.229|20993|Canada|Montreal|GloboTech Communications|
-|12|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|13|67.43.228.254|18477|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|19027|Canada|Montreal|GloboTech Communications|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|72.10.164.178|29913|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|9113|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|9113|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|9113|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|9113|Canada|Montreal|GloboTech Communications|
+|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|13|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|16|88.211.105.178|800|United Kingdom|Salford|Vaioni Group Ltd|
+|17|67.43.227.227|24187|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|24187|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|67.43.227.227|24187|Canada|Montreal|GloboTech Communications|
 
 
 
