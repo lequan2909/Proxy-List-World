@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|11|71.142.238.33|8888|United States|Gainesville|AT&T Services, Inc.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|17|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|18|94.124.16.218|8901|Poland|Warsaw|Tricomp Sp. z. o. o.|
+|19|67.43.228.252|21049|Canada|Montreal|GloboTech Communications|
+|20|18.118.31.131|80|United States|Dublin|Amazon.com, Inc.|
 
 
 
