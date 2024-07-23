@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|67.43.236.20|15271|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.236.20|15271|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|1025|Canada|Montreal|GloboTech Communications|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|72.10.160.91|31749|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1025|Canada|Montreal|GloboTech Communications|
-|18|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|19|181.115.66.232|999|Honduras|Tegucigalpa|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|20|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|9|116.104.188.46|5102|Vietnam|Hanoi|Viettel Corporation|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
