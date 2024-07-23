@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|172.183.241.1|8080|United States|Chicago|Microsoft|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 |4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
+|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
 |9|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|10|67.43.236.20|13971|Canada|Montreal|GloboTech Communications|
-|11|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|72.10.164.178|6107|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|6107|Canada|Montreal|GloboTech Communications|
-|15|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|16|67.43.236.18|30029|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|6107|Canada|Montreal|GloboTech Communications|
-|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.164.178|6107|Canada|Montreal|GloboTech Communications|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
+|11|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|12|67.43.236.20|7339|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|67.43.227.227|23129|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|8979|Canada|Montreal|GloboTech Communications|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|19|72.10.164.178|21425|Canada|Montreal|GloboTech Communications|
+|20|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 
 
 
