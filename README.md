@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|20|72.10.160.94|7983|Canada|Montreal|GloboTech Communications|
+|2|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|16|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|18|159.69.203.183|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|185.53.35.160|8080|Ireland|Dublin|Digiweb ltd|
 
 
 
