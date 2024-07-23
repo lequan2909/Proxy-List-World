@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|5|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|212.19.5.137|3128|Russia|Khabarovsk|JSC "Redcom-lnternet"|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|18|72.10.164.178|8281|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|103.171.244.46|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|9|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|16|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|20|34.140.150.176|3128|Belgium|Brussels|Google LLC|
 
 
 
