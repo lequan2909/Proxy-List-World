@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
 |7|179.49.117.19|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|14|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|18|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|19|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|11|103.132.54.41|8182|Indonesia|Pekalongan|PT. ADEAKSA INDO JAYATAMA|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|19|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
