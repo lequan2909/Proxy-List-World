@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5366** proxies at the latest update. Usable proxies are below.
+> Scraper found **5398** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|54|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|785|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|817|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|506|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3063|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|6|182.253.109.67|8080|Indonesia|Semarang|Biznet Metronet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|9|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|10|190.113.126.199|3128|Costa Rica|San José|Telecable Economico S.A.|
-|11|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
-|14|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|8|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|192.99.169.19|8449|Canada|Beauharnois|OVH SAS|
+|15|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|16|72.10.160.171|11435|Canada|Montreal|GloboTech Communications|
+|17|24.116.218.204|8080|United States|Pascagoula|CABLE ONE, INC.|
+|18|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|89.135.59.71|8090|Hungary|Százhalombatta|Vodafone Hungary Ltd.|
 
 
 
