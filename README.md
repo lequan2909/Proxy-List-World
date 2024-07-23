@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|5|101.51.241.140|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|103.156.16.227|8080|Indonesia|Indramayu|RSTNET|
-|19|72.10.164.178|24419|Canada|Montreal|GloboTech Communications|
-|20|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|8|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|9|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|10|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
