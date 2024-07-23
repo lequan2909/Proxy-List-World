@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|8|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|11|203.150.128.229|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|8|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|9|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|91.185.58.78|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|14|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|72.10.160.90|22027|Canada|Montreal|GloboTech Communications|
-|19|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|20|72.10.164.178|10497|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|72.10.160.90|23399|Canada|Montreal|GloboTech Communications|
+|20|116.106.22.31|10007|Vietnam|Quận Phú Nhuận|Viettel Corporation|
 
 
 
