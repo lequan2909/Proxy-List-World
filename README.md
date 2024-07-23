@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|12|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|13|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|14|213.91.232.94|8080|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|172.183.241.1|8080|United States|Chicago|Microsoft|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
+|14|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|15|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|16|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|172.183.241.1|8080|United States|Chicago|Microsoft|
 
 
 
