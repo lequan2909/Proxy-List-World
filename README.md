@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|72.10.160.90|22105|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|9389|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|16659|Canada|Montreal|GloboTech Communications|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|18|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|181.78.8.154|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.115.20.204|8080|Indonesia|Subang|PMYNET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|8|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|9|67.43.236.20|9389|Canada|Montreal|GloboTech Communications|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|103.142.165.193|58080|India|Bengaluru|All Time Tele Infra Pvt Ltd|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|72.10.160.171|10663|Canada|Montreal|GloboTech Communications|
+|14|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|15|72.10.160.170|10349|Canada|Montreal|GloboTech Communications|
+|16|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|17|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
+|18|72.10.160.170|10349|Canada|Montreal|GloboTech Communications|
+|19|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
 
 
 
