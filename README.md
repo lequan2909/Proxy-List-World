@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|14.225.3.194|3128|Vietnam|Bắc Ninh|Vietnam Posts and Telecommunications Group|
-|8|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|13|67.43.228.250|9707|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|13267|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|13267|Canada|Montreal|GloboTech Communications|
-|16|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|67.43.228.253|13267|Canada|Montreal|GloboTech Communications|
-|18|83.171.93.36|8090|Russia|St Petersburg|PJSC Rostelecom|
-|19|72.10.160.90|25933|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|7451|Canada|Montreal|GloboTech Communications|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|4|66.206.15.148|8136|United States|Los Angeles|Primary|
+|5|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|9|66.206.15.148|8136|United States|Los Angeles|Primary|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.228.253|30151|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|30151|Canada|Montreal|GloboTech Communications|
+|17|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|18|103.248.9.226|8181|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|19|103.171.83.253|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
+|20|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
 
 
 
