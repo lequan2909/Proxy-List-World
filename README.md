@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|103.245.16.222|8888|Indonesia|Jakarta|PT Quantum Tera Network|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.18.77.17|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|67.43.236.20|5027|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|5411|Canada|Montreal|GloboTech Communications|
+|3|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.87.154.214|8118|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|9|103.63.114.207|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
 |14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.228.252|5289|Canada|Montreal|GloboTech Communications|
+|15|135.148.100.78|48149|United States|Reston|OVH SAS|
+|16|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
 |17|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|18|72.10.160.90|20979|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|2309|Canada|Montreal|GloboTech Communications|
 |19|37.148.212.219|3128|Turkey|Istanbul|Cizgi Telekom Network|
 |20|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 
