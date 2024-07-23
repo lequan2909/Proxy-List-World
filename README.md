@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|71.142.238.33|8888|United States|Gainesville|AT&T Services, Inc.|
-|12|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|67.43.227.227|23947|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|8119|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|16823|Canada|Montreal|GloboTech Communications|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|67.43.227.227|23947|Canada|Montreal|GloboTech Communications|
-|19|24.204.29.115|8080|United States|Longview|Network IP|
-|20|72.10.160.90|16823|Canada|Montreal|GloboTech Communications|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|6|35.197.128.73|8888|Singapore|Singapore|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|18.118.31.131|80|United States|Dublin|Amazon.com, Inc.|
+|9|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|103.234.159.5|8080|India|Bengaluru|MWPL|
+|20|67.43.227.228|8119|Canada|Montreal|GloboTech Communications|
 
 
 
