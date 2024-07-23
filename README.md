@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|171.250.86.190|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|171.227.67.64|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|11|203.150.128.229|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|36.90.92.245|8080|Indonesia|Sambas|PT. Telekomunikasi Indonesia|
-|17|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|49.248.13.186|4726|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|4|35.197.128.73|8888|Singapore|Singapore|Google LLC|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|16|72.10.164.178|17203|Canada|Montreal|GloboTech Communications|
+|17|171.227.67.64|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|72.10.164.178|17203|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|17203|Canada|Montreal|GloboTech Communications|
 
 
 
