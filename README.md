@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|11|135.148.100.78|48149|United States|Reston|OVH SAS|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|15|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|67.43.236.18|18815|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|32153|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|24279|Canada|Montreal|GloboTech Communications|
-|20|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|3|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|4|135.148.100.78|48149|United States|Reston|OVH SAS|
+|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|6|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|10|135.148.100.78|48149|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|17|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|18|38.156.74.19|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
 
 
 
