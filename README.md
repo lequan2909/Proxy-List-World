@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|12|124.13.232.66|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|13|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|192.145.228.209|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|15|72.10.160.90|24677|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|20423|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|20423|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|20059|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|20003|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|9|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|72.10.160.90|29417|Canada|Montreal|GloboTech Communications|
+|13|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|14|39.129.73.6|443|China|Yuxi|China Mobile|
+|15|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|67.43.236.18|15267|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|20003|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|16995|Canada|Montreal|GloboTech Communications|
+|19|103.234.159.5|8080|India|Bengaluru|MWPL|
+|20|116.104.168.103|5020|Vietnam|Tuyên Quang|Viettel Corporation|
 
 
 
