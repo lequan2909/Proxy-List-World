@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|49.248.13.186|9091|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|51.15.112.97|3128|The Netherlands|Amsterdam|SCALEWAY|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|49.248.13.186|4726|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|181.115.66.234|999|Honduras|Tegucigalpa|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|16|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
 |17|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|18|72.10.164.178|8291|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|21355|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|6749|Canada|Montreal|GloboTech Communications|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|35.197.128.73|8888|Singapore|Singapore|Google LLC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
