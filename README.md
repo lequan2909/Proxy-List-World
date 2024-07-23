@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|67.43.236.19|16041|Canada|Montreal|GloboTech Communications|
-|15|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.236.18|8451|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1915|Canada|Montreal|GloboTech Communications|
+|8|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|172.183.241.1|8080|United States|Chicago|Microsoft|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|19|67.43.236.19|16041|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
