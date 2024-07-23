@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|116.105.56.247|10009|Vietnam|Da Lat|Viettel Corporation|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|5|103.76.151.74|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|116.105.56.247|10003|Vietnam|Da Lat|Viettel Corporation|
+|14|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
+|17|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|18|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|19|171.227.67.64|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
 
 
 
