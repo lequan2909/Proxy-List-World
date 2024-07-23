@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|103.125.174.49|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.197.128.73|8888|Singapore|Singapore|Google LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|185.53.104.96|8090|Russia|Moscow|LLC Flex|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|67.43.236.20|5571|Canada|Montreal|GloboTech Communications|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|19|72.10.160.171|22225|Canada|Montreal|GloboTech Communications|
-|20|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|16|67.43.236.20|22323|Canada|Montreal|GloboTech Communications|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|20|67.43.227.227|1125|Canada|Montreal|GloboTech Communications|
 
 
 
