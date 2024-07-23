@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|49.12.202.132|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|72.10.164.178|2405|Canada|Montreal|GloboTech Communications|
-|13|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|14|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|15|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|16|72.10.164.178|2405|Canada|Montreal|GloboTech Communications|
-|17|49.248.13.186|3128|India|Mumbai|Tata Teleservices (Maharashtra) Limited|
-|18|72.10.160.171|20201|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|17221|Canada|Montreal|GloboTech Communications|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|6|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|7|67.217.228.247|8081|United States|Los Angeles|BL Networks|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|13|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|14|49.12.202.132|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|17|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|18|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
+|19|72.10.164.178|7865|Canada|Montreal|GloboTech Communications|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
