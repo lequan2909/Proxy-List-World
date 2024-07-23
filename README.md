@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|5|103.132.54.41|8182|Indonesia|Pekalongan|PT. ADEAKSA INDO JAYATAMA|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|10|72.10.160.91|6865|Canada|Montreal|GloboTech Communications|
+|7|103.169.189.125|3125|Indonesia|Magetan|Sarana Media Cemerlang|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 |11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|72.10.164.178|1105|Canada|Montreal|GloboTech Communications|
-|13|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|14|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
-|15|72.10.164.178|1105|Canada|Montreal|GloboTech Communications|
-|16|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|17|103.65.238.225|8181|Indonesia|Medan|PT Media Alvina Sejati|
-|18|72.10.160.90|16591|Canada|Montreal|GloboTech Communications|
-|19|103.191.250.162|8083|Indonesia|Batam|PT Mulia Batam Net|
-|20|67.43.228.253|17111|Canada|Montreal|GloboTech Communications|
+|12|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|13|72.10.164.178|1105|Canada|Montreal|GloboTech Communications|
+|14|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|16|179.49.117.19|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
+|17|72.10.164.178|1105|Canada|Montreal|GloboTech Communications|
+|18|82.197.71.157|3128|United States|Washington|Contabo Asia Private Limited|
+|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.160.90|17551|Canada|Montreal|GloboTech Communications|
 
 
 
