@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|71.142.238.33|8888|United States|Gainesville|AT&T Services, Inc.|
+|8|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
 |9|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|10|190.113.126.199|3128|Costa Rica|San José|Telecable Economico S.A.|
-|11|193.46.56.112|8888|Türkiye|Izmir|Stark Industries Solutions LTD|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|14|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
-|15|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|12|187.190.0.240|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|15|190.113.126.199|3128|Costa Rica|San José|Telecable Economico S.A.|
+|16|180.24.195.13|8080|Japan|Fukuyama|NTT Communications Corporation|
+|17|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|18|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|19|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
 |20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
