@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|3|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|10|72.10.164.178|3011|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|10107|Canada|Montreal|GloboTech Communications|
+|12|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|217.160.74.198|3128|Germany|Karlsruhe|IONOS SE|
+|14|72.10.164.178|3011|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.252|9049|Canada|Montreal|GloboTech Communications|
 |16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|17|72.10.164.178|25201|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15103|Canada|Montreal|GloboTech Communications|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|72.10.164.178|25201|Canada|Montreal|GloboTech Communications|
+|17|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|18|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|19|72.10.160.90|16251|Canada|Montreal|GloboTech Communications|
+|20|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
 
 
 
