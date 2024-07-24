@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4883** proxies at the latest update. Usable proxies are below.
+> Scraper found **4904** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|99|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|740|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|366|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2720|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.236.20|9929|Canada|Montreal|GloboTech Communications|
-|14|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|15|72.10.160.171|7657|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|18|41.193.81.7|32650|South Africa|Cape Town|Vox Telecom Ltd|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
+|6|218.145.131.182|443|South Korea|Seocho-gu|Korea Telecom|
+|7|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.158.97.203|3125|Indonesia|Bandung|PT Dinar Wahana Gemilang|
+|13|124.217.100.104|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|15|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|19|72.10.160.173|27735|Canada|Montreal|GloboTech Communications|
+|20|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
 
 
 
