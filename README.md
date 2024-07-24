@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|8|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|5.78.114.89|3128|United States|Portland|Hetzner Online GmbH|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|67.43.236.18|10741|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|37.148.212.219|3128|Turkey|Istanbul|Cizgi Telekom Network|
-|20|67.43.236.18|10741|Canada|Montreal|GloboTech Communications|
+|6|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8080|United States|Chicago|Microsoft|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|5.78.114.89|3128|United States|Portland|Hetzner Online GmbH|
+|13|72.10.164.178|4883|Canada|Montreal|GloboTech Communications|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|72.10.164.178|4883|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|13455|Canada|Montreal|GloboTech Communications|
+|17|37.148.212.219|3128|Turkey|Istanbul|Cizgi Telekom Network|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
