@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|11|171.6.149.228|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
 |12|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|13|67.43.228.253|22515|Canada|Montreal|GloboTech Communications|
-|14|186.166.142.82|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.90|19539|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|7893|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|29021|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|29021|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|7893|Canada|Montreal|GloboTech Communications|
+|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|27.147.139.225|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|20|67.43.228.251|13957|Canada|Montreal|GloboTech Communications|
 
 
 
