@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|67.43.236.20|12741|Canada|Montreal|GloboTech Communications|
-|9|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|67.43.227.226|31469|Canada|Montreal|GloboTech Communications|
-|14|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|15|72.10.164.178|21881|Canada|Montreal|GloboTech Communications|
-|16|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|17|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|18|72.10.160.174|1779|Canada|Montreal|GloboTech Communications|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|88.255.106.27|8080|Türkiye|Istanbul|TurkTelekom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|103.112.45.46|8080|Indonesia|Bandung|PT.Globalnet Multi Data|
+|12|223.130.160.191|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|13|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|67.43.236.20|2969|Canada|Montreal|GloboTech Communications|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|20|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
 
 
 
