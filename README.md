@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|4|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|67.43.236.20|1427|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|26089|Canada|Montreal|GloboTech Communications|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|72.10.160.170|26089|Canada|Montreal|GloboTech Communications|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
 |15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|16843|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|8425|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|16843|Canada|Montreal|GloboTech Communications|
-|19|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|72.10.160.91|8425|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|1427|Canada|Montreal|GloboTech Communications|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|72.10.164.178|1843|Canada|Montreal|GloboTech Communications|
+|19|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|20|72.10.164.178|1843|Canada|Montreal|GloboTech Communications|
 
 
 
