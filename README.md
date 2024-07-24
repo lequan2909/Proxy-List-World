@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|4|103.165.157.79|8090|Indonesia|Singosari|MEGADATA-ISP|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|8|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|72.10.164.178|5131|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|10705|Canada|Montreal|GloboTech Communications|
-|14|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|15|39.129.73.6|443|China|Yuxi|China Mobile|
-|16|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|67.43.227.227|19781|Canada|Montreal|GloboTech Communications|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|67.43.228.251|1435|Canada|Montreal|GloboTech Communications|
-|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|12|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
+|13|67.43.227.227|1653|Canada|Montreal|GloboTech Communications|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|72.10.164.178|26365|Canada|Montreal|GloboTech Communications|
+|16|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|18|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|103.163.134.95|8090|Indonesia|Banyuwangi|PROVITEL|
 
 
 
