@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.217.228.247|8081|United States|Los Angeles|BL Networks|
-|15|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|72.10.160.170|14927|Canada|Montreal|GloboTech Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|72.10.164.178|2457|Canada|Montreal|GloboTech Communications|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|67.217.228.247|8081|United States|Los Angeles|BL Networks|
+|10|72.10.164.178|2457|Canada|Montreal|GloboTech Communications|
+|11|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|72.10.164.178|2457|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|2457|Canada|Montreal|GloboTech Communications|
+|15|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|72.10.160.90|1999|Canada|Montreal|GloboTech Communications|
+|17|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|18|67.43.236.20|19785|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|24715|Canada|Montreal|GloboTech Communications|
 |20|72.10.164.178|2457|Canada|Montreal|GloboTech Communications|
 
 
