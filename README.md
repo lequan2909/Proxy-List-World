@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|8|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|9|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |11|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|12|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|67.43.236.20|7019|Canada|Montreal|GloboTech Communications|
-|15|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|16|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|17|67.43.227.227|4669|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|2573|Canada|Montreal|GloboTech Communications|
-|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|72.10.160.90|3017|Canada|Montreal|GloboTech Communications|
+|13|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|14|67.43.236.22|25353|Canada|Montreal|GloboTech Communications|
+|15|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|83.171.93.36|8090|Russia|St Petersburg|PJSC Rostelecom|
+|20|113.11.183.15|8082|Indonesia|Purwodadi Grobogan|BIZNET|
 
 
 
