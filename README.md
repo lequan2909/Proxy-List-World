@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|49.48.101.247|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|122.53.75.222|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|10|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|187.245.214.7|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|15|68.183.149.126|11002|United States|Clifton|DigitalOcean, LLC|
-|16|156.67.214.186|3128|Singapore|Singapore|HOSTINGER SG|
-|17|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|18|72.10.160.90|7033|Canada|Montreal|GloboTech Communications|
-|19|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|181.23.233.11|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|11|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|102.216.74.209|8888|South Africa|Vredenburg|Rapid Networks Sub2|
+|14|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.151.35.164|1111|Indonesia|Tangerang|GAYUHNET|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|172.183.241.1|8080|United States|Chicago|Microsoft|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
