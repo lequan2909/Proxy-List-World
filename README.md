@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|6|185.243.240.29|18080|Hong Kong|Hong Kong|Cloudie Limited|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|72.10.160.171|32065|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26365|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|3669|Canada|Montreal|GloboTech Communications|
-|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|172.183.241.1|8080|United States|Chicago|Microsoft|
-|18|72.10.160.90|28911|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|18|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
