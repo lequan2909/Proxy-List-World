@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|10|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|11|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|12|67.43.236.20|7619|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|19911|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|17149|Canada|Montreal|GloboTech Communications|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.170|3277|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|7619|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19911|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|8183|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19911|Canada|Montreal|GloboTech Communications|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|11|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|14|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|15|72.10.160.174|2387|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|21255|Canada|Montreal|GloboTech Communications|
+|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|67.43.236.20|21255|Canada|Montreal|GloboTech Communications|
+|19|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|72.10.164.178|31985|Canada|Montreal|GloboTech Communications|
 
 
 
