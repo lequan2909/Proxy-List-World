@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|7|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|72.10.160.170|12723|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|27589|Canada|Montreal|GloboTech Communications|
-|12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|14|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|15|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|16|72.10.160.90|19509|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|9|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|10|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|11|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|12|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|13|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|15|72.10.164.178|13137|Canada|Montreal|GloboTech Communications|
+|16|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
