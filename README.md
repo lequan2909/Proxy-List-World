@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|2|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |12|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|13|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|72.10.164.178|27445|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|5475|Canada|Montreal|GloboTech Communications|
-|17|223.25.110.228|3125|Indonesia|Malang|SinergiNet|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|20|67.43.236.20|7593|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|15|72.10.160.170|5475|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.174|17169|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.172|31311|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|5731|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|28051|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|24335|Canada|Montreal|GloboTech Communications|
 
 
 
