@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|8|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|9|185.243.240.29|18080|Hong Kong|Hong Kong|Cloudie Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|6|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|9|173.212.228.57|3128|Germany|Nuremberg|Contabo GmbH|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|12|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|11|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|181.78.75.84|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
 |17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |19|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|20|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
