@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|18|103.67.78.186|3128|Indonesia|Cileunyi|PT Cloud Hosting Indonesia|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|8|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.191.250.106|8083|Indonesia|Batam|PT Mulia Batam Net|
+|11|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|172.183.241.1|8080|United States|Chicago|Microsoft|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|16|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|17|187.1.181.124|23500|Brazil|Belo Horizonte|Century Telecom Ltda|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|38.7.101.234|8080|Peru|Arequipa|Fiber Fix|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
