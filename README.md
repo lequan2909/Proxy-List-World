@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.232.72|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|128.199.190.53|9090|Singapore|Singapore|DigitalOcean, LLC|
-|9|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|178.128.96.229|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|5.196.111.29|20248|France|Gravelines|OVH SAS|
-|18|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|19|72.10.164.178|33061|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|1891|Canada|Montreal|GloboTech Communications|
+|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|12|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|218.145.131.182|443|South Korea|Seocho-gu|Korea Telecom|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
 
 
 
