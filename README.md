@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|6|72.10.160.173|5643|Canada|Montreal|GloboTech Communications|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|10|135.148.100.78|48149|United States|Reston|OVH SAS|
 |11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|16|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|17|72.10.160.171|22349|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|6939|Canada|Montreal|GloboTech Communications|
-|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.164.178|13349|Canada|Montreal|GloboTech Communications|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
 
 
 
