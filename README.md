@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|5|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|6|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|67.43.227.227|1397|Canada|Montreal|GloboTech Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.236.20|15393|Canada|Montreal|GloboTech Communications|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|67.43.227.227|1397|Canada|Montreal|GloboTech Communications|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.228.251|6249|Canada|Montreal|GloboTech Communications|
-|17|38.252.209.12|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|18|72.10.160.170|2319|Canada|Montreal|GloboTech Communications|
-|19|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|20|67.43.228.253|30275|Canada|Montreal|GloboTech Communications|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.236.20|15393|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|11725|Canada|Montreal|GloboTech Communications|
+|16|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|67.43.227.227|11725|Canada|Montreal|GloboTech Communications|
+|20|171.237.62.47|10002|Vietnam|Hanoi|Viettel Corporation|
 
 
 
