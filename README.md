@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|6|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|5|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|38.7.131.1|999|Dominican Republic|Esperanza|SERVICIOS NUÑEZ EIRL|
-|9|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|113.11.183.15|8082|Indonesia|Purwodadi Grobogan|BIZNET|
-|16|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|72.10.164.178|5937|Canada|Montreal|GloboTech Communications|
-|19|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|20|72.10.160.172|22565|Canada|Montreal|GloboTech Communications|
+|8|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|68.183.149.126|11002|United States|Clifton|DigitalOcean, LLC|
+|12|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|14|103.191.250.162|8083|Indonesia|Batam|PT Mulia Batam Net|
+|15|103.133.24.50|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|45.225.123.20|40033|Brazil|Cícero Dantas|Centrosulnet Informatica Eireli|
+|17|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|38.188.249.104|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
 
 
 
