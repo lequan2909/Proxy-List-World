@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|126.209.9.26|8080|Philippines|Makati City|Infinivan Incorporated|
-|9|37.32.46.104|8008|Iran|Jahrom|Ayandeh Gostar Bastak Co. (Private Joint Stock)|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|9|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|15|51.158.191.18|3128|France|Paris|Online S.A.S.|
-|16|51.15.81.134|3128|The Netherlands|Amsterdam|SCALEWAY|
-|17|51.15.113.140|3128|The Netherlands|Amsterdam|SCALEWAY|
-|18|51.158.181.100|3128|France|Paris|Online S.A.S.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|16|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|17|51.158.191.18|3128|France|Paris|Online S.A.S.|
+|18|51.15.81.134|3128|The Netherlands|Amsterdam|SCALEWAY|
 |19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|72.10.160.91|31085|Canada|Montreal|GloboTech Communications|
+|20|51.15.102.243|3128|The Netherlands|Amsterdam|SCALEWAY|
 
 
 
