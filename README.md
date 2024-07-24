@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|20.118.221.52|3128|United States|Des Moines|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|13|103.171.244.46|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|14|181.176.71.193|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|67.43.227.228|30045|Canada|Montreal|GloboTech Communications|
-|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.91|32987|Canada|Montreal|GloboTech Communications|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|39.129.73.6|443|China|Yuxi|China Mobile|
+|14|67.43.228.253|5637|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|12487|Canada|Montreal|GloboTech Communications|
+|16|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|17|67.43.236.18|31849|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|9929|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|72.10.164.178|14433|Canada|Montreal|GloboTech Communications|
 
 
