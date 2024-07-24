@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|185.243.240.29|18080|Hong Kong|Hong Kong|Cloudie Limited|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|14|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|15|188.136.142.97|7060|Iran|Isfahan|Ariana Gostar Spadana|
-|16|67.43.236.20|32331|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|5021|Canada|Montreal|GloboTech Communications|
-|18|201.168.199.7|999|Mexico|Juventino Rosas|Marcatel Com, S.A. de C.V.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.160.90|17369|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|185.243.240.29|18080|Hong Kong|Hong Kong|Cloudie Limited|
+|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|17|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|19|67.43.236.20|32331|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
