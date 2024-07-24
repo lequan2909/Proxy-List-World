@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|175.100.91.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|212.237.170.86|80|Germany|Neu-Ulm|SWU TeleNet GmbH|
+|7|49.48.101.247|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|9|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
-|18|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|20|72.10.164.178|13239|Canada|Montreal|GloboTech Communications|
+|17|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|18|72.10.160.90|17121|Canada|Montreal|GloboTech Communications|
+|19|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
