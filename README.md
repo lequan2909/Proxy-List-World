@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|27.76.200.227|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.236.20|19239|Canada|Montreal|GloboTech Communications|
-|16|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|17|37.148.212.219|3128|Turkey|Istanbul|Cizgi Telekom Network|
-|18|67.43.228.250|23559|Canada|Montreal|GloboTech Communications|
-|19|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|20|27.25.137.242|8888|China|Wulipu|China Telecom|
+|6|27.76.200.227|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|67.43.236.20|26127|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|37.148.212.219|3128|Turkey|Istanbul|Cizgi Telekom Network|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|67.43.228.253|14181|Canada|Montreal|GloboTech Communications|
+|19|27.25.137.242|8888|China|Wulipu|China Telecom|
+|20|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
 
 
 
