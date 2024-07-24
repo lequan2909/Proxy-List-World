@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|11|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|67.43.227.227|13661|Canada|Montreal|GloboTech Communications|
-|18|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|72.10.164.178|14899|Canada|Montreal|GloboTech Communications|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|72.10.164.178|5349|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|14343|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
