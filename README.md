@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|223.130.160.191|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|3|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|202.191.123.228|58080|Bangladesh|Dhaka|Bijoy Online Limited|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|188.132.222.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|121.172.52.202|3128|South Korea|Incheon|Korea Telecom|
-|17|67.217.228.247|3128|United States|Los Angeles|BL Networks|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|6|67.217.228.247|3128|United States|Los Angeles|BL Networks|
+|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|72.10.164.178|22931|Canada|Montreal|GloboTech Communications|
+|12|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|13|72.10.164.178|22931|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|22931|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|72.10.160.170|23843|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|20737|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
 
 
 
