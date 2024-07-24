@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|1|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|72.10.164.178|10869|Canada|Montreal|GloboTech Communications|
-|11|202.51.121.59|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|12|72.10.160.93|6849|Canada|Montreal|GloboTech Communications|
-|13|172.183.241.1|8080|United States|Chicago|Microsoft|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|67.43.227.227|1561|Canada|Montreal|GloboTech Communications|
-|16|202.179.184.66|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
-|17|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|5|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.10.160.93|6849|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|8351|Canada|Montreal|GloboTech Communications|
+|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|172.183.241.1|8080|United States|Chicago|Microsoft|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|72.10.160.174|1779|Canada|Montreal|GloboTech Communications|
+|17|200.124.166.13|3128|Brazil|Recife|Nexus Telecom|
+|18|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|19|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|67.43.228.250|19739|Canada|Montreal|GloboTech Communications|
 
 
 
