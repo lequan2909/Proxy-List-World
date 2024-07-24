@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|206.189.33.85|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.83.97.46|7777|Indonesia|Yogyakarta|PT. Foxline Mediadata Indonusa|
-|11|172.183.241.1|8080|United States|Chicago|Microsoft|
-|12|200.37.253.75|999|Peru|Pampa Cangallo|Telefonica del Peru S.A.A.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.63.114.205|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|149.11.58.226|3128|France|Toulouse|Cogent Communications|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.26.110.202|84|India|Mayiladuthurai|Niss Networks|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|18|67.43.227.227|1969|Canada|Montreal|GloboTech Communications|
-|19|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|19|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|20|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
 
 
 
