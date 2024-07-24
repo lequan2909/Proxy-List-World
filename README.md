@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
-|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|212.19.5.137|3128|Russia|Khabarovsk|JSC "Redcom-lnternet"|
-|17|72.10.160.170|13767|Canada|Montreal|GloboTech Communications|
-|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|19|14.225.3.194|3128|Vietnam|Bắc Ninh|Vietnam Posts and Telecommunications Group|
-|20|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|14.225.3.194|3128|Vietnam|Bắc Ninh|Vietnam Posts and Telecommunications Group|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|109.202.11.44|3129|Russia|Novosibirsk|JSC Avantel|
+|19|72.10.160.171|2651|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|28523|Canada|Montreal|GloboTech Communications|
 
 
 
