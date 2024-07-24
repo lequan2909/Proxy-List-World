@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|8|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
 |10|72.10.160.91|2795|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|13|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|14|72.10.160.173|7853|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.94|28235|Canada|Montreal|GloboTech Communications|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|67.43.227.227|20593|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|16037|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|6055|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|6055|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|15|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|72.10.160.173|7853|Canada|Montreal|GloboTech Communications|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|67.43.227.227|20593|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|16037|Canada|Montreal|GloboTech Communications|
 
 
 
