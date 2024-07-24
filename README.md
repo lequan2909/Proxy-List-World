@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|6|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|9|72.10.164.178|32115|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|32115|Canada|Montreal|GloboTech Communications|
-|11|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|5|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|6|72.10.164.178|6025|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|6025|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|10|72.10.160.90|25131|Canada|Montreal|GloboTech Communications|
+|11|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 |12|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 |13|72.10.160.173|27183|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|18617|Canada|Montreal|GloboTech Communications|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|72.10.160.90|30163|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|11341|Canada|Montreal|GloboTech Communications|
-|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.160.92|30151|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|32115|Canada|Montreal|GloboTech Communications|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|172.183.241.1|8080|United States|Chicago|Microsoft|
+|16|72.10.164.178|6025|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.92|24751|Canada|Montreal|GloboTech Communications|
+|18|180.179.35.244|9889|India|Mumbai|NetMagic Solutions Pvt Ltd|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
