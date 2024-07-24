@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|6|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|7|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|8|72.10.164.178|15583|Canada|Montreal|GloboTech Communications|
+|4|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|5|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|6|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
 |9|126.209.9.26|8080|Philippines|Makati City|Infinivan Incorporated|
-|10|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|11|72.10.164.178|15583|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|15583|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|15583|Canada|Montreal|GloboTech Communications|
-|14|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|15|72.10.164.178|15583|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1541|Canada|Montreal|GloboTech Communications|
-|17|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|18|72.10.160.90|1335|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|19929|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15583|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|4077|Canada|Montreal|GloboTech Communications|
+|11|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|12|72.10.164.178|4077|Canada|Montreal|GloboTech Communications|
+|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|14|72.10.164.178|4077|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|1335|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|4077|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|21507|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|4077|Canada|Montreal|GloboTech Communications|
+|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 
 
 
