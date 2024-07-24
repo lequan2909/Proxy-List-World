@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|135.148.100.78|48149|United States|Reston|OVH SAS|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|10|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|15|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|67.43.228.253|4943|Canada|Montreal|GloboTech Communications|
-|19|20.190.104.113|80|Australia|Melbourne|Microsoft Corporation|
-|20|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|10|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
