@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|135.148.100.78|48149|United States|Reston|OVH SAS|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|12|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|13|168.194.169.101|999|Peru|Lima|FASTNET|
+|14|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|45.142.212.228|3128|Moldova|Chisinau|Stark Industries Solutions LTD|
 
 
 
