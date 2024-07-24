@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|72.10.164.178|7513|Canada|Montreal|GloboTech Communications|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|72.10.160.170|10169|Canada|Montreal|GloboTech Communications|
-|17|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|18|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|19|67.43.236.20|24275|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|24275|Canada|Montreal|GloboTech Communications|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|72.10.164.178|2899|Canada|Montreal|GloboTech Communications|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|72.10.164.178|2899|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
