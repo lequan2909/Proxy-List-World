@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|10|217.66.31.176|8089|Russia|Kazan'|"MTS" OJSC|
 |11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.108.190.42|999|Venezuela|Guarenas|TELECOMUNICACIONES RHJ, C. A.|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|17|72.10.160.91|12025|Canada|Montreal|GloboTech Communications|
-|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|19|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|20|72.10.160.170|8707|Canada|Montreal|GloboTech Communications|
+|12|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|16|72.10.160.91|15559|Canada|Montreal|GloboTech Communications|
+|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|20|72.10.160.94|21071|Canada|Montreal|GloboTech Communications|
 
 
 
