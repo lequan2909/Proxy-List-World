@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|7|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8080|United States|Chicago|Microsoft|
-|11|23.134.91.73|3128|France|Paris|GTHost|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|20.212.248.9|8081|Singapore|Singapore|Microsoft Corporation|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|72.10.160.90|14773|Canada|Montreal|GloboTech Communications|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|20.212.248.9|8081|Singapore|Singapore|Microsoft Corporation|
+|16|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
