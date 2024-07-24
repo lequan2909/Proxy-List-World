@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|145.40.73.102|10009|Singapore|Singapore|Packet Host, Inc.|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|67.43.236.19|12955|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|21007|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|22227|Canada|Montreal|GloboTech Communications|
-|17|117.68.38.137|33333|China|Hefei|China Telecom|
-|18|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|72.10.164.178|19343|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|21007|Canada|Montreal|GloboTech Communications|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|145.40.73.102|10009|Singapore|Singapore|Packet Host, Inc.|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|72.10.160.90|2153|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.236.20|21687|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|19343|Canada|Montreal|GloboTech Communications|
 
 
 
