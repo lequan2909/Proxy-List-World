@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|124.243.139.146|3128|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|67.43.236.18|3141|Canada|Montreal|GloboTech Communications|
-|13|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|72.10.160.170|3597|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|9325|Canada|Montreal|GloboTech Communications|
-|18|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|19|67.43.236.20|9325|Canada|Montreal|GloboTech Communications|
-|20|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|8|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|38.188.249.41|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|14|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|17|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|18|49.147.102.51|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
