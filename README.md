@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|54.183.41.1|80|United States|San Jose|Amazon.com, Inc.|
-|8|183.88.241.167|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|185.243.240.29|18080|Hong Kong|Hong Kong|Cloudie Limited|
-|11|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|49.48.42.65|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|14|172.183.241.1|8080|United States|Chicago|Microsoft|
-|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|72.10.164.178|26501|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26501|Canada|Montreal|GloboTech Communications|
-|20|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|185.243.240.29|18080|Hong Kong|Hong Kong|Cloudie Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|13|212.19.5.137|3128|Russia|Khabarovsk|JSC "Redcom-lnternet"|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|136.226.255.23|10499|India|Mumbai|ZSCALER, INC.|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
