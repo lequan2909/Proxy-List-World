@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|8|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|9|152.26.229.42|9443|United States|Huntersville|MCNC|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|14|72.10.164.178|2793|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|25633|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|31621|Canada|Montreal|GloboTech Communications|
-|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|72.10.164.178|2793|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1541|Canada|Montreal|GloboTech Communications|
+|7|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|135.148.233.152|3129|United States|Reston|OVH SAS|
+|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|18|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|19|45.236.106.243|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
 
 
 
