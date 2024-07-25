@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.140.51.69|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|2|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|181.78.13.66|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|5|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|6|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|18|135.148.233.152|7777|United States|Reston|OVH SAS|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 
 
 
