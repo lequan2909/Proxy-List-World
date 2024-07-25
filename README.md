@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|6|172.81.56.91|80|United States|Tampa|Solid Systems LLC|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|135.148.233.152|3129|United States|Reston|OVH SAS|
-|11|135.148.233.152|3129|United States|Reston|OVH SAS|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|72.10.164.178|5893|Canada|Montreal|GloboTech Communications|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|67.43.236.20|15867|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|26337|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|5893|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.254|14835|Canada|Montreal|GloboTech Communications|
-|20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|103.160.69.97|8009|Indonesia|Jakarta|PT Gayatri Lintas Nusantara|
+|12|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|13|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|14|72.10.164.178|8053|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|8547|Canada|Montreal|GloboTech Communications|
+|16|105.184.246.32|8080|South Africa|Pretoria|Telkom SA Ltd|
+|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
