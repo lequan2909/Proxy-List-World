@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|135.148.171.194|18080|United States|Reston|OVH SAS|
 |6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|134.35.191.44|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|187.79.146.98|8080|Brazil|São Luís|V tal|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
-|14|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|72.10.160.171|24549|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|1551|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|10477|Canada|Montreal|GloboTech Communications|
+|7|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|177.93.37.35|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|15|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
+|16|72.10.160.171|24549|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.93|1551|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.172|28181|Canada|Montreal|GloboTech Communications|
+|19|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|20|72.10.160.92|14507|Canada|Montreal|GloboTech Communications|
 
 
 
