@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|11|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.158.121.66|1080|Indonesia|Indramayu|CDN|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.173|31597|Canada|Montreal|GloboTech Communications|
-|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.164.178|6397|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|15|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
+|16|72.10.164.178|28463|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
