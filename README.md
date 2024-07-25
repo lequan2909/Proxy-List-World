@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|103.167.170.210|7777|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|101.255.210.18|8181|Indonesia|Jakarta|PT Remala Abadi|
+|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|12|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
+|13|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|14|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
+|15|103.167.5.14|8080|Indonesia|Jakarta|PT iForte Global Internet|
 |16|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
 |17|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|19|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|185.53.104.96|8090|Russia|Moscow|LLC Flex|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|45.228.233.94|999|Guatemala|Guatemala City|Infinitum S.A.|
+|20|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
 
 
 
