@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.83.178.46|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|185.53.104.96|8090|Russia|Moscow|LLC Flex|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|10|171.249.173.171|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
 |11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|180.179.35.244|9889|India|Mumbai|NetMagic Solutions Pvt Ltd|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|13|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.167.170.210|7777|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|16|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|15|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 |17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|20|135.148.233.152|3129|United States|Reston|OVH SAS|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
