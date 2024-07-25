@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|5|178.57.123.118|3128|Russia|Yaroslavl|Sever Telecom JSC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|135.148.233.152|7777|United States|Reston|OVH SAS|
-|11|103.172.70.138|1111|Indonesia|Sukabumi|AZNET|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|157.90.244.178|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|15|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
-|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|12|135.148.233.152|7777|United States|Reston|OVH SAS|
+|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|15|103.27.22.65|32650|Pakistan|Lahore|Supernet|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|18|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
+|19|89.114.185.185|8080|Portugal|Porto|Vodafone Portugal|
+|20|67.43.227.227|29767|Canada|Montreal|GloboTech Communications|
 
 
 
