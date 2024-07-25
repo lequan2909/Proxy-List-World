@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|110.175.188.6|8080|Australia|Melbourne|TPG Internet Pty Ltd|
-|14|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
-|15|72.10.164.178|25935|Canada|Montreal|GloboTech Communications|
-|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|17|72.10.164.178|25935|Canada|Montreal|GloboTech Communications|
-|18|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|201.168.199.7|999|Mexico|Juventino Rosas|Marcatel Com, S.A. de C.V.|
+|15|204.199.202.132|999|Mexico|Teotihuacán|Level 3 Communications, Inc.|
+|16|14.164.216.174|8080|Vietnam|Can Tho|VNPT-VNNIC|
+|17|135.148.233.152|7777|United States|Reston|OVH SAS|
+|18|72.10.164.178|23923|Canada|Montreal|GloboTech Communications|
 |19|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|20|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|20|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
