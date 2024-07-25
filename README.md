@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|11|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|72.10.164.178|18325|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|18325|Canada|Montreal|GloboTech Communications|
-|18|188.125.167.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|188.244.38.227|7999|Russia|Moscow|2COM|
+|14|72.10.164.178|30021|Canada|Montreal|GloboTech Communications|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|72.10.160.90|3995|Canada|Montreal|GloboTech Communications|
+|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|171.248.207.94|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |19|72.10.160.90|3995|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|18325|Canada|Montreal|GloboTech Communications|
+|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
