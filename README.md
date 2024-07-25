@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|10|72.10.164.178|7079|Canada|Montreal|GloboTech Communications|
-|11|109.202.11.44|3129|Russia|Novosibirsk|JSC Avantel|
-|12|67.43.236.20|4897|Canada|Montreal|GloboTech Communications|
-|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|14|72.10.164.178|7079|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|4897|Canada|Montreal|GloboTech Communications|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|18|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|67.43.228.253|25809|Canada|Montreal|GloboTech Communications|
+|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|114.9.27.14|3127|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|11|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|72.10.160.90|26105|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|23241|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
