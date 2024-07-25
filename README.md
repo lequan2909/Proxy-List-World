@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|15|103.125.174.49|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|16|211.253.36.172|5008|South Korea|Wŏnju|PUBNET|
-|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|18|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|19|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|10|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|15|46.250.239.99|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|16|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|17|45.81.146.7|8080|Iraq|Saymayl|Duhok Networks|
+|18|67.43.236.21|32637|Canada|Montreal|GloboTech Communications|
+|19|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 
 
 
