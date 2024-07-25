@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|5|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|11|181.233.62.17|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
-|12|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|190.94.212.241|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.227.227|14467|Canada|Montreal|GloboTech Communications|
+|9|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|181.114.7.114|999|Guatemala|Guatemala City|Columbus Networks Guatemala|
+|13|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
