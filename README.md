@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|5|181.78.13.66|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
-|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|14|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|3|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|217.160.74.198|3128|Germany|Karlsruhe|IONOS SE|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|11|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
