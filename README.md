@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.87.169.185|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.236.20|25425|Canada|Montreal|GloboTech Communications|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.228.253|18369|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|23603|Canada|Montreal|GloboTech Communications|
-|20|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|16|67.43.227.228|17903|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|19|72.10.164.178|24547|Canada|Montreal|GloboTech Communications|
+|20|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
 
 
 
