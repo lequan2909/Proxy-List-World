@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|217.100.239.117|8090|The Netherlands|Zwolle|Vodafone Libertel B.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|209.97.188.59|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|38.188.127.123|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
-|19|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|20|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|14|103.133.61.150|8181|Indonesia|Bandar Lampung|TLINK|
+|15|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|19|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|20|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
 
 
 
