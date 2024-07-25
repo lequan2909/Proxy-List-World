@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|203.150.113.49|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|66.206.15.148|8136|United States|Los Angeles|Primary|
-|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|10|66.206.15.148|8136|United States|Los Angeles|Primary|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|72.10.160.93|18225|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|39.191.223.109|4096|China|Hangzhou|China Mobile Communications Corporation|
-|16|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|17|67.43.228.250|27541|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|27781|Canada|Montreal|GloboTech Communications|
-|19|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|20|72.10.164.178|27781|Canada|Montreal|GloboTech Communications|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|66.206.15.148|8136|United States|Los Angeles|Primary|
+|10|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|72.10.164.178|14403|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.93|18225|Canada|Montreal|GloboTech Communications|
+|15|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|16|72.10.164.178|14403|Canada|Montreal|GloboTech Communications|
+|17|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|18|43.252.236.157|8080|Indonesia|Bogor|NET|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 
 
 
