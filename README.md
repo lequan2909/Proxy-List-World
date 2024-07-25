@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5199** proxies at the latest update. Usable proxies are below.
+> Scraper found **5298** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|182|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|472|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|183|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|247|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3340|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|177.37.217.45|8080|Brazil|Caruaru|Brisanet Servicos De Telecomunicacoes Ltda|
-|13|67.43.227.227|20709|Canada|Montreal|GloboTech Communications|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.170|5571|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.21|3047|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.21|3047|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|19367|Canada|Montreal|GloboTech Communications|
-|20|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|11|114.9.27.14|3127|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
