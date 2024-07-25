@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|23.143.160.193|999|Puerto Rico|Villalba|Unonet Corp|
 |7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 |8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|67.43.228.250|23143|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|12747|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|30223|Canada|Montreal|GloboTech Communications|
-|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|15|72.10.160.173|17385|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|12747|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|1889|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|27797|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|72.10.164.178|12747|Canada|Montreal|GloboTech Communications|
+|10|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|67.43.228.250|26909|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|17909|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|17909|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.92|11039|Canada|Montreal|GloboTech Communications|
+|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|67.43.227.230|1889|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|17385|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|15221|Canada|Montreal|GloboTech Communications|
 
 
 
