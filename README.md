@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|18|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|20|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|5|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
