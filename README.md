@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|15|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|15|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|67.43.236.20|23449|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|32699|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|17333|Canada|Montreal|GloboTech Communications|
 
 
 
