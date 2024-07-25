@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|172.234.85.175|3128|Japan|Osaka|Akamai Technologies, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|2|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|135.148.233.152|3129|United States|Reston|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|113.161.210.60|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|109.120.154.210|80|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|136.226.255.23|10448|India|Mumbai|ZSCALER, INC.|
+|15|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
 |16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|136.226.255.23|10448|India|Mumbai|ZSCALER, INC.|
-|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.236.18|32313|Canada|Montreal|GloboTech Communications|
-|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|17|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|18|67.43.236.18|31411|Canada|Montreal|GloboTech Communications|
+|19|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
