@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|49.156.151.246|83|India|Vizianagaram|City Online|
+|9|194.156.88.125|2411|United Kingdom|Bradford|aurologic GmbH|
+|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |18|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|20.244.104.182|3128|India|Pune|Microsoft Corporation|
 |20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
