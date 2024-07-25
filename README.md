@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|10|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|72.10.160.90|11515|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|23253|Canada|Montreal|GloboTech Communications|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|67.43.227.227|1199|Canada|Montreal|GloboTech Communications|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
-|20|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|7|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|8|171.102.10.74|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|9|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|10|72.10.160.90|8743|Canada|Montreal|GloboTech Communications|
+|11|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|67.43.227.227|2501|Canada|Montreal|GloboTech Communications|
+|17|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
