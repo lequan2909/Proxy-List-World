@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|223.206.59.59|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|8|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|14|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|18|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|19|67.43.236.20|23523|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|18983|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.72.89.133|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|72.10.160.90|22289|Canada|Montreal|GloboTech Communications|
+|12|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|13|67.43.236.20|23523|Canada|Montreal|GloboTech Communications|
+|14|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|15|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
