@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|2|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
 |3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|180.211.186.158|8080|Bangladesh|Nawābganj|Bangladesh Telecommunications Company Ltd.|
-|12|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|20|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|8|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|185.227.134.152|2456|Singapore|Singapore|Contabo Asia Private Limited|
+|12|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|13|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.170|32255|Canada|Montreal|GloboTech Communications|
+|17|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|18|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
