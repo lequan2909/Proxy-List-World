@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|14|72.10.164.178|28957|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|28957|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|28957|Canada|Montreal|GloboTech Communications|
-|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|18|72.10.160.170|28353|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|1711|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|4|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
+|8|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|69.20.150.165|8080|United States|Tetonia|JAB Wireless, INC.|
+|18|72.10.164.178|5261|Canada|Montreal|GloboTech Communications|
+|19|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
