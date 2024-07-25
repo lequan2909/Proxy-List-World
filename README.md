@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|203.150.128.76|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.26.110.209|84|India|Mayiladuthurai|Niss Networks|
-|12|103.125.38.82|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|72.10.164.178|11745|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|30265|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|67.43.227.227|1511|Canada|Montreal|GloboTech Communications|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|103.131.18.20|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|12|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|13|180.250.143.189|17|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|16|47.88.59.79|8088|United States|Minkler|Alibaba.com LLC|
+|17|67.43.236.20|29357|Canada|Montreal|GloboTech Communications|
+|18|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|19|72.10.160.90|23627|Canada|Montreal|GloboTech Communications|
+|20|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
 
 
 
