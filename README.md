@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.156.191.230|999|Mexico|Aguascalientes|Digy Networks S.A De C.V.|
-|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
-|14|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.236.18|31459|Canada|Montreal|GloboTech Communications|
+|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 |17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.164.178|32773|Canada|Montreal|GloboTech Communications|
+|18|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|19|72.10.164.178|31319|Canada|Montreal|GloboTech Communications|
+|20|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
 
 
 
