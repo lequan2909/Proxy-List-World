@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|11|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|14|103.171.83.253|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
