@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|101.51.241.140|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|3|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|38.7.1.185|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|15|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|105.184.246.32|80|South Africa|Pretoria|Telkom SA Ltd|
 
 
 
