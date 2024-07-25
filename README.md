@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |4|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|89.163.157.129|80|Germany|Düsseldorf|myLoc managed IT AG|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|103.83.178.46|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|8|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|12|103.156.141.152|3127|Indonesia|Jember|PT Tekling Media Telematika|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|16|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|41.216.183.91|3128|Poland|Warsaw|Private-Hosting di Cipriano oscar|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
