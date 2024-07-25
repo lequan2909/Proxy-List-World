@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|185.53.104.96|8090|Russia|Moscow|LLC Flex|
-|14|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
-|15|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.63.114.205|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|12|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|18|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|20|194.34.232.76|8800|Germany|Düsseldorf|Contabo GmbH|
 
 
 
