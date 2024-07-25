@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|38.60.254.172|3128|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|11|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|16|51.158.191.37|3128|France|Paris|Online S.A.S.|
-|17|51.15.93.109|3128|The Netherlands|Amsterdam|SCALEWAY|
-|18|51.158.186.30|3128|France|Paris|Online S.A.S.|
-|19|51.158.191.18|3128|France|Paris|Online S.A.S.|
-|20|72.10.164.178|3767|Canada|Montreal|GloboTech Communications|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|17|51.158.191.18|3128|France|Paris|Online S.A.S.|
+|18|51.158.191.37|3128|France|Paris|Online S.A.S.|
+|19|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|20|51.15.93.109|3128|The Netherlands|Amsterdam|SCALEWAY|
 
 
 
