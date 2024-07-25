@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |7|135.148.171.194|18080|United States|Reston|OVH SAS|
 |8|135.148.171.194|18080|United States|Reston|OVH SAS|
 |9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|117.2.214.108|5102|Vietnam|Huế|Viettel Corporation|
-|15|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|38.188.249.104|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|19|135.148.171.194|18080|United States|Reston|OVH SAS|
-|20|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|158.247.217.8|7777|South Korea|Seoul|The Constant Company, LLC|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|14|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|15|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|16|181.78.8.154|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|19|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
