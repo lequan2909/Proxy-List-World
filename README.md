@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5318** proxies at the latest update. Usable proxies are below.
+> Scraper found **5352** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|210|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|715|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|749|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|225|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3210|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|177.136.85.193|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|6789|Canada|Montreal|GloboTech Communications|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|18|202.57.25.127|8080|Indonesia|Semarang|announced of WINET|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
