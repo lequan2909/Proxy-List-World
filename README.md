@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|45.185.206.30|999|Argentina|Neuquén|Escom Comunicaciones SRL|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|72.10.164.178|5161|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.228|27541|Canada|Montreal|GloboTech Communications|
-|10|135.148.233.152|7777|United States|Reston|OVH SAS|
-|11|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|12|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|13|67.43.236.20|20537|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|32793|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.170|13371|Canada|Montreal|GloboTech Communications|
-|17|3.224.25.208|80|United States|Ashburn|Amazon Technologies Inc.|
-|18|67.43.227.227|27741|Canada|Montreal|GloboTech Communications|
-|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|11|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|12|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|13|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.227.227|25441|Canada|Montreal|GloboTech Communications|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
