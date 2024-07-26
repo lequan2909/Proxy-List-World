@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|212.19.5.137|3128|Russia|Khabarovsk|JSC "Redcom-lnternet"|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|101.255.166.114|7777|Indonesia|Bekasi|PT Remala Abadi|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|16|81.91.151.146|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|20|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|10|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|11|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
+|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|103.5.232.148|8080|Bangladesh|Chittagong|Chittagong Online Limited|
+|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|135.148.233.152|24965|United States|Reston|OVH SAS|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
