@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
