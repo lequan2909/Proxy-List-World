@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|172.183.241.1|8080|United States|Chicago|Microsoft|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|3.224.25.208|80|United States|Ashburn|Amazon Technologies Inc.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|135.148.233.152|3129|United States|Reston|OVH SAS|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|172.183.241.1|8080|United States|Chicago|Microsoft|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.234.159.5|8080|India|Bengaluru|MWPL|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|18|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|19|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
