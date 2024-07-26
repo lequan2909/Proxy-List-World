@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|8|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|9|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|103.109.125.155|4444|Indonesia|Medan|PT. PANCA DUTA UTAMA|
+|8|202.146.230.102|8080|Indonesia|Surabaya|PT Centrin Utama|
+|9|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|11|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|14|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.90.156.220|8080|India|Nellore|Myguru Online India Pvt Ltd|
+|20|188.132.166.52|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
 
 
 
