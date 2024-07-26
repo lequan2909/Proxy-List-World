@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|115.127.137.51|58080|Bangladesh|Dhaka|BRACNet Limited|
-|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|72.10.160.173|29633|Canada|Montreal|GloboTech Communications|
-|18|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|19|67.43.227.227|16875|Canada|Montreal|GloboTech Communications|
-|20|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|36.66.160.3|3128|Indonesia|Sukoharjo|PT. Telekomunikasi Indonesia|
+|12|103.27.22.65|32650|Pakistan|Lahore|Supernet|
+|13|67.43.227.227|16875|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|20537|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|13371|Canada|Montreal|GloboTech Communications|
+|16|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|17|43.252.236.157|8080|Indonesia|Bogor|NET|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|72.10.160.90|24077|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
