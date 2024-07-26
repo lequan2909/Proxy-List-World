@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|17|135.148.233.152|3129|United States|Reston|OVH SAS|
-|18|72.10.164.178|15439|Canada|Montreal|GloboTech Communications|
-|19|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|135.148.233.152|7777|United States|Reston|OVH SAS|
+|14|135.148.233.152|7777|United States|Reston|OVH SAS|
+|15|45.236.107.86|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|19|47.88.59.79|8088|United States|Minkler|Alibaba.com LLC|
+|20|20.244.104.182|3128|India|Pune|Microsoft Corporation|
 
 
 
