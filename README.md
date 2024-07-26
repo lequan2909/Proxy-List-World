@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 |7|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|8|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|157.15.44.204|8181|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
-|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|10|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 |11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 |14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|15|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|16|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
