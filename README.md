@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|135.148.233.152|3129|United States|Reston|OVH SAS|
-|9|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|10|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|181.78.8.154|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|16|157.90.244.178|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|19|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
 
 
 
