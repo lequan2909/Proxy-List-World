@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5589** proxies at the latest update. Usable proxies are below.
+> Scraper found **5545** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|198|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|784|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|740|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|273|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3376|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|20.244.104.182|3128|India|Pune|Microsoft Corporation|
 |2|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
 |3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
 |4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
 |5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|6|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|103.63.114.204|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|19|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|84.254.0.86|32650|Greece|Athens|Tellas S.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|72.10.164.178|4017|Canada|Montreal|GloboTech Communications|
 
 
 
