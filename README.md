@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.109.58.166|8080|Thailand|Pattaya|TOT Public Company Limited|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
-|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|172.183.241.1|8080|United States|Chicago|Microsoft|
-|13|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|172.183.241.1|8080|United States|Chicago|Microsoft|
-|16|105.184.246.32|8080|South Africa|Pretoria|Telkom SA Ltd|
-|17|72.10.160.90|19829|Canada|Montreal|GloboTech Communications|
-|18|171.237.62.47|10004|Vietnam|Hanoi|Viettel Corporation|
-|19|72.10.160.171|6841|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|22981|Canada|Montreal|GloboTech Communications|
+|7|103.165.155.165|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|9|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
+|14|72.10.164.178|12487|Canada|Montreal|GloboTech Communications|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|17|181.233.62.9|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|18|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
