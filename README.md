@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.66.160.3|3128|Indonesia|Sukoharjo|PT. Telekomunikasi Indonesia|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|8|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|72.10.160.170|7617|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|13395|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|30353|Canada|Montreal|GloboTech Communications|
-|13|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|14|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|67.43.228.251|18571|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|23081|Canada|Montreal|GloboTech Communications|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|72.10.160.90|2015|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|30599|Canada|Montreal|GloboTech Communications|
+|7|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|72.10.164.178|5161|Canada|Montreal|GloboTech Communications|
+|10|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|67.43.227.227|8983|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|72.10.160.90|2015|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|5161|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|8983|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|8239|Canada|Montreal|GloboTech Communications|
+|18|27.147.129.26|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
+|19|113.16.204.19|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
+|20|67.43.236.20|8239|Canada|Montreal|GloboTech Communications|
 
 
 
