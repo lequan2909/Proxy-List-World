@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|3|172.183.241.1|8080|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|135.148.233.152|24965|United States|Reston|OVH SAS|
-|13|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.164.178|32647|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|19|159.65.15.200|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8080|United States|Chicago|Microsoft|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|7|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
+|8|72.10.164.178|28341|Canada|Montreal|GloboTech Communications|
+|9|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|10|109.202.11.44|3129|Russia|Novosibirsk|JSC Avantel|
+|11|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|15|67.43.227.227|23881|Canada|Montreal|GloboTech Communications|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|72.10.160.170|9043|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
