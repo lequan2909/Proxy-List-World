@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|15|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|16|75.25.159.161|3128|United States|Danville|AT&T Services, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|188.132.222.142|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|16|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|17|86.190.123.0|80|United Kingdom|Kensington|BT Public Internet Service|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|72.10.164.178|13613|Canada|Montreal|GloboTech Communications|
+|20|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
 
 
 
