@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|135.148.233.152|7777|United States|Reston|OVH SAS|
-|11|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|103.168.254.138|8086|Indonesia|Kudus|PT Fahasa Tri Data|
+|12|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|16|24.106.221.230|53281|United States|Wilmington|Spectrum|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|27.147.129.26|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
-|19|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|20|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|17|72.10.160.172|26135|Canada|Montreal|GloboTech Communications|
+|18|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|72.10.160.173|21547|Canada|Montreal|GloboTech Communications|
 
 
 
