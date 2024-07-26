@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|38.242.141.110|8008|Germany|Düsseldorf|Cogent Communications|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|102.222.51.105|8080|Botswana|Gaborone|JENNY INTERNET (PTY) LTD|
-|13|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|152.26.231.86|9443|United States|Huntersville|MCNC|
-|15|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|82.223.246.196|80|Spain|Logroño|arsys.es|
-|19|67.43.236.20|9851|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|2|103.157.58.186|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|3|103.171.244.215|8085|Indonesia|Madiun|PT Data Arta Sedaya|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|27.147.129.26|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
+|11|191.102.254.54|8085|Argentina|Rosario|IP·RED|
+|12|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
