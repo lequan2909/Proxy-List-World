@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|4|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|5|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|6|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|10|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|212.19.5.137|3128|Russia|Khabarovsk|JSC "Redcom-lnternet"|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|16|200.39.120.43|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|17|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|15.235.171.248|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|20|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|9|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|10|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
