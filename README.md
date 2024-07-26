@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|5|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|157.90.244.178|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|9|186.166.142.82|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|45.189.252.81|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
-|18|67.43.228.250|23815|Canada|Montreal|GloboTech Communications|
-|19|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|20|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|49.151.23.182|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|15|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|17|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
