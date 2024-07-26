@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|172.183.241.1|8080|United States|Chicago|Microsoft|
 |5|135.148.171.194|18080|United States|Reston|OVH SAS|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|9|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|51.15.96.194|3128|The Netherlands|Amsterdam|SCALEWAY|
-|11|51.15.93.109|3128|The Netherlands|Amsterdam|SCALEWAY|
-|12|191.97.16.128|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|13|38.188.249.104|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|14|103.228.246.151|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|15|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|16|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|17|72.10.160.171|11791|Canada|Montreal|GloboTech Communications|
-|18|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|10|72.10.164.178|27171|Canada|Montreal|GloboTech Communications|
+|11|51.15.96.194|3128|The Netherlands|Amsterdam|SCALEWAY|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|14|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|67.43.236.20|5587|Canada|Montreal|GloboTech Communications|
+|16|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|72.10.164.178|27171|Canada|Montreal|GloboTech Communications|
+|18|190.202.111.202|8080|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|19|51.15.113.140|3128|The Netherlands|Amsterdam|SCALEWAY|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
