@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8080|United States|Chicago|Microsoft|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|190.202.111.202|8080|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|172.183.241.1|8080|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|152.26.231.86|9443|United States|Huntersville|MCNC|
-|7|113.16.204.19|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|8|82.223.246.196|80|Spain|Logroño|arsys.es|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|135.148.233.152|3127|United States|Reston|OVH SAS|
-|11|67.43.227.227|23881|Canada|Montreal|GloboTech Communications|
-|12|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|8.242.170.198|8080|Colombia|Pasto|Level 3 Communications, Inc.|
-|14|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|15|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|181.233.62.9|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|10|113.16.204.19|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
+|11|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
 |16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|172.104.63.185|8181|Singapore|Singapore|Akamai Technologies|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|20|67.43.228.253|5797|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|23881|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
