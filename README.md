@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8080|United States|Chicago|Microsoft|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|10|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|11|72.10.160.90|22847|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|145.255.30.241|8088|Russia|Ufa|JSC "Ufanet"|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|135.148.233.152|24965|United States|Reston|OVH SAS|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.227.226|15073|Canada|Montreal|GloboTech Communications|
-|20|171.228.145.181|5006|Vietnam|Vĩnh Yên|Viettel Corporation|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.250.130.149|8181|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
 
 
 
