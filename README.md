@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|64.32.80.64|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|135.148.233.152|24965|United States|Reston|OVH SAS|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
