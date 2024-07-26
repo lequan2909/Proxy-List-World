@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|172.183.241.1|8080|United States|Chicago|Microsoft|
 |6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|135.148.233.152|3129|United States|Reston|OVH SAS|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|105.184.246.32|8080|South Africa|Pretoria|Telkom SA Ltd|
+|11|45.228.233.94|999|Guatemala|Guatemala City|Infinitum S.A.|
+|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.215.207.85|83|India|Kondagaon|Foxtel Telecommunications Pvt. Ltd.|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|16|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.227.227|6961|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|27.147.129.26|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
+|20|72.10.164.178|33191|Canada|Montreal|GloboTech Communications|
 
 
 
