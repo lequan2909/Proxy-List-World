@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5202** proxies at the latest update. Usable proxies are below.
+> Scraper found **5146** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|261|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|205|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3192|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|11|51.15.96.194|3128|The Netherlands|Amsterdam|SCALEWAY|
-|12|51.158.186.30|3128|France|Paris|Online S.A.S.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|15|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|19|200.55.255.251|8083|Ecuador|Machala|Comm & Net S.A.|
-|20|51.158.186.30|3128|France|Paris|Online S.A.S.|
+|3|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|10|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|17|135.148.233.152|3127|United States|Reston|OVH SAS|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
