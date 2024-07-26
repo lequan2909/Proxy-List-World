@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|172.183.241.1|8080|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8080|United States|Chicago|Microsoft|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|172.183.241.1|8080|United States|Chicago|Microsoft|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|10|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|11|103.250.130.149|8181|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|72.10.164.178|5019|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|17|103.215.207.85|83|India|Kondagaon|Foxtel Telecommunications Pvt. Ltd.|
-|18|103.48.68.82|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|67.43.227.227|5295|Canada|Montreal|GloboTech Communications|
-|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|15|72.10.164.178|5019|Canada|Montreal|GloboTech Communications|
+|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
