@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
-|16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|17|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|18|135.148.233.152|7777|United States|Reston|OVH SAS|
-|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|8|177.242.132.2|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.160.91|32751|Canada|Montreal|GloboTech Communications|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|135.148.233.152|7777|United States|Reston|OVH SAS|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|72.10.160.90|18727|Canada|Montreal|GloboTech Communications|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|49.13.158.101|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |20|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
 
 
