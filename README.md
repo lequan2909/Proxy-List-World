@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|6|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|7|172.183.241.1|8080|United States|Chicago|Microsoft|
-|8|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|172.183.241.1|8080|United States|Chicago|Microsoft|
+|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|171.4.66.20|8080|Thailand|Mae Mo|Triple T Broadband Public Company Limited|
-|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|16|135.148.233.152|24965|United States|Reston|OVH SAS|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|149.11.58.226|3128|France|Toulouse|Cogent Communications|
 
 
 
