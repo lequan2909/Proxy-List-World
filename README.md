@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|4|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|103.189.197.75|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|7|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|13|189.203.201.146|8080|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|16|103.63.114.204|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|17|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|18|172.183.241.1|8080|United States|Chicago|Microsoft|
-|19|51.15.93.109|3128|The Netherlands|Amsterdam|SCALEWAY|
-|20|51.15.96.194|3128|The Netherlands|Amsterdam|SCALEWAY|
+|1|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|101.255.166.114|7777|Indonesia|Bekasi|PT Remala Abadi|
+|9|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|10|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|11|172.183.241.1|8080|United States|Chicago|Microsoft|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
