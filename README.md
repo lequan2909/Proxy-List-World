@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|10|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|7|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|14|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|15|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
