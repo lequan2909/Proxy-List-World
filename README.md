@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
-|6|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
-|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|8|68.183.149.126|11008|United States|Clifton|DigitalOcean, LLC|
-|9|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.26.108.118|84|India|Thoothukudi|Niss Networks|
-|12|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|12.133.53.17|83|United States|Chesterland|AT&T Services, Inc.|
-|16|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|19|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|20|34.140.150.176|3128|Belgium|Brussels|Google LLC|
+|2|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|3.34.138.145|3128|South Korea|Seoul|Amazon.com, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|12|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|13|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|14|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|197.248.75.221|8104|Kenya|Nairobi|Safaricom Limited|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|181.233.62.9|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|68.183.149.126|11008|United States|Clifton|DigitalOcean, LLC|
 
 
 
