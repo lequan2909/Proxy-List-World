@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|12|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|14|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
 
 
 
