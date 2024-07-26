@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|11|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|12|67.43.228.253|1379|Canada|Montreal|GloboTech Communications|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.170|20087|Canada|Montreal|GloboTech Communications|
-|17|212.19.5.137|3128|Russia|Khabarovsk|JSC "Redcom-lnternet"|
-|18|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|19|135.148.171.194|18080|United States|Reston|OVH SAS|
-|20|67.43.227.226|18629|Canada|Montreal|GloboTech Communications|
+|5|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|7|172.183.241.1|8080|United States|Chicago|Microsoft|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|131.0.234.219|55555|Argentina|Villa José León Suárez|MUSURIT|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|135.148.233.152|24965|United States|Reston|OVH SAS|
+|14|212.19.5.137|3128|Russia|Khabarovsk|JSC "Redcom-lnternet"|
+|15|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.88.236.205|80|India|Hyderabad|Mana Communications|
+|19|15.235.171.214|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
