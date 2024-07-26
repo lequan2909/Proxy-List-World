@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|10|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
 |12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|16|103.87.169.160|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|15|212.174.15.142|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|16|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|206.62.161.6|999|Colombia|Maicao|Airtek Solutions C.A.|
 
 
 
