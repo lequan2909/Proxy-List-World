@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|7|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|8|135.148.233.152|3127|United States|Reston|OVH SAS|
-|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|9|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|15.235.171.214|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|135.148.233.152|3127|United States|Reston|OVH SAS|
-|14|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|72.10.160.170|9949|Canada|Montreal|GloboTech Communications|
-|18|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|11|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|12|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|13|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|72.10.160.170|9949|Canada|Montreal|GloboTech Communications|
+|19|187.204.50.239|53281|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
+|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 
 
 
