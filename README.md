@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|4|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|3|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|11|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|12|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|178.128.124.225|9090|Singapore|Singapore|DigitalOcean, LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|13|41.205.24.5|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|14|152.26.231.86|9443|United States|Huntersville|MCNC|
+|15|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
 |16|72.10.164.178|26179|Canada|Montreal|GloboTech Communications|
-|17|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|149.11.58.226|3128|France|Toulouse|Cogent Communications|
 |18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|161.34.36.128|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.227|13195|Canada|Montreal|GloboTech Communications|
 
 
 
