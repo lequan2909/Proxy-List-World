@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|6|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|217.219.121.66|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|14|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.171|23471|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|25215|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|18691|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|117.2.214.108|5102|Vietnam|Huế|Viettel Corporation|
+|15|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
+|16|135.148.233.152|3127|United States|Reston|OVH SAS|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
