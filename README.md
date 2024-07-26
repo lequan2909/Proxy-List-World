@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
-|15|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|188.132.150.41|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|135.148.233.152|3127|United States|Reston|OVH SAS|
-|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|20|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|7|190.94.213.81|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|11|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|201.168.199.7|999|Mexico|Juventino Rosas|Marcatel Com, S.A. de C.V.|
+|14|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|15|195.201.126.184|80|Germany|Nuremberg|Hetzner Online GmbH|
+|16|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
+|17|135.148.233.152|7777|United States|Reston|OVH SAS|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 
 
 
