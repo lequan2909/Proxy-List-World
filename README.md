@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
 |6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|190.14.253.75|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|14|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|15|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
 |16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.63.114.204|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|19|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
 
 
 
