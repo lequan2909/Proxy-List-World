@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|135.148.233.152|3127|United States|Reston|OVH SAS|
-|11|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|180.179.35.244|9889|India|Mumbai|NetMagic Solutions Pvt Ltd|
-|14|103.168.44.191|8083|Indonesia|Boyolali|PT CYB Media Group|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|103.168.44.191|8083|Indonesia|Boyolali|PT CYB Media Group|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|142.11.195.185|80|United States|Seattle|Hostwinds LLC.|
+|14|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|19|67.43.228.251|27703|Canada|Montreal|GloboTech Communications|
-|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|58.69.247.70|8083|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|18|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
