@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|135.148.233.152|7777|United States|Reston|OVH SAS|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|114.9.24.198|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
-|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.164.178|27601|Canada|Montreal|GloboTech Communications|
+|15|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
