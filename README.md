@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|2|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|3|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|4|103.63.114.203|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|5|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|8|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|9|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|1|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |10|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|16|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|12|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|13|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|17|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 
 
 
