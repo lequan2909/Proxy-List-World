@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|185.165.232.65|6060|Croatia|Zagreb|Intersat Telekomunikacije d.o.o.|
-|11|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|135.148.233.152|1234|United States|Reston|OVH SAS|
+|9|135.148.233.152|1234|United States|Reston|OVH SAS|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|124.105.48.232|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
 
 
 
