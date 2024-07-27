@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
 |4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|112.213.39.74|3128|Australia|Sydney|Mammoth Media Pty Ltd|
+|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 |6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|10|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|11|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|157.66.16.40|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|123.200.18.155|96|Bangladesh|Bhātāra|Link3 Technologies Limited|
+|15|216.176.200.36|3128|United States|San Diego|Krypt Technologies|
+|16|49.156.151.246|83|India|Vizianagaram|City Online|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|116.235.238.47|3128|China|Shanghai|China Telecom (Group)|
+|19|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|20|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
