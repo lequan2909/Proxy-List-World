@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|20|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|135.148.233.152|1234|United States|Reston|OVH SAS|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|19|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
