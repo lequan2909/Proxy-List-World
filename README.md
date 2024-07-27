@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|4|135.148.100.78|48149|United States|Reston|OVH SAS|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|135.148.100.78|48149|United States|Reston|OVH SAS|
-|11|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|3|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|41.254.48.190|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|135.148.100.78|48149|United States|Reston|OVH SAS|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
+|20|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
 
 
 
