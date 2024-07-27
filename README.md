@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|10|52.117.160.219|8081|United States|Dallas|SoftLayer|
-|11|5.161.247.171|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|15|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|16|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
-|17|171.226.29.241|16605|Vietnam|Vĩnh Long|Viettel Corporation|
-|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|51.158.188.230|3128|France|Paris|Online S.A.S.|
-|20|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|159.69.110.232|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|51.91.109.83|80|France|Strasbourg|OVH SAS|
+|14|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
+|15|159.224.243.185|37793|Ukraine|Dnipro|Content Delivery Network LTD|
+|16|167.235.185.47|6969|Germany|Falkenstein|Hetzner Online GmbH|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|69.20.150.165|8080|United States|Tetonia|JAB Wireless, INC.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
