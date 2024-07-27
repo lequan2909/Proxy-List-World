@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|190.102.149.77|999|Peru|Lima|Optical Technologies S.A.C.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|110.77.180.133|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|10|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|11|103.162.55.2|18080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|157.66.16.40|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|14|135.148.233.152|3129|United States|Reston|OVH SAS|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|18|103.156.140.239|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|19|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
