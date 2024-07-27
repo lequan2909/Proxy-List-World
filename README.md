@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|36.91.15.241|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.169.254.9|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
 |10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|216.176.200.36|3128|United States|San Diego|Krypt Technologies|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
-|16|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|17|135.148.233.152|3127|United States|Reston|OVH SAS|
-|18|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|103.234.159.5|8080|India|Bengaluru|MWPL|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|119.47.90.38|1111|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|14|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
+|15|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
