@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|182.253.70.12|8080|Indonesia|Surabaya|BIZNET|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|172.234.85.175|3128|Japan|Osaka|Akamai Technologies, Inc.|
-|8|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|9|103.63.114.203|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.63.114.207|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|6|182.253.70.12|8080|Indonesia|Surabaya|BIZNET|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|43.153.25.122|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|95.47.149.8|8080|Ukraine|Sumy|Sumski Telecom Systems Ltd|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|43.153.25.122|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 |17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|202.52.12.86|8080|Indonesia|Bandung|PT SKYLINE SEMESTA|
-|19|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|20|128.199.190.50|9090|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.63.114.203|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|19|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
 
 
 
