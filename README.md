@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 |6|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|94.253.81.152|8080|Russia|Ivanteyevka|Itkm ISP|
+|7|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|19|36.66.160.3|3128|Indonesia|Sukoharjo|PT. Telekomunikasi Indonesia|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
