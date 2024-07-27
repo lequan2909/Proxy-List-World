@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.63.114.203|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|8|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|11|182.253.70.12|8080|Indonesia|Surabaya|BIZNET|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|67.43.227.228|16217|Canada|Montreal|GloboTech Communications|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|19|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|180.179.35.244|9889|India|Mumbai|NetMagic Solutions Pvt Ltd|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|159.69.110.232|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
+|10|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
+|11|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|12|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|159.224.243.185|37793|Ukraine|Dnipro|Content Delivery Network LTD|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
