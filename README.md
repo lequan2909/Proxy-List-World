@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|103.63.114.205|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|15|103.105.55.51|9090|Indonesia|Malang|PT. Mega Artha Lintas Data|
-|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|38.188.249.104|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|5|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
