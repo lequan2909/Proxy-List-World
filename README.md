@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 |7|88.202.228.92|4545|United Kingdom|London|UK2.NET|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|38.252.209.12|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
-|18|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|19|152.26.231.86|9443|United States|Huntersville|MCNC|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|165.22.104.131|9090|Singapore|Singapore|DigitalOcean, LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
 
 
 
