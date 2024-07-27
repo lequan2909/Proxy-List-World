@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
-|11|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|178.22.52.21|8080|Russia|Moscow|Ramtel Ltd.|
-|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
+|14|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.78.8.154|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|17|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|18|135.148.233.152|3129|United States|Reston|OVH SAS|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
