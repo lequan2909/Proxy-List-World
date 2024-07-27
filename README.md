@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|7|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|103.105.55.51|9090|Indonesia|Malang|PT. Mega Artha Lintas Data|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |8|15.235.171.250|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|20|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|12|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|13|114.9.24.198|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
+|17|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|18|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|19|43.252.107.102|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|20|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
 
 
 
