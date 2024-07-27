@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|103.169.254.9|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|7|153.231.230.84|3128|Japan|Chiyoda|NTT Communications Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|11|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|103.63.114.203|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|67.43.228.253|10907|Canada|Montreal|GloboTech Communications|
-|18|135.148.233.152|7777|United States|Reston|OVH SAS|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|45.188.164.47|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
