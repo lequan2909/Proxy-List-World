@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|2|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|15|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|16|186.148.195.164|999|Venezuela|Maracaibo|CORPORACION MATRIX TV, C.A.|
-|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|12|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|13|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|14|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
 
 
 
