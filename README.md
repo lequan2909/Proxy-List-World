@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|11|51.79.23.17|8050|Brazil|Mairi|OVH Hosting|
-|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|5|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|202.179.184.67|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|45.184.152.145|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.80.82.178|8181|Indonesia|Pati|Jaringanku Sarana Nusantara|
-|16|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|19|67.43.228.254|12281|Canada|Montreal|GloboTech Communications|
-|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|17|203.111.253.54|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|18|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|19|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 
 
 
