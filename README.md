@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|182.253.70.12|8080|Indonesia|Surabaya|BIZNET|
-|7|139.5.64.108|80|India|New Delhi|National Crime Records Bureau|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|177.37.217.45|8080|Brazil|Caruaru|Brisanet Servicos De Telecomunicacoes Ltda|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.110.173.17|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|153.231.230.84|3128|Japan|Chiyoda|NTT Communications Corporation|
-|14|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|15|43.153.25.122|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|103.124.139.184|8080|Indonesia|Kartasura|Global Media Data Prima|
+|5|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|6|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
+|7|182.253.70.12|8080|Indonesia|Surabaya|BIZNET|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|139.5.64.108|80|India|New Delhi|National Crime Records Bureau|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|15|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|16|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|17|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 |18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
 
 
 
