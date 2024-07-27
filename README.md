@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
-|6|149.51.224.105|3128|Germany|Frankfurt am Main|Rackdog, LLC|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|88.202.228.92|4545|United Kingdom|London|UK2.NET|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|18|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|88.202.228.92|4545|United Kingdom|London|UK2.NET|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|144.91.120.37|80|Germany|Nuremberg|Contabo GmbH|
+|12|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|123.58.223.110|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|136.243.148.158|3128|Germany|Berlin|Hetzner Online GmbH|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
 
 
 
