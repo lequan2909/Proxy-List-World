@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|2|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
 |7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|16|103.133.24.89|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|17|188.168.24.222|81|Russia|Irkutsk|TTK-Retail|
-|18|135.148.100.78|48149|United States|Reston|OVH SAS|
-|19|179.60.235.250|8390|Argentina|Rosario|WICORP SA|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|135.148.100.78|48149|United States|Reston|OVH SAS|
+|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
