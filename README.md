@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|103.170.227.11|83|India|Amalāpuram|Inet Fiber India Private Limited|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
-|11|67.43.228.250|17711|Canada|Montreal|GloboTech Communications|
-|12|156.67.214.186|3128|Singapore|Singapore|HOSTINGER SG|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|67.43.227.226|18629|Canada|Montreal|GloboTech Communications|
-|16|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|17|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|120.28.76.192|8082|Philippines|Makati City|Globe Telecom|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|1|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|12|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|18|136.226.255.23|10326|India|Mumbai|ZSCALER, INC.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
 
 
 
