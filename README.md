@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|6|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|67.43.228.251|30149|Canada|Montreal|GloboTech Communications|
-|9|43.252.236.157|8080|Indonesia|Bogor|NET|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|51.91.109.83|80|France|Strasbourg|OVH SAS|
-|12|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|51.91.109.83|80|France|Strasbourg|OVH SAS|
+|8|194.180.189.124|3128|Finland|Helsinki|Hostkey B.V.|
+|9|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
+|10|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|12|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|213.252.245.221|8556|Lithuania|Šiauliai|BACLOUD-BITE|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
