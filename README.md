@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.158.121.66|1080|Indonesia|Indramayu|CDN|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|7|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|135.148.233.152|24860|United States|Reston|OVH SAS|
-|11|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|14|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|135.148.233.152|24860|United States|Reston|OVH SAS|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
+|17|201.168.199.7|999|Mexico|Juventino Rosas|Marcatel Com, S.A. de C.V.|
+|18|114.9.27.14|3127|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
