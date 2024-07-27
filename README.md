@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.186.204.10|8080|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|8|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|103.88.237.91|84|India|Hyderabad|Mana Communications|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|188.132.221.189|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|135.148.233.152|24860|United States|Reston|OVH SAS|
-|20|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|6|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 
 
 
