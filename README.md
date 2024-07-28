@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.57.25.152|8099|Indonesia|Semarang|announced of WINET|
-|2|190.236.89.74|999|Peru|Chincha Alta|TDP-GRS|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|72.10.160.172|1073|Canada|Montreal|GloboTech Communications|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|72.10.160.171|1073|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|6549|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|67.43.227.227|6687|Canada|Montreal|GloboTech Communications|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|12|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |16|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|67.43.228.253|24829|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|20|72.10.164.178|6549|Canada|Montreal|GloboTech Communications|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|190.236.89.74|999|Peru|Chincha Alta|TDP-GRS|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
