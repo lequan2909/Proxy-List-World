@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|72.10.160.170|26927|Canada|Montreal|GloboTech Communications|
-|12|163.172.33.137|4002|France|Vitry-sur-Seine|Online S.A.S.|
-|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|135.148.233.152|12346|United States|Reston|OVH SAS|
-|16|72.10.160.170|26927|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|21313|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|23529|Canada|Montreal|GloboTech Communications|
-|19|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|14|67.43.236.20|13575|Canada|Montreal|GloboTech Communications|
+|15|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|16|135.148.233.152|12346|United States|Reston|OVH SAS|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|72.10.164.178|4653|Canada|Montreal|GloboTech Communications|
+|19|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|20|67.43.236.20|13575|Canada|Montreal|GloboTech Communications|
 
 
 
