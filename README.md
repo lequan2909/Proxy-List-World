@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|103.63.114.203|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|14|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|12|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|135.148.171.194|18080|United States|Reston|OVH SAS|
-|20|125.27.47.195|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
