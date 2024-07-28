@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 |8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|20.244.104.182|3128|India|Pune|Microsoft Corporation|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|135.148.233.152|31315|United States|Reston|OVH SAS|
-|12|18.116.72.195|3128|United States|Dublin|Amazon.com, Inc.|
-|13|135.148.233.152|31315|United States|Reston|OVH SAS|
-|14|82.65.27.56|80|France|Paris|Proxad / Free SAS|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.160.170|26915|Canada|Montreal|GloboTech Communications|
 |15|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|16|135.148.233.152|31315|United States|Reston|OVH SAS|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|16|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|34.140.150.176|3128|Belgium|Brussels|Google LLC|
 
 
 
