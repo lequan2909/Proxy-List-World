@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|174.138.18.189|9090|Singapore|Singapore|DigitalOcean, LLC|
-|16|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|30225|Canada|Montreal|GloboTech Communications|
+|1|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|135.148.233.152|20946|United States|Reston|OVH SAS|
+|5|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|10|14.102.58.186|8080|India|Mathura|WORLDPHONE|
+|11|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|12|103.82.135.177|7005|Vietnam|Thanh Khê|Cloudfly Corporation|
+|13|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|14|72.10.160.90|2875|Canada|Montreal|GloboTech Communications|
+|15|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|15.235.171.197|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|17|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|18|135.148.233.152|20946|United States|Reston|OVH SAS|
+|19|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
