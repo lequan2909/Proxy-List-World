@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|135.148.233.152|10206|United States|Reston|OVH SAS|
-|10|67.43.227.227|19357|Canada|Montreal|GloboTech Communications|
-|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|12|135.148.233.152|10206|United States|Reston|OVH SAS|
-|13|190.236.89.74|999|Peru|Chincha Alta|TDP-GRS|
-|14|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|67.43.236.21|8307|Canada|Montreal|GloboTech Communications|
-|17|34.45.205.168|3128|United States|Council Bluffs|Google LLC|
-|18|72.10.160.90|29555|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|13287|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.190.171.213|8181|Indonesia|Jakarta|WMS|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
