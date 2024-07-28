@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|135.148.171.194|18080|United States|Reston|OVH SAS|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|135.148.233.152|22602|United States|Reston|OVH SAS|
+|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|152.26.231.86|9443|United States|Huntersville|MCNC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|135.148.233.152|22602|United States|Reston|OVH SAS|
-|10|72.10.160.171|19837|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|27483|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|171.241.132.124|10013|Vietnam|Hanoi|Viettel Corporation|
-|14|67.43.236.20|1367|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|15057|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|15057|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|1367|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|222.190.130.62|8888|China|Nanjing|Chinanet|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|14|135.148.233.152|24965|United States|Reston|OVH SAS|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|72.10.164.178|5809|Canada|Montreal|GloboTech Communications|
+|20|124.205.141.242|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
