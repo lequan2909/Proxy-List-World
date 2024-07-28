@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|13|67.43.236.20|30893|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|18051|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.171|26587|Canada|Montreal|GloboTech Communications|
 |16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.228.253|28573|Canada|Montreal|GloboTech Communications|
-|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|19|72.10.160.171|26587|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14433|Canada|Montreal|GloboTech Communications|
+|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|18|135.148.233.152|31315|United States|Reston|OVH SAS|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|67.43.227.228|29061|Canada|Montreal|GloboTech Communications|
 
 
 
