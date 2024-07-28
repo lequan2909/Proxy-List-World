@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|7|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|12|115.77.142.71|10001|Vietnam|Vũng Tàu|Viettel Group|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|116.104.130.123|5020|Vietnam|Hanoi|Viettel Corporation|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|118.99.127.224|8080|Indonesia|Malang|Biznet Metronet|
-|18|67.43.227.227|6903|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|18205|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|6903|Canada|Montreal|GloboTech Communications|
+|1|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|2|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|3|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|152.26.229.42|9443|United States|Huntersville|MCNC|
+|12|67.43.227.227|31109|Canada|Montreal|GloboTech Communications|
+|13|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|72.10.164.178|15701|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|18205|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|31109|Canada|Montreal|GloboTech Communications|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|135.148.233.152|7777|United States|Reston|OVH SAS|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
