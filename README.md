@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |10|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|135.148.233.152|23451|United States|Reston|OVH SAS|
+|11|185.208.101.121|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|12|135.148.233.152|7777|United States|Reston|OVH SAS|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|115.77.142.71|10001|Vietnam|Vũng Tàu|Viettel Group|
+|17|190.94.212.36|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
