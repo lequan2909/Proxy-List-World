@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.93.204.241|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|152.26.231.86|9443|United States|Huntersville|MCNC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|13|67.43.227.226|31767|Canada|Montreal|GloboTech Communications|
-|14|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|72.10.160.90|5189|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|30785|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|7189|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7189|Canada|Montreal|GloboTech Communications|
+|12|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|13|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|39.129.73.6|443|China|Yuxi|China Mobile|
+|18|112.78.155.214|3128|Indonesia|Jakarta|BIZNET|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|2687|Canada|Montreal|GloboTech Communications|
 
 
 
