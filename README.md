@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|103.180.247.10|2015|Indonesia|Cibinong|PT Cakrawala Sarana Solusindo|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|67.43.228.253|2157|Canada|Montreal|GloboTech Communications|
-|12|39.129.73.6|443|China|Yuxi|China Mobile|
-|13|72.10.164.178|28211|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|28893|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|28211|Canada|Montreal|GloboTech Communications|
-|16|171.241.132.124|10013|Vietnam|Hanoi|Viettel Corporation|
-|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|135.148.233.152|12346|United States|Reston|OVH SAS|
-|19|67.43.236.18|25087|Canada|Montreal|GloboTech Communications|
-|20|135.148.233.152|12346|United States|Reston|OVH SAS|
+|9|115.77.142.71|10001|Vietnam|Vũng Tàu|Viettel Group|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|16|45.224.22.63|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|17|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|20|67.43.236.18|6177|Canada|Montreal|GloboTech Communications|
 
 
 
