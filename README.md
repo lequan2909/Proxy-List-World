@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5585** proxies at the latest update. Usable proxies are below.
+> Scraper found **5553** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|42|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|978|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|946|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|274|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3333|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|115.77.142.71|10001|Vietnam|Vũng Tàu|Viettel Group|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|135.148.233.152|1212|United States|Reston|OVH SAS|
-|14|135.148.233.152|1212|United States|Reston|OVH SAS|
-|15|161.34.36.93|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.36.92|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|67.43.228.250|15181|Canada|Montreal|GloboTech Communications|
-|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|1|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|67.43.236.20|14917|Canada|Montreal|GloboTech Communications|
+|8|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|9|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|72.10.160.90|3197|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|22199|Canada|Montreal|GloboTech Communications|
+|13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|14|101.128.93.22|8082|Indonesia|Jakarta|CBN|
+|15|72.10.160.90|3197|Canada|Montreal|GloboTech Communications|
+|16|120.28.110.13|8082|Philippines|San Juan|Globe Telecom|
+|17|67.43.227.227|17165|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|14917|Canada|Montreal|GloboTech Communications|
+|19|103.79.143.114|8746|Vietnam|Văn Quán|CADI|
+|20|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 
 
 
