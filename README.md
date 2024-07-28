@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|4|194.87.74.232|8080|Russia|Moscow|JSC Mediasoft ekspert|
+|3|194.87.74.232|8080|Russia|Moscow|JSC Mediasoft ekspert|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|10|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|103.231.239.6|58080|Bangladesh|Dhaka|Carnival Internet|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|11|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
 |15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|18|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|20|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|16|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|135.148.233.152|22602|United States|Reston|OVH SAS|
+|19|72.10.160.90|22665|Canada|Montreal|GloboTech Communications|
+|20|135.148.233.152|22602|United States|Reston|OVH SAS|
 
 
 
