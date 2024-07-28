@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|4|171.236.127.4|5106|Vietnam|Hanoi|Viettel Corporation|
-|5|171.226.35.194|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|43.153.42.147|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|122.53.245.28|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|206.1.250.72|9090|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|2|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
+|5|171.236.127.4|5106|Vietnam|Hanoi|Viettel Corporation|
+|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|124.217.77.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|140.238.216.189|3128|Switzerland|Zurich|Oracle Corporation|
-|20|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|43.153.42.147|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
