@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|135.148.233.152|31315|United States|Reston|OVH SAS|
-|10|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|72.10.164.178|14545|Canada|Montreal|GloboTech Communications|
-|12|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|67.43.228.251|21385|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|3003|Canada|Montreal|GloboTech Communications|
-|15|5.196.111.29|20387|France|Gravelines|OVH SAS|
+|2|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|12|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|13|135.148.233.152|1234|United States|Reston|OVH SAS|
+|14|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
 |16|72.10.164.178|14545|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|8183|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|27459|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14545|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|8183|Canada|Montreal|GloboTech Communications|
+|17|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|18|67.43.228.250|3627|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|3003|Canada|Montreal|GloboTech Communications|
+|20|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
 
 
 
