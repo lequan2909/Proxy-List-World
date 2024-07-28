@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|206.189.92.210|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|3.224.25.208|80|United States|Ashburn|Amazon Technologies Inc.|
-|16|67.43.227.227|7003|Canada|Montreal|GloboTech Communications|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|9|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|135.148.233.152|10206|United States|Reston|OVH SAS|
+|14|67.43.236.18|6377|Canada|Montreal|GloboTech Communications|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |17|152.26.229.42|9443|United States|Huntersville|MCNC|
-|18|67.43.236.18|32313|Canada|Montreal|GloboTech Communications|
-|19|62.210.37.74|8012|France|Paris|Online S.A.S.|
-|20|72.10.164.178|5167|Canada|Montreal|GloboTech Communications|
+|18|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|19|39.129.73.6|443|China|Yuxi|China Mobile|
+|20|89.218.229.78|3128|Kazakhstan|Petropavl|Kazakhtelecom Data Network Administration|
 
 
 
