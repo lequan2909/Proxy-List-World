@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|6|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|7|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|9|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|188.190.40.44|8080|Ukraine|Kyiv|Lanet Network Ltd|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.231.86|9443|United States|Huntersville|MCNC|
-|13|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|67.43.228.253|3673|Canada|Montreal|GloboTech Communications|
+|12|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|67.43.228.253|4817|Canada|Montreal|GloboTech Communications|
+|17|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
 |18|72.10.160.90|25557|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|3673|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|23613|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|7481|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|25557|Canada|Montreal|GloboTech Communications|
 
 
 
