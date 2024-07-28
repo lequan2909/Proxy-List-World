@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
-|13|135.148.233.152|6784|United States|Reston|OVH SAS|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|157.90.203.104|12988|Germany|Falkenstein|Hetzner Online GmbH|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|17|190.97.236.40|2023|Venezuela|Maporal|Viginet C.A|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
