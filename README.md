@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|12|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|17|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|18|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
-|19|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|6|103.111.136.110|443|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
+|7|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|8|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|9|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
