@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|135.148.233.152|1234|United States|Reston|OVH SAS|
+|8|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|9|135.148.100.78|48149|United States|Reston|OVH SAS|
+|10|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|17|89.218.229.78|3128|Kazakhstan|Petropavl|Kazakhtelecom Data Network Administration|
-|18|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|135.148.100.78|48149|United States|Reston|OVH SAS|
+|16|103.191.250.162|8083|Indonesia|Batam|PT Mulia Batam Net|
+|17|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|18|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|20|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 
 
 
