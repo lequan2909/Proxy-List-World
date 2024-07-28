@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|135.148.171.194|18080|United States|Reston|OVH SAS|
 |6|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|20.244.104.182|3128|India|Pune|Microsoft Corporation|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |11|152.26.229.42|9443|United States|Huntersville|MCNC|
-|12|72.10.164.178|25487|Canada|Montreal|GloboTech Communications|
-|13|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
-|14|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|72.10.164.178|25487|Canada|Montreal|GloboTech Communications|
-|16|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
-|17|72.10.160.90|25557|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|17713|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|25487|Canada|Montreal|GloboTech Communications|
-|20|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|135.148.233.152|31315|United States|Reston|OVH SAS|
+|13|72.10.164.178|5121|Canada|Montreal|GloboTech Communications|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|72.10.160.90|25557|Canada|Montreal|GloboTech Communications|
+|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|67.43.236.20|25933|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|5121|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|5121|Canada|Montreal|GloboTech Communications|
 
 
 
