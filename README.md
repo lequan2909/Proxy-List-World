@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|147.75.34.92|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|8|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|147.75.34.92|443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|11|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |12|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|103.184.182.66|80|Indonesia|Lumajang|Diskominfo Lumajang|
+|16|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
 |17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|135.148.171.194|18080|United States|Reston|OVH SAS|
-|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|135.148.233.152|3129|United States|Reston|OVH SAS|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
