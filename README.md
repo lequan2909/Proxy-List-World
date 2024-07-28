@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|147.75.34.92|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|8|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|147.75.34.92|443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|147.75.34.92|443|The Netherlands|Amsterdam|Packet Host, Inc.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|147.75.34.92|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|84.214.150.146|8080|Norway|Hakadal|Get AS|
-|18|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|66.27.58.70|8080|United States|Compton|Spectrum|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|135.148.233.152|7777|United States|Reston|OVH SAS|
+|18|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|19|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|20|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
