@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
 |4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|67.43.227.227|10381|Canada|Montreal|GloboTech Communications|
-|7|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|9|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|10|135.148.233.152|31315|United States|Reston|OVH SAS|
-|11|67.43.227.228|26591|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|11565|Canada|Montreal|GloboTech Communications|
-|13|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|14|178.128.32.189|9090|United Kingdom|Slough|DigitalOcean, LLC|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|135.148.233.152|31315|United States|Reston|OVH SAS|
-|17|135.148.233.152|31315|United States|Reston|OVH SAS|
-|18|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|72.10.160.90|3269|Canada|Montreal|GloboTech Communications|
+|5|67.43.227.227|15821|Canada|Montreal|GloboTech Communications|
+|6|135.148.233.152|17955|United States|Reston|OVH SAS|
+|7|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|8|72.10.164.178|11565|Canada|Montreal|GloboTech Communications|
+|9|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|10|147.75.34.92|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|11|67.43.228.253|28947|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|28947|Canada|Montreal|GloboTech Communications|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|67.43.228.253|28947|Canada|Montreal|GloboTech Communications|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|135.148.233.152|17955|United States|Reston|OVH SAS|
+|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|72.10.160.91|11051|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|15821|Canada|Montreal|GloboTech Communications|
 
 
 
