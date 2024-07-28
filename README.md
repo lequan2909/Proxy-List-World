@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|135.148.233.152|21450|United States|Reston|OVH SAS|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|170.239.207.78|8080|Colombia|Bogotá|FIBERNET|
-|15|135.148.233.152|21450|United States|Reston|OVH SAS|
-|16|67.43.236.22|23875|Canada|Montreal|GloboTech Communications|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|20|67.43.236.20|13971|Canada|Montreal|GloboTech Communications|
+|2|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|7|135.148.233.152|22602|United States|Reston|OVH SAS|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|15|67.43.228.253|2195|Canada|Montreal|GloboTech Communications|
+|16|135.148.233.152|22602|United States|Reston|OVH SAS|
+|17|67.43.236.22|23875|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|3989|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|13641|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|13641|Canada|Montreal|GloboTech Communications|
 
 
 
