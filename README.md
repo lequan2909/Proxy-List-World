@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|117.0.132.244|5020|Vietnam|Hanoi|Viettel Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
-|7|91.108.130.18|3128|Iran|Ahvaz|Rayaneh Gostar Farzanegan Ahvaz LTD|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|135.148.233.152|12346|United States|Reston|OVH SAS|
-|12|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|62.60.164.191|3128|Iran|Tehran|NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|19|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|6|2.59.181.125|19051|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.108.130.18|3128|Iran|Ahvaz|Rayaneh Gostar Farzanegan Ahvaz LTD|
+|9|117.0.132.244|5020|Vietnam|Hanoi|Viettel Corporation|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|117.0.198.50|5106|Vietnam|Hanoi|Viettel Corporation|
+|14|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|16|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
