@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|103.67.78.186|3128|Indonesia|Cileunyi|PT Cloud Hosting Indonesia|
-|16|67.43.228.250|30975|Canada|Montreal|GloboTech Communications|
-|17|171.228.174.105|10089|Vietnam|Hanoi|Viettel Corporation|
-|18|135.148.233.152|22602|United States|Reston|OVH SAS|
-|19|72.10.164.178|11097|Canada|Montreal|GloboTech Communications|
-|20|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|14|171.228.174.105|10089|Vietnam|Hanoi|Viettel Corporation|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|101.51.81.60|8080|Thailand|Surin|TOT Public Company Limited|
+|17|135.148.233.152|12346|United States|Reston|OVH SAS|
+|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|67.43.236.21|25853|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
