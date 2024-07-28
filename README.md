@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|163.172.33.137|4002|France|Vitry-sur-Seine|Online S.A.S.|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|147.75.34.92|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|135.148.233.152|7777|United States|Reston|OVH SAS|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|147.75.34.92|443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
