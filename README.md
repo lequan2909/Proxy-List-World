@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|558|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|558|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|558|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|16|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|20|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|7|103.189.249.204|8092|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|12|103.127.220.251|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|13|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|14|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
