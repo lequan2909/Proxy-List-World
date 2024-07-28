@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|9|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|135.148.233.152|1234|United States|Reston|OVH SAS|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
