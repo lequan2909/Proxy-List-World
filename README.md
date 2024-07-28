@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|103.150.89.72|3128|Indonesia|Teluknaga|PT Biznet Gio Nusantara|
-|8|103.133.26.126|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|9|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
-|10|152.26.231.86|9443|United States|Huntersville|MCNC|
-|11|67.43.228.253|1323|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|11865|Canada|Montreal|GloboTech Communications|
-|13|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|72.10.160.170|6783|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|21007|Canada|Montreal|GloboTech Communications|
-|16|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|135.148.233.152|24860|United States|Reston|OVH SAS|
-|19|72.10.160.90|11865|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|152.26.231.86|9443|United States|Huntersville|MCNC|
+|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|182.253.109.73|8080|Indonesia|Semarang|Biznet Metronet|
+|9|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|10|67.43.228.253|1323|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.228|28143|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|26193|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|22679|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.236.18|16417|Canada|Montreal|GloboTech Communications|
+|17|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|67.43.236.20|3071|Canada|Montreal|GloboTech Communications|
+|19|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
