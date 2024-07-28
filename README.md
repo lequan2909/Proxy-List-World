@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|135.148.233.152|24965|United States|Reston|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
 |6|135.148.171.194|18080|United States|Reston|OVH SAS|
 |7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|152.26.229.42|9443|United States|Huntersville|MCNC|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|152.26.229.42|9443|United States|Huntersville|MCNC|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|67.43.228.253|23905|Canada|Montreal|GloboTech Communications|
 |11|72.10.160.172|18433|Canada|Montreal|GloboTech Communications|
-|12|223.25.110.228|3125|Indonesia|Malang|SinergiNet|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|67.43.227.228|3027|Canada|Montreal|GloboTech Communications|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|67.43.228.253|19499|Canada|Montreal|GloboTech Communications|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|67.43.227.228|3027|Canada|Montreal|GloboTech Communications|
+|20|163.172.33.137|4002|France|Vitry-sur-Seine|Online S.A.S.|
 
 
 
