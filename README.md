@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|5.189.239.157|80|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|11|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|41.111.188.39|80|Algeria|Cheraga|Algerie Telecom|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|195.62.32.117|22331|Germany|Goslar|PIO-Hosting GmbH|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
+|20|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
 
 
 
