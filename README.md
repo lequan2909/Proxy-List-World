@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5164** proxies at the latest update. Usable proxies are below.
+> Scraper found **5165** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|30|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|648|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|217|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.148.171.194|18080|United States|Reston|OVH SAS|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
 |9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|14|135.148.233.152|24965|United States|Reston|OVH SAS|
-|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|72.10.164.178|5809|Canada|Montreal|GloboTech Communications|
-|20|124.205.141.242|3128|China|Beijing|China Unicom Beijing Province Network|
+|10|135.148.233.152|24965|United States|Reston|OVH SAS|
+|11|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|12|135.148.233.152|24965|United States|Reston|OVH SAS|
+|13|135.148.233.152|24965|United States|Reston|OVH SAS|
+|14|67.43.228.253|13085|Canada|Montreal|GloboTech Communications|
+|15|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|16|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|17|67.43.228.251|26423|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.172|17235|Canada|Montreal|GloboTech Communications|
+|19|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
