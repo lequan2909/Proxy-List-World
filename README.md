@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|135.148.233.152|3129|United States|Reston|OVH SAS|
-|8|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|13|72.10.160.90|2497|Canada|Montreal|GloboTech Communications|
-|14|135.148.233.152|3129|United States|Reston|OVH SAS|
-|15|72.10.160.173|10381|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|2497|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|11227|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|135.148.233.152|3129|United States|Reston|OVH SAS|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|4|135.148.233.152|3129|United States|Reston|OVH SAS|
+|5|135.148.233.152|3129|United States|Reston|OVH SAS|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|72.10.160.90|16181|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.173|10381|Canada|Montreal|GloboTech Communications|
+|9|135.148.233.152|3129|United States|Reston|OVH SAS|
+|10|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|11|72.10.160.90|16181|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|11227|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|67.43.236.18|22945|Canada|Montreal|GloboTech Communications|
+|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|135.148.233.152|3129|United States|Reston|OVH SAS|
+|17|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|18|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|20|135.148.233.152|3129|United States|Reston|OVH SAS|
 
 
 
