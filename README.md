@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|152.70.235.185|9002|South Korea|Seoul|Oracle Corporation|
-|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|6|34.227.108.245|8118|United States|Ashburn|Amazon.com, Inc.|
-|7|103.63.114.203|80|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|131.100.51.81|999|Colombia|Neiva|Fibernet TV SAS|
-|16|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
-|17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|19|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|20|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|7|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|67.43.227.227|32359|Canada|Montreal|GloboTech Communications|
+|11|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|14|67.43.228.253|24397|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|32897|Canada|Montreal|GloboTech Communications|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|65.20.197.132|8080|Iraq|Kirkuk|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|45.8.145.216|1111|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
