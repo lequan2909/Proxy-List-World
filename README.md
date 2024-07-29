@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|67.43.236.20|27869|Canada|Montreal|GloboTech Communications|
-|14|39.129.73.6|443|China|Yuxi|China Mobile|
-|15|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|16|72.10.160.90|30097|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|7543|Canada|Montreal|GloboTech Communications|
-|18|186.125.218.147|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|19|152.26.231.86|9443|United States|Huntersville|MCNC|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|103.148.48.97|8080|Indonesia|Pontianak|BCMEDIA|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|14|67.43.236.20|22873|Canada|Montreal|GloboTech Communications|
+|15|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|72.10.160.90|10511|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|19941|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|72.10.160.174|17557|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|10511|Canada|Montreal|GloboTech Communications|
 
 
 
