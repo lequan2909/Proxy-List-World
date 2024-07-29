@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|11|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|135.148.233.152|21450|United States|Reston|OVH SAS|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|19|72.10.160.92|14039|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|26005|Canada|Montreal|GloboTech Communications|
+|8|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|19|135.148.233.152|21450|United States|Reston|OVH SAS|
+|20|72.10.160.92|14039|Canada|Montreal|GloboTech Communications|
 
 
 
