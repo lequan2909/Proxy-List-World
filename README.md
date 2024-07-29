@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|7|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.168.178|8888|United States|Reston|OVH US LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|69.197.149.234|6594|United States|Kansas City|WholeSale Internet|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|67.43.236.20|16265|Canada|Montreal|GloboTech Communications|
-|20|65.20.197.132|8080|Iraq|Kirkuk|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|2|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|8|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
+|9|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|103.175.157.72|8090|Indonesia|Jakarta|MYARSYILA|
+|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|15.204.168.178|8888|United States|Reston|OVH US LLC|
+|18|39.129.73.6|443|China|Yuxi|China Mobile|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.160.90|9121|Canada|Montreal|GloboTech Communications|
 
 
 
