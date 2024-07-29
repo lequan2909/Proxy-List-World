@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|2|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|3|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
-|8|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|9|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|125.27.47.195|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|12|135.148.233.152|1212|United States|Reston|OVH SAS|
-|13|67.43.228.253|16059|Canada|Montreal|GloboTech Communications|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|16|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
-|17|67.43.228.253|16059|Canada|Montreal|GloboTech Communications|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.164.178|26091|Canada|Montreal|GloboTech Communications|
+|5|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|13|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
+|18|50.201.133.122|3366|United States|Richmond|Comcast Cable Communications, LLC|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
