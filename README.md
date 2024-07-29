@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|2|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|89.218.229.78|3128|Kazakhstan|Petropavl|Kazakhtelecom Data Network Administration|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|15.235.171.206|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|15|103.149.194.37|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|16|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 
 
 
