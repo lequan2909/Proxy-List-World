@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|14|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|15|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|18|67.43.228.250|17693|Canada|Montreal|GloboTech Communications|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|2|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|13|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
+|14|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
+|15|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|19|103.76.151.74|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|20|72.10.160.170|19785|Canada|Montreal|GloboTech Communications|
 
 
 
