@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
 |2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
-|7|135.148.233.152|3129|United States|Reston|OVH SAS|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|8|135.148.233.152|30590|United States|Reston|OVH SAS|
+|9|135.148.233.152|30590|United States|Reston|OVH SAS|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |11|72.10.160.171|6445|Canada|Montreal|GloboTech Communications|
-|12|37.26.86.206|47464|Albania|Elbasan|ATU|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|152.26.231.86|9443|United States|Huntersville|MCNC|
-|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|80.190.85.12|3128|United Kingdom|Portsmouth|Contabo GmbH|
-|17|95.163.235.117|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|18|72.10.160.173|10023|Canada|Montreal|GloboTech Communications|
-|19|135.148.233.152|3129|United States|Reston|OVH SAS|
-|20|103.76.151.74|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|12|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|135.148.233.152|30590|United States|Reston|OVH SAS|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|20|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
 
 
 
