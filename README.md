@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|46.35.75.81|8080|Yemen|Ḩajjah|Public Telecommunication Corporation|
-|8|103.63.114.207|443|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|9|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|152.42.186.181|9090|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.10.160.170|25675|Canada|Montreal|GloboTech Communications|
-|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|17|72.10.164.178|23471|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|27237|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23471|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|1|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|2|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
+|9|15.204.168.178|8888|United States|Reston|OVH US LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|12|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|14|61.216.156.222|60808|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|15|72.10.160.170|13761|Canada|Montreal|GloboTech Communications|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|15.204.168.178|8888|United States|Reston|OVH US LLC|
+|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
 
 
 
