@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.160.90|10583|Canada|Montreal|GloboTech Communications|
-|12|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
+|6|46.35.75.81|8080|Yemen|Ḩajjah|Public Telecommunication Corporation|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|12|72.10.160.90|31633|Canada|Montreal|GloboTech Communications|
 |13|72.10.164.178|23471|Canada|Montreal|GloboTech Communications|
-|14|171.226.35.194|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|72.10.160.171|6135|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|3771|Canada|Montreal|GloboTech Communications|
-|17|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|67.43.227.227|2731|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|6233|Canada|Montreal|GloboTech Communications|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|16|72.10.164.178|23471|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|6135|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|2731|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|25941|Canada|Montreal|GloboTech Communications|
+|20|139.59.249.97|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
