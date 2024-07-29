@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|101.255.164.238|8080|Indonesia|Bekasi|PT Remala Abadi|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|135.148.233.152|12346|United States|Reston|OVH SAS|
-|13|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|15|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
-|16|65.20.197.132|8080|Iraq|Kirkuk|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|202.146.230.102|8080|Indonesia|Surabaya|PT Centrin Utama|
-|19|129.159.67.33|80|United States|Ashburn|Oracle Corporation|
-|20|135.148.233.152|12346|United States|Reston|OVH SAS|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|15.204.168.178|8888|United States|Reston|OVH US LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|12|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|15|135.148.233.152|12346|United States|Reston|OVH SAS|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|15.235.171.234|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|18|45.136.197.45|25124|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|19|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|15.204.168.178|8888|United States|Reston|OVH US LLC|
 
 
 
