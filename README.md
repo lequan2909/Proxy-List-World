@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|136.226.255.23|10326|India|Mumbai|ZSCALER, INC.|
+|4|136.226.255.23|10326|India|Mumbai|ZSCALER, INC.|
+|5|136.226.255.23|10326|India|Mumbai|ZSCALER, INC.|
+|6|136.226.255.23|10326|India|Mumbai|ZSCALER, INC.|
+|7|136.226.255.23|10326|India|Mumbai|ZSCALER, INC.|
+|8|152.26.231.86|9443|United States|Huntersville|MCNC|
+|9|51.15.36.2|3128|The Netherlands|Amsterdam|Online SAS NL|
+|10|51.15.71.194|3128|The Netherlands|Amsterdam|SCALEWAY|
+|11|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|14|45.236.106.86|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|135.148.233.152|12346|United States|Reston|OVH SAS|
+|14|67.43.227.227|16241|Canada|Montreal|GloboTech Communications|
+|15|206.189.92.70|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|51.158.162.84|3128|France|Paris|Online S.A.S.|
+|17|135.148.233.152|12346|United States|Reston|OVH SAS|
+|18|72.10.160.174|12687|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|136.226.255.23|10326|India|Mumbai|ZSCALER, INC.|
 
 
 
