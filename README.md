@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|5|72.10.164.178|13067|Canada|Montreal|GloboTech Communications|
-|6|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|7|159.69.212.168|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|152.26.229.42|9443|United States|Huntersville|MCNC|
-|9|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|12|191.102.248.5|8085|Argentina|Rosario|IP·RED|
-|13|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|14|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|15|135.148.233.152|24860|United States|Reston|OVH SAS|
-|16|185.17.146.18|8080|Germany|Frankfurt am Main|LeaseWeb DE|
-|17|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|18|67.43.228.253|1549|Canada|Montreal|GloboTech Communications|
-|19|34.140.150.176|3128|Belgium|Brussels|Google LLC|
-|20|67.43.227.228|6093|Canada|Montreal|GloboTech Communications|
+|1|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|2|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|12|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 
 
 
