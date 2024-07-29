@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|152.26.229.42|9443|United States|Huntersville|MCNC|
-|8|135.148.233.152|18272|United States|Reston|OVH SAS|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|51.15.81.134|3128|The Netherlands|Amsterdam|SCALEWAY|
-|11|67.43.227.227|3739|Canada|Montreal|GloboTech Communications|
-|12|51.158.186.30|3128|France|Paris|Online S.A.S.|
-|13|135.148.233.152|18272|United States|Reston|OVH SAS|
-|14|72.10.160.93|2367|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|1513|Canada|Montreal|GloboTech Communications|
-|16|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|17|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|18|67.43.236.20|10267|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|51.15.81.134|3128|The Netherlands|Amsterdam|SCALEWAY|
+|18|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
 |19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|67.43.228.253|26233|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|1261|Canada|Montreal|GloboTech Communications|
 
 
 
