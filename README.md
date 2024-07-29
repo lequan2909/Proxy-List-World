@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|7|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|72.167.150.35|3128|United States|Tempe|GoDaddy.com, LLC|
-|15|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|16|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
-|17|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|18|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
