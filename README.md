@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|135.148.233.152|1212|United States|Reston|OVH SAS|
-|16|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|185.17.146.18|8080|Germany|Frankfurt am Main|LeaseWeb DE|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|67.43.236.20|20847|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|20847|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|9|186.125.218.147|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|67.43.236.20|15815|Canada|Montreal|GloboTech Communications|
+|12|135.148.233.152|3127|United States|Reston|OVH SAS|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|72.10.164.178|4085|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|18687|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|18687|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|4085|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|13719|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|15815|Canada|Montreal|GloboTech Communications|
+|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 
 
 
