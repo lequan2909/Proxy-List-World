@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|51.15.81.134|3128|The Netherlands|Amsterdam|SCALEWAY|
-|5|51.15.93.109|3128|The Netherlands|Amsterdam|SCALEWAY|
-|6|51.158.183.139|3128|France|Paris|Online S.A.S.|
-|7|51.15.71.194|3128|The Netherlands|Amsterdam|SCALEWAY|
-|8|51.158.191.37|3128|France|Paris|Online S.A.S.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|51.15.112.97|3128|The Netherlands|Amsterdam|SCALEWAY|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|51.15.36.2|3128|The Netherlands|Amsterdam|Online SAS NL|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|67.43.227.228|17967|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|23289|Canada|Montreal|GloboTech Communications|
-|19|51.15.34.237|3128|The Netherlands|Amsterdam|Online SAS NL|
-|20|51.158.191.37|3128|France|Paris|Online S.A.S.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|67.43.228.250|1495|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|20499|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.20|20499|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|20499|Canada|Montreal|GloboTech Communications|
 
 
 
