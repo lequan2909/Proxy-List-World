@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|2|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|116.96.104.25|5106|Vietnam|Hanoi|Viettel Corporation|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
-|8|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|108.181.187.213|9001|United States|Dallas|Psychz Networks|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|20|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|178.57.123.118|3128|Russia|Yaroslavl|Sever Telecom JSC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|10|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|19|212.19.5.137|3128|Russia|Khabarovsk|JSC "Redcom-lnternet"|
+|20|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
