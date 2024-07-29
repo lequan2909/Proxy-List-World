@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|7|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|10|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|12|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|13|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|51.15.96.194|3128|The Netherlands|Amsterdam|SCALEWAY|
-|15|51.15.81.134|3128|The Netherlands|Amsterdam|SCALEWAY|
-|16|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|17|51.158.188.230|3128|France|Paris|Online S.A.S.|
-|18|67.43.228.253|5205|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|185.138.114.113|8080|Ireland|Limerick|Enet Telecommunications Networks Limited|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|135.148.233.152|31315|United States|Reston|OVH SAS|
+|16|51.15.81.134|3128|The Netherlands|Amsterdam|SCALEWAY|
+|17|51.15.96.194|3128|The Netherlands|Amsterdam|SCALEWAY|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|51.158.188.230|3128|France|Paris|Online S.A.S.|
+|20|78.135.67.89|55555|Türkiye|Istanbul|HostLAB Bilisim Teknolojileri A.S.|
 
 
 
