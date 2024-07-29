@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|135.148.233.152|3129|United States|Reston|OVH SAS|
-|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|72.10.164.178|2281|Canada|Montreal|GloboTech Communications|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|135.148.233.152|3129|United States|Reston|OVH SAS|
-|13|72.10.160.90|19255|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|19847|Canada|Montreal|GloboTech Communications|
-|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|17|67.43.236.20|15851|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|25529|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.227.227|9791|Canada|Montreal|GloboTech Communications|
+|1|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|12|135.148.233.152|30590|United States|Reston|OVH SAS|
+|13|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|20|135.148.233.152|30590|United States|Reston|OVH SAS|
 
 
 
