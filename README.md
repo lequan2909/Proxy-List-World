@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|11|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|14|38.156.75.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|18|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|135.148.233.152|14273|United States|Reston|OVH SAS|
-|20|135.148.233.152|14273|United States|Reston|OVH SAS|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
+|11|45.201.136.117|9812|Cambodia|Phnom Penh|King Technologies Co|
+|12|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|103.193.145.27|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|16|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|58.247.136.139|9091|China|Shanghai|CNC Group CHINA169 Shanghai Province Network|
+|19|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
