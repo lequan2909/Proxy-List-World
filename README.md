@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|104.129.203.244|10878|United States|San Jose|ZSCALER, INC.|
-|14|104.129.203.244|10878|United States|San Jose|ZSCALER, INC.|
-|15|104.129.203.244|10878|United States|San Jose|ZSCALER, INC.|
-|16|104.129.203.245|33333|United States|San Jose|ZSCALER, INC.|
-|17|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.228.251|1383|Canada|Montreal|GloboTech Communications|
-|20|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|17|104.129.203.245|33333|United States|San Jose|ZSCALER, INC.|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
