@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|152.26.231.86|9443|United States|Huntersville|MCNC|
-|8|72.10.160.90|15581|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|32367|Canada|Montreal|GloboTech Communications|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|135.148.233.152|30590|United States|Reston|OVH SAS|
-|12|51.158.161.200|3128|France|Paris|Online S.A.S.|
-|13|72.10.160.94|7979|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|23387|Canada|Montreal|GloboTech Communications|
-|15|51.15.112.97|3128|The Netherlands|Amsterdam|SCALEWAY|
-|16|72.10.160.170|25879|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|30975|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|23387|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|30663|Canada|Montreal|GloboTech Communications|
-|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.231.86|9443|United States|Huntersville|MCNC|
+|12|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|135.148.233.152|30590|United States|Reston|OVH SAS|
+|14|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|15|135.148.233.152|30590|United States|Reston|OVH SAS|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|135.148.233.152|30590|United States|Reston|OVH SAS|
 
 
 
