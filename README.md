@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |5|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|14|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|15|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|20|202.51.121.59|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|12|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|14|200.5.196.218|3128|Argentina|Buenos Aires|Telefonica de Argentina|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|68.183.149.126|11008|United States|Clifton|DigitalOcean, LLC|
+|17|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|171.7.53.232|8899|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|20|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 
 
 
