@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|103.190.94.46|8080|Indonesia|Toli-Toli|PT Triple Zhi Network|
-|13|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|16|104.129.203.244|33333|United States|San Jose|ZSCALER, INC.|
+|5|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|104.129.203.244|33333|United States|San Jose|ZSCALER, INC.|
+|14|124.106.203.238|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|15|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|20|104.129.203.248|11066|United States|San Jose|ZSCALER, INC.|
 
 
 
