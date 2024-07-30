@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|223.27.144.34|8080|Indonesia|Jakarta|PT Cyber Network Indonesia|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|135.148.233.152|30590|United States|Reston|OVH SAS|
-|16|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|64.6.8.5|8080|United States|Stronghurst|MTC Communications|
-|18|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|19|103.118.175.165|7777|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|20|51.15.102.243|3128|The Netherlands|Amsterdam|SCALEWAY|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|51.15.102.243|3128|The Netherlands|Amsterdam|SCALEWAY|
+|11|72.10.160.90|13825|Canada|Montreal|GloboTech Communications|
+|12|51.15.112.97|3128|The Netherlands|Amsterdam|SCALEWAY|
+|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|14|51.15.71.194|3128|The Netherlands|Amsterdam|SCALEWAY|
+|15|51.158.186.30|3128|France|Paris|Online S.A.S.|
+|16|51.158.188.230|3128|France|Paris|Online S.A.S.|
+|17|72.10.164.178|6397|Canada|Montreal|GloboTech Communications|
+|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|19|51.158.191.37|3128|France|Paris|Online S.A.S.|
+|20|51.15.96.194|3128|The Netherlands|Amsterdam|SCALEWAY|
 
 
 
