@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|167.99.76.77|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.54.30.205|8000|Vietnam|Hanoi|Kaopu Cloud HK Limited|
-|12|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|13|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|14|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|67.43.227.227|3287|Canada|Montreal|GloboTech Communications|
-|19|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|152.26.231.86|9443|United States|Huntersville|MCNC|
+|6|67.43.228.250|20179|Canada|Montreal|GloboTech Communications|
+|7|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|72.10.160.90|29503|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|2731|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|13301|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|21537|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|20179|Canada|Montreal|GloboTech Communications|
+|15|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|16|67.43.227.228|16115|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|32755|Canada|Montreal|GloboTech Communications|
+|18|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|19|223.27.144.34|8080|Indonesia|Jakarta|PT Cyber Network Indonesia|
+|20|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
