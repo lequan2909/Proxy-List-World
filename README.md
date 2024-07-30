@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|113.161.81.190|5566|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|103.133.63.134|8181|Indonesia|Bandar Lampung|TLINK|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|13|135.148.233.152|1592|United States|Reston|OVH SAS|
-|14|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|15|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|16|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|7|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|47.74.40.128|7788|Japan|Tokyo|Alibaba Cloud LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|191.7.8.246|80|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
+|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|104.129.203.244|10013|United States|San Jose|ZSCALER, INC.|
+|14|223.205.141.127|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
+|18|104.129.203.246|9400|United States|San Jose|ZSCALER, INC.|
+|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|20|72.10.160.173|2223|Canada|Montreal|GloboTech Communications|
 
 
 
