@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
-|4|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|121.130.132.33|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|135.148.233.152|31315|United States|Reston|OVH SAS|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|164.92.207.53|30000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|72.10.164.178|29503|Canada|Montreal|GloboTech Communications|
-|15|135.148.233.152|31315|United States|Reston|OVH SAS|
-|16|152.67.8.225|80|India|Mumbai|Oracle Corporation|
-|17|135.148.233.152|31315|United States|Reston|OVH SAS|
-|18|67.43.236.19|16661|Canada|Montreal|GloboTech Communications|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|67.43.236.20|10493|Canada|Montreal|GloboTech Communications|
+|3|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
+|5|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|121.130.132.33|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|103.178.194.190|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|18|87.247.40.82|3128|Kazakhstan|Astana|Kar-Tel LLC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
