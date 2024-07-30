@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|550|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|550|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|550|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
-|13|104.129.203.244|33333|United States|San Jose|ZSCALER, INC.|
-|14|104.129.203.245|10878|United States|San Jose|ZSCALER, INC.|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|14|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
 |15|104.129.203.244|33333|United States|San Jose|ZSCALER, INC.|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|104.129.203.245|10878|United States|San Jose|ZSCALER, INC.|
 |17|104.129.203.244|33333|United States|San Jose|ZSCALER, INC.|
 |18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |19|104.129.203.244|33333|United States|San Jose|ZSCALER, INC.|
-|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|104.129.203.244|33333|United States|San Jose|ZSCALER, INC.|
 
 
 
