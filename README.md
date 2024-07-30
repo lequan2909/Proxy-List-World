@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|186.129.95.155|3128|Argentina|Morón|Telefonica de Argentina|
-|7|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|11|103.169.148.5|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
-|12|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|135.148.233.152|23451|United States|Reston|OVH SAS|
-|16|72.10.164.178|18943|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|20|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|223.205.141.127|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|6|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|7|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
+|10|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|11|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|12|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|67.43.236.20|27691|Canada|Montreal|GloboTech Communications|
+|14|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|72.10.164.178|32071|Canada|Montreal|GloboTech Communications|
+|17|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|104.129.203.246|9400|United States|San Jose|ZSCALER, INC.|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
