@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|135.148.233.152|18531|United States|Reston|OVH SAS|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
 
 
 
