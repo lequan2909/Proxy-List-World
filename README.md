@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|3|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|5|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|2|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|4|152.42.186.179|9090|Singapore|Singapore|DigitalOcean, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|16|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|17|15.204.168.178|8888|United States|Reston|OVH US LLC|
+|18|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|19|108.181.187.213|9001|United States|Dallas|Psychz Networks|
+|20|135.148.233.152|23451|United States|Reston|OVH SAS|
 
 
 
