@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|542|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|542|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|542|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|68|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1187|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1213|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|402|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|376|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3882|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|1|165.22.98.195|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|3|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|14|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|15|103.228.36.164|10000|India|Mumbai|DXT|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|171.6.24.203|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|15.204.168.178|8888|United States|Reston|OVH US LLC|
+|17|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|135.148.233.152|7302|United States|Reston|OVH SAS|
+|19|15.204.168.178|8888|United States|Reston|OVH US LLC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
