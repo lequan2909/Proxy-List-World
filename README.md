@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|524|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|524|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|524|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|210.247.252.133|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|4|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |5|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|88.84.209.24|3128|Russia|Moscow|Flex Ltd.|
-|19|41.33.203.115|1982|Egypt|Cairo|TE Data|
-|20|87.239.168.52|3128|Poland|Imielin|Beskid Media Sp. z o.o.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|200.69.21.207|3128|Singapore|Singapore|A2 Hosting, Inc.|
+|16|171.6.24.203|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|18|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
