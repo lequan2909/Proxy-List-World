@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|8|109.62.152.125|8080|Russia|Belgorod|OJSC Rostelecom|
-|9|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|14|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|15|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|16|187.245.214.7|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
-|17|102.221.40.114|8080|South Africa|George|Telkom SA Ltd.|
-|18|104.129.203.246|9480|United States|San Jose|ZSCALER, INC.|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|135.148.233.152|14273|United States|Reston|OVH SAS|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|210.247.252.23|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|12|192.99.78.5|3128|Canada|Beauharnois|OVH Hosting|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|15|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|16|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|19|104.129.203.246|9480|United States|San Jose|ZSCALER, INC.|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
