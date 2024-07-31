@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|15|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|91.210.172.85|8080|Kazakhstan|Ekibastuz|Bladeweb|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|13|135.148.233.152|1592|United States|Reston|OVH SAS|
+|14|204.111.233.60|8888|United States|Farmville|Shenandoah Cable Television LLC|
+|15|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
 |16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|103.76.151.74|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|18|103.167.31.157|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|159.203.15.30|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|20.74.50.78|443|France|Paris|Microsoft Corporation|
+|20|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
 
 
 
