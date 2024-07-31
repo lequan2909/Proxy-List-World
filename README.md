@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|203.190.46.17|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|36.92.162.220|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|13|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|14|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|17|191.97.16.72|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|18|103.236.177.154|8081|Philippines|Makati City|Infinivan Incorporated|
-|19|147.75.122.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|12|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|16|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|135.148.233.152|24965|United States|Reston|OVH SAS|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
