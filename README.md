@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5832** proxies at the latest update. Usable proxies are below.
+> Scraper found **5670** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|254|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|984|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|253|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|823|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|231|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3405|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|200.58.96.236|3128|Argentina|Rosario|Dattatec.com|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|44.226.29.99|3128|United States|Portland|Amazon.com, Inc.|
-|17|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|18|136.226.65.107|10160|United States|Los Angeles|ZSCALER, INC.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|135.148.233.152|1592|United States|Reston|OVH SAS|
+|11|104.129.199.73|10160|United States|Los Angeles|ZSCALER, INC.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|136.226.67.12|10160|United States|Los Angeles|ZSCALER, INC.|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|170.85.55.4|10160|United States|Los Angeles|ZSCALER, INC.|
+|20|72.10.160.170|10349|Canada|Montreal|GloboTech Communications|
 
 
 
