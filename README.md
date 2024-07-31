@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|5|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
 |10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|131.100.48.97|999|Colombia|Neiva|Fibernet TV SAS|
-|13|182.252.80.1|8082|Bangladesh|Sirajganj|Agni Systems Limited|
-|14|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
-|15|136.226.65.107|10160|United States|Los Angeles|ZSCALER, INC.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|104.129.199.74|10160|United States|Los Angeles|ZSCALER, INC.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|104.129.199.50|10160|United States|Los Angeles|ZSCALER, INC.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|23.95.216.78|34561|United States|Marietta|HostPapa|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
