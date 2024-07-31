@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|7|103.137.111.169|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|8|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|19|103.155.199.151|8080|Indonesia|Sukabumi|PT Lintas Jaringan Nusantara|
-|20|158.140.169.9|8081|Indonesia|Surabaya|MYREPUBLIC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|49.12.232.205|24572|Germany|Nuremberg|Hetzner Online GmbH|
+|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|45.133.107.238|81|Russia|Mezmay|Art-net LLC|
+|16|136.226.65.3|10160|United States|Los Angeles|ZSCALER, INC.|
+|17|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|18|136.226.66.251|10160|United States|Los Angeles|ZSCALER, INC.|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
