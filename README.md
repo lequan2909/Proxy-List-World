@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|17|170.85.55.9|10160|United States|Los Angeles|ZSCALER, INC.|
-|18|170.85.55.31|10160|United States|Los Angeles|ZSCALER, INC.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|15.207.35.241|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|14|170.85.55.9|10160|United States|Los Angeles|ZSCALER, INC.|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|119.110.75.230|3888|Indonesia|Bekasi|Maxindo|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
