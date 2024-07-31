@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|72.10.164.178|15757|Canada|Montreal|GloboTech Communications|
-|14|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|15|72.10.164.178|15757|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|27145|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|6937|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|6937|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|6937|Canada|Montreal|GloboTech Communications|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|135.148.233.152|3743|United States|Reston|OVH SAS|
+|11|135.148.233.152|3743|United States|Reston|OVH SAS|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|135.148.233.152|3743|United States|Reston|OVH SAS|
+|15|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|67.43.227.227|19003|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|15757|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|15757|Canada|Montreal|GloboTech Communications|
 |20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
