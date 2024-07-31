@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|210.247.253.172|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|210.247.252.6|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|11|210.247.252.16|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|136.226.65.103|10160|United States|Los Angeles|ZSCALER, INC.|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|136.226.65.116|10160|United States|Los Angeles|ZSCALER, INC.|
-|19|136.226.67.33|10160|United States|Los Angeles|ZSCALER, INC.|
-|20|136.226.65.107|10160|United States|Los Angeles|ZSCALER, INC.|
+|10|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|11|104.129.199.50|10160|United States|Los Angeles|ZSCALER, INC.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|104.129.199.70|10160|United States|Los Angeles|ZSCALER, INC.|
+|14|136.226.67.12|10160|United States|Los Angeles|ZSCALER, INC.|
+|15|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|104.129.199.44|10160|United States|Los Angeles|ZSCALER, INC.|
+|17|136.226.65.25|10160|United States|Los Angeles|ZSCALER, INC.|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|201.71.3.22|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 
 
 
