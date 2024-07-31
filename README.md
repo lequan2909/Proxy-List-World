@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|7|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|135.148.233.152|29885|United States|Reston|OVH SAS|
-|19|67.43.227.227|10817|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|158.255.212.55|7839|Austria|Vienna|EDIS GmbH|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|67.43.227.227|5657|Canada|Montreal|GloboTech Communications|
+|16|135.148.233.152|14810|United States|Reston|OVH SAS|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|180.211.91.44|3125|Indonesia|Bekasi|PT. KINGS NETWORK INDONESIA|
+|20|72.10.160.90|2469|Canada|Montreal|GloboTech Communications|
 
 
 
