@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|103.156.249.92|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|135.148.233.152|14273|United States|Reston|OVH SAS|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|17|67.43.236.20|20143|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|5587|Canada|Montreal|GloboTech Communications|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|67.43.228.253|24631|Canada|Montreal|GloboTech Communications|
 
 
 
