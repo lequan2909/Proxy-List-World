@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|135.148.233.152|1387|United States|Reston|OVH SAS|
-|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.164.178|8391|Canada|Montreal|GloboTech Communications|
-|13|111.225.153.18|8089|China|Shijiazhuang|China Telecom|
-|14|148.72.140.24|10641|United States|St Louis|GoDaddy.com|
-|15|67.43.227.227|19351|Canada|Montreal|GloboTech Communications|
-|16|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|18|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|19|187.32.76.99|3128|Brazil|São Paulo|ALGAR TELECOM S/A|
-|20|72.10.160.90|29279|Canada|Montreal|GloboTech Communications|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|23.95.216.78|34561|United States|Marietta|HostPapa|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|135.148.233.152|1387|United States|Reston|OVH SAS|
+|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|111.225.153.18|8089|China|Shijiazhuang|China Telecom|
+|19|72.10.164.178|12091|Canada|Montreal|GloboTech Communications|
+|20|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
 
 
 
