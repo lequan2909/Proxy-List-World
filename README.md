@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|135.148.233.152|3129|United States|Reston|OVH SAS|
-|14|135.148.233.152|3129|United States|Reston|OVH SAS|
-|15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|67.43.236.20|27571|Canada|Montreal|GloboTech Communications|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.236.19|3195|Canada|Montreal|GloboTech Communications|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|182.252.80.1|8082|Bangladesh|Sirajganj|Agni Systems Limited|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|14|135.148.233.152|1387|United States|Reston|OVH SAS|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|20|191.102.254.12|8085|Argentina|Rosario|IP·RED|
 
 
 
