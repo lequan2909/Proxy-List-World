@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|103.169.187.158|8787|Indonesia|Patokan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|201.168.199.7|999|Mexico|Juventino Rosas|Marcatel Com, S.A. de C.V.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|67.43.236.20|2433|Canada|Montreal|GloboTech Communications|
-|17|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.92|30225|Canada|Montreal|GloboTech Communications|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|122.185.198.242|7999|India|Gurugram|Bharti Airtel Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|202.21.115.182|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|23.95.216.78|34561|United States|Marietta|HostPapa|
+|19|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
