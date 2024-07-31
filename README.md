@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|72.10.160.90|3299|Canada|Montreal|GloboTech Communications|
-|13|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|135.148.233.152|31315|United States|Reston|OVH SAS|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|13|210.247.252.113|3127|Indonesia|Jakarta|PT Poros Network Nusantara|
 |14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|51.159.4.90|3128|France|Paris|SCALEWAY|
-|16|148.72.140.24|10641|United States|St Louis|GoDaddy.com|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|19|67.43.228.253|29055|Canada|Montreal|GloboTech Communications|
-|20|140.238.216.189|3128|Switzerland|Zurich|Oracle Corporation|
+|15|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
+|16|51.159.4.90|3128|France|Paris|SCALEWAY|
+|17|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|148.72.140.24|10641|United States|St Louis|GoDaddy.com|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
 
 
 
