@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|135.148.233.152|14810|United States|Reston|OVH SAS|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|67.43.227.228|30801|Canada|Montreal|GloboTech Communications|
-|11|20.74.50.78|443|France|Paris|Microsoft Corporation|
-|12|72.10.164.178|15327|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.21|17903|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|15327|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.170|31319|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1565|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.228.253|22097|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|11969|Canada|Montreal|GloboTech Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|177.87.144.122|8086|Brazil|São José do Rio Pardo|Videomar Rede Nordeste S/A|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|135.148.233.152|29885|United States|Reston|OVH SAS|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|103.156.249.92|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|20|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
