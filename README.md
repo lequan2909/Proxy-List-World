@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|23.95.216.78|34561|United States|Marietta|HostPapa|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|8|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|9|136.226.255.23|10514|India|Mumbai|ZSCALER, INC.|
-|10|135.148.233.152|23451|United States|Reston|OVH SAS|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|103.51.204.35|8080|Indonesia|Semarang|Lintas Data Prima, PT|
-|19|67.43.228.253|13901|Canada|Montreal|GloboTech Communications|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|152.26.231.86|9443|United States|Huntersville|MCNC|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
+|11|67.43.236.20|8223|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|9379|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|13901|Canada|Montreal|GloboTech Communications|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|123.182.59.52|8089|China|Shijiazhuang|China Telecom|
+|18|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|20|72.10.160.174|11795|Canada|Montreal|GloboTech Communications|
 
 
 
