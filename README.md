@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.234.159.5|8080|India|Bengaluru|MWPL|
-|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|186.96.31.46|7070|Mexico|Cholula|Total Play Telecomunicaciones SA De CV|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
-|20|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|190.14.10.19|999|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|18|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|19|23.95.216.78|34561|United States|Marietta|HostPapa|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
