@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|103.186.239.153|6969|Bangladesh|Chittagong|Novel Chakma|
-|9|180.178.95.142|8080|Indonesia|Sukoharjo|PT Widya Intersat Nusantara|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|103.160.182.159|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|13|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.143.168.254|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|6|188.125.167.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.110.34.136|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.75.85.100|1111|Indonesia|Pekalongan|MEGADATA|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|17|124.217.106.153|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
 |18|102.66.222.137|8080|South Africa|Stellenbosch|HERO TELECOMS (PTY) LTD|
-|19|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|20|103.135.48.30|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|19|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
