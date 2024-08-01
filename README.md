@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|165.22.57.181|9090|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|9|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
+|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|202.154.18.69|8081|Indonesia|Jombang|DIGITNET|
+|10|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|11|103.124.198.118|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
 |12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|91.136.142.153|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|15|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|181.188.239.229|999|Ecuador|Quito|Otecel S.A|
-|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|1.4.198.132|8081|Thailand|Bangkok|TOT Public Company Limited|
+|18|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|135.148.233.152|21045|United States|Reston|OVH SAS|
 
 
 
