@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
-|6|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|125.25.32.227|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|10|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|50.201.133.122|3366|United States|Richmond|Comcast Cable Communications, LLC|
-|13|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|14|103.116.82.135|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|15|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|180.179.35.244|9889|India|Mumbai|NetMagic Solutions Pvt Ltd|
-|20|135.148.233.152|21045|United States|Reston|OVH SAS|
+|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|94.253.81.152|8080|Russia|Ivanteyevka|Itkm ISP|
+|11|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
+|12|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|64.6.8.5|8080|United States|Stronghurst|MTC Communications|
+|18|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|19|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
