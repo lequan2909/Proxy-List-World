@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.77.49.125|8080|Indonesia|Bandung|STARNET|
-|5|103.184.180.30|8080|Indonesia|Magetan|Lintas Data Prima, PT|
-|6|135.148.233.152|4556|United States|Reston|OVH SAS|
-|7|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|10|45.112.127.222|8181|Indonesia|Depok|FIBERNET|
-|11|103.155.197.119|8090|Indonesia|Sukabumi|JEMBATANDATA|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|163.172.33.137|4059|France|Vitry-sur-Seine|Online S.A.S.|
-|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|187.157.243.254|8080|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|223.205.178.7|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|143.0.243.80|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
