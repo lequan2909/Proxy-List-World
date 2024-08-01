@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
-|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.224.149.243|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|136.226.65.3|10160|United States|Los Angeles|ZSCALER, INC.|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|104.129.199.55|10160|United States|Los Angeles|ZSCALER, INC.|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|197.100.98.162|8080|South Africa|Bloemfontein|Dimension Data|
-|19|170.85.55.16|10160|United States|Los Angeles|ZSCALER, INC.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|199.116.62.67|8888|Puerto Rico|Guaynabo|OSNET Wireless|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|23.95.216.78|34561|United States|Marietta|HostPapa|
+|17|46.250.239.99|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|18|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|19|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
