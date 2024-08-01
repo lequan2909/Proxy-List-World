@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|144.217.215.125|3128|Canada|Beauharnois|OVH SAS|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
 |11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|136.226.65.3|10160|United States|Los Angeles|ZSCALER, INC.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|23.95.216.78|34561|United States|Marietta|HostPapa|
-|20|135.148.233.152|29885|United States|Reston|OVH SAS|
+|14|136.226.65.104|10160|United States|Los Angeles|ZSCALER, INC.|
+|15|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|16|135.148.233.152|30590|United States|Reston|OVH SAS|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|136.226.65.78|10160|United States|Los Angeles|ZSCALER, INC.|
+|19|136.226.67.0|10160|United States|Los Angeles|ZSCALER, INC.|
+|20|170.85.55.9|10160|United States|Los Angeles|ZSCALER, INC.|
 
 
 
