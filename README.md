@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|223.205.212.29|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|135.148.233.152|23451|United States|Reston|OVH SAS|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|103.93.193.141|58080|India|Mira Road|Juweriyah Networks Private Limited|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
+|5|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|103.134.246.32|8080|Indonesia|Tabanan|Wisuandha Network Globalindo|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|103.252.13.168|8080|Indonesia|Pineleng|PT Informasi Teknologi Multimedia|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
