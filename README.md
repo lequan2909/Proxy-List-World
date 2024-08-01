@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|202.51.121.59|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|103.217.216.91|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|15|135.148.233.152|21045|United States|Reston|OVH SAS|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|18|45.5.2.246|8084|Argentina|Bariloche|Altec S.e. Alta Tecnologia Sociedad Del Estado|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
+|4|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|8|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|15|81.91.151.146|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|194.8.144.84|8080|Ukraine|Chernivtsi|DYNAMIC|
+|19|45.167.124.230|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
