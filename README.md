@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.25.32.227|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|3|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|8|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.48.68.90|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|135.148.233.152|1210|United States|Reston|OVH SAS|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|2|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|3|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|5|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|103.148.131.108|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|135.148.233.152|21045|United States|Reston|OVH SAS|
+|9|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|10|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|11|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|14|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
+|15|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|181.204.81.181|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|17|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
 
 
 
