@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.25.32.227|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|202.150.153.218|8080|Indonesia|Bandung|PT Comtronics Systems|
-|5|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|45.174.253.16|999|Mexico|Isla Mujeres|Digitcenter de México|
-|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
-|10|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|12|187.32.76.99|3128|Brazil|São Paulo|ALGAR TELECOM S/A|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|154.26.128.113|3218|Singapore|Singapore|Cogent Communications|
-|20|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|2|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|58.247.136.139|9091|China|Shanghai|CNC Group CHINA169 Shanghai Province Network|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|181.78.11.219|999|Colombia|Guacarí|IFX Networks Argentina S.R.L|
+|11|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|14|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|15|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|16|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|17|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|185.14.232.203|8080|Czechia|Prague|INTERCONNECT s.r.o.|
+|19|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|20|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
