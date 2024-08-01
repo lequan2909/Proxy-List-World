@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5762** proxies at the latest update. Usable proxies are below.
+> Scraper found **5761** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|295|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|294|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|780|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|384|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|10|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|9|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|14|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|171.6.73.104|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|103.48.71.46|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |16|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|17|101.128.92.243|7777|Indonesia|Jakarta|CBN|
-|18|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|103.48.70.81|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
