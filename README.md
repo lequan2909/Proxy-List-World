@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|103.146.185.138|1111|Indonesia|Wonogiri|YAMNET|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|41.173.239.161|3128|South Africa|Thohoyandou|Liquid Telecommunications Ltd|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|8.223.31.16|80|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|79.106.108.150|8079|Albania|Tepelenë|ALBTELECOM VI|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|23.95.216.78|34561|United States|Marietta|HostPapa|
+|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
