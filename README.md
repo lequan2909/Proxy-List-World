@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|23.95.216.78|34561|United States|Marietta|HostPapa|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|57.128.193.70|1080|Poland|Warsaw|OVH SAS|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|212.57.136.248|8080|Russia|Turgoyak|PJSC Rostelecom|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|57.128.193.70|1080|Poland|Warsaw|OVH SAS|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|23.95.216.78|34561|United States|Marietta|HostPapa|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|102.68.139.247|8080|Zambia|Lusaka|AirLink Broadband Limited|
 |15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|20|72.10.160.170|16355|Canada|Montreal|GloboTech Communications|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
 
 
 
