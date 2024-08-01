@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|23.95.216.78|34561|United States|Marietta|HostPapa|
-|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|12|217.160.74.198|3128|Germany|Karlsruhe|IONOS SE|
-|13|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|135.148.233.152|29885|United States|Reston|OVH SAS|
-|15|57.128.193.70|1080|Poland|Warsaw|OVH SAS|
-|16|135.148.233.152|29885|United States|Reston|OVH SAS|
-|17|67.43.227.227|5973|Canada|Montreal|GloboTech Communications|
-|18|163.172.33.137|4197|France|Vitry-sur-Seine|Online S.A.S.|
-|19|67.43.236.20|32287|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|7379|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|15.235.171.248|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|202.51.121.59|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|45.189.118.92|999|Peru|Lima|Fiber Digital S.R.L|
+|17|37.195.166.140|80|Russia|Novosibirsk|Novotelecom Ltd.|
+|18|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|19|49.12.232.205|24572|Germany|Nuremberg|Hetzner Online GmbH|
+|20|191.7.8.246|80|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
 
 
 
