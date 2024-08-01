@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5858** proxies at the latest update. Usable proxies are below.
+> Scraper found **5754** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|279|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|882|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|778|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|303|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3436|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|23.95.216.78|34561|United States|Marietta|HostPapa|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|23.95.216.78|34561|United States|Marietta|HostPapa|
-|10|45.76.124.96|80|Australia|Sydney|The Constant Company|
-|11|103.252.13.168|8080|Indonesia|Pineleng|PT Informasi Teknologi Multimedia|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|20|72.10.160.170|33069|Canada|Montreal|GloboTech Communications|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
+|7|188.125.167.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|143.0.243.80|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
+|13|23.95.216.78|34561|United States|Marietta|HostPapa|
+|14|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|45.182.176.38|9947|Brazil|Taboão da Serra|Evolucao Telecom Ltda|
 
 
 
