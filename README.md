@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|135.148.171.194|18080|United States|Reston|OVH SAS|
+|2|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|3|94.182.40.51|3128|Iran|Tehran|Aria Shatel Company Ltd|
+|4|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|8|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|10|72.10.164.178|15585|Canada|Montreal|GloboTech Communications|
-|11|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
-|12|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|13|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|195.146.32.53|8123|Iran|Tehran|Information Technology Company|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.164.178|15585|Canada|Montreal|GloboTech Communications|
-|17|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|18|135.148.233.152|31315|United States|Reston|OVH SAS|
-|19|72.10.160.90|12443|Canada|Montreal|GloboTech Communications|
-|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|135.148.233.152|31315|United States|Reston|OVH SAS|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|124.217.106.153|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
