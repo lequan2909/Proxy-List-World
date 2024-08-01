@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|135.148.233.152|16577|United States|Reston|OVH SAS|
+|2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|5|157.15.80.20|7777|Indonesia|Menggala|PT Digitama Network Indonesia|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|81.94.135.202|1256|Russia|Moscow|WEST CALL network|
-|8|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|9|66.27.58.70|8080|United States|Compton|Spectrum|
-|10|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|12|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|103.134.246.22|8080|Indonesia|Tabanan|Wisuandha Network Globalindo|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|72.10.160.171|27933|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|27407|Canada|Montreal|GloboTech Communications|
-|19|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
-|20|67.43.227.227|3307|Canada|Montreal|GloboTech Communications|
+|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|6|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|9|180.94.8.90|8085|Indonesia|Cikarang|BAST|
+|10|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|14|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|15|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|16|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|17|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|18|23.95.216.78|34561|United States|Marietta|HostPapa|
+|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
