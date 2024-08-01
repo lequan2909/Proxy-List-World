@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|57.128.193.70|1080|Poland|Warsaw|OVH SAS|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|110.78.172.67|8080|Thailand|Bangkok|CAT-BB|
-|7|103.48.68.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|24.152.58.132|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|13|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|16|84.247.129.226|3128|Germany|Düsseldorf|Contabo GmbH|
-|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|18|41.173.239.161|3128|South Africa|Thohoyandou|Liquid Telecommunications Ltd|
-|19|94.182.40.51|3128|Iran|Tehran|Aria Shatel Company Ltd|
-|20|200.69.21.207|3128|Singapore|Singapore|A2 Hosting, Inc.|
+|1|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|200.69.21.207|3128|Singapore|Singapore|A2 Hosting, Inc.|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|57.128.193.70|1080|Poland|Warsaw|OVH SAS|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|200.69.21.207|3128|Singapore|Singapore|A2 Hosting, Inc.|
+|8|51.250.107.5|3128|Russia|Moscow|Yandex.Cloud LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|188.132.222.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|103.156.218.191|3128|Indonesia|Selong|MYREPUBLIC|
+|19|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
