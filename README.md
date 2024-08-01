@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|103.75.85.100|1111|Indonesia|Pekalongan|MEGADATA|
-|10|135.148.233.152|29885|United States|Reston|OVH SAS|
+|7|23.95.216.78|34561|United States|Marietta|HostPapa|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|49.151.23.182|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|135.148.233.152|29885|United States|Reston|OVH SAS|
-|19|72.10.164.178|8955|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|19291|Canada|Montreal|GloboTech Communications|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|104.129.199.60|10160|United States|Los Angeles|ZSCALER, INC.|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|5.196.111.29|20000|France|Gravelines|OVH SAS|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|67.43.228.253|5679|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|29003|Canada|Montreal|GloboTech Communications|
 
 
 
