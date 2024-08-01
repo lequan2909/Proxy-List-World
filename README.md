@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
 |11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|209.14.113.2|999|Colombia|Cértegui|AGIS|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|14|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|135.148.233.152|1234|United States|Reston|OVH SAS|
+|18|103.191.196.54|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|19|135.148.233.152|1234|United States|Reston|OVH SAS|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
