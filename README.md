@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|7|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|41.173.239.161|3128|South Africa|Thohoyandou|Liquid Telecommunications Ltd|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.161.172.205|3128|United States|Portland|Amazon.com, Inc.|
+|10|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|14|194.233.71.212|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|15|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|195.158.197.96|8088|Ukraine|Kyiv|Teremky LAN ISP LLC|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|95.31.222.217|3128|Russia|Moscow|CORBINA-BROADBAND|
-|20|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|18|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|20|135.148.233.152|1212|United States|Reston|OVH SAS|
 
 
 
