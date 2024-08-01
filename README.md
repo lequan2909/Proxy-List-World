@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|103.155.197.119|8090|Indonesia|Sukabumi|JEMBATANDATA|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|186.96.116.117|8080|Colombia|Engativá|TV AZTECA SUCURSAL COLOMBIA|
-|17|49.156.151.246|83|India|Vizianagaram|City Online|
-|18|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|23.95.216.78|34561|United States|Marietta|HostPapa|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|67.43.236.21|10539|Canada|Montreal|GloboTech Communications|
+|20|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 
 
 
