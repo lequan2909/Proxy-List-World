@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.67.8.225|80|India|Mumbai|Oracle Corporation|
+|3|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|203.142.78.150|8080|Indonesia|Semarang|BIZNET|
-|10|103.99.27.234|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|11|118.99.127.22|8080|Indonesia|Malang|Biznet Metronet|
+|5|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
+|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
 |12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|103.99.27.234|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|17|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
