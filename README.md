@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.60|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|223.205.78.227|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|23.95.216.78|34561|United States|Marietta|HostPapa|
-|6|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|1.230.21.150|8443|South Korea|Guro-gu|SK Broadband Co Ltd|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|135.148.233.152|1210|United States|Reston|OVH SAS|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|188.132.222.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|187.109.22.46|8080|Brazil|Santo Ângelo|Sulnet Telecom|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|118.172.239.231|8180|Thailand|Bangkok|TOT Public Company Limited|
+|12|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|15|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|135.148.233.152|1210|United States|Reston|OVH SAS|
+|17|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|181.204.81.181|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
