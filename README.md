@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|103.210.119.67|8090|Indonesia|Wonogiri|PT Yesi Media Utama|
-|5|89.163.221.121|8080|Germany|Düsseldorf|myLoc managed IT AG|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|23.95.216.78|34561|United States|Marietta|HostPapa|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|154.73.28.89|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|203.150.128.59|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|103.183.99.202|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|103.160.69.97|8009|Indonesia|Jakarta|PT Gayatri Lintas Nusantara|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|10|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|11|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|135.148.233.152|1212|United States|Reston|OVH SAS|
+|13|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
 |17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|72.10.160.90|10267|Canada|Montreal|GloboTech Communications|
-|20|135.148.233.152|16577|United States|Reston|OVH SAS|
+|18|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
+|19|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
