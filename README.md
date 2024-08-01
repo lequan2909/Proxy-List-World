@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|157.15.80.20|7777|Indonesia|Menggala|PT Digitama Network Indonesia|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|10|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|12|67.43.236.18|22859|Canada|Montreal|GloboTech Communications|
-|13|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
-|14|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.90|3053|Canada|Montreal|GloboTech Communications|
-|19|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
-|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|1|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|2|191.97.96.208|8080|Argentina|General Roca|Vision NET|
+|3|49.156.151.246|83|India|Vizianagaram|City Online|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|6|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|7|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|8|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|9|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|14|157.119.222.22|8080|Indonesia|Semarang|DESNET|
+|15|72.10.164.178|27407|Canada|Montreal|GloboTech Communications|
+|16|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|72.10.164.178|27407|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|3053|Canada|Montreal|GloboTech Communications|
+|20|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
