@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|103.172.70.138|1111|Indonesia|Sukabumi|AZNET|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|124.217.106.153|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|15|103.167.31.157|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|113.53.49.128|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|223.27.144.34|8080|Indonesia|Jakarta|PT Cyber Network Indonesia|
+|19|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
