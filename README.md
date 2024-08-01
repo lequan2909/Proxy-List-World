@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|23.95.216.78|34561|United States|Marietta|HostPapa|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|103.155.198.111|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|103.165.157.241|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|17|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|72.10.164.178|15317|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|23.95.216.78|34561|United States|Marietta|HostPapa|
+|7|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|188.125.167.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|41.173.239.161|3128|South Africa|Thohoyandou|Liquid Telecommunications Ltd|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|18|103.67.90.2|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|19|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
