@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|101.255.208.22|3127|Indonesia|Jakarta|PT Remala Abadi|
-|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|5|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
-|6|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|13|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|14|104.129.203.244|11465|United States|San Jose|ZSCALER, INC.|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.172.71.15|8080|Indonesia|Gemolong|AZNET|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|4|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|11|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|12|104.129.203.244|11465|United States|San Jose|ZSCALER, INC.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.14.232.203|8080|Czechia|Prague|INTERCONNECT s.r.o.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
+|20|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 
 
 
