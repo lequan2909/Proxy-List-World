@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|532|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|532|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|532|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|174.138.18.189|9090|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|124.217.106.153|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|41.173.239.161|3128|South Africa|Thohoyandou|Liquid Telecommunications Ltd|
-|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|185.55.205.118|8080|Ireland|Nenagh|Wireless Connect|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|20|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.48.70.81|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|219.89.83.76|8088|New Zealand|Auckland|Spark New Zealand Trading Ltd|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|103.158.121.66|1080|Indonesia|Indramayu|CDN|
+|17|135.148.233.152|13843|United States|Reston|OVH SAS|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|180.191.59.109|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
