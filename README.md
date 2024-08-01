@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|23.95.216.78|34561|United States|Marietta|HostPapa|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.118.175.165|7777|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|16|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|50.201.133.122|3366|United States|Richmond|Comcast Cable Communications, LLC|
-|18|72.10.160.90|29127|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13051|Canada|Montreal|GloboTech Communications|
-|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|23.95.216.78|34561|United States|Marietta|HostPapa|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|202.93.244.242|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|13|177.93.59.54|999|Colombia|Pueblo Rico|TV AZTECA SUCURSAL COLOMBIA|
+|14|95.31.222.217|3128|Russia|Moscow|CORBINA-BROADBAND|
+|15|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
 
 
 
