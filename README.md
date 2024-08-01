@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|58.11.15.119|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|12|23.95.216.78|34561|United States|Marietta|HostPapa|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
+|1|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.156.141.151|3127|Indonesia|Jember|PT Tekling Media Telematika|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|6|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|13|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.91|32193|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|11003|Canada|Montreal|GloboTech Communications|
+|20|163.30.19.4|3128|Taiwan|Taoyuan District|T-TYC.EDU.TW|
 
 
 
