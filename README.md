@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|209.14.119.198|999|Colombia|Neiva|AGIS|
-|8|89.218.229.78|3128|Kazakhstan|Petropavl|Kazakhtelecom Data Network Administration|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|88.80.103.9|6888|Bulgaria|Dupnitsa|UltraNET Ltd. C08|
-|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.227.227|5719|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31339|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|7|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|8|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|9|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|67.43.227.227|1743|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.18|15625|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|20917|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|1743|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|20917|Canada|Montreal|GloboTech Communications|
+|17|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|18|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|72.10.160.90|31353|Canada|Montreal|GloboTech Communications|
+|20|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
 
 
 
