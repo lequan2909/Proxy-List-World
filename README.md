@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|158.140.177.206|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|6|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|179.156.68.122|8889|Brazil|Camaçari|Claro NXT Telecomunicacoes Ltda|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|23.95.216.78|34561|United States|Marietta|HostPapa|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|191.81.212.135|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|16|177.158.252.13|8081|Brazil|Vitória|TELEFÔNICA BRASIL S.A|
-|17|95.128.137.158|65056|Russia|Syktyvkar|parmatel|
-|18|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|103.165.157.167|8080|Indonesia|Purbalingga|MEGADATA-ISP|
-|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|23.95.216.78|34561|United States|Marietta|HostPapa|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|45.76.124.96|80|Australia|Sydney|The Constant Company|
+|11|103.252.13.168|8080|Indonesia|Pineleng|PT Informasi Teknologi Multimedia|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|20|72.10.160.170|33069|Canada|Montreal|GloboTech Communications|
 
 
 
