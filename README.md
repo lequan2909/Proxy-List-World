@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|45.181.189.213|999|Colombia|Tame|Kalu De Colombia SAS|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|10|119.47.90.230|1111|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|11|94.253.81.152|8080|Russia|Ivanteyevka|Itkm ISP|
-|12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|58.247.136.139|9091|China|Shanghai|CNC Group CHINA169 Shanghai Province Network|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|11|49.156.151.246|83|India|Vizianagaram|City Online|
+|12|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|14|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|91.209.114.179|8080|Hungary|Kálmáncsa|MVM NET Zrt.|
-|17|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
-|18|103.179.224.25|3128|India|Noida|Audiotrix Tech|
-|19|72.10.164.178|8025|Canada|Montreal|GloboTech Communications|
-|20|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|16|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
+|17|103.179.224.25|3128|India|Noida|Audiotrix Tech|
+|18|72.10.164.178|20561|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|20561|Canada|Montreal|GloboTech Communications|
+|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
