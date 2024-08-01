@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|223.205.78.227|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|7|101.128.78.202|32650|Indonesia|Palembang|CBN|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.190.171.213|8181|Indonesia|Jakarta|WMS|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|135.148.233.152|1210|United States|Reston|OVH SAS|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|23.95.216.78|34561|United States|Marietta|HostPapa|
+|6|223.205.78.227|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|7|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|124.217.77.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|12|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|187.109.22.46|8080|Brazil|Santo Ângelo|Sulnet Telecom|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|103.156.17.137|8181|Indonesia|Indramayu|RSTNET|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|135.148.233.152|1210|United States|Reston|OVH SAS|
+|20|23.95.216.78|34561|United States|Marietta|HostPapa|
 
 
 
