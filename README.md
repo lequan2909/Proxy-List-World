@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|23.95.216.78|34561|United States|Marietta|HostPapa|
-|13|135.148.233.152|7302|United States|Reston|OVH SAS|
-|14|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|72.10.160.90|2203|Canada|Montreal|GloboTech Communications|
+|3|23.95.216.78|34561|United States|Marietta|HostPapa|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|41.173.239.161|3128|South Africa|Thohoyandou|Liquid Telecommunications Ltd|
+|13|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|17|135.148.233.152|1212|United States|Reston|OVH SAS|
+|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
