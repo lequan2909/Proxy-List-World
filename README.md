@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|183.99.2.12|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|35.209.205.161|8080|United States|Council Bluffs|Google LLC|
-|5|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|6|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
-|7|94.253.81.152|8080|Russia|Ivanteyevka|Itkm ISP|
-|8|125.25.32.227|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|202.150.153.218|8080|Indonesia|Bandung|PT Comtronics Systems|
-|10|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|11|35.209.205.161|8080|United States|Council Bluffs|Google LLC|
-|12|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|15|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|16|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|35.209.205.161|8080|United States|Council Bluffs|Google LLC|
+|4|125.25.32.227|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.209.205.161|8080|United States|Council Bluffs|Google LLC|
+|10|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|135.148.233.152|13843|United States|Reston|OVH SAS|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|157.15.73.30|8080|Indonesia|Klaten|PT Indo Teknologi Konstruksi|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|19|124.217.106.153|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|20|223.27.144.34|8080|Indonesia|Jakarta|PT Cyber Network Indonesia|
 
 
 
