@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|526|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|526|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|526|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.25.32.227|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|189.203.181.34|8080|Mexico|Cocoyoc|Total Play Telecomunicaciones SA De CV|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|9|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|2|183.99.2.12|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|124.106.45.64|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|4|135.148.233.152|13843|United States|Reston|OVH SAS|
+|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|9|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 |10|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|11|103.48.70.209|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|13|223.27.144.34|8080|Indonesia|Jakarta|PT Cyber Network Indonesia|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|103.179.224.25|3128|India|Noida|Audiotrix Tech|
-|17|103.48.70.81|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|20|72.10.160.90|30641|Canada|Montreal|GloboTech Communications|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|13|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|14|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|19|181.78.11.219|999|Colombia|Guacarí|IFX Networks Argentina S.R.L|
+|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
 
 
 
