@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|188.132.221.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.234.159.5|8080|India|Bengaluru|MWPL|
-|11|186.96.31.46|7070|Mexico|Cholula|Total Play Telecomunicaciones SA De CV|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|18|203.192.217.6|8080|India|Mumbai|Entire In2Cable|
-|19|176.100.13.15|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|23.95.216.78|34561|United States|Marietta|HostPapa|
+|6|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|49.49.194.22|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|10|103.167.31.157|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|14|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|16|176.100.13.15|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
 |20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
