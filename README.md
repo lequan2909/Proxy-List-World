@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|486|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|486|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|486|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.209.205.161|8080|United States|Council Bluffs|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|27.147.130.10|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|157.15.73.30|8080|Indonesia|Klaten|PT Indo Teknologi Konstruksi|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|103.148.131.108|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|5|35.209.205.161|8080|United States|Council Bluffs|Google LLC|
+|6|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|7|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|8|103.143.168.254|84|India|Hyderabad|Aspt Networks Pvt Ltd|
 |9|35.209.205.161|8080|United States|Council Bluffs|Google LLC|
 |10|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|125.25.32.227|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|183.99.2.12|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|135.148.233.152|21045|United States|Reston|OVH SAS|
-|18|103.29.90.66|32650|Myanmar|Yangon|Global Technology Co|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|177.129.249.165|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|14|103.191.115.252|83|India|Bānka|Xpress Fiber Private Limited|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|181.65.180.190|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|18|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
 
 
 
