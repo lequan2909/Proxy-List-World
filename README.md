@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|203.145.58.234|8080|Indonesia|Cianjur|PT HSN GLOBAL NETWORK|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|103.135.48.30|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|15|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|16|159.192.138.170|8080|Thailand|Bang Rak|CAT-BB|
-|17|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
-|18|72.10.164.178|20705|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.69.20.89|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|1|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|78.11.40.150|3128|Poland|Warsaw|Netia SA|
+|17|41.57.138.196|6060|South Africa|Delmas|FTH Scr P10|
+|18|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
