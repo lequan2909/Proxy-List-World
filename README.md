@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|201.220.112.98|999|Chile|Treguaco|Telefonica del Sur S.A.|
-|5|45.182.176.38|9947|Brazil|Taboão da Serra|Evolucao Telecom Ltda|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
-|9|210.61.207.92|3128|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|159.69.212.168|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|12|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|137.184.62.237|9090|United States|North Bergen|DigitalOcean, LLC|
-|18|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|102.214.106.114|8080|Libya|Tripoli|Rawafed|
+|4|23.95.216.78|34561|United States|Marietta|HostPapa|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.122.0.91|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|10|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|210.61.207.92|3128|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|12|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|13|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|45.112.127.222|8181|Indonesia|Depok|FIBERNET|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|179.191.39.221|3128|Brazil|Frederico Westphalen|Mhnet Telecom|
+|19|103.134.246.32|8080|Indonesia|Tabanan|Wisuandha Network Globalindo|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
