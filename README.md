@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|187.204.50.239|53281|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
-|5|158.140.177.206|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|171.247.186.208|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|135.148.233.152|1387|United States|Reston|OVH SAS|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|16|181.78.13.66|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|187.188.101.205|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
-|19|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|185.14.232.203|8080|Czechia|Prague|INTERCONNECT s.r.o.|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|103.191.254.2|8085|Indonesia|Rembangan|PT Ayodya Data Internusa|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|171.247.186.208|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|72.10.160.90|7373|Canada|Montreal|GloboTech Communications|
+|11|187.204.50.239|53281|Mexico|Autlán de Navarro|Uninet S.A. de C.V.|
+|12|177.44.161.8|3128|Brazil|Chopinzinho|WIIP TELECOM SERVIÇOS DE INTERNET LTDA|
+|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|14|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|15|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|67.43.227.227|11907|Canada|Montreal|GloboTech Communications|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
