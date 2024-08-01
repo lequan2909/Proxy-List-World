@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|135.148.171.194|18080|United States|Reston|OVH SAS|
 |3|57.128.193.70|1080|Poland|Warsaw|OVH SAS|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.48.71.130|84|India|Hyderabad|Country Online Services PVT LTD|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|159.192.138.170|8080|Thailand|Bang Rak|CAT-BB|
 |8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|110.235.129.14|1337|Philippines|Pasay|RADIUS TELECOMS, INC.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.69.21.207|3128|Singapore|Singapore|A2 Hosting, Inc.|
 |11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|103.53.78.26|8080|Indonesia|Surabaya|INTI|
-|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|18|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|67.43.228.250|11929|Canada|Montreal|GloboTech Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|200.69.21.207|3128|Singapore|Singapore|A2 Hosting, Inc.|
+|17|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|18|181.78.27.38|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|19|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
