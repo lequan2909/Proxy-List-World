@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|45.228.233.94|999|Guatemala|Guatemala City|Infinitum S.A.|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|135.148.233.152|1212|United States|Reston|OVH SAS|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.160.90|6031|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|6031|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|11949|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|15105|Canada|Montreal|GloboTech Communications|
-|17|135.148.233.152|1212|United States|Reston|OVH SAS|
-|18|72.10.164.178|6893|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|11949|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|30917|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
+|11|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
+|19|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
