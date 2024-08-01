@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|213.6.78.87|8080|Palestine|Nablus|Palestine Telecommunications Company|
+|5|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
 |6|135.148.171.194|18080|United States|Reston|OVH SAS|
 |7|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
 |8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|138.94.236.119|8080|Brazil|Novo Progresso Municipality|Nettcon Provedor De Internet Eireli EPP|
-|13|181.78.94.158|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|185.14.232.203|8080|Czechia|Prague|INTERCONNECT s.r.o.|
+|9|103.26.110.202|84|India|Mayiladuthurai|Niss Networks|
+|10|110.78.186.220|8080|Thailand|Chon Buri|CAT-BB|
+|11|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|23.95.216.78|34561|United States|Marietta|HostPapa|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
 |16|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|17|102.0.12.224|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|18|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|19|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|18|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|82.179.94.11|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
 
 
 
