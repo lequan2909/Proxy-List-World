@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|7|101.128.93.22|8082|Indonesia|Jakarta|CBN|
-|8|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
-|9|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|52.221.152.178|3128|Singapore|Singapore|Amazon.com, Inc.|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|4|52.221.152.178|3128|Singapore|Singapore|Amazon.com, Inc.|
+|5|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
+|6|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|118.99.65.235|3127|Indonesia|Pontianak|BIZNET|
+|9|103.118.175.165|7777|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|197.221.85.214|8080|Ghana|Accra|Dimension Data Ltd|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|103.134.220.128|1111|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|103.111.136.110|443|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|17|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|18|102.0.12.234|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
 
 
 
