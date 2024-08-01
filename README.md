@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.252.13.168|8080|Indonesia|Pineleng|PT Informasi Teknologi Multimedia|
-|11|190.71.24.129|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|188.125.167.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|45.182.176.38|9947|Brazil|Taboão da Serra|Evolucao Telecom Ltda|
+|1|8.223.31.16|443|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
+|8|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|143.0.243.80|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
