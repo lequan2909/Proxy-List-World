@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.133.222.64|8090|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
 |3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|103.133.222.64|8090|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|4|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|16|103.110.34.140|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|17|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|18|41.173.239.161|3128|South Africa|Thohoyandou|Liquid Telecommunications Ltd|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|200.69.21.207|3128|Singapore|Singapore|A2 Hosting, Inc.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
 
 
 
