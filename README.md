@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|3|103.133.27.197|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|125.163.171.96|8080|Indonesia|Sidoarjo|PT. TELKOM INDONESIA|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|103.69.20.41|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
-|12|103.160.182.159|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|134.209.147.34|8080|India|Bengaluru|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|45.149.93.186|1203|Singapore|Singapore|PT Perwira Media Solusi|
+|14|177.75.96.18|3128|Brazil|Pato Branco|Mhnet Telecom|
 |15|103.143.168.254|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|18|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|19|134.209.147.34|8080|India|Bengaluru|DigitalOcean, LLC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|177.129.249.165|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|115.127.137.51|58080|Bangladesh|Dhaka|BRACNet Limited|
+|19|124.217.106.153|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|20|45.239.30.1|999|Chile|El Carmen|CMP WILL TELECOMUNICACIONES SPA|
 
 
 
