@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.228.173.65|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|6|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|7|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|157.119.222.22|8080|Indonesia|Semarang|DESNET|
-|10|67.43.227.227|19113|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.253|25525|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|17479|Canada|Montreal|GloboTech Communications|
-|13|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|135.148.233.152|5915|United States|Reston|OVH SAS|
+|4|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
+|7|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.67.84.130|8080|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|4.190.190.194|8080|Japan|Osaka|Microsoft Corporation|
+|14|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.236.20|17479|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|17479|Canada|Montreal|GloboTech Communications|
-|18|203.161.61.101|3128|United States|New York|Namecheap, Inc.|
-|19|72.10.164.178|1187|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|25675|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
+|18|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
+|19|135.148.233.152|5915|United States|Reston|OVH SAS|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
