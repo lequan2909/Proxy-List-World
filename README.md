@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|163.172.33.137|4352|France|Vitry-sur-Seine|Online S.A.S.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|80.66.81.43|4067|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|135.148.233.152|16577|United States|Reston|OVH SAS|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|17|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|201.47.88.21|3128|Brazil|São Paulo|Vivo|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|103.156.17.171|8181|Indonesia|Indramayu|RSTNET|
+|7|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|14|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|135.148.233.152|16577|United States|Reston|OVH SAS|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
