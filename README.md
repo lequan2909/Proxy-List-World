@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|163.172.33.137|4059|France|Vitry-sur-Seine|Online S.A.S.|
-|19|135.148.233.152|7302|United States|Reston|OVH SAS|
-|20|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|5|189.232.204.95|3128|Mexico|Durango|Uninet S.A. de C.V.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|23.95.216.78|34561|United States|Marietta|HostPapa|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|14|163.172.33.137|4059|France|Vitry-sur-Seine|Online S.A.S.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
+|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
