@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|187.102.222.113|32650|Brazil|São Pedro do Suaçuí|Masternet Telecomunicacao Ltda|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|50.201.133.122|3366|United States|Richmond|Comcast Cable Communications, LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|3|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|187.102.222.113|32650|Brazil|São Pedro do Suaçuí|Masternet Telecomunicacao Ltda|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|13|64.227.44.70|9090|United Kingdom|Slough|DigitalOcean, LLC|
-|14|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |15|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|16|188.125.169.211|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|67.43.227.227|18871|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|18871|Canada|Montreal|GloboTech Communications|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|17|49.12.237.221|24572|Germany|Nuremberg|Hetzner Online GmbH|
+|18|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|19|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|20|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 
 
 
