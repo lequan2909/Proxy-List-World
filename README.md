@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|17|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|23.95.216.78|34561|United States|Marietta|HostPapa|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|14.166.233.24|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|152.42.245.98|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|103.164.214.122|8080|Indonesia|Cilangkap|PT iForte Global Internet|
+|19|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 |20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
