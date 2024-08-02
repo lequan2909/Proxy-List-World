@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.179.84.119|8080|Indonesia|Semarang|PT CYB Media Group|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|13|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
-|14|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|27.77.128.15|8080|Vietnam|Đồng Nai Province|Newass2011xDSLHCMC|
-|19|191.7.8.246|80|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
-|20|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
+|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|23.95.216.78|34561|United States|Marietta|HostPapa|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|18|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|135.148.233.152|12397|United States|Reston|OVH SAS|
 
 
 
