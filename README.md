@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|27.147.218.162|8080|Bangladesh|Paltan|Corporate-Subscriber|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|223.27.144.34|8080|Indonesia|Jakarta|PT Cyber Network Indonesia|
-|16|103.48.70.209|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|49.156.151.246|83|India|Guntur|City Online|
-|19|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
-|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|15|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
 
 
 
