@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|8|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|187.102.222.113|32650|Brazil|São Pedro do Suaçuí|Masternet Telecomunicacao Ltda|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
 |9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
 |10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|11|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|187.102.222.113|32650|Brazil|São Pedro do Suaçuí|Masternet Telecomunicacao Ltda|
-|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|11|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|72.10.164.178|19867|Canada|Montreal|GloboTech Communications|
+|18|135.148.233.152|5915|United States|Reston|OVH SAS|
+|19|119.47.90.25|1080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
