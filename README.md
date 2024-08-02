@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|167.71.202.234|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|23.95.216.78|34561|United States|Marietta|HostPapa|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|176.102.49.228|3128|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|19|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|167.71.202.234|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|152.42.245.98|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
