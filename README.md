@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|124.217.106.153|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|2|103.158.121.66|1080|Indonesia|Indramayu|CDN|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|203.128.73.122|8910|Indonesia|Sunter Agung|Neuviz|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
 |7|23.95.216.78|34561|United States|Marietta|HostPapa|
-|8|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
 |9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|15|49.156.151.246|83|India|Vizianagaram|City Online|
-|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|17|72.10.164.178|26487|Canada|Montreal|GloboTech Communications|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|119.47.90.25|1080|Indonesia|Pontianak|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|12|110.235.129.14|1337|Philippines|Pasay|RADIUS TELECOMS, INC.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|15|72.10.164.178|15603|Canada|Montreal|GloboTech Communications|
+|16|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
-|20|82.179.94.21|3128|Russia|Nal'chik|Federal State Institution "cientific Research Institute for System Ana|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|210.61.207.92|3128|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
 
 
 
