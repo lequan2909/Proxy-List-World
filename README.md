@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|23.95.216.78|34561|United States|Marietta|HostPapa|
-|4|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|5|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|6|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.160.184.158|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|13|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|14|27.54.71.234|8080|Australia|Pakenham|CNTC|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|15|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|16|27.147.129.26|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|23.95.216.78|34561|United States|Marietta|HostPapa|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
