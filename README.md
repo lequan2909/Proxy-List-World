@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|34.91.114.10|8080|Netherlands|Groningen|Google LLC|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|20|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|12|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|163.172.33.137|4290|France|Vitry-sur-Seine|Online S.A.S.|
+|18|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
