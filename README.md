@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|167.71.202.234|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|36.64.52.226|8081|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
+|18|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|135.148.233.152|4556|United States|Reston|OVH SAS|
+|20|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
