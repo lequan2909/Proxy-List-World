@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|14|45.190.184.137|999|Honduras|San Marcos de Colón|Ufinet Panama S.A.|
+|11|135.148.233.152|1212|United States|Reston|OVH SAS|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|103.58.74.233|8080|Bangladesh|Dhaka|BUSINESSNETWORK|
+|18|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.160.90|3249|Canada|Montreal|GloboTech Communications|
 
 
 
