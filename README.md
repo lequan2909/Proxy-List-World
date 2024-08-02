@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|177.36.200.54|8080|Brazil|Pirapora|NT Brasil Tecnologia Ltda. ME|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|7|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|8|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|11|103.48.71.34|82|India|Hyderabad|Country Online Services PVT LTD|
-|12|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.160.90|29905|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|135.148.233.152|23451|United States|Reston|OVH SAS|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|20|195.175.29.38|9090|Turkey|Adana|Turk Telekomunikasyon A.S|
+|4|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|5|187.102.222.113|32650|Brazil|São Pedro do Suaçuí|Masternet Telecomunicacao Ltda|
+|6|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|12|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|45.188.164.3|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
 
 
 
