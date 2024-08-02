@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -44,20 +44,20 @@ Click the file format that you want and copy the URL.
 |3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |5|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
 |9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.160.173|4577|Canada|Montreal|GloboTech Communications|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 
 
