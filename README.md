@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.178.21.74|8090|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|10|103.155.116.243|8085|Indonesia|Bekasi|IOSYS|
-|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
-|15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|45.184.155.238|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|103.184.56.122|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|17|121.200.48.58|8080|India|Coimbatore|WLSNET|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
 
 
 
