@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
-|19|124.217.106.153|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|163.172.33.137|4059|France|Vitry-sur-Seine|Online S.A.S.|
+|13|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
