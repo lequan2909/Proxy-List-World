@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|101.109.54.157|8080|Thailand|Pattaya|TOT Public Company Limited|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|190.8.164.24|8086|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
+|4|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|101.255.116.163|33333|Indonesia|Jakarta|PT Remala Abadi|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|14|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|15|201.47.88.21|3128|Brazil|São Paulo|Vivo|
-|16|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|171.228.166.78|10089|Vietnam|Hanoi|Viettel Corporation|
-|20|135.148.233.152|10206|United States|Reston|OVH SAS|
+|14|135.148.233.152|11323|United States|Reston|OVH SAS|
+|15|45.239.30.1|999|Chile|El Carmen|CMP WILL TELECOMUNICACIONES SPA|
+|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|171.228.166.78|10089|Vietnam|Hanoi|Viettel Corporation|
+|18|103.87.169.146|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|19|72.10.160.171|13573|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
