@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|216.10.247.145|3128|India|Mumbai|PDR|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|12|103.63.26.226|1111|Indonesia|Batu|PT Global Media Data Prima|
-|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|51.159.4.90|3128|France|Paris|SCALEWAY|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|18|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|72.10.160.173|4577|Canada|Montreal|GloboTech Communications|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 
 
 
