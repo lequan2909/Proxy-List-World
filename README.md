@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|171.6.79.19|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|17|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
-|18|217.197.237.74|8080|Russia|St Petersburg|SEVEREN|
-|19|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|171.6.79.19|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
