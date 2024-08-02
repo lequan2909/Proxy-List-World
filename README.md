@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|23.95.216.78|34561|United States|Marietta|HostPapa|
-|7|103.133.222.64|8090|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.125.160.178|83|India|Hyderabad|CtrlS|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|135.148.233.152|1210|United States|Reston|OVH SAS|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|223.204.49.15|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 |11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
-|15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|41.173.239.161|3128|South Africa|Thohoyandou|Liquid Telecommunications Ltd|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|125.212.231.103|808|Vietnam|Hoàn Kiếm|Viettel Corporation|
+|18|163.172.33.137|4059|France|Vitry-sur-Seine|Online S.A.S.|
 |19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
