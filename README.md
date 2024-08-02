@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|219.151.19.1|3128|China|Guiyang|Chinanet|
-|18|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|19|67.43.228.253|16593|Canada|Montreal|GloboTech Communications|
-|20|135.148.233.152|16577|United States|Reston|OVH SAS|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|110.39.42.211|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
