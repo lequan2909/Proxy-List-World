@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 |10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|103.178.21.74|8090|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|103.168.254.162|8086|Indonesia|Jepara|PT Fahasa Tri Data|
-|19|23.95.216.78|34561|United States|Marietta|HostPapa|
-|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|23.95.216.78|34561|United States|Marietta|HostPapa|
+|16|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|67.43.227.227|30679|Canada|Montreal|GloboTech Communications|
 
 
 
