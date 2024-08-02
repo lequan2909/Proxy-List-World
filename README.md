@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|119.47.90.25|1080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|20|218.5.173.234|8080|China|Fuzhou|Chinanet|
+|3|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|190.94.213.14|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|16|102.68.139.247|8080|Zambia|Lusaka|AirLink Broadband Limited|
+|17|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|118.172.239.231|8180|Thailand|Chon Buri|TOT Public Company Limited|
+|19|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|20|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 
 
 
