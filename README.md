@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|23.95.216.78|34561|United States|Marietta|HostPapa|
+|1|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
+|2|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|103.169.38.118|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
-|14|38.156.75.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|135.148.233.152|11323|United States|Reston|OVH SAS|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
+|5|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|6|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|181.188.215.207|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|135.148.233.152|11323|United States|Reston|OVH SAS|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
