@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|171.96.204.100|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
-|11|23.95.216.78|34561|United States|Marietta|HostPapa|
-|12|41.173.239.161|3128|South Africa|Cape Town|Liquid Telecommunications Ltd|
-|13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|103.134.246.22|8080|Indonesia|Jembrana|Wisuandha Network Globalindo|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|189.195.139.178|999|Mexico|Tangancícuaro de Arista|Mega Cable, S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|171.245.124.52|5020|Vietnam|Ha Long|Viettel Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|157.100.56.42|999|Ecuador|Cariamanga|Ufinet Panama S.A.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|20|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
 
 
 
