@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
 |7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|135.148.171.194|18080|United States|Reston|OVH SAS|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|51.222.102.172|8080|Canada|Beauharnois|OVH SAS|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|19|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
