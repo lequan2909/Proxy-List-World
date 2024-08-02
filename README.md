@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|23.95.216.78|34561|United States|Marietta|HostPapa|
-|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|167.71.202.234|3128|Singapore|Singapore|DigitalOcean, LLC|
 |11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|45.230.169.6|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|15|67.43.236.20|17393|Canada|Montreal|GloboTech Communications|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
 |17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|138.59.151.162|8080|Brazil|Porto Feliz|Wireless Comm Services LTDA|
-|20|188.125.169.211|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|19|89.135.59.65|8090|Hungary|Százhalombatta|Vodafone Hungary Ltd.|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
