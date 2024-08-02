@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|41.139.169.99|8083|Kenya|Nairobi|Converged services Eastern|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|19|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|20|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|13|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|17|103.178.194.114|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|124.6.164.229|8085|Philippines|Lahug|INNOVE|
+|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
