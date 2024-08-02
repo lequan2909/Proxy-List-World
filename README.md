@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.202.234|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|23.95.216.78|34561|United States|Marietta|HostPapa|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|23.95.216.78|34561|United States|Marietta|HostPapa|
-|13|23.95.216.78|34561|United States|Marietta|HostPapa|
-|14|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|12|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|103.48.71.34|82|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
