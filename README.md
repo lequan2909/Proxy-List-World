@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|167.71.202.234|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|124.104.145.185|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 |11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|15|138.59.227.248|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
-|16|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|19|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|20|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|18|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|190.14.10.19|999|Guatemala|Guatemala City|Comcel Guatemala S.A.|
 
 
 
