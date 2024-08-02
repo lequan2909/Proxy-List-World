@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|187.102.222.113|32650|Brazil|São Pedro do Suaçuí|Masternet Telecomunicacao Ltda|
-|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|135.148.233.152|8050|United States|Reston|OVH SAS|
-|11|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|13|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
-|14|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
-|15|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|16|107.172.80.62|3128|United States|Buffalo|HostPapa|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|64.227.44.70|9090|United Kingdom|Slough|DigitalOcean, LLC|
-|20|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|23.95.216.78|34561|United States|Marietta|HostPapa|
+|7|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|8|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|13|23.95.216.78|34561|United States|Marietta|HostPapa|
+|14|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
 
 
 
