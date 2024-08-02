@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.152.238.180|8080|Indonesia|Bekasi|APRIN|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|6|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|7|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|10|72.10.164.178|11569|Canada|Montreal|GloboTech Communications|
-|11|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|135.148.233.152|31202|United States|Reston|OVH SAS|
-|14|67.43.236.20|32973|Canada|Montreal|GloboTech Communications|
-|15|103.159.93.139|8095|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
-|16|67.43.228.253|28625|Canada|Montreal|GloboTech Communications|
-|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|18|67.43.236.19|16889|Canada|Montreal|GloboTech Communications|
-|19|135.148.171.194|18080|United States|Reston|OVH SAS|
-|20|67.43.236.20|32973|Canada|Montreal|GloboTech Communications|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|101.109.54.157|8080|Thailand|Pattaya|TOT Public Company Limited|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|11|135.148.233.152|12397|United States|Reston|OVH SAS|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
