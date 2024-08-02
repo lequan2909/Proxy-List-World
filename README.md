@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|177.36.200.54|8080|Brazil|Pirapora|NT Brasil Tecnologia Ltda. ME|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|41.216.42.170|8080|Benin|Cotonou|SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES|
+|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|9|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|8|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
 |10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|12|45.239.30.1|999|Chile|El Carmen|CMP WILL TELECOMUNICACIONES SPA|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|103.250.130.149|8181|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|15|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
-|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|135.148.233.152|3127|United States|Reston|OVH SAS|
-|20|152.26.231.42|9443|United States|Huntersville|MCNC|
+|11|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|19|135.148.233.152|23451|United States|Reston|OVH SAS|
+|20|135.148.233.152|23451|United States|Reston|OVH SAS|
 
 
 
