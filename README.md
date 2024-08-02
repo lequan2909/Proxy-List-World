@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|172.172.166.46|3128|United States|Boydton|Microsoft|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|23.95.216.78|34561|United States|Marietta|HostPapa|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
