@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|10|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|20|178.205.101.67|3129|Russia|Kazan'|Tattelecom|
+|2|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|10|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|18|135.148.233.152|31315|United States|Reston|OVH SAS|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 
 
 
