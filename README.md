@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
 |12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|190.238.231.121|1994|Peru|Ica|Telefonica Del Peru|
-|14|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
-|19|201.47.88.21|3128|Brazil|São Paulo|Vivo|
-|20|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|17|176.119.158.98|1080|Russia|Moscow|JSC Mediasoft ekspert|
+|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
 
 
 
