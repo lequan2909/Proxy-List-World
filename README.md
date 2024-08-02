@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
 |11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|135.148.171.194|18080|United States|Reston|OVH SAS|
-|20|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|112.78.47.187|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|18|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
