@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|10|135.148.233.152|3129|United States|Reston|OVH SAS|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
-|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|11|135.148.233.152|11323|United States|Reston|OVH SAS|
+|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|135.148.233.152|3129|United States|Reston|OVH SAS|
+|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|17|45.239.30.1|999|Chile|El Carmen|CMP WILL TELECOMUNICACIONES SPA|
+|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|135.148.233.152|11323|United States|Reston|OVH SAS|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
