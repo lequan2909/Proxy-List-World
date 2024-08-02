@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|182.253.232.219|8080|Indonesia|Jakarta|BIZNET|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|103.186.204.10|8080|Indonesia|Bandung|PT Afna Digital Indonesia|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|41.173.239.161|3128|South Africa|Cape Town|Liquid Telecommunications Ltd|
 
 
 
