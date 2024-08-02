@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|95.38.75.238|8080|Iran|Bandar-e Khamīr|Fanava Group|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|213.130.144.225|3128|France|Paris|Hostinger International Limited|
 |9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|195.158.3.198|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|4.190.190.194|8080|Japan|Osaka|Microsoft Corporation|
-|17|103.134.246.22|8080|Indonesia|Jembrana|Wisuandha Network Globalindo|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|135.148.233.152|16577|United States|Reston|OVH SAS|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|202.191.123.195|8090|Bangladesh|Dhaka|BIJOY|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|190.121.137.81|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|15|135.148.233.152|16577|United States|Reston|OVH SAS|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|18|135.148.233.152|16577|United States|Reston|OVH SAS|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
 
 
 
