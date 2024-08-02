@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.95.216.78|34561|United States|Marietta|HostPapa|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|23.95.216.78|34561|United States|Marietta|HostPapa|
 |5|135.148.171.194|18080|United States|Reston|OVH SAS|
 |6|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|9|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|12|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
 |13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|95.0.206.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|15|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|18|165.16.27.36|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|14|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|15|23.95.216.78|34561|United States|Marietta|HostPapa|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|18|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|23.95.216.78|34561|United States|Marietta|HostPapa|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
