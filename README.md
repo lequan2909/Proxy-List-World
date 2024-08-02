@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|103.174.238.233|8181|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|49.48.90.69|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|17|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|23.95.216.78|34561|United States|Marietta|HostPapa|
-|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|57.128.193.70|1080|Poland|Warsaw|OVH SAS|
+|16|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|163.172.33.137|4352|France|Vitry-sur-Seine|Online S.A.S.|
 
 
 
