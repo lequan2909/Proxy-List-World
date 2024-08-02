@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|171.96.204.100|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|23.95.216.78|34561|United States|Marietta|HostPapa|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|171.96.204.100|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|49.149.43.34|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |16|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|103.58.74.233|8080|Bangladesh|Dhaka|BUSINESSNETWORK|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|223.27.144.34|8080|Indonesia|Jakarta|PT Cyber Network Indonesia|
 
 
 
