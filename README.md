@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|23.95.216.78|34561|United States|Marietta|HostPapa|
-|4|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|143.198.210.177|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|167.71.202.234|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
 |8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
 |11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
 
 
 
