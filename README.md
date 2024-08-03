@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5243** proxies at the latest update. Usable proxies are below.
+> Scraper found **5223** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|589|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3205|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|101.51.107.30|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
-|10|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|11|200.37.252.122|8080|Peru|Lima|Telefonica del Peru S.A.A.|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|125.24.178.22|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|7|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|8|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|14|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|15|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|19|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|20|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|18|41.173.239.161|3128|South Africa|Cape Town|Liquid Telecommunications Ltd|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|2.180.32.211|8080|Iran|Zarrīn Shahr|mashhad|
 
 
 
