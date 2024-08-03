@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|182.253.109.199|8080|Indonesia|Semarang|Biznet Metronet|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
-|14|103.38.101.9|8085|Indonesia|Jakarta|LAXONET|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|79.175.189.88|1080|Iran|Tehran|Afranet|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|125.212.224.58|3128|Vietnam|Hanoi|Viettel Corporation|
+|6|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|37.32.13.230|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|13|182.253.109.199|8080|Indonesia|Semarang|Biznet Metronet|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|200.5.196.218|3128|Argentina|Buenos Aires|Telefonica de Argentina|
+|18|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|188.132.222.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
