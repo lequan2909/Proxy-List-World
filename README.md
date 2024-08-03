@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|17|200.24.157.122|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|67.43.227.228|18127|Canada|Montreal|GloboTech Communications|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|102.66.222.137|8080|South Africa|Cape Town|HERO TELECOMS (PTY) LTD|
+|12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|13|103.48.71.34|82|India|Hyderabad|Country Online Services PVT LTD|
+|14|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|17|72.10.160.170|15813|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
 
 
 
