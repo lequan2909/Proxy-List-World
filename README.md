@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|136.239.176.85|8080|Philippines|Cagayan de Oro|ComClark Network & Technology Corp|
-|8|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|123.200.18.155|96|Bangladesh|Dhaka|Corporate-Subscriber|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|152.26.231.42|9443|United States|Huntersville|MCNC|
-|13|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|14|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.90|21231|Canada|Montreal|GloboTech Communications|
-|17|82.223.246.196|80|Spain|Logroño|arsys.es|
-|18|72.10.160.90|21231|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|10217|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|15965|Canada|Montreal|GloboTech Communications|
+|3|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|9|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|10|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|11|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|12|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
+|13|212.57.136.248|8080|Russia|Turgoyak|PJSC Rostelecom|
+|14|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|15|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.160.90|9547|Canada|Montreal|GloboTech Communications|
 
 
 
