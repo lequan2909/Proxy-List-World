@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.117.84.107|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|13|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |14|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|79.175.189.88|1080|Iran|Tehran|Afranet|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|118.172.239.231|8180|Thailand|Chon Buri|TOT Public Company Limited|
+|20|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 
 
 
