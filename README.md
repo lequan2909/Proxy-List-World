@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.58.74.233|8080|Bangladesh|Dhaka|BUSINESSNETWORK|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|10|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|11|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|115.127.139.90|58080|Bangladesh|Dhaka|bracNet|
-|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.57.171.254|8085|Colombia|Bogotá|Telmex Colombia S.A.|
+|8|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
+|11|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|12|62.109.15.27|3120|Russia|Moscow|JSC IOT|
+|13|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|185.153.44.81|8080|Russia|Makhachkala|OOO "Intercom"|
+|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|17|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
