@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|7|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|10|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|11|152.26.231.42|9443|United States|Huntersville|MCNC|
-|12|72.10.160.90|26163|Canada|Montreal|GloboTech Communications|
-|13|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|14|67.43.236.20|16779|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|18|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
-|20|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|8|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|67.43.236.20|16475|Canada|Montreal|GloboTech Communications|
+|16|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|19|67.43.236.20|16475|Canada|Montreal|GloboTech Communications|
+|20|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
 
 
 
