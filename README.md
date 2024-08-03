@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|49.156.151.246|83|India|Guntur|City Online|
-|13|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|14|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
-|18|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|19|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|175.111.117.3|8080|Indonesia|Batam|BATAM BINTAN TELEKOMUNIKASI, PT|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
