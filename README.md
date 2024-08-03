@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|36.90.118.197|8080|Indonesia|Bojonegoro|PT. Telekomunikasi Indonesia|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|189.89.210.100|20183|Brazil|Lavras|Stratus Telecomunicacoes Ltda|
+|9|113.174.245.163|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
 |11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|175.143.205.175|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|14|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|189.89.210.100|20183|Brazil|Lavras|Stratus Telecomunicacoes Ltda|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|23.95.216.78|34561|United States|Marietta|HostPapa|
 |19|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
