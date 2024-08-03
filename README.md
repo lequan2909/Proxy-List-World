@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|18|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|19|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
-|20|154.90.49.12|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|10|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|11|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|154.90.49.12|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
