@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|125.212.224.58|3128|Vietnam|Hanoi|Viettel Corporation|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|37.32.13.230|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 |9|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|182.253.109.199|8080|Indonesia|Semarang|Biznet Metronet|
-|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|79.175.189.51|1080|Iran|Tehran|Afranet|
-|14|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|19|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|51.195.200.115|31280|United Kingdom|Edmonton|OVH SAS|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
 
 
 
