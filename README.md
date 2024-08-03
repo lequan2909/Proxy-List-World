@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|37.32.13.230|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|9|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|182.253.109.199|8080|Indonesia|Semarang|Biznet Metronet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|79.175.189.51|1080|Iran|Tehran|Afranet|
-|18|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
-|19|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|182.253.109.199|8080|Indonesia|Semarang|Biznet Metronet|
+|8|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|37.32.13.230|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|13|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
