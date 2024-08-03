@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|11|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|79.175.189.88|1080|Iran|Tehran|Afranet|
-|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|103.234.27.78|9990|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|14|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
