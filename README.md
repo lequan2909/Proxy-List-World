@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|46.175.1.65|8080|Slovakia|Michalovce|Andrex s.r.o.|
 |12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|190.69.157.213|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|18|202.191.123.195|8090|Bangladesh|Dhaka|BIJOY|
-|19|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|20|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|14|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|15|185.153.44.81|8080|Russia|Makhachkala|OOO "Intercom"|
+|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|102.68.139.247|8080|Zambia|Lusaka|AirLink Broadband Limited|
+|18|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
