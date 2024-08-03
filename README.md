@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|41.173.239.161|3128|South Africa|Cape Town|Liquid Telecommunications Ltd|
-|16|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|176.119.158.98|1080|Russia|Moscow|JSC Mediasoft ekspert|
+|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|2.180.32.211|8080|Iran|Zarrīn Shahr|mashhad|
+|11|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|14|191.97.16.126|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|15|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|17|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|64.6.8.5|8080|United States|Stronghurst|MTC Communications|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
