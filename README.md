@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|135.148.171.194|18080|United States|Reston|OVH SAS|
 |8|194.87.74.232|8080|Russia|Moscow|JSC Mediasoft ekspert|
-|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|51.8.224.206|9000|Germany|Magdeburg|Microsoft Germany|
-|15|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|16|95.71.35.122|8080|Russia|Belgorod|Rostelecom networks|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|18|45.71.114.149|999|Ecuador|Loja|Ufinet Panama S.A.|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|103.255.132.135|1111|Indonesia|Banjarnegara|PT Sarana Kawan Setia|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|103.151.35.164|1111|Indonesia|Tangerang|GAYUHNET|
 
 
 
