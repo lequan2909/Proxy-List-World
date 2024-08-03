@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|8|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
-|9|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|12|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|13|103.46.4.7|3030|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|66.70.225.202|8050|Brazil|Mairi|OVH Hosting|
-|18|72.10.160.174|4993|Canada|Montreal|GloboTech Communications|
-|19|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|72.10.160.171|10751|Canada|Montreal|GloboTech Communications|
+|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|6|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|7|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|174.138.20.66|9090|Singapore|Singapore|DigitalOcean, LLC|
+|11|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|103.234.27.78|9990|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|15|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|67.43.227.228|25351|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|72.10.164.178|29823|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|29823|Canada|Montreal|GloboTech Communications|
 
 
 
