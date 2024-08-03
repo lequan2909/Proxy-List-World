@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|154.90.49.240|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|4|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|5|154.90.49.182|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|154.90.48.183|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|6|154.90.49.240|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
 |7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|16|79.175.189.51|1080|Iran|Tehran|Afranet|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|11|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|15|103.203.232.101|3125|Indonesia|Kedok|INDANA|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|79.175.189.51|1080|Iran|Tehran|Afranet|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
