@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|7|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
-|8|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|14|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|15|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|18|41.173.239.161|3128|South Africa|Cape Town|Liquid Telecommunications Ltd|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|2.180.32.211|8080|Iran|Zarrīn Shahr|mashhad|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|8|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|9|200.37.252.122|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
+|18|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|190.14.10.19|999|Guatemala|Guatemala City|Comcel Guatemala S.A.|
 
 
 
