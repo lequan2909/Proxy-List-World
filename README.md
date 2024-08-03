@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.234.31.58|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|7|101.255.209.118|8089|Indonesia|Jakarta|PT Remala Abadi|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|6|23.95.216.78|34561|United States|Marietta|HostPapa|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|13|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|14|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|103.169.148.2|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
 
 
 
