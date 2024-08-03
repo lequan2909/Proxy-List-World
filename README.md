@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|23.95.216.78|34561|United States|Marietta|HostPapa|
-|12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|15|64.6.8.5|8080|United States|Stronghurst|MTC Communications|
-|16|103.48.70.209|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|23.95.216.78|34561|United States|Marietta|HostPapa|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|13|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|14|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|19|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
