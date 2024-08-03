@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|128.199.193.78|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |8|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|18363|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
-|20|72.10.164.178|18363|Canada|Montreal|GloboTech Communications|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|103.152.101.69|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|15|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|16|103.194.172.186|8080|Indonesia|Bandung|MYNET|
+|17|186.227.119.91|8080|Brazil|Guaraniaçu|Orssatto Telecom Telecomunicacoes - Eireli|
+|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
