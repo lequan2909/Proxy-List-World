@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
-|20|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|41.205.24.26|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|103.178.187.198|8090|Bangladesh|Dhaka|EarthTel|
+|13|103.80.81.53|8090|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|154.90.49.12|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
