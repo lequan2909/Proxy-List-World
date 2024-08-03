@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
+|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|79.175.189.88|1080|Iran|Tehran|Afranet|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|79.175.189.88|1080|Iran|Tehran|Afranet|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
 |18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|135.148.171.194|18080|United States|Reston|OVH SAS|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
