@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|36.88.140.196|8083|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|11|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|18|103.234.159.5|8080|India|Bengaluru|MWPL|
-|19|67.43.228.254|31729|Canada|Montreal|GloboTech Communications|
+|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|9|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|72.10.164.178|14471|Canada|Montreal|GloboTech Communications|
+|17|103.134.246.22|8080|Indonesia|Jembrana|Wisuandha Network Globalindo|
+|18|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
