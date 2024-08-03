@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|103.228.36.164|10000|India|Mumbai|DXT|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|23.95.216.78|34561|United States|Marietta|HostPapa|
 |7|135.148.171.194|18080|United States|Reston|OVH SAS|
 |8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.144.102.230|8085|Indonesia|Bandung|PANDAWANET|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|103.228.36.164|10000|India|Mumbai|DXT|
+|10|178.115.230.100|8080|Austria|Reichenthal|customers with static IP|
+|11|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|12|89.218.229.78|3128|Kazakhstan|Almaty|Kazakhtelecom Data Network Administration|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|23.95.216.78|34561|United States|Marietta|HostPapa|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|101.255.208.22|3127|Indonesia|Ciputat|PT Remala Abadi|
 
 
 
