@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|10|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|159.192.138.170|8080|Thailand|Bang Rak|CAT-BB|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|18|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
-|19|152.26.231.86|9443|United States|Huntersville|MCNC|
-|20|67.43.236.20|15425|Canada|Montreal|GloboTech Communications|
+|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|6|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|18|103.80.81.53|8090|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|19|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
+|20|103.48.68.90|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
