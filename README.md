@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|43.249.224.170|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|15|103.217.216.91|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|103.245.16.222|8888|Indonesia|Jakarta|PT Quantum Tera Network|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
 
 
 
