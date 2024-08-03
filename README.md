@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
