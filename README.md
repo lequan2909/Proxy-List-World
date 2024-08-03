@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.74.40.128|7788|Japan|Tokyo|Alibaba Cloud LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.234.159.5|8080|India|Bengaluru|MWPL|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|72.10.164.178|29823|Canada|Montreal|GloboTech Communications|
-|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.160.90|11451|Canada|Montreal|GloboTech Communications|
-|17|188.209.49.99|80|The Netherlands|Amsterdam|Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal|
-|18|72.10.164.178|29823|Canada|Montreal|GloboTech Communications|
-|19|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|72.10.164.178|29823|Canada|Montreal|GloboTech Communications|
+|4|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|10|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|11|103.234.159.5|8080|India|Bengaluru|MWPL|
+|12|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|103.48.70.81|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|20|67.43.236.18|30045|Canada|Montreal|GloboTech Communications|
 
 
 
