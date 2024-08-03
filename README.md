@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|171.6.79.19|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|14|37.211.92.252|8080|Qatar|Doha|Ooredoo Q.S.C|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|49.156.151.246|83|India|Guntur|City Online|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|16|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|17|190.80.188.93|999|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A|
+|18|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|37.211.92.252|8080|Qatar|Doha|Ooredoo Q.S.C|
+|20|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 
 
 
