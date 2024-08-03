@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|116.104.128.249|5020|Vietnam|Hanoi|Viettel Corporation|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|18|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|19|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|20|202.93.244.242|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
 
 
 
