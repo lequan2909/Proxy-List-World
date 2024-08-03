@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
-|7|202.51.121.59|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|12.133.53.17|83|United States|Beachwood|AT&T Services, Inc.|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|36.88.140.196|8083|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|18|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|19|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|16|154.73.29.161|8080|Libya|Tripoli|Rawafed|
+|17|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|18|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|72.10.160.172|1991|Canada|Montreal|GloboTech Communications|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
