@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|17|103.80.81.53|8090|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
-|18|188.125.169.211|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|6|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|11|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|14|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|201.77.108.196|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
 
 
 
