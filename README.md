@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|154.90.48.183|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|23.95.216.78|34561|United States|Marietta|HostPapa|
-|14|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|154.90.49.240|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|12|79.175.189.51|1080|Iran|Tehran|Afranet|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|81.94.135.202|1256|Russia|Moscow|WEST-CALL|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
