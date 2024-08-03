@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|51.250.107.5|4555|Russia|Moscow|Yandex.Cloud LLC|
-|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|181.78.13.68|999|Colombia|Guamal|IFX Networks Argentina S.R.L|
-|10|72.10.160.170|21663|Canada|Montreal|GloboTech Communications|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|152.26.231.86|9443|United States|Huntersville|MCNC|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
 |12|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|72.10.164.178|28459|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|72.10.160.170|21663|Canada|Montreal|GloboTech Communications|
-|17|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|15|91.209.114.179|8080|Hungary|Kálmáncsa|MVM NET Zrt.|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
 
 
 
