@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
-|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|16|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
-|17|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
-|18|103.54.218.202|8080|Indonesia|Pancoran|PT. Mora Telematika Indonesia|
-|19|190.12.95.170|47029|Peru|Lima|WIN EMPRESAS S.A.C|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|2|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|103.176.96.134|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|12|66.210.33.34|8080|United States|Milton|Cox Communications Inc.|
+|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|17|110.235.129.14|1337|Philippines|Pasay|RADIUS TELECOMS, INC.|
+|18|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
