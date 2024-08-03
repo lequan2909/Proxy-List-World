@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|79.175.189.51|1080|Iran|Tehran|Afranet|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|102.214.106.114|8080|Libya|Tripoli|Rawafed|
+|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|18|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|17|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |20|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
