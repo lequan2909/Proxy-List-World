@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|103.234.31.58|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|110.235.129.14|1337|Philippines|Pasay|RADIUS TELECOMS, INC.|
+|4|181.65.180.190|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|165.22.57.181|9090|Singapore|Singapore|DigitalOcean, LLC|
+|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|12|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
-|13|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|103.48.68.90|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.236.20|1415|Canada|Montreal|GloboTech Communications|
-|20|124.6.164.229|8085|Philippines|Lahug|INNOVE|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|27.77.128.15|8080|Vietnam|Đồng Nai Province|Newass2011xDSLHCMC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|20|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 
 
 
