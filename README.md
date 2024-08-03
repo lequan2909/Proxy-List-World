@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|23.95.216.78|34561|United States|Marietta|HostPapa|
-|18|154.73.108.206|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|23.95.216.78|34561|United States|Marietta|HostPapa|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|16|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
