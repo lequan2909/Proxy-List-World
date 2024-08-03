@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |6|79.175.189.51|1080|Iran|Tehran|Afranet|
 |7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
 |17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|18|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|18|138.59.20.48|8090|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
 |19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|190.90.233.33|8080|Colombia|Bogotá|InterNexa Global Network|
 
 
 
