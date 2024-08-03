@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|125.27.47.158|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|103.155.198.111|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|61.7.191.76|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|125.27.47.158|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|77.41.146.50|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|36.90.118.197|8080|Indonesia|Bojonegoro|PT. Telekomunikasi Indonesia|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
 |18|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
