@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
-|5|203.150.128.83|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|203.150.128.83|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
+|10|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|15|49.156.151.246|83|India|Guntur|City Online|
-|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|17|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|188.72.43.217|47193|Iraq|Xebat|Pirmam For Information Technology Ltd|
-|20|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|188.72.43.217|47193|Iraq|Xebat|Pirmam For Information Technology Ltd|
+|16|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
