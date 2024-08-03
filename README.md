@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|23.95.216.78|34561|United States|Marietta|HostPapa|
 |3|23.95.216.78|34561|United States|Marietta|HostPapa|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|72.10.164.178|9701|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|20415|Canada|Montreal|GloboTech Communications|
-|20|165.225.113.214|10006|Singapore|Singapore|ZSCALER, INC.|
+|5|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|139.255.67.212|8185|Indonesia|Jakarta|PT. LINKNET|
+|11|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|12|177.234.193.178|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|152.26.231.86|9443|United States|Huntersville|MCNC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|18|165.225.113.214|10006|Singapore|Singapore|ZSCALER, INC.|
+|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|20|203.98.76.2|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
 
 
 
