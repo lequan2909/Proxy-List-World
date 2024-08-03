@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|45.250.215.8|8080|India|New Delhi|Geocity Network Solutions PVT LTD|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.105.76.49|8080|Indonesia|Bojonegoro|GARUDA|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|19|23.94.214.8|9054|United States|Santa Clara|HostPapa|
+|20|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
 
 
 
