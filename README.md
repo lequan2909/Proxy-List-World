@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|101.109.62.250|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|203.161.54.164|5555|United States|New York|Namecheap, Inc.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|12|103.155.198.164|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|191.102.248.5|8085|Argentina|Rosario|IP·RED|
-|16|78.108.109.0|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
-|17|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|18|67.43.236.20|13729|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|27.147.142.138|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|101.109.62.250|8080|Thailand|Pattaya|TOT Public Company Limited|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
