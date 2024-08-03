@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.141.51.212|1111|India|Karur|Sri Krishna Internet Services Private Limited|
-|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|32.142.206.26|9081|United States|Bolton|AT&T Services, Inc.|
-|12|202.51.121.59|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|13|32.142.206.26|9081|United States|Bolton|AT&T Services, Inc.|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|190.2.215.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|84.0.136.195|8080|Hungary|Berettyóújfalu|Magyar Telekom|
+|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|37.195.222.7|52815|Russia|Novosibirsk|Novotelecom Ltd.|
+|13|154.73.29.161|8080|Libya|Tripoli|Rawafed|
+|14|103.250.130.149|8181|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|15|32.142.206.26|9081|United States|Bolton|AT&T Services, Inc.|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|181.78.13.68|999|Colombia|Guamal|IFX Networks Argentina S.R.L|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
