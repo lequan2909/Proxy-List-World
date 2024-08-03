@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|72.10.164.178|3211|Canada|Montreal|GloboTech Communications|
-|10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|11|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|12|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|72.10.164.178|3211|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|3211|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|15847|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.228.254|20081|Canada|Montreal|GloboTech Communications|
-|20|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|72.10.164.178|19227|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|19227|Canada|Montreal|GloboTech Communications|
+|19|188.132.222.247|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
