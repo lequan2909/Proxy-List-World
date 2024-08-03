@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|27.77.128.15|8080|Vietnam|Đồng Nai Province|Newass2011xDSLHCMC|
-|8|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
-|9|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|165.225.113.214|10006|Singapore|Singapore|ZSCALER, INC.|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|13|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|14|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|15|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|16|41.85.8.226|8080|South Africa|Richards Bay|Frogfoot Networks|
-|17|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|18|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|6|23.95.216.78|34561|United States|Marietta|HostPapa|
+|7|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|103.234.31.58|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|200.155.139.242|3128|Brazil|Porto Alegre|Telium Telecomunicações Ltda|
+|15|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|165.225.113.214|11066|Singapore|Singapore|ZSCALER, INC.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|201.71.2.115|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|20|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
