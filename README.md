@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|38.156.191.232|999|Mexico|Aguascalientes|Digy Networks|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
-|12|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|13|119.47.90.25|1080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|18|72.10.164.178|13263|Canada|Montreal|GloboTech Communications|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|213.165.168.190|9898|Malta|Birkirkara|Melita plc|
+|13|23.95.216.78|34561|United States|Marietta|HostPapa|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|16|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|17|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|103.48.70.81|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
