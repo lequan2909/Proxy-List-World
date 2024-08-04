@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|171.5.16.97|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|171.5.16.97|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
 |13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|14|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|18|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
