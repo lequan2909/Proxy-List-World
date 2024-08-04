@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|46.250.239.99|8000|France|Paris|Contabo Asia Private Limited|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|162.253.155.94|3128|United States|Portland|Reprise Hosting|
 |10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|162.253.155.94|3128|United States|Portland|Reprise Hosting|
 |14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|67.43.227.226|12383|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.236.20|21555|Canada|Montreal|GloboTech Communications|
+|18|103.54.43.131|8080|Bangladesh|Dhaka|The Net Heads|
+|19|67.43.236.18|26773|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
