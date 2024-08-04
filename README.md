@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|200.35.50.22|53028|Colombia|Medellín|Edatel S.a. E.S.P|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|11|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
 |12|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|13|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
-|14|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|189.50.9.33|8080|Brazil|Vitória|VIPRede Telecomunicações Ltda|
 |16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|8175|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
