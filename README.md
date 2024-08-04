@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|92.62.137.169|3128|Lithuania|Vilnius|BALTNET-DC|
 
 
 
