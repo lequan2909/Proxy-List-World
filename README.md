@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|45.224.149.243|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|10|202.162.213.178|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|11|103.250.130.149|8181|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|12|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|13|103.134.246.22|8080|Indonesia|Jembrana|Wisuandha Network Globalindo|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|72.10.160.173|19561|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|6269|Canada|Montreal|GloboTech Communications|
-|18|34.83.118.98|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.94|9913|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|165.16.27.36|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|10|152.26.231.86|9443|United States|Huntersville|MCNC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.160.173|32247|Canada|Montreal|GloboTech Communications|
+|13|202.162.213.178|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|16|72.10.160.90|2903|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|2903|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.160.90|2903|Canada|Montreal|GloboTech Communications|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
