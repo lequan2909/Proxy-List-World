@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|46.250.229.49|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|4|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|41.173.239.161|3128|South Africa|Cape Town|Liquid Telecommunications Ltd|
-|10|172.96.10.20|60865|United States|Kansas City|UnReal Servers, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
-|14|174.138.18.189|9090|Singapore|Singapore|DigitalOcean, LLC|
-|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|177.93.59.54|999|Colombia|Medellín|TV AZTECA SUCURSAL COLOMBIA|
-|18|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|103.125.16.130|8080|Indonesia|Tangerang|JAVAMEDIA|
+|19|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
+|20|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
 
 
 
