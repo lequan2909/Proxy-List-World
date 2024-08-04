@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|200.35.50.22|53028|Colombia|Medellín|Edatel S.a. E.S.P|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|103.152.238.180|8080|Indonesia|Bekasi|APRIN|
+|9|103.159.194.97|8080|Indonesia|Demak|PT Giga Digital Nusantara|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|103.113.3.25|8080|Indonesia|South Tangerang|Diskominfo Tangerang Selatan|
+|19|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|20|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
