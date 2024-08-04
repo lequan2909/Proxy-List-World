@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|162.253.155.94|3128|United States|Portland|Reprise Hosting|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|162.253.155.94|3128|United States|Portland|Reprise Hosting|
-|11|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|67.43.227.226|32547|Canada|Montreal|GloboTech Communications|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|67.43.228.250|24009|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|3097|Canada|Montreal|GloboTech Communications|
-|18|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|31853|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|185.57.237.32|4411|Russia|Yablonitsy|LTD AtelRybinsk|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.236.18|6445|Canada|Montreal|GloboTech Communications|
+|17|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.173|1939|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|3097|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|3627|Canada|Montreal|GloboTech Communications|
 
 
 
