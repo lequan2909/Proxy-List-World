@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|18.228.173.246|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|18.228.173.246|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|203.14.18.242|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
-|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|206.224.254.234|8080|United States|Garden Grove|CENIC|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|18|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|41.65.55.2|1981|Egypt|Qillīn|Etisalat Misr Mobile BB|
+|16|184.82.17.90|8080|Thailand|Ratchathewi|AIS-Fibre|
+|17|79.111.13.155|50625|Russia|Lyubertsy|PJSC MegaFon|
+|18|42.118.10.77|8080|Vietnam|Hanoi|FPT Telecom Company|
+|19|154.73.29.161|8080|Libya|Tripoli|Rawafed|
+|20|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
 
 
 
