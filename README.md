@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|80.66.81.44|4038|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|10|187.62.67.146|8080|Brazil|Aracaju|GN TELECOM|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|17|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|187.62.67.146|8080|Brazil|Aracaju|GN TELECOM|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|110.78.154.56|80|Thailand|Ko Samui|CAT-BB|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|80.66.81.44|4038|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|13|204.199.120.60|8080|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|14|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|15|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
+|18|171.7.129.226|8080|Thailand|Phra Nakhon|Triple T Broadband Public Company Limited|
+|19|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|20|191.7.8.246|80|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
 
 
 
