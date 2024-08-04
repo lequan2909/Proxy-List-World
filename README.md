@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|175.210.126.98|3128|South Korea|Incheon|Korea Telecom|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|125.27.127.89|8080|Thailand|Pattaya|TOT Public Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|103.105.76.65|8080|Indonesia|Bojonegoro|GARUDA|
-|15|71.14.23.121|8080|United States|Hoover|Spectrum|
-|16|185.80.128.201|3128|Lithuania|Vilnius|UAB ESNET|
-|17|103.180.118.99|8090|Indonesia|Gresik|PT Persada Data Multimedia|
-|18|91.239.17.22|8080|Russia|Ulyanovsk|Telecom.ru Ltd|
-|19|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|20|186.233.118.211|8080|Brazil|Rio de Janeiro|Golden Link|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|125.27.127.89|8080|Thailand|Pattaya|TOT Public Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|9|201.77.108.72|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|10|124.121.58.200|8080|Thailand|Pak Kret|TRUEBB|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|195.175.29.38|9090|Turkey|Adana|Turk Telekomunikasyon A.S|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|16|102.211.209.119|3128|Tunisia|Tunis|OXAHOST|
+|17|80.66.81.44|4038|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|18|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
 
 
 
