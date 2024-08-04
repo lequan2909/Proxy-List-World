@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|8|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.228.36.164|10000|India|Mumbai|DXT|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|6|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|10|210.186.189.8|8080|Malaysia|Kuala Lumpur|ADSL Streamyx Telekom Malaysia|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|35.207.254.147|8085|India|Mumbai|Google LLC|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|58.9.2.49|5002|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|129.205.127.30|8080|Nigeria|Lagos|Globacom Limited|
-|18|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|20|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|103.242.106.183|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|20|41.173.239.161|3128|South Africa|Cape Town|Liquid Telecommunications Ltd|
 
 
 
