@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|206.224.254.234|8080|United States|Garden Grove|CENIC|
 |7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|67.43.227.227|28237|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|14513|Canada|Montreal|GloboTech Communications|
-|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|17|67.43.227.227|28237|Canada|Montreal|GloboTech Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.236.20|18217|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|5627|Canada|Montreal|GloboTech Communications|
+|8|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|67.43.228.253|21201|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|21399|Canada|Montreal|GloboTech Communications|
+|12|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|18|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
