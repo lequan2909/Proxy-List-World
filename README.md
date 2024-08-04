@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.125.16.130|8080|Indonesia|Tangerang|JAVAMEDIA|
-|6|18.228.173.246|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|7|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|115.22.252.245|3128|South Korea|Jinju|Korea Telecom|
+|5|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|18.228.173.246|3128|Brazil|São Paulo|Amazon Technologies Inc.|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.38.183.63|80|India|Uttarkāshi|Reis Network Solutions|
-|12|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|15|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
-|16|129.205.127.30|8080|Nigeria|Lagos|Globacom Limited|
-|17|115.245.181.54|23500|India|Delhi|Reliance Jio Infocomm Limited|
-|18|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|9|193.203.15.61|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|152.42.186.226|9090|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|152.42.186.178|9090|Singapore|Singapore|DigitalOcean, LLC|
+|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|17|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
 |19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
