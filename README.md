@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|9|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
-|13|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|14|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|58.247.136.139|9091|China|Shanghai|CNC Group CHINA169 Shanghai Province Network|
-|17|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|148.72.140.24|10641|United States|St Louis|GoDaddy.com|
-|20|67.43.228.253|32325|Canada|Montreal|GloboTech Communications|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|11|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|14|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|67.43.228.250|12049|Canada|Montreal|GloboTech Communications|
 
 
 
