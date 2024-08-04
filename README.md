@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.91|32193|Canada|Montreal|GloboTech Communications|
-|18|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|19|72.10.164.178|24605|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24605|Canada|Montreal|GloboTech Communications|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.164.178|32025|Canada|Montreal|GloboTech Communications|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|72.10.164.178|32025|Canada|Montreal|GloboTech Communications|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|32025|Canada|Montreal|GloboTech Communications|
 
 
 
