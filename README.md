@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.112.127.222|8181|Indonesia|Depok|FIBERNET|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|36.92.162.220|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|78.158.171.101|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|16|103.159.194.249|8080|Indonesia|Demak|PT Giga Digital Nusantara|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|45.125.222.81|8080|Bangladesh|Dhaka|SSD-TECH|
-|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|78.158.171.101|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|19|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
