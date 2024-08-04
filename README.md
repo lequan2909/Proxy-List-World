@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|162.253.155.94|3128|United States|Portland|Reprise Hosting|
-|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|162.253.155.94|3128|United States|Portland|Reprise Hosting|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|162.253.155.94|3128|United States|Portland|Reprise Hosting|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|162.253.155.94|3128|United States|Portland|Reprise Hosting|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |11|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|12|152.26.231.86|9443|United States|Huntersville|MCNC|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.160.92|15379|Canada|Montreal|GloboTech Communications|
+|16|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.227.226|22885|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
