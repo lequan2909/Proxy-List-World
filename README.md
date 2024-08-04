@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|103.167.5.62|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|200.35.50.22|53028|Colombia|Medellín|Edatel S.a. E.S.P|
-|20|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|18|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
