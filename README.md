@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
 |11|79.175.189.88|1080|Iran|Tehran|Afranet|
-|12|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
 |13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|27.66.240.210|8080|Vietnam|Haiphong|Viettel Group|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
 |17|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|135.148.171.194|18080|United States|Reston|OVH SAS|
 
 
 
