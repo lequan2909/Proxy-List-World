@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|180.191.255.147|8081|Philippines|General Trias|Globe Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|193.169.4.184|8091|Russia|Reutov|Lekstar Communication Ltd|
-|11|8.218.157.200|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|163.30.19.4|3128|Taiwan|Taoyuan District|T-TYC.EDU.TW|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|79.175.189.51|1080|Iran|Tehran|Afranet|
 |13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|72.10.160.90|26953|Canada|Montreal|GloboTech Communications|
-|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|117.55.202.206|3128|The Netherlands|Amsterdam|ESTOXY OU|
-|20|72.10.164.178|30709|Canada|Montreal|GloboTech Communications|
+|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
 
 
 
