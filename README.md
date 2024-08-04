@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|203.150.128.22|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|193.105.123.194|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
