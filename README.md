@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|18.228.173.246|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|6|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|7|124.6.164.229|8085|Philippines|Lahug|INNOVE|
-|8|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|9|103.69.20.42|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|202.191.123.195|8090|Bangladesh|Dhaka|BIJOY|
+|10|191.102.248.5|8085|Argentina|Rosario|IP·RED|
 |11|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|12|45.239.30.1|999|Chile|El Carmen|CMP WILL TELECOMUNICACIONES SPA|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|17|72.10.164.178|23163|Canada|Montreal|GloboTech Communications|
-|18|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|67.43.236.20|4595|Canada|Montreal|GloboTech Communications|
-|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|17|124.217.77.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
 
 
 
