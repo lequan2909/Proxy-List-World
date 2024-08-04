@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|162.253.155.94|3128|United States|Portland|Reprise Hosting|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|162.253.155.94|3128|United States|Portland|Reprise Hosting|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|45.176.97.98|999|Dominican Republic|Santo Domingo|Cable Onda Oriental, SRL|
+|9|162.253.155.94|3128|United States|Portland|Reprise Hosting|
 |10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
 |12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|162.253.155.94|3128|United States|Portland|Reprise Hosting|
-|19|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|79.175.189.51|1080|Iran|Tehran|Afranet|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
