@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|103.130.183.165|5555|Indonesia|Depok|PT SUPRA BOGA INDONESIA|
 |6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|103.239.255.36|58080|Bangladesh|Dhaka|SSDTECH Object4|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|9|103.239.255.36|58080|Bangladesh|Dhaka|SSDTECH Object4|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|16|103.109.125.155|4444|Indonesia|Medan|PT. PANCA DUTA UTAMA|
-|17|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|19|103.190.112.43|8181|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|20|200.39.139.65|999|Chile|Santiago|Iconex SPA|
 
 
 
