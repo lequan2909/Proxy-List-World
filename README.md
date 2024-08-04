@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|9|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|85.215.119.219|81|Germany|Berlin|IONOS SE|
+|5|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
+|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|67.43.236.18|15831|Canada|Montreal|GloboTech Communications|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|67.43.236.20|28359|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|18|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|19|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
+|20|123.200.18.155|96|Bangladesh|Dhaka|Corporate-Subscriber|
 
 
 
