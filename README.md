@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
 |7|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|10|103.131.19.43|8080|Indonesia|Batang|PT Global Media Data Prima|
-|11|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|12|202.38.181.129|8080|India|Bengaluru|Northeast Dataa Network Pvt Ltd|
-|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.94|9913|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.231.86|9443|United States|Huntersville|MCNC|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|165.16.27.36|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|11|72.10.160.94|9913|Canada|Montreal|GloboTech Communications|
+|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|8.218.100.45|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|181.48.160.114|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|72.10.160.90|2903|Canada|Montreal|GloboTech Communications|
+|20|123.200.18.155|96|Bangladesh|Dhaka|Corporate-Subscriber|
 
 
 
