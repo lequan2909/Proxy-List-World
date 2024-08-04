@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|5|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|9|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|101.109.134.13|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|13|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|14|200.35.50.22|53028|Colombia|Medellín|Edatel S.a. E.S.P|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|2.180.32.211|8080|Iran|Zarrīn Shahr|mashhad|
-|17|189.50.9.33|8080|Brazil|Vitória|VIPRede Telecomunicações Ltda|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|157.119.222.22|8080|Indonesia|Semarang|DESNET|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|11|41.173.239.161|3128|South Africa|Cape Town|Liquid Telecommunications Ltd|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|198.91.163.172|808|Canada|Richmond Hill|Distributel Communications Limited|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
+|16|103.114.52.72|8089|Indonesia|Klaten|Proxy-registered|
+|17|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|18|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|19|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
 
 
 
