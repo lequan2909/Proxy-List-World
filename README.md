@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
 |10|79.175.189.88|1080|Iran|Tehran|Afranet|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|72.10.160.171|1063|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|24715|Canada|Montreal|GloboTech Communications|
-|15|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|67.43.236.22|25681|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|17407|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.228.251|5539|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 
 
 
