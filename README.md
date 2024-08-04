@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|7|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|6|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|7|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|8|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|9|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|10|103.80.81.53|8090|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
 |13|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|14|15.235.171.202|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|15|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|157.119.222.22|8080|Indonesia|Semarang|DESNET|
-|19|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|20|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|14|188.213.26.159|3128|France|Valenciennes|global|
+|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|18|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|19|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|20|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
