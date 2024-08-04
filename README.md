@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|220.118.176.99|3128|South Korea|Bupyeong-gu|Korea Telecom|
+|1|220.118.176.99|3128|South Korea|Bupyeong-gu|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|79.175.189.51|1080|Iran|Tehran|Afranet|
-|13|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|17|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|135.148.171.194|18080|United States|Reston|OVH SAS|
-|20|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|4|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|184.82.17.90|8080|Thailand|Ratchathewi|AIS-Fibre|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|135.148.171.194|18080|United States|Reston|OVH SAS|
+|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|20|103.167.71.39|8080|Indonesia|Mukomuko|PT Rubyan Network Solution|
 
 
 
