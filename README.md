@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|18.228.173.246|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|18.228.173.246|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|7|38.159.232.6|8080|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|11|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
 |12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|13|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|14|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|191.7.8.246|80|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.228|27327|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|1589|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|13|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|14|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|191.97.16.182|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
 
 
 
