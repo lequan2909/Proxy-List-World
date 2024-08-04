@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|36.83.61.132|3128|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|3|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
-|10|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
-|11|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|12|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|13|103.154.145.204|8081|Indonesia|Sidoarjo|MORATELINDONAP|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|18|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
-|19|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|181.232.190.250|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|8|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|14|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|74.62.179.122|8080|United States|Van Nuys|Charter Communications Inc|
+|17|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|18|185.208.101.216|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|20|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
 
 
 
