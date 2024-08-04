@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|13|58.147.186.214|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|17|200.35.50.22|53028|Colombia|Medellín|Edatel S.a. E.S.P|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|58.247.136.139|9091|China|Shanghai|CNC Group CHINA169 Shanghai Province Network|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.154.145.204|8081|Indonesia|Sidoarjo|MORATELINDONAP|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.90.255.208|3128|Brazil|João Monlevade|Companhia Itabirana Telecomunicações Ltda|
+|15|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
