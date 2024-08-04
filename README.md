@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
 |10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |11|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|14|103.83.178.46|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|103.171.244.41|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|17|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|80.66.81.44|4038|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|20|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|79.175.189.51|1080|Iran|Tehran|Afranet|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|17|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|18|103.80.81.53|8090|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|19|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|20|210.186.189.8|8080|Malaysia|Kuala Lumpur|ADSL Streamyx Telekom Malaysia|
 
 
 
