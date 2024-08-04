@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|8|27.50.29.82|8080|Indonesia|South Tangerang|PT. Mora Telematika Indonesia|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|103.131.18.183|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|15|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|21781|Canada|Montreal|GloboTech Communications|
-|17|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|18|72.10.160.92|23307|Canada|Montreal|GloboTech Communications|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|7|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|8|202.162.213.178|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|9|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|10|103.247.21.235|8080|Indonesia|Bekasi|PT wifian Solution|
+|11|171.97.9.177|8080|Thailand|Bang Phli|True Internet Corporation CO. Ltd.|
+|12|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|13|177.54.110.177|9090|Brazil|São Gabriel|Plena Telecom|
+|14|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|15|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|16|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|19|77.48.22.49|33347|Czechia|Klopotovice|Vodafone Czech Republic|
+|20|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
 
 
 
