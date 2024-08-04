@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|80.66.81.44|4039|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|10|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|192.140.225.70|9090|Indonesia|Pancoran|PT Asia Teknologi Solusi|
-|12|37.204.209.198|8080|Russia|Moscow|NCNET|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
-|16|118.172.239.231|8180|Thailand|Chon Buri|TOT Public Company Limited|
-|17|110.232.66.30|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|18|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|19|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|20|171.7.129.226|8080|Thailand|Phra Nakhon|Triple T Broadband Public Company Limited|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|125.27.127.89|8080|Thailand|Pattaya|TOT Public Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|175.210.126.98|3128|South Korea|Incheon|Korea Telecom|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
+|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|16|80.66.81.44|4038|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|17|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|18|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|19|103.210.35.131|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|20|185.153.92.229|8079|Russia|Sochi|3lan ru|
 
 
 
