@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.80.82.178|8181|Indonesia|Batutering|Jaringanku Sarana Nusantara|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|79.175.189.88|1080|Iran|Tehran|Afranet|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|79.175.189.51|1080|Iran|Tehran|Afranet|
+|20|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
