@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|103.142.165.193|58080|India|Bengaluru|All Time Tele Infra Pvt Ltd|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|19|103.155.166.93|8181|Indonesia|Bogor|PT Network Lintas Fiberindo|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|79.175.189.88|1080|Iran|Tehran|Afranet|
+|15|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|19|31.42.7.177|8080|Poland|Mstów|MARCIN MALOLEPSZY @ALFANET|
 |20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
