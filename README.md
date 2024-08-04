@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.203.201.146|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|14|72.10.164.178|10463|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.94|12777|Canada|Montreal|GloboTech Communications|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|72.10.164.178|10463|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|8961|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|32379|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10463|Canada|Montreal|GloboTech Communications|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|3|1.10.133.234|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|67.43.227.227|5915|Canada|Montreal|GloboTech Communications|
+|15|154.90.48.9|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|16|72.10.160.94|30069|Canada|Montreal|GloboTech Communications|
+|17|103.178.194.131|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|72.10.160.174|32379|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
