@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|2|175.210.126.98|3128|South Korea|Incheon|Korea Telecom|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|175.210.126.98|3128|South Korea|Incheon|Korea Telecom|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
-|8|220.118.176.99|3128|South Korea|Bupyeong-gu|Korea Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|177.107.16.252|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|192.3.153.65|3128|United States|Buffalo|HostPapa|
-|14|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|174.138.20.66|9090|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.169.135.77|8080|Indonesia|Tulungagung|PT Neo Santara Solusi|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|91.195.37.26|8080|Germany|Berlin|Leaseweb Deutschland GmbH|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|15|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
+|16|192.3.153.65|3128|United States|Buffalo|HostPapa|
 |17|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|103.183.10.167|1111|Indonesia|Ngawi|PT Yasmin Amanah Media|
-|19|131.186.59.207|36666|Japan|Tokyo|Oracle Corporation|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|20|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
 
 
 
