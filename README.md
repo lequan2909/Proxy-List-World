@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|36.94.101.111|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|8|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|6|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|11|103.129.201.158|8080|Bangladesh|Gafargaon|Weblink Communications Ltd|
-|12|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|11|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
+|12|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|15|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
-|16|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|17|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|19|46.250.229.49|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|110.232.66.30|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|16|202.191.123.195|8090|Bangladesh|Dhaka|BIJOY|
+|17|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|18|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|19|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|20|46.250.229.49|3128|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
