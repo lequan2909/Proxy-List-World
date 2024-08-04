@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|6|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|9|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|124.6.164.229|8085|Philippines|Lahug|INNOVE|
-|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.164.178|8531|Canada|Montreal|GloboTech Communications|
-|18|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|103.48.69.33|83|India|Hyderabad|Country Online Services PVT LTD|
+|7|148.72.140.24|10641|United States|St Louis|GoDaddy.com|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|103.80.81.53|8090|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|12|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|13|200.35.50.22|53028|Colombia|Medellín|Edatel S.a. E.S.P|
+|14|135.148.171.194|18080|United States|Reston|OVH SAS|
+|15|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|16|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|19|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
