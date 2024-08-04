@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|175.210.126.98|3128|South Korea|Incheon|Korea Telecom|
 |3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|125.27.127.89|8080|Thailand|Pattaya|TOT Public Company Limited|
+|4|125.27.127.89|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|103.99.27.234|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|58.137.174.101|8080|Thailand|Huai Khwang|AGC|
-|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|13|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|79.175.189.51|1080|Iran|Tehran|Afranet|
-|16|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|18|103.169.38.118|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|202.168.69.230|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|187.62.67.146|8080|Brazil|Aracaju|GN TELECOM|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|124.104.145.185|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|16|204.199.120.60|8080|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|17|203.128.73.122|8910|Indonesia|Sunter Agung|Neuviz|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|82.179.94.21|3128|Russia|Nal'chik|RUNNet|
 
 
 
