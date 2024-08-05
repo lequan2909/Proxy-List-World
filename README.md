@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|3|172.183.241.1|8090|United States|Chicago|Microsoft|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
-|7|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|172.183.241.1|8090|United States|Chicago|Microsoft|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.183.241.1|8090|United States|Chicago|Microsoft|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|103.177.9.104|8080|Indonesia|Jakarta|PT Helium Sinergi Telekomunikasi|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|17|172.183.241.1|8090|United States|Chicago|Microsoft|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
