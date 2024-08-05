@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.183.241.1|8090|United States|Chicago|Microsoft|
-|3|113.53.147.198|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|172.183.241.1|8090|United States|Chicago|Microsoft|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|119.76.142.166|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|4|113.53.147.198|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
+|7|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|12|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
 |13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|67.43.236.20|12145|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|10311|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|14|172.183.241.1|8090|United States|Chicago|Microsoft|
+|15|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|16|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|17|72.10.164.178|33081|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.19|16285|Canada|Montreal|GloboTech Communications|
+|19|172.183.241.1|8090|United States|Chicago|Microsoft|
+|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
