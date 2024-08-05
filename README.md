@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|51.159.171.21|3128|France|Paris|SCALEWAY|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8090|United States|Chicago|Microsoft|
-|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|183.36.24.13|3128|China|Guangzhou|Chinanet|
-|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|172.183.241.1|8090|United States|Chicago|Microsoft|
+|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|51.159.171.21|3128|France|Paris|SCALEWAY|
+|10|67.43.236.20|11235|Canada|Montreal|GloboTech Communications|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.227|18311|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|67.43.227.226|2075|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.228.250|29333|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|22203|Canada|Montreal|GloboTech Communications|
 
 
 
