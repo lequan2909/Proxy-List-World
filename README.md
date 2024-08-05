@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
-|12|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|15|72.10.164.178|10245|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|9799|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|72.10.160.173|26799|Canada|Montreal|GloboTech Communications|
-|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|102.211.209.118|3128|Tunisia|Tunis|OXAHOST|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.183.241.1|8090|United States|Chicago|Microsoft|
+|13|135.148.171.194|18080|United States|Reston|OVH SAS|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|185.232.152.69|3128|Iran|Tehran|Tebyan-e-Noor Cultural-Artistic Institute|
+|16|103.190.171.213|8181|Indonesia|Jakarta|WMS|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|19|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|20|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
 
 
 
