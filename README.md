@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|195.158.3.198|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|4|172.183.241.1|8090|United States|Chicago|Microsoft|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
+|4|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
 |9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|152.26.231.86|9443|United States|Huntersville|MCNC|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|67.43.236.20|22143|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|18|152.26.231.42|9443|United States|Huntersville|MCNC|
-|19|72.10.160.91|6539|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31519|Canada|Montreal|GloboTech Communications|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|172.183.241.1|8090|United States|Chicago|Microsoft|
+|15|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
 
 
 
