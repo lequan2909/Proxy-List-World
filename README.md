@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|4|212.46.210.226|8080|Russia|Moscow|VympelKom broadband internet|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|5|212.46.210.226|8080|Russia|Moscow|VympelKom broadband internet|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|150.240.2.211|3128|United States|Washington|SoftLayer|
-|12|152.26.231.86|9443|United States|Huntersville|MCNC|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|172.183.241.1|8090|United States|Chicago|Microsoft|
-|15|72.10.164.178|30729|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|5519|Canada|Montreal|GloboTech Communications|
-|17|95.47.149.8|8080|Ukraine|Sumy|Sumski Telecom Systems Ltd|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|67.43.236.20|15911|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|30729|Canada|Montreal|GloboTech Communications|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.183.241.1|8090|United States|Chicago|Microsoft|
+|12|72.10.160.174|19825|Canada|Montreal|GloboTech Communications|
+|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|99.8.168.181|32770|United States|Saint Clair Shores|AT&T Services, Inc.|
+|20|150.240.2.211|3128|United States|Washington|SoftLayer|
 
 
 
