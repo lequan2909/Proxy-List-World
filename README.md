@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|5|212.46.210.226|8080|Russia|Moscow|VympelKom broadband internet|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|172.183.241.1|8090|United States|Chicago|Microsoft|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|172.183.241.1|8090|United States|Chicago|Microsoft|
-|16|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
-|17|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|18|23.236.65.163|3129|United States|Los Angeles|Zenlayer Inc|
-|19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|72.10.160.173|6309|Canada|Montreal|GloboTech Communications|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|79.175.189.51|1080|Iran|Tehran|Afranet|
+|15|134.35.213.29|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|16|172.183.241.1|8090|United States|Chicago|Microsoft|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
