@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|152.42.186.181|9090|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|150.240.2.211|3128|United States|Washington|SoftLayer|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|157.15.63.230|8090|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|150.240.2.211|3128|United States|Washington|SoftLayer|
-|14|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|152.42.186.181|9090|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|20|181.188.239.229|999|Ecuador|Quito|Otecel S.A|
+|3|128.199.205.167|6666|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|6|80.66.81.26|4014|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|7|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.224.20.66|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|79.175.189.51|1080|Iran|Tehran|Afranet|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
