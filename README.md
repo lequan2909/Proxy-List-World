@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|172.183.241.1|8090|United States|Chicago|Microsoft|
-|5|101.255.116.126|8080|Indonesia|Jakarta|PT Remala Abadi|
-|6|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|116.206.56.142|8080|Bangladesh|Dhaka|Aamra Management Solution|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8090|United States|Chicago|Microsoft|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|152.26.231.42|9443|United States|Huntersville|MCNC|
-|15|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|19|72.10.164.178|12015|Canada|Montreal|GloboTech Communications|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|12|101.255.116.126|8080|Indonesia|Jakarta|PT Remala Abadi|
+|13|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
