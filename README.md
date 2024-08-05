@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|13.60.81.129|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|4|172.183.241.1|8090|United States|Chicago|Microsoft|
+|2|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|172.183.241.1|8090|United States|Chicago|Microsoft|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|15|67.43.227.227|6911|Canada|Montreal|GloboTech Communications|
-|16|13.60.81.129|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|17|213.218.240.1|3128|United States|Phoenix|Hostinger International Limited|
-|18|67.43.236.20|7215|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|12531|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|7215|Canada|Montreal|GloboTech Communications|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|172.183.241.1|8090|United States|Chicago|Microsoft|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.81.221.51|8080|Indonesia|Bandung|STARNET|
+|14|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|67.43.236.20|1191|Canada|Montreal|GloboTech Communications|
+|18|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|20|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
