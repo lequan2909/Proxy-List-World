@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|147.75.92.248|443|Japan|Koto-ku|Packet Host, Inc.|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|172.183.241.1|8090|United States|Chicago|Microsoft|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|172.183.241.1|8090|United States|Chicago|Microsoft|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|147.28.155.23|10001|United States|Dallas|Packet Host, Inc.|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|147.75.92.248|443|Japan|Koto-ku|Packet Host, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|147.28.155.23|10001|United States|Dallas|Packet Host, Inc.|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 |19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|172.183.241.1|8090|United States|Chicago|Microsoft|
 
 
 
