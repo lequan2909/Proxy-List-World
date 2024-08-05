@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|68.183.187.90|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|171.6.72.72|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|18|72.10.160.171|27101|Canada|Montreal|GloboTech Communications|
-|19|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|20|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|14|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|16|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
+|17|72.10.160.171|1811|Canada|Montreal|GloboTech Communications|
+|18|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|19|72.10.160.170|25237|Canada|Montreal|GloboTech Communications|
+|20|125.212.224.58|3128|Vietnam|Hanoi|Viettel Corporation|
 
 
 
