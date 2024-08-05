@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|172.183.241.1|8090|United States|Chicago|Microsoft|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8090|United States|Chicago|Microsoft|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|7|172.183.241.1|8090|United States|Chicago|Microsoft|
+|8|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|13|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|14|67.43.236.20|9329|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|72.10.160.90|30879|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|1961|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3651|Canada|Montreal|GloboTech Communications|
-|19|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|20|67.43.228.253|5423|Canada|Montreal|GloboTech Communications|
+|11|103.175.202.34|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
+|12|67.43.228.253|26327|Canada|Montreal|GloboTech Communications|
+|13|103.167.5.62|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|16|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|103.114.52.72|8089|Indonesia|Klaten|Proxy-registered|
+|19|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.160.91|30817|Canada|Montreal|GloboTech Communications|
 
 
 
