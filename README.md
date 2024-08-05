@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|46.17.249.254|35782|Kazakhstan|Kostanay|Eurasia-Star LLP|
-|7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|172.183.241.1|8090|United States|Chicago|Microsoft|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|7|72.10.160.90|1985|Canada|Montreal|GloboTech Communications|
+|8|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|72.10.164.178|25991|Canada|Montreal|GloboTech Communications|
 |11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
-|15|79.175.189.51|1080|Iran|Tehran|Afranet|
-|16|172.183.241.1|8090|United States|Chicago|Microsoft|
-|17|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
-|18|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|19|154.90.49.103|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|20|72.10.160.90|7805|Canada|Montreal|GloboTech Communications|
+|12|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|13|162.253.155.94|9999|United States|Portland|Reprise Hosting|
+|14|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|15|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|16|67.43.236.20|5457|Canada|Montreal|GloboTech Communications|
+|17|13.60.81.129|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|18|67.43.236.20|5457|Canada|Montreal|GloboTech Communications|
+|19|103.189.249.194|1111|Indonesia|Pati|PT Berkah Media Kusuma Vision|
+|20|67.43.227.227|20517|Canada|Montreal|GloboTech Communications|
 
 
 
