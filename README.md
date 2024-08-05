@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |15|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|17|203.98.76.2|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|18|72.10.160.170|1661|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|12329|Canada|Montreal|GloboTech Communications|
-|20|110.78.149.9|8080|Thailand|Pluak Daeng|CAT-BB|
+|17|47.236.236.2|8899|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|203.98.76.2|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|72.10.160.170|30885|Canada|Montreal|GloboTech Communications|
 
 
 
