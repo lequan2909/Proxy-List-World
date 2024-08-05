@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|20|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
 
 
 
