@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|135.148.171.194|18080|United States|Reston|OVH SAS|
-|3|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|67.43.236.20|2901|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|28061|Canada|Montreal|GloboTech Communications|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|12|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|13|67.43.236.18|30045|Canada|Montreal|GloboTech Communications|
-|14|5.196.111.29|20107|France|Gravelines|OVH SAS|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.160.90|6649|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|10|67.43.236.20|13519|Canada|Montreal|GloboTech Communications|
+|11|101.128.92.243|7777|Indonesia|Jakarta|CBN|
+|12|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|13|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|17|67.43.236.18|30045|Canada|Montreal|GloboTech Communications|
+|18|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|20|102.211.209.119|3128|Tunisia|Tunis|OXAHOST|
 
 
 
