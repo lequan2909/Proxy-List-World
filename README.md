@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.156.14.224|8080|Indonesia|Pinrang|PT Lintas Jaringan Nusantara|
-|4|67.43.227.226|9347|Canada|Montreal|GloboTech Communications|
-|5|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
-|6|67.43.228.253|23305|Canada|Montreal|GloboTech Communications|
-|7|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
-|8|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.160.171|19837|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|28989|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|28989|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|9347|Canada|Montreal|GloboTech Communications|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|67.43.236.20|17873|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|22663|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.252|29313|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|103.174.236.72|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|72.10.164.178|1687|Canada|Montreal|GloboTech Communications|
+|11|103.164.235.105|8087|Indonesia|Bandung|PT Bantani Media Utama|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|67.43.227.226|12859|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|5593|Canada|Montreal|GloboTech Communications|
+|17|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|18|67.43.227.230|22663|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
