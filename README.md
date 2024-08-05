@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|45.65.234.218|8080|Colombia|Tunja|Colombia MAS TV|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|150.240.2.211|3128|United States|Washington|SoftLayer|
-|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|9553|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|9385|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|9553|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|18735|Canada|Montreal|GloboTech Communications|
+|15|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.160.174|15065|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|21659|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|2921|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|9385|Canada|Montreal|GloboTech Communications|
 
 
 
