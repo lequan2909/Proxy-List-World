@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|38.194.235.44|3128|Mexico|Pachuca|Cogent Communications|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.162.54.251|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
 |11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|5.9.112.247|3128|Germany|Mainz|Hetzner Online GmbH|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|13|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|181.198.53.6|3128|Ecuador|Guayaquil|Telconet S.A|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
 
 
 
