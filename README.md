@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|172.183.241.1|8090|United States|Chicago|Microsoft|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|172.183.241.1|8090|United States|Chicago|Microsoft|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|67.43.236.18|11765|Canada|Montreal|GloboTech Communications|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|172.183.241.1|8090|United States|Chicago|Microsoft|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|172.183.241.1|8090|United States|Chicago|Microsoft|
+|14|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|135.148.171.194|18080|United States|Reston|OVH SAS|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
