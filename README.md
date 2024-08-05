@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|3|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|4|172.183.241.1|8090|United States|Chicago|Microsoft|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|45.184.44.64|8080|Brazil|Rio de Janeiro|Dnet Brasil Ltda|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8090|United States|Chicago|Microsoft|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|135.148.171.194|18080|United States|Reston|OVH SAS|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|79.175.189.51|1080|Iran|Tehran|Afranet|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.90|32809|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|5|172.183.241.1|8090|United States|Chicago|Microsoft|
+|6|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|45.184.44.64|8080|Brazil|Rio de Janeiro|Dnet Brasil Ltda|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|172.183.241.1|8090|United States|Chicago|Microsoft|
+|17|27.131.1.242|8080|Indonesia|Depok|PT. Solusindo Bintang Pratama|
+|18|186.166.142.82|999|Venezuela|Santa Bárbara|TELEFONICA VENEZOLANA, C.A.|
+|19|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|20|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
