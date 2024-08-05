@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |9|188.166.184.118|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|103.133.24.89|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|12|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|79.175.189.88|1080|Iran|Tehran|Afranet|
-|16|172.183.241.1|8090|United States|Chicago|Microsoft|
-|17|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|18|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
-|19|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
-|20|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|79.175.189.88|1080|Iran|Tehran|Afranet|
+|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|172.183.241.1|8090|United States|Chicago|Microsoft|
+|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|17|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
+|18|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|19|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
