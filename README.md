@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|9|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
-|10|172.174.5.182|8080|United States|Boydton|Microsoft|
-|11|116.206.56.142|8080|Bangladesh|Dhaka|Aamra Management Solution|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.227.228|9849|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|72.10.164.178|12015|Canada|Montreal|GloboTech Communications|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|194.233.71.212|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.183.241.1|8090|United States|Chicago|Microsoft|
+|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|14|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
+|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|202.143.111.245|3128|Vietnam|Phường Bảy|Digital world data online company|
 
 
 
