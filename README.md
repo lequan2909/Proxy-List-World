@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|152.26.231.86|9443|United States|Huntersville|MCNC|
+|10|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
+|16|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|101.255.149.58|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.160.90|2805|Canada|Montreal|GloboTech Communications|
+
 
 
 ## Contributing
