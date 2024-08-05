@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+
 
 
 ## Contributing
