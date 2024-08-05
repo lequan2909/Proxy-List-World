@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|164.177.16.121|8080|France|Paris|BOUYGUES Telecom ISP|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|103.197.241.55|32650|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|10|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|172.183.241.1|8090|United States|Chicago|Microsoft|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|180.211.177.206|58080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|4|164.177.16.121|8080|France|Paris|BOUYGUES Telecom ISP|
+|5|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|103.125.174.49|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |12|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|14|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|15|164.177.16.121|8080|France|Paris|BOUYGUES Telecom ISP|
-|16|72.10.164.178|17197|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17197|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|3975|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17197|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|2075|Canada|Montreal|GloboTech Communications|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|79.175.189.88|1080|Iran|Tehran|Afranet|
+|18|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
