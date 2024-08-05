@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|61.7.183.248|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
 |2|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|61.7.183.248|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|6|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|172.183.241.1|8090|United States|Chicago|Microsoft|
-|9|51.159.171.21|3128|France|Paris|SCALEWAY|
-|10|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|202.152.24.50|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|172.183.241.1|8090|United States|Chicago|Microsoft|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|135.148.171.194|18080|United States|Reston|OVH SAS|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|51.159.171.21|3128|France|Paris|SCALEWAY|
+|6|167.99.228.84|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|172.183.241.1|8090|United States|Chicago|Microsoft|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|172.183.241.1|8090|United States|Chicago|Microsoft|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|17|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|19|72.10.164.178|14433|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
