@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|11|79.175.189.51|1080|Iran|Tehran|Afranet|
-|12|172.183.241.1|8090|United States|Chicago|Microsoft|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|135.148.171.194|18080|United States|Reston|OVH SAS|
-|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|18|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|19|72.10.164.178|22057|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|3613|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|79.175.189.88|1080|Iran|Tehran|Afranet|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|172.183.241.1|8090|United States|Chicago|Microsoft|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|190.110.34.150|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|11275|Canada|Montreal|GloboTech Communications|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|20|72.10.164.178|11275|Canada|Montreal|GloboTech Communications|
 
 
 
