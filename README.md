@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|172.183.241.1|8090|United States|Chicago|Microsoft|
-|3|103.184.19.77|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
-|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|5|35.226.46.36|3128|United States|Council Bluffs|Google LLC|
-|6|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|12|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.243.174.26|83|India|Pune|Shah Solutions|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|35.226.46.36|3128|United States|Council Bluffs|Google LLC|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.231.86|9443|United States|Huntersville|MCNC|
+|9|103.81.221.51|8080|Indonesia|Bandung|STARNET|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|67.43.236.22|4689|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|46.250.229.49|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|16|67.43.227.227|5287|Canada|Montreal|GloboTech Communications|
+|17|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|19|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.164.178|25681|Canada|Montreal|GloboTech Communications|
 
 
 
