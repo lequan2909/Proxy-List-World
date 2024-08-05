@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|118.175.30.26|8080|Thailand|Lopburi|TOT Public Company Limited|
-|3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|103.174.236.72|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|7|154.90.48.9|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|8|152.26.231.42|9443|United States|Huntersville|MCNC|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|72.10.164.178|18283|Canada|Montreal|GloboTech Communications|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
+|4|135.148.171.194|18080|United States|Reston|OVH SAS|
+|5|77.37.126.119|3128|Brazil|São Paulo|Hostinger International Limited|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|172.183.241.1|8090|United States|Chicago|Microsoft|
+|9|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 |14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|154.90.48.82|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|17|67.43.236.20|21227|Canada|Montreal|GloboTech Communications|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|72.10.164.178|30227|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.90|19437|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|31311|Canada|Montreal|GloboTech Communications|
+|19|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
