@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5678** proxies at the latest update. Usable proxies are below.
+> Scraper found **5691** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|58|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|885|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|898|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|292|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3485|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|172.183.241.1|8090|United States|Chicago|Microsoft|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|8|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|9|172.174.5.182|8080|United States|Boydton|Microsoft|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|172.174.5.182|8080|United States|Boydton|Microsoft|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|9|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
+|10|172.174.5.182|8080|United States|Boydton|Microsoft|
+|11|116.206.56.142|8080|Bangladesh|Dhaka|Aamra Management Solution|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
+|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|67.43.227.228|9849|Canada|Montreal|GloboTech Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|19|72.10.164.178|12015|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
