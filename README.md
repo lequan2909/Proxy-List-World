@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|10|178.18.206.9|9443|Turkey|Izmir|Eclit Bilisim Hizmetleri A.S|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|172.183.241.1|8090|United States|Chicago|Microsoft|
+|6|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
+|7|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|172.183.241.1|8090|United States|Chicago|Microsoft|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
 |20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
