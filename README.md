@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|185.17.146.18|8080|Germany|Frankfurt am Main|LeaseWeb DE|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|45.65.234.218|8080|Colombia|Tunja|Colombia MAS TV|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|202.93.244.242|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|10|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
 |11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|103.164.112.123|10001|Indonesia|Jakarta|SOLUSINET|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|72.10.160.170|30517|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13655|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|72.10.160.173|7041|Canada|Montreal|GloboTech Communications|
-|20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|185.17.146.18|8080|Germany|Frankfurt am Main|LeaseWeb DE|
+|18|46.250.229.49|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|72.10.164.178|13655|Canada|Montreal|GloboTech Communications|
+|20|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
 
 
 
