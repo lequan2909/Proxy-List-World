@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.18.158|808|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|3|171.228.165.63|2020|Vietnam|Hanoi|Viettel Corporation|
+|4|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|10|172.183.241.1|8090|United States|Chicago|Microsoft|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|115.76.203.159|49081|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|17|171.228.165.63|2020|Vietnam|Hanoi|Viettel Corporation|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|172.183.241.1|8090|United States|Chicago|Microsoft|
+|17|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|8.212.18.158|808|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
