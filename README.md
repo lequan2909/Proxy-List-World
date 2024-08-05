@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|147.28.155.23|10001|United States|Dallas|Packet Host, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|135.148.171.194|18080|United States|Reston|OVH SAS|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|147.28.155.23|10001|United States|Dallas|Packet Host, Inc.|
-|7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|135.148.171.194|18080|United States|Reston|OVH SAS|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|14|147.28.155.23|10001|United States|Dallas|Packet Host, Inc.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|72.10.160.90|28809|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|28809|Canada|Montreal|GloboTech Communications|
-|18|172.183.241.1|8090|United States|Chicago|Microsoft|
-|19|36.94.47.59|4480|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|147.75.34.86|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
+|5|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|11|152.26.231.86|9443|United States|Huntersville|MCNC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
+|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|67.43.227.227|26421|Canada|Montreal|GloboTech Communications|
+|20|103.191.250.106|8083|Indonesia|Batam|PT Mulia Batam Net|
 
 
 
