@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.191.254.2|8085|Indonesia|Rembangan|PT Ayodya Data Internusa|
-|9|135.148.171.194|18080|United States|Reston|OVH SAS|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.133.27.143|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|67.43.236.20|15385|Canada|Montreal|GloboTech Communications|
-|16|45.225.120.181|40033|Brazil|Tomar do Geru|Centrosulnet Informatica Eireli|
-|17|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
+|4|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|164.177.16.121|8080|France|Paris|BOUYGUES Telecom ISP|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|13|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.155.54.26|83|India|Haldia|abuse-mailbox: (abuse@pegasuswave.com)|
 |18|152.26.231.42|9443|United States|Huntersville|MCNC|
-|19|5.9.140.243|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|67.43.228.252|6059|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|24585|Canada|Montreal|GloboTech Communications|
+|20|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
 
 
 
