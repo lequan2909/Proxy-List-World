@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|4|212.46.210.226|8080|Russia|Moscow|VympelKom broadband internet|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|172.183.241.1|8090|United States|Chicago|Microsoft|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|172.183.241.1|8090|United States|Chicago|Microsoft|
-|9|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|67.43.236.20|23681|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|4659|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|11101|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
-|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|18|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|72.10.160.91|22727|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11101|Canada|Montreal|GloboTech Communications|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|172.183.241.1|8090|United States|Chicago|Microsoft|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|212.46.210.226|8080|Russia|Moscow|VympelKom broadband internet|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|155.133.26.75|7778|Germany|Düsseldorf|Contabo GmbH|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|11|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
+|12|67.43.227.227|10671|Canada|Montreal|GloboTech Communications|
+|13|152.26.231.86|9443|United States|Huntersville|MCNC|
+|14|67.43.236.20|23681|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|14627|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|14627|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|15835|Canada|Montreal|GloboTech Communications|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|20|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
 
 
 
