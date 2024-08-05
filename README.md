@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|122.56.2.231|8443|New Zealand|Auckland|Spark New Zealand Trading Limited|
-|8|181.233.93.88|8080|Brazil|Belém|J.A TELECOM.PE|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|12|172.183.241.1|8090|United States|Chicago|Microsoft|
-|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
+|4|212.123.230.250|8181|The Netherlands|Amsterdam|COLT Technology Services Group Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|172.183.241.1|8090|United States|Chicago|Microsoft|
+|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
 |14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|172.183.241.1|8090|United States|Chicago|Microsoft|
-|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|17|181.233.93.88|8080|Brazil|Belém|J.A TELECOM.PE|
+|18|72.10.160.91|21749|Canada|Montreal|GloboTech Communications|
+|19|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
