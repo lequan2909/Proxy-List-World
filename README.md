@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|188.166.184.118|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|172.183.241.1|8090|United States|Chicago|Microsoft|
-|7|34.83.118.98|3128|United States|The Dalles|Google LLC|
-|8|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
-|9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|172.183.241.1|8090|United States|Chicago|Microsoft|
-|17|34.83.118.98|3128|United States|The Dalles|Google LLC|
-|18|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|124.156.237.232|1080|Japan|Tokyo|Tencent Cloud Computing (Beijing) Co|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|188.166.184.118|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|172.183.241.1|8090|United States|Chicago|Microsoft|
+|14|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|15|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|20|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
 
 
 
