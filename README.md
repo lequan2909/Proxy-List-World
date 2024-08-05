@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|147.75.92.251|80|Japan|Koto-ku|Packet Host, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|122.56.2.231|8443|New Zealand|Auckland|Spark New Zealand Trading Limited|
-|12|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|172.183.241.1|8090|United States|Chicago|Microsoft|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|172.183.241.1|8090|United States|Chicago|Microsoft|
+|9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|195.158.3.198|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|147.28.145.213|10037|United States|Ashburn|Packet Host, Inc.|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|19|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
-|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
 
 
 
