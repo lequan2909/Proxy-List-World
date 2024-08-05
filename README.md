@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|2|172.183.241.1|8090|United States|Chicago|Microsoft|
 |3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|4|35.226.46.36|3128|United States|Council Bluffs|Google LLC|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|164.177.16.121|8080|France|Paris|BOUYGUES Telecom ISP|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|9|35.226.46.36|3128|United States|Council Bluffs|Google LLC|
-|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|11|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|135.148.171.194|18080|United States|Reston|OVH SAS|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|17|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|72.10.160.171|2621|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|7041|Canada|Montreal|GloboTech Communications|
+|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|5|35.226.46.36|3128|United States|Council Bluffs|Google LLC|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|172.183.241.1|8090|United States|Chicago|Microsoft|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|164.177.16.121|8080|France|Paris|BOUYGUES Telecom ISP|
+|10|35.226.46.36|3128|United States|Council Bluffs|Google LLC|
+|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|13|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|18|8.223.31.16|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
 
 
 
