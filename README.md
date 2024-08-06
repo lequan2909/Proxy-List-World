@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
 |4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|172.183.241.1|8090|United States|Chicago|Microsoft|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|167.99.67.42|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|167.99.67.42|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
 |9|91.92.123.64|8080|Iran|Tehran|TIC|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|13|172.183.241.1|8090|United States|Chicago|Microsoft|
+|10|172.183.241.1|8090|United States|Chicago|Microsoft|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
-|17|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|103.36.10.110|8090|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|20|72.10.160.90|2143|Canada|Montreal|GloboTech Communications|
 
 
 
