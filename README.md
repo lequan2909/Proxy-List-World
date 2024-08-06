@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|172.183.241.1|8090|United States|Chicago|Microsoft|
-|12|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |18|172.183.241.1|8090|United States|Chicago|Microsoft|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
