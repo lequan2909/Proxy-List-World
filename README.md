@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|91.92.123.64|8080|Iran|Tehran|TIC|
-|9|103.153.149.61|1111|Indonesia|Banjar Jungutan|JARINGANKU|
-|10|195.133.75.9|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|167.250.222.233|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|18|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|14|152.26.231.86|9443|United States|Huntersville|MCNC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|17|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
+|18|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
 
 
 
