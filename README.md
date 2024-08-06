@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|172.183.241.1|8090|United States|Chicago|Microsoft|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|45.70.201.186|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|15|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|16|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|17|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
-|18|72.10.160.93|2289|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|7653|Canada|Montreal|GloboTech Communications|
-|20|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|3|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|172.183.241.1|8090|United States|Chicago|Microsoft|
+|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|36.91.45.12|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
+|13|4.190.190.194|8080|Japan|Osaka|Microsoft Corporation|
+|14|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|182.53.190.133|8080|Thailand|Sukhothai Thani|TOT Public Company Limited|
+|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|72.10.160.93|2289|Canada|Montreal|GloboTech Communications|
+|18|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
