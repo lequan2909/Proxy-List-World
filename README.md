@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|14|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|15|186.233.119.140|8080|Brazil|Rio de Janeiro|Golden Link|
-|16|72.10.164.178|3569|Canada|Montreal|GloboTech Communications|
-|17|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|20|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|186.233.119.140|8080|Brazil|Rio de Janeiro|Golden Link|
+|3|186.233.118.211|8080|Brazil|Rio de Janeiro|Golden Link|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|200.178.4.153|8080|Brazil|São Paulo|Claro S.A|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|179.49.117.19|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
+|11|186.233.119.140|8080|Brazil|Rio de Janeiro|Golden Link|
+|12|186.233.118.211|8080|Brazil|Rio de Janeiro|Golden Link|
+|13|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|122.3.45.189|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|17|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.171.244.42|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
