@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|172.183.241.1|8090|United States|Chicago|Microsoft|
-|6|135.148.171.194|18080|United States|Reston|OVH SAS|
-|7|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|163.172.33.137|4002|France|Vitry-sur-Seine|Online S.A.S.|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|172.183.241.1|8090|United States|Chicago|Microsoft|
+|7|135.148.171.194|18080|United States|Reston|OVH SAS|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|79.175.189.88|1080|Iran|Tehran|Afranet|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |15|172.183.241.1|8090|United States|Chicago|Microsoft|
-|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|17|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|19|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|138.59.151.162|8080|Brazil|Porto Feliz|Wireless Comm Services LTDA|
+|16|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|17|163.172.33.137|4002|France|Vitry-sur-Seine|Online S.A.S.|
+|18|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
+|19|135.148.171.194|18080|United States|Reston|OVH SAS|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
