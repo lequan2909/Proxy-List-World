@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|13|172.183.241.1|8090|United States|Chicago|Microsoft|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|114.9.26.110|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|200.39.120.78|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
-|20|172.183.241.1|8090|United States|Chicago|Microsoft|
+|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|11|135.148.171.194|18080|United States|Reston|OVH SAS|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
