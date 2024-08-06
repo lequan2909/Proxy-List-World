@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|172.183.241.1|8090|United States|Chicago|Microsoft|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|135.148.171.194|18080|United States|Reston|OVH SAS|
-|5|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|179.105.138.70|8080|Brazil|Salvador|Claro NXT Telecomunicacoes Ltda|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|141.145.204.7|3128|France|Paris|Oracle Corporation|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|103.153.62.155|8080|Indonesia|Jakarta|IMEDIANET|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|13|152.26.231.86|9443|United States|Huntersville|MCNC|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|19|5.196.111.29|20159|France|Gravelines|OVH SAS|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
