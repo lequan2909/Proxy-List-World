@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|172.183.241.1|8090|United States|Chicago|Microsoft|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|203.150.128.219|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|172.183.241.1|8090|United States|Chicago|Microsoft|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|172.183.241.1|8090|United States|Chicago|Microsoft|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|12|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|172.183.241.1|8090|United States|Chicago|Microsoft|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|79.175.189.51|1080|Iran|Tehran|Afranet|
+|16|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|79.175.189.88|1080|Iran|Tehran|Afranet|
+|19|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
