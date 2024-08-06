@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.183.241.1|8090|United States|Chicago|Microsoft|
-|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|5|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|172.183.241.1|8090|United States|Chicago|Microsoft|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|188.132.222.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|135.148.171.194|18080|United States|Reston|OVH SAS|
-|18|79.175.189.51|1080|Iran|Tehran|Afranet|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|103.134.246.32|8080|Indonesia|Jembrana|Wisuandha Network Globalindo|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|135.148.171.194|18080|United States|Reston|OVH SAS|
+|6|45.155.120.40|80|The Netherlands|Haarlem|Llhost Inc. SRL|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.245.17.219|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|172.183.241.1|8090|United States|Chicago|Microsoft|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.236.20|11877|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.251|5343|Canada|Montreal|GloboTech Communications|
+|20|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
