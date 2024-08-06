@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|91.92.123.64|8080|Iran|Tehran|TIC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|79.175.189.51|1080|Iran|Tehran|Afranet|
-|16|172.183.241.1|8090|United States|Chicago|Microsoft|
-|17|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|172.183.241.1|8090|United States|Chicago|Microsoft|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|79.175.189.88|1080|Iran|Tehran|Afranet|
+|15|172.183.241.1|8090|United States|Chicago|Microsoft|
+|16|91.92.123.64|8080|Iran|Tehran|TIC|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|79.175.189.51|1080|Iran|Tehran|Afranet|
+|19|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
