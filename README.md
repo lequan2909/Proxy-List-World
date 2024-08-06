@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
-|7|91.92.123.64|8080|Iran|Tehran|TIC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|49.145.247.47|8080|Philippines|Iligan|Philippine Long Distance Telephone Co.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|15.235.171.236|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|12|46.175.1.65|8080|Slovakia|Michalovce|Andrex s.r.o.|
-|13|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|123.182.59.189|8089|China|Shijiazhuang|China Telecom|
-|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|17|154.90.49.25|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|18|123.182.59.48|8089|China|Shijiazhuang|China Telecom|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|91.92.123.64|8080|Iran|Tehran|TIC|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|51.195.200.115|31280|United Kingdom|Edmonton|OVH SAS|
+|17|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|18|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|36.94.185.122|60080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
