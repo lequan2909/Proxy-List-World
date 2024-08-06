@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|172.183.241.1|8090|United States|Chicago|Microsoft|
 |4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|91.92.123.64|8080|Iran|Tehran|TIC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.169.38.118|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|67.43.228.253|2365|Canada|Montreal|GloboTech Communications|
-|16|188.121.117.214|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|17|72.10.160.93|7009|Canada|Montreal|GloboTech Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|72.10.164.178|8545|Canada|Montreal|GloboTech Communications|
-|20|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|5|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|91.92.123.64|8080|Iran|Tehran|TIC|
+|8|135.148.171.194|18080|United States|Reston|OVH SAS|
+|9|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|10|172.183.241.1|8090|United States|Chicago|Microsoft|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|135.148.171.194|18080|United States|Reston|OVH SAS|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|72.10.160.93|32015|Canada|Montreal|GloboTech Communications|
+|20|45.224.22.63|999|Ecuador|El Carmen|Ufinet Panama S.A.|
 
 
 
