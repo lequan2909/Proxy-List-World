@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|172.183.241.1|8090|United States|Chicago|Microsoft|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.48.71.34|82|India|Hyderabad|Country Online Services PVT LTD|
-|9|172.183.241.1|8090|United States|Chicago|Microsoft|
-|10|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|11|91.92.123.64|8080|Iran|Tehran|TIC|
-|12|88.80.103.9|6888|Bulgaria|Dupnitsa|UltraNET Ltd. C08|
+|1|172.183.241.1|8090|United States|Chicago|Microsoft|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|172.183.241.1|8090|United States|Chicago|Microsoft|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|20|152.26.231.42|9443|United States|Huntersville|MCNC|
+|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 
 
 
