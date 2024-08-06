@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|172.183.241.1|8090|United States|Chicago|Microsoft|
 |5|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|8|172.183.241.1|8090|United States|Chicago|Microsoft|
-|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|10|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|79.175.189.51|1080|Iran|Tehran|Afranet|
-|13|91.92.123.64|8080|Iran|Tehran|TIC|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|16|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|12|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|79.175.189.51|1080|Iran|Tehran|Afranet|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|20|103.124.225.41|80|Bangladesh|Dhaka|Level3|
+|18|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|185.89.156.2|44224|Albania|Tirana|ATU|
 
 
 
