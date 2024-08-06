@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|172.183.241.1|8090|United States|Chicago|Microsoft|
-|3|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|91.92.123.64|8080|Iran|Tehran|TIC|
-|6|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|94.102.234.186|32650|Montenegro|Budva|VOLI-MNE|
-|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|223.25.110.227|8080|Indonesia|Malang|SinergiNet|
+|11|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|14|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|15|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
