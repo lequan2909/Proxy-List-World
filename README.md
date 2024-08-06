@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4662** proxies at the latest update. Usable proxies are below.
+> Scraper found **4636** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|97|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|757|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|731|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|200|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2650|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|67.43.228.250|1391|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.90|29787|Canada|Montreal|GloboTech Communications|
-|8|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|72.10.160.172|30823|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.21|11409|Canada|Montreal|GloboTech Communications|
-|11|103.153.134.27|8090|Indonesia|Tangerang|WMINET|
-|12|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
-|13|152.26.231.42|9443|United States|Huntersville|MCNC|
-|14|67.43.227.227|5065|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.170|17297|Canada|Montreal|GloboTech Communications|
-|20|5.196.111.29|20157|France|Gravelines|OVH SAS|
+|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|4|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|5|72.10.164.178|3329|Canada|Montreal|GloboTech Communications|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|67.43.228.253|13313|Canada|Montreal|GloboTech Communications|
+|11|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|12|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|13|72.10.160.172|1393|Canada|Montreal|GloboTech Communications|
+|14|154.90.48.183|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|67.43.236.21|11409|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|7061|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|2367|Canada|Montreal|GloboTech Communications|
 
 
 
