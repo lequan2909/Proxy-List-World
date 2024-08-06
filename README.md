@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|101.255.116.161|33333|Indonesia|Jakarta|PT Remala Abadi|
 |4|91.92.123.64|8080|Iran|Tehran|TIC|
-|5|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
-|9|186.233.119.140|8080|Brazil|Rio de Janeiro|Golden Link|
-|10|179.49.117.19|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
-|11|143.255.111.112|3128|Brazil|Águas Lindas de Goiás|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
-|12|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
-|18|67.43.236.20|1441|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|175.158.58.140|8081|Indonesia|Jakarta|CBNNAP|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|15|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|16|144.76.42.215|8118|Germany|Görwihl|Hetzner Online GmbH|
+|17|185.89.156.2|44224|Albania|Tirana|ATU|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|5.196.111.29|20631|France|Gravelines|OVH SAS|
+|20|67.43.236.20|1441|Canada|Montreal|GloboTech Communications|
 
 
 
