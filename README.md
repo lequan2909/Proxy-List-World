@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|171.7.73.31|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|4|103.159.96.131|3125|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|5|91.92.123.64|8080|Iran|Tehran|TIC|
+|4|91.92.123.64|8080|Iran|Tehran|TIC|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|12|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
-|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|16|103.150.89.72|3128|Indonesia|Teluknaga|PT Biznet Gio Nusantara|
+|7|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|8|61.19.145.66|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
+|9|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
 |17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|19|72.10.160.173|16401|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1187|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|103.203.232.110|3125|Indonesia|Kedok|INDANA|
 
 
 
