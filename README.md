@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|7|91.92.123.64|8080|Iran|Tehran|TIC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|16|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|17|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
-|19|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|20|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|171.97.85.162|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|91.92.123.64|8080|Iran|Tehran|TIC|
+|11|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|38.156.72.38|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|19|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
+|20|46.250.239.99|8000|France|Paris|Contabo Asia Private Limited|
 
 
 
