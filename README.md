@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|172.183.241.1|8090|United States|Chicago|Microsoft|
-|5|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|103.208.27.214|999|Thailand|Sai Mai|Colodee Digital Network CO|
-|20|172.183.241.1|8090|United States|Chicago|Microsoft|
+|1|172.183.241.1|8090|United States|Chicago|Microsoft|
+|2|135.148.171.194|18080|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|5|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|181.78.94.189|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|172.183.241.1|8090|United States|Chicago|Microsoft|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|188.132.222.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|79.175.189.51|1080|Iran|Tehran|Afranet|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|103.134.246.32|8080|Indonesia|Jembrana|Wisuandha Network Globalindo|
 
 
 
