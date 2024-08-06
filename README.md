@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|91.92.123.64|8080|Iran|Tehran|TIC|
-|5|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|6|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|3|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
+|9|36.94.185.122|60080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|12|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|72.10.160.174|12807|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.42|9443|United States|Huntersville|MCNC|
-|19|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|67.43.227.226|27689|Canada|Montreal|GloboTech Communications|
+|13|152.26.231.42|9443|United States|Huntersville|MCNC|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|91.92.123.64|8080|Iran|Tehran|TIC|
+|19|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
