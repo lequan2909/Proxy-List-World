@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|91.92.123.64|8080|Iran|Tehran|TIC|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
-|13|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|72.10.164.178|16031|Canada|Montreal|GloboTech Communications|
-|20|177.129.242.73|48580|Brazil|Paracatu|V8 Telecom LTDA|
+|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|12|23.94.214.8|9054|United States|Santa Clara|HostPapa|
+|13|23.94.214.8|9054|United States|Santa Clara|HostPapa|
+|14|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|103.154.178.106|3128|Indonesia|Jambi City|PT Aneka Teguh Jaya|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 
 
 
