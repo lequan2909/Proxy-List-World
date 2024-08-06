@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|91.92.123.64|8080|Iran|Tehran|TIC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|49.145.247.47|8080|Philippines|Iligan|Philippine Long Distance Telephone Co.|
+|5|188.166.191.108|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|91.92.123.64|8080|Iran|Tehran|TIC|
 |13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|188.166.191.108|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
+|16|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|195.26.244.163|3128|United States|St Louis|Nubes, LLC|
+|19|154.90.49.34|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
 
 
 
