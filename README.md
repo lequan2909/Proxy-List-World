@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|3|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|135.148.171.194|18080|United States|Reston|OVH SAS|
 |4|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|5|135.148.171.194|18080|United States|Reston|OVH SAS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|135.148.171.194|18080|United States|Reston|OVH SAS|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|72.10.164.178|2915|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|27975|Canada|Montreal|GloboTech Communications|
-|15|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|16|72.10.164.178|2915|Canada|Montreal|GloboTech Communications|
-|17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|18|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|135.148.171.194|18080|United States|Reston|OVH SAS|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|16|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|19|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
 
 
 
