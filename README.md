@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|172.183.241.1|8090|United States|Chicago|Microsoft|
-|6|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|7|135.148.171.194|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|172.183.241.1|8090|United States|Chicago|Microsoft|
-|15|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|16|135.148.171.194|18080|United States|Reston|OVH SAS|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|172.183.241.1|8090|United States|Chicago|Microsoft|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|68.183.149.126|11010|United States|Clifton|DigitalOcean, LLC|
+|16|91.92.123.64|8080|Iran|Tehran|TIC|
+|17|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|18|73.225.1.109|8080|United States|Bellevue|Comcast Cable Communications, LLC|
+|19|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
