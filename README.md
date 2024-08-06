@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
-|6|172.183.241.1|8090|United States|Chicago|Microsoft|
-|7|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|8|135.148.171.194|18080|United States|Reston|OVH SAS|
-|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|12|172.183.241.1|8090|United States|Chicago|Microsoft|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|172.183.241.1|8090|United States|Chicago|Microsoft|
+|8|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|9|43.129.64.28|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|135.148.171.194|18080|United States|Reston|OVH SAS|
+|11|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|110.78.147.137|8080|Thailand|Ao Nang|CAT-BB|
-|14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|69.48.183.181|3128|United States|Toledo|A2 Hosting, Inc.|
+|15|191.81.229.155|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|16|172.183.241.1|8090|United States|Chicago|Microsoft|
+|17|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|69.48.183.181|3128|United States|Toledo|A2 Hosting, Inc.|
+|20|31.220.56.69|3128|United States|Asheville|HOSTINGER US|
 
 
 
