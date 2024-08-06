@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|221.162.70.75|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|172.183.241.1|8090|United States|Chicago|Microsoft|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|9|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|221.162.70.75|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|14|172.183.241.1|8090|United States|Chicago|Microsoft|
-|15|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|172.183.241.1|8090|United States|Chicago|Microsoft|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|91.92.123.64|8080|Iran|Tehran|TIC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|172.183.241.1|8090|United States|Chicago|Microsoft|
 |16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.176.227.197|8009|Indonesia|Brebes|PT Pass Internet Indonesia|
+|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|20|91.92.123.64|8080|Iran|Tehran|TIC|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
