@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|6|203.150.128.39|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|91.92.123.64|8080|Iran|Tehran|TIC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
-|16|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
-|17|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|171.101.216.74|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|20|152.26.231.42|9443|United States|Huntersville|MCNC|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|91.92.123.64|8080|Iran|Tehran|TIC|
+|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|203.150.128.39|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
