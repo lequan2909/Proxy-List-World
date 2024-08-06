@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|171.97.85.162|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|4|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|91.92.123.64|8080|Iran|Tehran|TIC|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.227|25865|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|3729|Canada|Montreal|GloboTech Communications|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|67.43.228.253|27881|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|13473|Canada|Montreal|GloboTech Communications|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|4|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|91.92.123.64|8080|Iran|Tehran|TIC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|111.225.153.78|8089|China|Shijiazhuang|China Telecom|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|72.10.160.90|11465|Canada|Montreal|GloboTech Communications|
+|17|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|18|111.225.153.185|8089|China|Shijiazhuang|China Telecom|
+|19|72.10.160.173|20783|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
