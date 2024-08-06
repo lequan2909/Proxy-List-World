@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|91.92.123.64|8080|Iran|Tehran|TIC|
 |4|172.183.241.1|8090|United States|Chicago|Microsoft|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|181.115.66.232|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|119.47.90.25|1080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 |11|152.26.231.86|9443|United States|Huntersville|MCNC|
-|12|67.43.236.20|32907|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|22983|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|2007|Canada|Montreal|GloboTech Communications|
-|15|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|16|67.43.227.227|1835|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|19771|Canada|Montreal|GloboTech Communications|
-|18|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
-|19|72.10.160.91|7863|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|11609|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|72.10.160.173|3267|Canada|Montreal|GloboTech Communications|
+|14|216.10.247.145|3128|India|Mumbai|PDR|
+|15|177.152.94.37|8080|Brazil|Jardim|Elonet Provedor de Internet Ltda|
+|16|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|17|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|18|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
 
 
 
