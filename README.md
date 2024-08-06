@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|91.92.123.64|8080|Iran|Tehran|TIC|
 |9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|12|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|13|110.235.129.14|1337|Philippines|Pasay|RADIUS TELECOMS, INC.|
-|14|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|185.89.156.2|44224|Albania|Tirana|ATU|
-|18|72.10.160.92|21427|Canada|Montreal|GloboTech Communications|
-|19|103.166.158.201|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|20|67.43.228.253|7617|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|152.26.231.42|9443|United States|Huntersville|MCNC|
+|14|188.125.169.6|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|111.94.234.50|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|16|186.233.118.211|8080|Brazil|Rio de Janeiro|Golden Link|
+|17|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|19|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
