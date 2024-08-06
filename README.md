@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4828** proxies at the latest update. Usable proxies are below.
+> Scraper found **4851** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|80|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|81|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|927|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|222|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2663|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|172.183.241.1|8090|United States|Chicago|Microsoft|
-|3|91.92.123.64|8080|Iran|Tehran|TIC|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|1|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |8|172.183.241.1|8090|United States|Chicago|Microsoft|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|67.43.227.228|17833|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|43.129.64.28|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|91.92.123.64|8080|Iran|Tehran|TIC|
+|12|79.175.189.88|1080|Iran|Tehran|Afranet|
+|13|167.88.166.70|3128|United States|Dallas|RouterHosting LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|172.183.241.1|8090|United States|Chicago|Microsoft|
+|17|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|18|188.132.221.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
