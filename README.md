@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|11|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
-|12|147.28.155.21|10000|United States|Dallas|Packet Host, Inc.|
-|13|91.92.123.64|8080|Iran|Tehran|TIC|
-|14|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|79.175.189.51|1080|Iran|Tehran|Afranet|
+|1|172.183.241.1|8090|United States|Chicago|Microsoft|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|147.28.155.21|10000|United States|Dallas|Packet Host, Inc.|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|10|112.205.39.215|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|11|91.92.123.64|8080|Iran|Tehran|TIC|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|172.183.241.1|8090|United States|Chicago|Microsoft|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|147.28.155.21|10000|United States|Dallas|Packet Host, Inc.|
+|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|17|77.91.101.174|3128|United Kingdom|Coventry|Stark Industries Solutions LTD|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
