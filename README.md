@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|91.92.123.64|8080|Iran|Tehran|TIC|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|91.92.123.64|8080|Iran|Tehran|TIC|
 |10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|171.101.216.74|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|23.94.214.8|9054|United States|Santa Clara|HostPapa|
-|16|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|17|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|14|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
 |18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.160.170|6055|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|43.153.18.252|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
