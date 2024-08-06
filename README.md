@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.79.21.151|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|7|91.92.123.64|8080|Iran|Tehran|TIC|
-|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
-|12|122.3.45.189|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|16|124.106.150.231|8282|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
-|18|45.5.2.246|8084|Argentina|Bariloche|Altec S.e. Alta Tecnologia Sociedad Del Estado|
-|19|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|20|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|36.79.21.151|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|5|91.92.123.64|8080|Iran|Tehran|TIC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.203.232.110|3125|Indonesia|Kedok|INDANA|
+|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|18|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|103.203.233.98|3125|Indonesia|Klapanunggal|INDANA|
 
 
 
