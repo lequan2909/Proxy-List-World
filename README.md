@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|91.92.123.64|8080|Iran|Tehran|TIC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|91.92.123.64|8080|Iran|Tehran|TIC|
+|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|139.59.114.209|8888|Singapore|Singapore|DIGITALOCEAN|
-|11|179.60.235.250|8096|Argentina|Rosario|WICORP SA|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|14|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|15|72.10.160.170|5879|Canada|Montreal|GloboTech Communications|
-|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|72.10.164.178|8461|Canada|Montreal|GloboTech Communications|
-|18|111.225.153.170|8089|China|Shijiazhuang|China Telecom|
-|19|72.10.160.92|23635|Canada|Montreal|GloboTech Communications|
-|20|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|9|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
+|12|171.7.73.31|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|139.59.114.209|8888|Singapore|Singapore|DIGITALOCEAN|
+|14|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
+|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|17|103.203.232.110|3125|Indonesia|Kedok|INDANA|
+|18|103.133.63.61|8080|Indonesia|Bandar Lampung|TLINK|
+|19|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
+|20|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
