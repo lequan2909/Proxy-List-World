@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.236.68.210|8080|Japan|Nishio|KATCH Network Inc.|
-|2|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
-|3|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|4|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|3|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|10|172.183.241.1|8090|United States|Chicago|Microsoft|
-|11|79.175.189.51|1080|Iran|Tehran|Afranet|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.247.22.233|3127|Indonesia|Bekasi|PT wifian Solution|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|11|172.183.241.1|8090|United States|Chicago|Microsoft|
+|12|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|13|216.10.247.145|3128|India|Mumbai|PDR|
+|14|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|15|79.175.189.51|1080|Iran|Tehran|Afranet|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 
 
 
