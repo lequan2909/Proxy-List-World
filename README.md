@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.183.241.1|8090|United States|Chicago|Microsoft|
-|8|45.153.165.67|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|38.156.75.226|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|172.183.241.1|8090|United States|Chicago|Microsoft|
+|3|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|45.153.165.67|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|6|135.148.171.194|18080|United States|Reston|OVH SAS|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|9|91.92.123.64|8080|Iran|Tehran|TIC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|163.172.33.137|4002|France|Vitry-sur-Seine|Online S.A.S.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |14|172.183.241.1|8090|United States|Chicago|Microsoft|
-|15|91.92.123.64|8080|Iran|Tehran|TIC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|184.82.46.132|8080|Thailand|Khon Kaen|AIS-Fibre|
+|15|135.148.171.194|18080|United States|Reston|OVH SAS|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|31.28.8.196|9898|Russia|St Petersburg|Citytelecom LLC|
+|19|163.47.210.74|8080|India|Chennai|Microsense Pvt. Limited|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
