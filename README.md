@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|180.191.59.191|8081|Philippines|Tarlac City|Globe Telecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|67.43.236.20|18403|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|190.238.231.121|1994|Peru|Ica|Telefonica Del Peru|
-|14|152.26.231.42|9443|United States|Huntersville|MCNC|
-|15|123.182.59.63|8089|China|Shijiazhuang|China Telecom|
-|16|72.10.164.178|29477|Canada|Montreal|GloboTech Communications|
-|17|91.92.123.64|8080|Iran|Tehran|TIC|
-|18|67.43.227.230|28715|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|3893|Canada|Montreal|GloboTech Communications|
-|20|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|13.115.229.80|3128|Japan|Tokyo|Amazon Technologies Inc|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|11|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|72.10.160.174|25203|Canada|Montreal|GloboTech Communications|
+|13|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|18|67.43.236.20|10395|Canada|Montreal|GloboTech Communications|
+|19|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
