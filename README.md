@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.79.21.151|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|91.92.123.64|8080|Iran|Tehran|TIC|
-|7|204.199.120.18|999|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
-|8|45.5.2.246|8084|Argentina|Bariloche|Altec S.e. Alta Tecnologia Sociedad Del Estado|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|13|72.10.160.90|15403|Canada|Montreal|GloboTech Communications|
-|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|15|72.10.164.178|33015|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|203.79.29.150|8080|Indonesia|Surabaya|PT Surya Global Teknologi|
-|18|67.43.227.227|25403|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|25403|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|25403|Canada|Montreal|GloboTech Communications|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.150.128.138|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|91.92.123.64|8080|Iran|Tehran|TIC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|67.43.227.227|9541|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
+|18|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|19|72.10.160.90|23749|Canada|Montreal|GloboTech Communications|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
