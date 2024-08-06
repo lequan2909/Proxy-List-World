@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.92.123.64|8080|Iran|Tehran|TIC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|195.133.75.9|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|180.151.80.35|8080|India|New Delhi|Shyam Spectra Pvt Ltd|
-|18|72.10.160.174|3215|Canada|Montreal|GloboTech Communications|
-|19|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.92.123.64|8080|Iran|Tehran|TIC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|102.66.222.137|8080|South Africa|Cape Town|HERO TELECOMS (PTY) LTD|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|119.47.90.25|1080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|13|152.26.231.42|9443|United States|Huntersville|MCNC|
+|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|17|135.148.171.194|18080|United States|Reston|OVH SAS|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
