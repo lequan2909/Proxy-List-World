@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|172.183.241.1|8090|United States|Chicago|Microsoft|
-|5|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|91.92.123.64|8080|Iran|Tehran|TIC|
-|8|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
+|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|120.28.217.227|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|91.92.123.64|8080|Iran|Tehran|TIC|
+|10|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|172.183.241.1|8090|United States|Chicago|Microsoft|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|172.183.241.1|8090|United States|Chicago|Microsoft|
 |14|135.148.171.194|18080|United States|Reston|OVH SAS|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.31.241.210|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|67.43.228.251|26713|Canada|Montreal|GloboTech Communications|
-|20|38.242.141.110|8008|Germany|Düsseldorf|Contabo GmbH|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|121.172.51.237|3128|South Korea|Incheon|Korea Telecom|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
