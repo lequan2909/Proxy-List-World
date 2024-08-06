@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|91.92.123.64|8080|Iran|Tehran|TIC|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|1.20.169.200|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|152.26.231.42|9443|United States|Huntersville|MCNC|
-|19|72.10.164.178|2795|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|9041|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|171.6.79.29|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|10|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|152.26.231.42|9443|United States|Huntersville|MCNC|
+|14|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|16|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|17|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|185.89.156.2|44224|Albania|Tirana|ATU|
+|19|67.43.228.250|16907|Canada|Montreal|GloboTech Communications|
+|20|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
