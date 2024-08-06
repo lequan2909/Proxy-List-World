@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|172.183.241.1|8090|United States|Chicago|Microsoft|
 |2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|172.183.241.1|8090|United States|Chicago|Microsoft|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|41.203.213.211|8103|Kenya|Nairobi|Safaricom Limited|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|7|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|172.183.241.1|8090|United States|Chicago|Microsoft|
 |10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|19|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
+|13|180.151.80.35|8080|India|New Delhi|Shyam Spectra Pvt Ltd|
+|14|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|19|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.105.76.65|8080|Indonesia|Bojonegoro|GARUDA|
 
 
 
