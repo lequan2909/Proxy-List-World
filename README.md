@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
-|4|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|5|72.10.164.178|3329|Canada|Montreal|GloboTech Communications|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|67.43.228.253|13313|Canada|Montreal|GloboTech Communications|
-|11|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|12|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|13|72.10.160.172|1393|Canada|Montreal|GloboTech Communications|
-|14|154.90.48.183|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|67.43.236.21|11409|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|7061|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|2367|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|72.10.160.90|1187|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|72.10.164.178|6685|Canada|Montreal|GloboTech Communications|
+|13|43.153.18.252|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|67.43.227.228|8459|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|19|72.10.160.170|10049|Canada|Montreal|GloboTech Communications|
+|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
