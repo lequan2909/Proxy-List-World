@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|91.92.123.64|8080|Iran|Tehran|TIC|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|46.246.4.16|8118|Sweden|Stockholm|Portlane Network|
-|8|101.109.176.76|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|45.81.235.16|3128|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|72.10.160.170|11801|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|16151|Canada|Montreal|GloboTech Communications|
+|5|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|103.170.115.213|2020|Indonesia|Bengkalis|PT Mega Data Akses|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|46.246.4.16|8118|Sweden|Stockholm|Portlane Network|
+|9|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|11|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|67.43.227.226|22225|Canada|Montreal|GloboTech Communications|
+|20|181.233.90.70|999|Venezuela|Cabimas|Colnetwork C.A.|
 
 
 
