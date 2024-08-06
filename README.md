@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|1|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.85.115.134|8080|Indonesia|Pontianak|PT. TELKOM INDONESIA|
-|4|172.183.241.1|8090|United States|Chicago|Microsoft|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|91.92.123.64|8080|Iran|Tehran|TIC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|13|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|14|172.183.241.1|8090|United States|Chicago|Microsoft|
-|15|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|167.61.162.106|8080|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|18|103.179.253.51|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|19|79.175.189.51|1080|Iran|Tehran|Afranet|
-|20|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|172.183.241.1|8090|United States|Chicago|Microsoft|
+|4|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|5|91.92.123.64|8080|Iran|Tehran|TIC|
+|6|16.171.138.252|3128|Sweden|Stockholm|Amazon.com|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|172.183.241.1|8090|United States|Chicago|Microsoft|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|16.171.138.252|3128|Sweden|Stockholm|Amazon.com|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|20|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
 
 
 
