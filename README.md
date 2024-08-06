@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|7|91.92.123.64|8080|Iran|Tehran|TIC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|103.244.23.226|8181|Indonesia|Cileungsir|PT Kahuripan Makmur Sentosa|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|162.19.230.63|3128|Germany|Limburg an der Lahn|OVH SAS|
-|18|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|3|91.92.123.64|8080|Iran|Tehran|TIC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|94.130.173.18|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
+|12|13.60.154.137|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|13|72.10.160.90|30491|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|190.94.212.165|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|200.71.237.238|23500|Argentina|Gobernador Crespo|Telecom Argentina S.A.|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
