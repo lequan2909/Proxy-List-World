@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|172.183.241.1|8090|United States|Chicago|Microsoft|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|167.88.166.70|3128|United States|Dallas|RouterHosting LLC|
+|5|172.183.241.1|8090|United States|Chicago|Microsoft|
 |6|91.92.123.64|8080|Iran|Tehran|TIC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|172.183.241.1|8090|United States|Chicago|Microsoft|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|200.24.131.125|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|15|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|167.88.166.70|3128|United States|Dallas|RouterHosting LLC|
+|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|172.183.241.1|8090|United States|Chicago|Microsoft|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|195.201.138.150|80|Germany|Gunzenhausen|Hetzner Online GmbH|
+|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|16.171.138.252|3128|Sweden|Stockholm|Amazon.com|
+|20|204.137.238.6|3129|United States|Dalton|Apogee Telecom Inc.|
 
 
 
