@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|6|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 |7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|72.10.160.90|26929|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19037|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19037|Canada|Montreal|GloboTech Communications|
-|20|46.250.229.49|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|8|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
+|9|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|72.10.164.178|2655|Canada|Montreal|GloboTech Communications|
+|18|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|67.43.227.227|6073|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
