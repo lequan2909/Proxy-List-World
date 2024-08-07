@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|72.10.164.178|16853|Canada|Montreal|GloboTech Communications|
-|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.239.255.36|58080|Bangladesh|Dhaka|SSDTECH Object4|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|10|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|10|72.10.164.178|5301|Canada|Montreal|GloboTech Communications|
 |11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|67.43.236.20|18217|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|1179|Canada|Montreal|GloboTech Communications|
-|16|94.179.109.254|8081|Ukraine|Kyiv|UKRTELECOM|
-|17|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|72.10.164.178|16853|Canada|Montreal|GloboTech Communications|
-|20|45.225.120.181|40033|Brazil|Tomar do Geru|Centrosulnet Informatica Eireli|
+|12|72.10.164.178|5301|Canada|Montreal|GloboTech Communications|
+|13|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|14|20.84.219.130|3128|United States|Des Moines|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|209.14.119.209|999|Colombia|Bogotá|AGIS|
+|17|103.205.37.22|58080|Bangladesh|Dhaka|Md Arifur Rahaman|
+|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|19|72.10.160.90|14067|Canada|Montreal|GloboTech Communications|
+|20|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
