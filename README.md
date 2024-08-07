@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|79.175.189.220|1080|Iran|Tehran|Afranet|
-|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|45.112.127.222|8181|Indonesia|Depok|FIBERNET|
+|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
