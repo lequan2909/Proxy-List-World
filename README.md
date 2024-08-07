@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|72.10.160.91|7863|Canada|Montreal|GloboTech Communications|
-|19|165.22.57.181|9090|Singapore|Singapore|DigitalOcean, LLC|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|203.98.76.2|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|72.10.160.91|14265|Canada|Montreal|GloboTech Communications|
+|12|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|72.10.164.178|9471|Canada|Montreal|GloboTech Communications|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
