@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|9|45.189.118.232|999|Peru|Lima|Fiber Digital S.R.L|
-|10|157.120.61.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
-|14|152.26.231.86|9443|United States|Huntersville|MCNC|
-|15|49.70.190.130|8089|China|Nanjing|Chinanet|
-|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|18|67.43.227.227|16679|Canada|Montreal|GloboTech Communications|
-|19|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|20|67.43.227.228|5457|Canada|Montreal|GloboTech Communications|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|157.120.61.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|18|67.43.227.227|6401|Canada|Montreal|GloboTech Communications|
+|19|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
 
 
 
