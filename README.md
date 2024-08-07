@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|176.36.188.198|8080|Ukraine|Kyiv|Lanet Network|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|103.113.230.121|83|India|Bhopal|Winux Communications Pvt. Ltd.|
-|19|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
+|13|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|104.156.140.145|3128|United States|Los Angeles|Multacom Corporation|
+|18|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|72.10.160.174|29889|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
