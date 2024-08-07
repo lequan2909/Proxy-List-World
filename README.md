@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|15|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|19|72.10.160.90|24521|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|27609|Canada|Montreal|GloboTech Communications|
+|4|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|14|51.79.23.17|8050|Brazil|Mairi|OVH Hosting|
+|15|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|16|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|111.94.234.50|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
