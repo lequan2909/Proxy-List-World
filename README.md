@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|11|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|12|152.26.231.42|9443|United States|Huntersville|MCNC|
-|13|34.84.85.49|3000|Japan|Tokyo|Google LLC|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|99.233.122.60|3128|Canada|Barrie|Rogers Communications Canada Inc.|
-|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
+|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|180.151.80.35|8080|India|New Delhi|Shyam Spectra Pvt Ltd|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
