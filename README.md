@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|2|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|103.165.155.161|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.36.51.160|8080|India|Kota|Kappa E-Ventures Private Limited|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|103.36.51.160|8080|India|Kota|Kappa E-Ventures Private Limited|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
 
 
 
