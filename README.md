@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.105.55.51|9090|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|193.203.15.61|3128|Germany|Düsseldorf|Contabo GmbH|
-|7|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|221.127.48.194|8888|Hong Kong|New Territories|HGC Global Communications Limited|
+|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|8|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
 |9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|103.255.222.1|80|India|Bettiah|Champaran Internet Private Limited|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
-|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|185.93.206.97|8080|Italy|Ragusa|Novaquadri|
+|14|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|80.95.11.48|8080|South Africa|Lichtenburg|HERO TELECOMS (PTY) LTD|
 
 
 
