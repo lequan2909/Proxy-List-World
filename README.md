@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|157.120.61.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|103.169.132.2|3125|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|101.128.78.202|32650|Indonesia|Palembang|CBN|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|103.166.10.17|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|12|152.26.231.86|9443|United States|Huntersville|MCNC|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|41.111.167.61|80|Algeria|Beni Saf|Algerie Telecom|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|72.10.164.178|30187|Canada|Montreal|GloboTech Communications|
-|17|157.120.61.164|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.231.42|9443|United States|Huntersville|MCNC|
-|19|72.10.164.178|30187|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|15085|Canada|Montreal|GloboTech Communications|
+|2|103.169.132.2|3125|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|3|157.120.61.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|152.26.231.86|9443|United States|Huntersville|MCNC|
+|9|103.40.121.91|8080|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|10|72.10.164.178|32751|Canada|Montreal|GloboTech Communications|
+|11|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|148.72.140.24|10641|United States|St Louis|GoDaddy.com|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|16|157.120.61.164|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|72.10.164.178|32751|Canada|Montreal|GloboTech Communications|
+|19|35.220.160.241|3128|Hong Kong|Hong Kong|Google LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
