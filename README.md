@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |3|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|4|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |7|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|103.188.175.2|8080|Indonesia|Tarakan|PT. Fiber Networks Indonesia|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|11|211.253.36.172|5001|South Korea|Wŏnju|PUBNET|
-|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|157.66.16.40|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|165.22.97.101|9090|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.227.226|20947|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|22859|Canada|Montreal|GloboTech Communications|
-|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|19|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
-|20|67.43.236.20|17101|Canada|Montreal|GloboTech Communications|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|10|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|67.43.236.20|3511|Canada|Montreal|GloboTech Communications|
+|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
