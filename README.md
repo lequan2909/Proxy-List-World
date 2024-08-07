@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|9|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 |11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|13|119.235.209.77|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|18|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|19|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|20|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.227|12407|Canada|Montreal|GloboTech Communications|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|72.10.160.90|14415|Canada|Montreal|GloboTech Communications|
 
 
 
