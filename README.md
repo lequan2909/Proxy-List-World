@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|79.175.189.51|1080|Iran|Tehran|Afranet|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|72.10.160.174|29453|Canada|Montreal|GloboTech Communications|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|198.52.241.18|999|Puerto Rico|Corozal|OSNET Wireless|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|176.100.216.164|80|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|19|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
