@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|101.108.120.162|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
-|17|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|124.105.48.232|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|103.134.220.128|1111|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 
 
 
