@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|8|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|9|101.255.209.118|8089|Indonesia|Jakarta|PT Remala Abadi|
-|10|149.86.142.101|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|11|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|12|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|17|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|2|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|8|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|11|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|45.250.215.8|8080|India|New Delhi|Geocity Network Solutions PVT LTD|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
+|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
