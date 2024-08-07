@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.97.45.196|8561|Japan|Osaka|Google LLC|
 |2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|8|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|139.255.33.242|8080|Indonesia|Jakarta|PT. LINKNET|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|20|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|17|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|18|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 
 
 
