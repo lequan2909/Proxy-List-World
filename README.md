@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|89.116.33.72|3128|India|Mumbai|Hostinger International Limited|
-|4|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
 |5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
 |8|152.26.231.42|9443|United States|Huntersville|MCNC|
-|9|65.1.109.122|8081|India|Mumbai|Amazon.com|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|72.10.160.90|24101|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.170|4627|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|24335|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|24335|Canada|Montreal|GloboTech Communications|
-|19|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|20|67.43.236.20|28947|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|72.10.164.178|17803|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|67.43.236.20|18017|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|2497|Canada|Montreal|GloboTech Communications|
+|20|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
 
 
 
