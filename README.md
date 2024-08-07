@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|8|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|9|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|10|79.175.189.220|1080|Iran|Tehran|Afranet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|202.152.24.50|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
-|18|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|16|72.10.164.178|13605|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
+|19|79.175.189.220|1080|Iran|Tehran|Afranet|
+|20|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
 
 
 
