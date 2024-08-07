@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|5|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|67.43.227.227|29767|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|13999|Canada|Montreal|GloboTech Communications|
-|17|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|19|139.59.124.235|8888|Singapore|Singapore|DIGITALOCEAN|
-|20|67.43.236.21|23375|Canada|Montreal|GloboTech Communications|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|9|210.87.89.229|8080|Indonesia|Teluknaga|MYREPUBLIC|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|202.21.115.182|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
