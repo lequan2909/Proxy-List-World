@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|147|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|852|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|148|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|874|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|255|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|232|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3128|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|79.175.189.220|1080|Iran|Tehran|Afranet|
-|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|13|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|103.175.238.122|8085|Indonesia|Subang|PT Uliz Netmedia Solusindo|
-|17|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
+|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|4|152.26.231.42|9443|United States|Huntersville|MCNC|
+|5|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|6|72.10.164.178|26421|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|26421|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|26421|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|26421|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|12|67.43.227.230|29413|Canada|Montreal|GloboTech Communications|
+|13|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|16|72.10.160.90|26313|Canada|Montreal|GloboTech Communications|
+|17|103.203.232.110|3125|Indonesia|Kedok|INDANA|
+|18|72.10.164.178|26421|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.254|6755|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|26313|Canada|Montreal|GloboTech Communications|
 
 
 
