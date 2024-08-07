@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|125.25.33.5|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|91.92.123.64|8080|Iran|Tehran|TIC|
+|5|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|103.162.54.251|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
 |7|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|103.105.55.170|8085|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|11|103.242.105.104|8090|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|12|102.213.248.38|8080|Kenya|Nairobi|Optinode Group LLP|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|72.10.164.178|18797|Canada|Montreal|GloboTech Communications|
+|10|198.91.163.172|808|Canada|Richmond Hill|Distributel Communications Limited|
+|11|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|103.242.105.104|8090|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|15|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|72.10.164.178|18797|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
