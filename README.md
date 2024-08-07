@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|7|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|18|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|13|210.87.89.229|8080|Indonesia|Teluknaga|MYREPUBLIC|
+|14|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|148.153.56.51|80|United States|Los Angeles|CDS Global Cloud Co., Ltd|
+|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
