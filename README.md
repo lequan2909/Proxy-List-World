@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|34.97.45.196|8561|Japan|Osaka|Google LLC|
 |3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|103.67.78.186|8800|Indonesia|Cileunyi|PT Cloud Hosting Indonesia|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|17|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|4|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.67.78.186|8800|Indonesia|Cileunyi|PT Cloud Hosting Indonesia|
+|10|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
+|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|12|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|13|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|18|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|103.48.70.161|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
