@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5217** proxies at the latest update. Usable proxies are below.
+> Scraper found **5225** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|178|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|771|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|779|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|224|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3086|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|11|103.136.7.158|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|12|124.106.203.238|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|13|103.203.173.49|84|India|Hyderabad|Softgaurd Powertronics|
-|14|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|20|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|103.39.50.228|9090|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
+|11|103.133.63.134|8181|Indonesia|Bandar Lampung|TLINK|
+|12|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|154.90.49.119|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|14|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|181.232.190.218|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|112.211.170.143|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
