@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|12|152.26.231.42|9443|United States|Huntersville|MCNC|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.253|31751|Canada|Montreal|GloboTech Communications|
+|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|19|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|20|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
 
 
 
