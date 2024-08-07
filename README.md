@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|9|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|10|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|72.10.164.178|12861|Canada|Montreal|GloboTech Communications|
-|15|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
-|16|72.10.160.170|6327|Canada|Montreal|GloboTech Communications|
-|17|187.121.156.134|8085|Brazil|Araçatuba|INSIDE TECNOLOGIA E SERVIÇOS LTDA|
-|18|72.10.160.90|23085|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|6327|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|23085|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|13|72.10.164.178|3883|Canada|Montreal|GloboTech Communications|
+|14|162.217.73.165|80|United States|San Francisco|Monkey Brains|
+|15|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|16|72.10.160.90|25207|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|25207|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|3069|Canada|Montreal|GloboTech Communications|
+|19|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|20|72.10.160.170|3069|Canada|Montreal|GloboTech Communications|
 
 
 
