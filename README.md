@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|213.165.72.16|80|Germany|Karlsruhe|IONOS SE|
-|6|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|152.26.231.86|9443|United States|Huntersville|MCNC|
-|10|103.228.36.164|10000|India|Mumbai|DXT|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|12|72.10.160.94|22933|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|17139|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|72.10.160.90|28339|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|2485|Canada|Montreal|GloboTech Communications|
-|17|5.196.111.29|20177|France|Gravelines|OVH SAS|
-|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|8|152.26.231.86|9443|United States|Huntersville|MCNC|
+|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|10|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|11|67.43.227.227|29295|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|12517|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|72.10.164.178|12517|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|17|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|18|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|67.43.227.226|17139|Canada|Montreal|GloboTech Communications|
 
 
 
