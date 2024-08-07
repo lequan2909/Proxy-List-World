@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|61.7.191.211|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|20|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|61.7.191.211|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|10|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|20|103.247.23.65|2022|Indonesia|Bekasi|PT wifian Solution|
 
 
 
