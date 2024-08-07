@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.220.160.241|3128|Hong Kong|Hong Kong|Google LLC|
-|12|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|17|103.81.221.168|8080|Indonesia|Bandung|STARNET|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|5|47.74.40.128|7788|Japan|Tokyo|Alibaba Cloud LLC|
+|6|45.114.88.214|8080|Bangladesh|Dhaka|THE NET HEADS|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|35.220.160.241|3128|Hong Kong|Hong Kong|Google LLC|
+|11|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|179.49.114.46|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
+|14|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.173.138.252|8080|Indonesia|Babat|PT Serayu Multi Connection|
+|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|19|103.155.197.193|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 
 
 
