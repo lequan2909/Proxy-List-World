@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
 |7|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
 |9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |10|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.146.185.138|1111|Indonesia|Wonogiri|YAMNET|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|14|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|15|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|14|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
