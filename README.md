@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|154.38.180.194|3128|United States|Orangeburg|Nubes, LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|202.93.244.38|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
