@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|1|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |6|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|14|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|79.175.189.51|1080|Iran|Tehran|Afranet|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|167.250.99.22|8080|Brazil|Juazeiro do Norte|Provedor Cariri Conect|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
-|20|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|7|4.190.190.194|8080|Japan|Osaka|Microsoft Corporation|
+|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
+|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|20|167.250.99.22|8080|Brazil|Juazeiro do Norte|Provedor Cariri Conect|
 
 
 
