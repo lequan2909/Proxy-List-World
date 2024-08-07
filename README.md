@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
 |6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|154.31.26.8|3128|United States|San Jose|HONG KONG Megalayer Technology Co., Limited|
-|15|2.187.225.217|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|16|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|18|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|20|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|15|164.92.207.53|30000|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|185.93.206.97|8080|Italy|Ragusa|Novaquadri|
+|17|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
