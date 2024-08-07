@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
-|6|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.36.51.160|8080|India|Kota|Kappa E-Ventures Private Limited|
-|10|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|15|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|17|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|20|154.90.49.25|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|5|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|6|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|13|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|103.156.14.224|8080|Indonesia|Pinrang|PT Lintas Jaringan Nusantara|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.228.253|8883|Canada|Montreal|GloboTech Communications|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|67.43.227.227|6331|Canada|Montreal|GloboTech Communications|
 
 
 
