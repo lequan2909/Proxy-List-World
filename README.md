@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
 |5|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|150.240.2.211|3128|United States|Washington|SoftLayer|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|11|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|150.240.2.211|3128|United States|Washington|SoftLayer|
-|16|14.162.146.186|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|17|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
-|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|13|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|16|91.200.161.250|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
 
 
 
