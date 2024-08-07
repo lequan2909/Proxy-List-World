@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|34.97.45.196|8561|Japan|Osaka|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |16|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|124.106.203.238|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|18|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
