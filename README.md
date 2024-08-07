@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|9|103.36.51.160|8080|India|Kota|Kappa E-Ventures Private Limited|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|7|103.177.107.117|8008|Indonesia|Ngawi|PT Data Arta Sedaya|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|103.105.55.51|9090|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
-|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|16|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 |18|217.199.145.35|8080|Kenya|Nairobi|MTN Business Kenya|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.177.107.117|8008|Indonesia|Ngawi|PT Data Arta Sedaya|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
