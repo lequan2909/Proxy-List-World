@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|79.175.189.220|1080|Iran|Tehran|Afranet|
-|4|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|5|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|36.90.118.197|8080|Indonesia|Bojonegoro|PT. Telekomunikasi Indonesia|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|65.108.230.238|45979|Finland|Helsinki|Hetzner Online GmbH|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|13|79.175.189.51|1080|Iran|Tehran|Afranet|
 |14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|18|79.175.189.51|1080|Iran|Tehran|Afranet|
-|19|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|15|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
 
 
 
