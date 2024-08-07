@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|9|103.154.91.250|8081|Indonesia|Jakarta|MORATELINDONAP|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.228.36.164|10000|India|Mumbai|DXT|
-|12|103.105.55.51|9090|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|16|181.198.53.6|3128|Ecuador|Guayaquil|Telconet S.A|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|27.112.70.42|8083|Indonesia|Jakarta|GRAHANET|
-|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|7|103.105.55.51|9090|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
+|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|15|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
