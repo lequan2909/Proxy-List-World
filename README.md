@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.170.62.7|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|12|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|13|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|72.10.160.91|10283|Canada|Montreal|GloboTech Communications|
-|19|94.179.109.254|8081|Ukraine|Kyiv|UKRTELECOM|
-|20|72.10.164.178|3883|Canada|Montreal|GloboTech Communications|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|209.14.113.2|999|Colombia|Cértegui|AGIS|
+|17|20.118.221.52|3128|United States|Des Moines|Microsoft Corporation|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 
 
 
