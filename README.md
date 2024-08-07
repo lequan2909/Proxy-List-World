@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
-|2|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|15|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.164.178|1959|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1959|Canada|Montreal|GloboTech Communications|
-|19|66.96.235.34|8080|Indonesia|Jakarta|MYREPUBLIC|
-|20|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|5|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|9|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|16|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|20.243.212.74|3128|Japan|Tokyo|Microsoft Corporation|
+|19|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 
 
 
