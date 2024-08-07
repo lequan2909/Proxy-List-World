@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |8|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|9|206.189.33.104|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|88.255.106.27|8080|Türkiye|Istanbul|TurkTelekom|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|14|45.236.106.245|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
