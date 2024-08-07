@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |11|206.189.33.104|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|203.95.220.230|6969|Bangladesh|Dhaka|Mazeda Networks Limited|
-|15|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|118.175.30.26|80|Thailand|Lopburi|TOT Public Company Limited|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|203.95.220.230|6969|Bangladesh|Dhaka|Mazeda Networks Limited|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
