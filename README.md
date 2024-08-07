@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|11|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|12|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|13|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|36.73.142.68|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|9|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|14|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.156.14.224|8080|Indonesia|Pinrang|PT Lintas Jaringan Nusantara|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|82.179.94.11|3128|Russia|Nal'chik|RUNNet|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
