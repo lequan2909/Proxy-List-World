@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|3|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
-|17|103.127.220.251|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|17|154.90.48.82|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|18|124.106.203.238|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
 
 
 
