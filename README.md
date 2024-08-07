@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|206.224.254.234|8080|United States|Garden Grove|CENIC|
-|10|103.146.185.138|1111|Indonesia|Wonogiri|YAMNET|
-|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.231.86|9443|United States|Huntersville|MCNC|
-|15|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|1|125.25.33.5|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.16.118.166|8080|Indonesia|Madiun|CV Trustnet Media|
+|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
 |16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |17|203.98.76.2|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|18|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|19|67.43.227.226|28105|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|21399|Canada|Montreal|GloboTech Communications|
+|18|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|19|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
