@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|17|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|20|67.43.227.228|21297|Canada|Montreal|GloboTech Communications|
 
 
 
