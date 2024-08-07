@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5482** proxies at the latest update. Usable proxies are below.
+> Scraper found **5489** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|964|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|292|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3086|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3093|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
-|8|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|41.111.243.134|80|Algeria|Belcourt|Algerie Telecom|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|12|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|16|51.159.4.90|3128|France|Paris|SCALEWAY|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
