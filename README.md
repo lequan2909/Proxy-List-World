@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|152.0.84.253|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
 
 
 
