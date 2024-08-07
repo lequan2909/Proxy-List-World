@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|157.230.180.44|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|16|191.97.3.210|9992|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|72.10.160.90|23849|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|23849|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|23849|Canada|Montreal|GloboTech Communications|
+|11|206.224.254.234|8080|United States|Garden Grove|CENIC|
+|12|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
+|13|103.148.44.101|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|14|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|17|72.10.160.90|16031|Canada|Montreal|GloboTech Communications|
+|18|103.67.90.2|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|19|72.10.164.178|33025|Canada|Montreal|GloboTech Communications|
+|20|1.160.2.126|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 
 
 
