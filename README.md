@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
-|7|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|185.110.246.94|8080|Iran|Tehran|Aria Shatel PJSC|
-|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|12|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|13|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|14|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|177.174.126.203|8080|Brazil|São Paulo|Vivo|
+|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
+|11|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|152.26.231.42|9443|United States|Huntersville|MCNC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |18|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
 
 
 
