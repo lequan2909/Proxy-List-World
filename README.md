@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5633** proxies at the latest update. Usable proxies are below.
+> Scraper found **5632** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|145|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|144|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|930|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|270|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|206.238.197.194|8080|Singapore|Singapore|Tcloudnet|
 |9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|14|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|27.112.70.42|8083|Indonesia|Jakarta|GRAHANET|
+|10|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|15|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
