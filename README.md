@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|36.90.92.241|8080|Indonesia|Sambas|PT. Telekomunikasi Indonesia|
 |3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|12|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|13|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|17|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|18|152.26.231.42|9443|United States|Huntersville|MCNC|
-|19|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|91.92.123.64|8080|Iran|Tehran|TIC|
+|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|190.40.234.18|999|Peru|Chiclayo|Telefonica del Peru|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
