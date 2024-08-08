@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5642** proxies at the latest update. Usable proxies are below.
+> Scraper found **5888** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|191|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1006|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1252|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|330|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3157|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|154.90.48.9|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
-|7|78.158.171.35|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|102.211.145.83|8080|Kenya|Nairobi|Unwired Communications Ltd|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|79.137.136.241|8079|Russia|Moscow|Slavcom Ltd.|
-|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|19|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
-|20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|78.158.171.35|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|4|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|5|61.7.183.248|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|112.201.183.45|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|103.234.31.58|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|103.179.182.155|8090|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|79.137.136.241|8079|Russia|Moscow|Slavcom Ltd.|
+|19|85.117.56.91|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
 
 
 
