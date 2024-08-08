@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|85.117.60.131|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|14|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|15|188.132.222.35|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
