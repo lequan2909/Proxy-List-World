@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|210.231.177.142|8080|Japan|Chiyoda|NEWALLESNET|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.97.102.90|8080|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|4|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|91.92.123.64|8080|Iran|Tehran|TIC|
+|8|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|204.199.120.18|999|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|114.9.26.110|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|16|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|163.172.33.137|4002|France|Vitry-sur-Seine|Online S.A.S.|
+|19|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|109.74.35.249|8080|Yemen|Sanaa|Public Telecommunication Corporation|
 
 
 
