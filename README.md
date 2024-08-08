@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|2|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|62.60.132.243|3128|Iran|Tehran|NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)|
-|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|200.7.11.154|8080|Brazil|Goiatuba|Conexao Telematica XcelLink|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|34.166.75.86|3128|Saudi Arabia|Dammam|Google LLC|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|13|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|62.60.132.243|3128|Iran|Tehran|NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|34.166.75.86|3128|Saudi Arabia|Dammam|Google LLC|
+|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|13|154.90.49.182|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|14|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |15|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|181.198.53.6|3128|Ecuador|Guayaquil|Telconet S.A|
-|20|181.10.200.154|3128|Argentina|Los Hornillos|Telecom Argentina S.A.|
+|16|101.255.209.254|8080|Indonesia|Jakarta|PT Remala Abadi|
+|17|209.14.115.33|999|Colombia|Bogotá|AGIS|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
 
 
 
