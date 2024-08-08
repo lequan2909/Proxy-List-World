@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|7|181.78.94.238|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|113.161.210.60|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|67.43.228.253|2167|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|41.33.219.131|1981|Egypt|Cairo|TE Data|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|223.205.178.7|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|19|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
