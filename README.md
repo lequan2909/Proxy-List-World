@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|16|103.122.1.74|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|17|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|11|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
+|18|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 |19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|128.254.207.181|8080|United States|Miami|Zappie Host LLC|
+|20|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 
 
 
