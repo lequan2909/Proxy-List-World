@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.97.45.196|8561|Japan|Osaka|Google LLC|
 |2|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|193.111.124.25|8080|Indonesia|Garut|CV Atha Media Prima|
+|17|85.117.56.147|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|20|91.92.123.64|8080|Iran|Tehran|TIC|
 
 
 
