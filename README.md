@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|9|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|10|146.19.212.228|3128|Iran|Karaj|Pars Parva System LLC|
-|11|103.105.76.65|8080|Indonesia|Bojonegoro|GARUDA|
-|12|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|13|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
-|14|36.64.153.4|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|15|51.158.62.124|45539|France|Paris|SCALEWAY|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|45.189.252.218|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
-|18|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|99.8.168.181|32770|United States|Saint Clair Shores|AT&T Services, Inc.|
+|1|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|146.19.212.228|3128|Iran|Karaj|Pars Parva System LLC|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|9|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|11|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|12|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|111.225.153.94|8089|China|Shijiazhuang|China Telecom|
+|19|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 
 
 
