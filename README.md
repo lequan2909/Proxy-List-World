@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|1|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
 |2|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|19|190.102.139.152|999|Peru|Lima|Optical Technologies S.A.C.|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|7|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|103.171.244.42|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|80.66.81.27|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|15|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|16|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|17|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|20|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
 
 
 
