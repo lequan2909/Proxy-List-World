@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6022** proxies at the latest update. Usable proxies are below.
+> Scraper found **6021** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|181|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1249|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|182|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1247|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|390|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3244|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|179.51.144.21|999|Dominican Republic|Santiago de los Caballeros|Delta Comunicaciones|
-|2|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|5|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|47.90.92.47|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.231.42|9443|United States|Huntersville|MCNC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|123.182.58.183|8089|China|Shijiazhuang|China Telecom|
-|15|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.173|31995|Canada|Montreal|GloboTech Communications|
-|18|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|20|213.218.240.1|3128|United States|Phoenix|Hostinger International Limited|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|179.51.144.21|999|Dominican Republic|Santiago de los Caballeros|Delta Comunicaciones|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
+|16|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|19|45.76.124.96|80|Australia|Sydney|The Constant Company|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
