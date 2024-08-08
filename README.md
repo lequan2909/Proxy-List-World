@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|2|36.90.92.241|8080|Indonesia|Sambas|PT. Telekomunikasi Indonesia|
 |3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|4|36.90.92.241|8080|Indonesia|Sambas|PT. Telekomunikasi Indonesia|
-|5|125.212.224.58|3128|Vietnam|Hanoi|Viettel Corporation|
-|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
-|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|125.212.224.58|3128|Vietnam|Hanoi|Viettel Corporation|
+|8|171.244.8.191|3128|Vietnam|Hanoi|VIETEL|
+|9|103.166.10.7|8090|Indonesia|Kediri|PT. Yasmin Amanah Media|
+|10|51.178.43.147|3128|France|Gravelines|OVH SAS|
+|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|12|178.115.230.100|8080|Austria|Reichenthal|customers with static IP|
+|13|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|216.10.247.145|3128|India|Mumbai|PDR|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
