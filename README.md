@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
+|11|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
 |15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|148.153.56.51|80|United States|Los Angeles|CDS Global Cloud Co., Ltd|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|20|72.10.164.178|5703|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|18|113.212.87.242|83|India|Ahmedabad|INPLs|
+|19|72.10.164.178|5703|Canada|Montreal|GloboTech Communications|
+|20|88.80.150.7|3847|Bulgaria|Sofia|Belcloud LTD|
 
 
 
