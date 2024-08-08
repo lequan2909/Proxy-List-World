@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|9|103.48.71.50|83|India|Hyderabad|Country Online Services PVT LTD|
-|10|146.19.212.228|3128|Iran|Karaj|Pars Parva System LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|17|154.31.26.8|3128|United States|San Jose|HONG KONG Megalayer Technology Co., Limited|
-|18|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|19|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|180.183.248.103|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
 
 
 
