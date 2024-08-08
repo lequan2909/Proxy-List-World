@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|2|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
 |3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|7|5.9.112.247|3128|Germany|Mainz|Hetzner Online GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|101.255.134.100|8080|Indonesia|Jakarta|PT Remala Abadi|
-|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.144.221.218|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|10|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
 |11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|17|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|18|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|19|185.89.156.2|44224|Albania|Tirana|ATU|
-|20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|45.227.195.121|8082|Brazil|Chapecó|Mhnet Telecom|
+|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|16|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
 
 
 
