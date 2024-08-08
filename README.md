@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|91.92.123.64|8080|Iran|Tehran|TIC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|116.254.118.162|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|14|91.92.123.64|8080|Iran|Tehran|TIC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|146.19.212.228|3128|Iran|Karaj|Pars Parva System LLC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
