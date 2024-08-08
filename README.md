@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|110.164.73.134|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|11|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|16|51.178.43.147|3128|France|Gravelines|OVH SAS|
-|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|18|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|110.164.73.134|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|8|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|12|72.10.160.90|28237|Canada|Montreal|GloboTech Communications|
+|13|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|14|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom Ltd|
+|17|103.171.244.40|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|18|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
+|19|72.10.164.178|26499|Canada|Montreal|GloboTech Communications|
+|20|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
 
 
 
