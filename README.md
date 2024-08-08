@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.97.45.196|8561|Japan|Osaka|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|194.233.79.220|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|103.186.239.153|6969|Bangladesh|Chittagong|Novel Chakma|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
+|14|45.230.169.6|999|Venezuela|Caracas|Soluciones DCN Network C.A|
 |15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|128.254.207.181|8080|United States|Miami|Zappie Host LLC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
