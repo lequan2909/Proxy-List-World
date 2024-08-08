@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|187|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|804|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|188|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|812|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|319|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3157|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|302|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3165|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|9|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|11|91.92.123.64|8080|Iran|Tehran|TIC|
-|12|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|46.246.6.2|3128|Sweden|Stockholm|Portlane Network|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|103.137.111.169|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 
 
 
