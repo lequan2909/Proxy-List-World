@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|7|158.140.169.9|8081|Indonesia|Surabaya|MYREPUBLIC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|15|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|128.199.128.217|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|131.100.48.125|999|Colombia|Neiva|Fibernet TV SAS|
+|12|193.111.124.25|8080|Indonesia|Garut|CV Atha Media Prima|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|189.195.139.178|999|Mexico|Tangancícuaro de Arista|Mega Cable, S.A. de C.V.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|18|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|19|177.242.132.2|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|20|103.88.90.129|8080|Indonesia|Malang|PT Paket Switch Bersama|
 
 
 
