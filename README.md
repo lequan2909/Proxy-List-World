@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|1|34.97.45.196|8561|Japan|Osaka|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|175.143.205.175|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|19|95.154.20.113|34248|Denmark|Skaerbaek|SYD ENERGI|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|20|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
