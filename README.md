@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|207.188.6.20|3128|United States|Dallas|Latitude.sh|
 
 
 
