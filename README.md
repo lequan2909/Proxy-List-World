@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.154.86.22|8080|Indonesia|Pontianak|MORATELINDONAP|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|36.88.102.63|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
 |9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
 |10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|11|36.88.140.196|8083|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|124.104.145.185|3128|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
-|17|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.190.171.137|8080|Indonesia|Jakarta|WMS|
+|13|45.70.201.253|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|15|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|102.213.223.46|83|Gambia|Brikama|Sky Telecom Company Limited|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.236.177.154|8081|Philippines|Makati City|Infinivan Incorporated|
+|20|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
 
 
 
