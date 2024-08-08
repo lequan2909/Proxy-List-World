@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.165.155.229|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|104.129.194.101|8800|United States|Reston|ZSCALER, INC.|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|104.129.194.38|8800|United States|Reston|ZSCALER, INC.|
-|17|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
-|18|165.225.72.150|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|19|104.156.140.145|3128|United States|Los Angeles|Multacom Corporation|
-|20|67.43.236.20|17479|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|8|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|9|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|165.225.113.216|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|84.204.135.251|8080|Russia|St Petersburg|PJSC MegaFon|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|104.129.194.101|8800|United States|Reston|ZSCALER, INC.|
+|14|104.129.194.38|8800|United States|Reston|ZSCALER, INC.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|165.225.72.150|8800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|17|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|18|103.101.216.241|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
