@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|182.253.109.59|8080|Indonesia|Semarang|Biznet Metronet|
-|5|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|11|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|13|72.10.164.178|10377|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|6805|Canada|Montreal|GloboTech Communications|
-|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|17|41.254.56.34|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|67.43.228.253|6805|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|184.168.124.233|5402|Singapore|Singapore|GoDaddy.com, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|72.10.164.178|25809|Canada|Montreal|GloboTech Communications|
+|11|118.179.28.154|8080|Bangladesh|Dhaka|bdHUB|
+|12|152.26.231.86|9443|United States|Huntersville|MCNC|
+|13|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|14|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|72.10.164.178|25809|Canada|Montreal|GloboTech Communications|
+|16|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|17|67.43.228.253|10075|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|10075|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.228.246.131|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
 
 
 
