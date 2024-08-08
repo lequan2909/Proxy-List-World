@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|103.203.232.101|3125|Indonesia|Kedok|INDANA|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|134.35.8.218|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|18|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|19|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|103.156.17.153|1111|Indonesia|Indramayu|RSTNET|
+|14|188.125.169.41|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|109.164.38.201|2306|Czechia|České Budějovice|STARNET, s.r.o.|
+|19|67.43.227.227|23389|Canada|Montreal|GloboTech Communications|
+|20|162.253.155.96|9999|United States|Portland|Reprise Hosting|
 
 
 
