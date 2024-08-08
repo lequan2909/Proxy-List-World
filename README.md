@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |6|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|8|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|11|72.10.160.170|19635|Canada|Montreal|GloboTech Communications|
-|12|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|19|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|20|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|62.3.30.70|8080|Georgia||Enbinet Ltd.|
+|17|177.10.201.171|9812|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
+|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
