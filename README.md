@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
 |3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|91.92.123.64|8080|Iran|Tehran|TIC|
-|10|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|65.108.221.203|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|8|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|203.190.46.127|8090|Indonesia|Sleman|PT Jaring Lintas Utara|
+|14|139.228.221.123|8080|Indonesia|Surabaya|PT. First Media, Tbk|
+|15|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|16|91.92.123.64|8080|Iran|Tehran|TIC|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|149.11.58.226|3128|France|Toulouse|Cogent Communications|
 
 
 
