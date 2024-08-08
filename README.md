@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|4|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|9|41.60.232.35|23500|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|218.145.131.182|443|South Korea|Seocho-gu|Korea Telecom|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|20|15.235.171.236|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|8|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|103.40.121.33|8089|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|16|41.60.232.35|23500|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
