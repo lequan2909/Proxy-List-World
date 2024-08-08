@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.183.146.97|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|2|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|12|179.105.138.70|8080|Brazil|Salvador|Claro NXT Telecomunicacoes Ltda|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|18|72.10.160.90|6509|Canada|Montreal|GloboTech Communications|
-|19|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
+|13|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
+|16|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|72.10.164.178|2083|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|16813|Canada|Montreal|GloboTech Communications|
+|20|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
