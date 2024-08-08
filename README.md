@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|101.51.107.199|8080|Thailand|Bangkok|TOT Public Company Limited|
 |2|49.48.40.95|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|181.13.246.139|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.131.16.108|8080|Indonesia|Tangerang|PT Global Media Inti Semesta|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|103.234.31.58|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|14|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
-|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|15.235.171.236|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|103.88.237.129|84|India|Hyderabad|Mana Communications|
+|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|11|52.86.27.254|8080|United States|Ashburn|Amazon.com, Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|52.86.27.254|8080|United States|Ashburn|Amazon.com, Inc.|
+|15|200.39.120.81|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
+|16|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|19|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
