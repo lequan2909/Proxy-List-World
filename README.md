@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |9|91.92.123.64|8080|Iran|Tehran|TIC|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|14|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|103.131.19.43|8080|Indonesia|Batang|PT Global Media Data Prima|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
+|17|181.74.80.52|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 
 
 
