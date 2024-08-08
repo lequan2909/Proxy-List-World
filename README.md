@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.203.232.110|3125|Indonesia|Kedok|INDANA|
-|11|177.10.201.171|9812|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|5|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|6|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|7|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |14|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|15|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.149.194.37|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|17|77.237.28.191|8080|Poland|Lodz|Toya sp. z o.o.|
-|18|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|18|185.89.156.2|44224|Albania|Tirana|ATU|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|72.10.160.173|10165|Canada|Montreal|GloboTech Communications|
 
 
 
