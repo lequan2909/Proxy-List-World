@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |5|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|103.172.70.203|8080|Indonesia|Gemolong|AZNET|
-|11|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
