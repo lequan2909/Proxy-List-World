@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|103.109.39.5|3128|Vietnam|Ba Đình District|Adsota Corporation|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|17|124.106.203.238|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|19|193.30.13.231|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
