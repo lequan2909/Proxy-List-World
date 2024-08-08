@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|202.47.189.106|8080|Indonesia|Sintang|PT.CITRA BERDIKARI NUSANTARA|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.51.205.20|8080|Indonesia|Semarang|Lintas Data Prima, PT|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|3|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|12|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|13|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
+|15|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|18|113.161.210.60|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|20|67.43.227.228|20253|Canada|Montreal|GloboTech Communications|
 
 
 
