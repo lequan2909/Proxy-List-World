@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|91.92.123.64|8080|Iran|Tehran|TIC|
-|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|18|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
-|19|72.10.160.171|6791|Canada|Montreal|GloboTech Communications|
-|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|91.92.123.64|8080|Iran|Tehran|TIC|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|27.147.128.26|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.227|26351|Canada|Montreal|GloboTech Communications|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
