@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.228.251|20771|Canada|Montreal|GloboTech Communications|
-|20|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|67.43.228.251|20771|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
 
 
 
