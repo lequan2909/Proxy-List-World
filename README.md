@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|179.51.144.21|999|Dominican Republic|Santiago de los Caballeros|Delta Comunicaciones|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|4|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|5|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
-|8|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|9|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|10|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|11|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
-|12|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|20|152.26.231.42|9443|United States|Huntersville|MCNC|
+|2|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|5|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.90.92.47|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|123.182.58.183|8089|China|Shijiazhuang|China Telecom|
+|15|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.173|31995|Canada|Montreal|GloboTech Communications|
+|18|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|20|213.218.240.1|3128|United States|Phoenix|Hostinger International Limited|
 
 
 
