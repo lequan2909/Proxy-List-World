@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|110.164.73.134|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|14|152.26.231.86|9443|United States|Huntersville|MCNC|
-|15|72.10.160.171|32903|Canada|Montreal|GloboTech Communications|
-|16|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|163.30.19.4|3128|Taiwan|Taoyuan District|T-TYC.EDU.TW|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.227.227|7765|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|12|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|152.26.231.86|9443|United States|Huntersville|MCNC|
+|14|179.43.8.16|8088|Brazil|Jaicós|Voex Telecom Ltda|
+|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|18|72.10.164.178|24887|Canada|Montreal|GloboTech Communications|
+|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|20|72.10.164.178|24887|Canada|Montreal|GloboTech Communications|
 
 
 
