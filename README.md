@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|51.158.62.124|45539|France|Paris|SCALEWAY|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|15.235.171.198|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|103.188.252.160|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|11|88.99.87.113|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|18|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
