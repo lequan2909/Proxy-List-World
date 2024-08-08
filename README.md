@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|544|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|544|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|544|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|4|190.9.55.17|3128|Mexico|Hermosillo|Konecta Sonora SA de CV|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|116.104.173.113|5000|Vietnam|Hanoi|Viettel Corporation|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|10|103.144.102.230|8085|Indonesia|Bandung|PANDAWANET|
-|11|24.106.221.230|53281|United States|Wilmington|Spectrum|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|11|38.9.56.70|8080|India|Chennai|Microsense Private Limited|
+|12|112.163.160.223|3128|South Korea|Sacheon-si|Korea Telecom|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 
 
 
