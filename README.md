@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|183.88.213.241|8888|Thailand|Phan Thong|Triple T Broadband Public Company Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|37.72.174.21|8080|United States|New York|HIVELOCITY, Inc.|
-|17|91.92.123.64|8080|Iran|Tehran|TIC|
-|18|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
-|19|115.245.181.54|23500|India|Delhi|Reliance Jio Infocomm Limited|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|91.92.123.64|8080|Iran|Tehran|TIC|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|183.88.213.241|8888|Thailand|Phan Thong|Triple T Broadband Public Company Limited|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
