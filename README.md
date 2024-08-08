@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|6|125.25.33.148|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|7|54.88.122.141|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|103.234.31.58|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|52.86.27.254|8080|United States|Ashburn|Amazon.com, Inc.|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|52.86.27.254|8080|United States|Ashburn|Amazon.com, Inc.|
-|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|20|195.175.29.38|9090|Turkey|Adana|Turk Telekomunikasyon A.S|
+|1|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|125.25.33.148|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|54.88.122.141|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|101.51.107.199|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|103.172.71.15|8080|Indonesia|Karawang|AZNET|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|54.88.122.141|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|135.125.225.75|8080|Germany|Saarbrücken|OVH SAS|
+|18|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
