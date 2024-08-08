@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|3|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|11|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
 |14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
