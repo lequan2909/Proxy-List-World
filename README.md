@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|14.225.8.195|3218|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|8|103.186.239.153|6969|Bangladesh|Chittagong|Novel Chakma|
-|9|191.81.225.88|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|103.159.93.139|8095|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|16|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
-|17|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|14.225.8.195|3218|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|103.169.254.155|3127|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|18|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|19|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
