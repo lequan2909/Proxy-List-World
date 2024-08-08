@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|6|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.69.20.36|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.155.116.243|8085|Indonesia|Bekasi|IOSYS|
-|12|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|152.42.186.178|9090|Singapore|Singapore|DigitalOcean, LLC|
+|8|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|9|103.10.22.236|8080|Mongolia|Ulan Bator|Kewiko LLC|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|212.252.72.106|3128|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|19|67.43.227.229|17397|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|19971|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|166.1.22.160|8080|The Netherlands|Amsterdam|Baxet Group Inc.|
+|16|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
+|17|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|36.67.199.171|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|165.16.27.42|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 
 
 
