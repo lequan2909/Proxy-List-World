@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|146.19.212.228|3128|Iran|Karaj|Pars Parva System LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|18|103.171.244.42|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|146.19.212.228|3128|Iran|Karaj|Pars Parva System LLC|
+|10|104.167.6.218|80|United States|Boca Raton|Cloud South|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|103.133.27.197|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|19|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
