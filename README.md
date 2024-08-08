@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|11|195.158.3.198|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|14|103.186.239.153|6969|Bangladesh|Chittagong|Novel Chakma|
-|15|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|36.88.102.63|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|202.47.189.106|8080|Indonesia|Sintang|PT.CITRA BERDIKARI NUSANTARA|
+|5|103.236.177.154|8081|Philippines|Makati City|Infinivan Incorporated|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.154.86.22|8080|Indonesia|Pontianak|MORATELINDONAP|
+|12|128.254.207.181|8080|United States|Miami|Zappie Host LLC|
+|13|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|14|91.92.123.64|8080|Iran|Tehran|TIC|
+|15|103.131.19.43|8080|Indonesia|Batang|PT Global Media Data Prima|
+|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|19|103.105.76.65|8080|Indonesia|Bojonegoro|GARUDA|
+|20|188.132.222.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
