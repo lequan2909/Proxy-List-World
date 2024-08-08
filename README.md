@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|201.151.124.110|999|Mexico|Villahermosa|Alestra, S. de R.L. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|75.128.125.149|8080|United States|Portage|Charter Communications|
-|10|102.222.173.5|8080|Botswana|Gaborone|Donya Digital (Pty) Ltd|
-|11|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|12|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
-|13|152.26.231.42|9443|United States|Huntersville|MCNC|
-|14|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|15|103.245.17.219|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|20|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|4|201.151.124.110|999|Mexico|Villahermosa|Alestra, S. de R.L. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|38.183.209.61|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|18|72.10.164.178|11409|Canada|Montreal|GloboTech Communications|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
