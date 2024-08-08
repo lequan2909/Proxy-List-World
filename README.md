@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
-|10|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|11|177.54.110.177|9090|Brazil|São Gabriel|Plena Telecom|
-|12|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|16|188.132.221.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|61.74.145.1|3128|South Korea|Seocho-gu|Korea Telecom|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|109.74.35.249|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|19|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|20|61.74.145.1|3128|South Korea|Seocho-gu|Korea Telecom|
 
 
 
