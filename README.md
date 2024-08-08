@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|504|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|504|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|504|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|7|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|15|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|103.153.247.46|3128|Indonesia|Jakarta|PRIMAHOME|
-|20|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|45.136.197.202|8080|Hong Kong|Hong Kong|Managed by IROKO Networks|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|103.247.21.226|1111|Indonesia|Bekasi|PT wifian Solution|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
 
 
 
