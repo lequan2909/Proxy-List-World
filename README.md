@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
 |2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|146.19.212.228|3128|Iran|Karaj|Pars Parva System LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.128.138.192|8443|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|5.187.79.198|44331|Russia|Voronezh|Svyaz-Telecom Ltd|
-|19|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
