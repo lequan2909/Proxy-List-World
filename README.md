@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.90.92.47|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|10|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
-|11|72.10.160.173|3283|Canada|Montreal|GloboTech Communications|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|144.91.109.79|3128|Germany|Nuremberg|Contabo GmbH|
+|12|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|67.43.227.227|17869|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|20|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|17|104.156.140.145|3128|United States|Los Angeles|Multacom Corporation|
+|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|20|67.43.227.227|9113|Canada|Montreal|GloboTech Communications|
 
 
 
