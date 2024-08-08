@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|39.112.180.187|8080|South Korea|Dong-gu|SK Broadband Co Ltd|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|177.10.201.171|9812|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
-|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|14|163.53.208.69|6666|India|Modāsa|GTPL Shiv Network Pvt Ltd|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|15|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
