@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|146.19.212.228|3128|Iran|Karaj|Pars Parva System LLC|
-|18|41.60.232.35|23500|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|41.60.232.35|23500|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|15|103.40.121.33|8089|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|16|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
