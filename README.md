@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|8|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|9|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|10|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|67.43.227.228|20153|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|18|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|19|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|67.43.227.227|20473|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|103.40.121.33|8089|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|146.19.212.228|3128|Iran|Karaj|Pars Parva System LLC|
+|14|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|19|43.243.174.26|82|India|Pune|Shah Solutions|
+|20|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
