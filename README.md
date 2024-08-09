@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|5|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|9|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
-|10|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
-|19|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
+|10|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|11|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
+|12|47.128.78.44|8080|Singapore|Singapore|Amazon Technologies Inc|
+|13|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|72.10.160.171|29117|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|15693|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|54.254.246.94|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|20|67.43.228.250|15405|Canada|Montreal|GloboTech Communications|
 
 
 
