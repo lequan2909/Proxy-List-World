@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|16|5.8.64.55|3128|Russia|Moscow|IP SERVER LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
-|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|8|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
+|13|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|138.201.199.62|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|13.212.39.146|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
