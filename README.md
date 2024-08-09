@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|110.77.171.226|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|8.218.100.45|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|16|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|103.184.180.30|8080|Indonesia|Magetan|Lintas Data Prima, PT|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.184.180.30|8080|Indonesia|Magetan|Lintas Data Prima, PT|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|110.77.171.226|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
 
 
 
