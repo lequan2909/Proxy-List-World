@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|54.150.199.26|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|54.150.199.26|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |6|34.193.237.138|8080|United States|Ashburn|Amazon.com, Inc.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|125.163.201.206|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
-|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|18.230.62.175|3128|Brazil|São Paulo|Amazon Technologies Inc.|
 |11|52.47.94.87|3128|France|Paris|Amazon Technologies Inc.|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|34.193.237.138|8080|United States|Ashburn|Amazon.com, Inc.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|17|18.230.153.127|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|18|18.230.62.175|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|54.232.134.142|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|17|54.197.7.148|8080|United States|Ashburn|Amazon.com, Inc.|
+|18|34.229.114.215|8080|United States|Ashburn|Amazon.com, Inc.|
+|19|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
+|20|54.197.7.148|8080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
