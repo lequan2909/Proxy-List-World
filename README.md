@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|5|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|6|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|54.183.247.11|3128|United States|San Jose|Amazon.com, Inc.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|47.128.78.44|8080|Singapore|Singapore|Amazon Technologies Inc|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.231.173.114|3128|United States|New York|Netsec Limited|
-|15|72.10.164.178|12741|Canada|Montreal|GloboTech Communications|
-|16|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
-|17|72.10.164.178|12741|Canada|Montreal|GloboTech Communications|
-|18|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
-|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|20|67.43.236.20|15031|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|4|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|5|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|54.183.247.11|3128|United States|San Jose|Amazon.com, Inc.|
+|8|47.128.78.44|8080|Singapore|Singapore|Amazon Technologies Inc|
+|9|103.231.173.114|3128|United States|New York|Netsec Limited|
+|10|72.10.164.178|31843|Canada|Montreal|GloboTech Communications|
+|11|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
+|12|72.10.164.178|31843|Canada|Montreal|GloboTech Communications|
+|13|191.7.208.87|8080|Brazil|Novo Oriente|HTM SERVICOS DE TELECOMUNICACOES LTDA|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
+|20|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
