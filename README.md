@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|103.231.173.114|3128|United States|New York|Netsec Limited|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|16|47.128.78.44|8080|Singapore|Singapore|Amazon Technologies Inc|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|9|103.231.173.114|3128|United States|New York|Netsec Limited|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|15|47.128.78.44|8080|Singapore|Singapore|Amazon Technologies Inc|
+|16|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
 |17|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
-|18|103.231.173.114|3128|United States|New York|Netsec Limited|
-|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|20|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|19|103.231.173.114|3128|United States|New York|Netsec Limited|
+|20|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
