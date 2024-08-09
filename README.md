@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|444|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|444|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|444|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.151.226.75|80|Indonesia|Bandung|URBANACCESS|
-|5|54.166.137.211|8080|United States|Ashburn|Amazon.com, Inc.|
-|6|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|8|18.206.12.41|8080|United States|Ashburn|Amazon.com, Inc.|
-|9|54.159.125.128|8080|United States|Ashburn|Amazon.com, Inc.|
-|10|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
-|11|18.206.12.41|8080|United States|Ashburn|Amazon.com, Inc.|
-|12|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
-|13|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
-|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|15|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
-|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|17|34.233.133.232|8080|United States|Ashburn|Amazon.com, Inc.|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|54.159.125.128|8080|United States|Ashburn|Amazon.com, Inc.|
-|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|54.166.137.211|8080|United States|Ashburn|Amazon.com, Inc.|
+|5|103.151.226.75|80|Indonesia|Bandung|URBANACCESS|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|44.204.225.89|8080|United States|Ashburn|Amazon.com|
+|8|52.87.142.249|8080|United States|Ashburn|Amazon.com, Inc.|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|34.201.135.70|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|44.204.225.89|8080|United States|Ashburn|Amazon.com|
+|14|44.204.122.136|8080|United States|Ashburn|Amazon.com|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|52.87.142.249|8080|United States|Ashburn|Amazon.com, Inc.|
+|17|44.192.15.231|8080|United States|Ashburn|Amazon.com|
+|18|3.80.18.23|8080|United States|Ashburn|Amazon Technologies Inc.|
+|19|44.223.12.211|8080|United States|Ashburn|Amazon.com|
+|20|54.164.68.98|8080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
