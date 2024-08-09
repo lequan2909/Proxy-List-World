@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|18.206.210.200|8080|United States|Ashburn|Amazon.com, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|44.214.2.25|8080|United States|Ashburn|Amazon.com|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|10|18.207.1.88|8080|United States|Ashburn|Amazon.com, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|18.205.18.156|8080|United States|Ashburn|Amazon.com, Inc.|
-|14|44.222.218.192|8080|United States|Ashburn|Amazon.com|
-|15|18.213.2.93|8080|United States|Ashburn|Amazon.com, Inc.|
-|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|34.228.197.99|8080|United States|Ashburn|Amazon.com, Inc.|
-|20|44.214.2.25|8080|United States|Ashburn|Amazon.com|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|44.222.218.192|8080|United States|Ashburn|Amazon.com|
+|11|3.235.193.59|8080|United States|Ashburn|Amazon Technologies Inc.|
+|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|44.222.218.192|8080|United States|Ashburn|Amazon.com|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|18.207.1.88|8080|United States|Ashburn|Amazon.com, Inc.|
+|18|3.235.193.59|8080|United States|Ashburn|Amazon Technologies Inc.|
+|19|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|20|3.83.50.130|8080|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
