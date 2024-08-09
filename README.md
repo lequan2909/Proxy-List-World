@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|6|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
+|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|8|45.174.95.221|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|17|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|17|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
 
 
 
