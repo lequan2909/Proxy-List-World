@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.178.194.190|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|10|66.206.15.148|8136|United States|Los Angeles|Primary|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|18|2.138.25.228|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|19|3.83.172.200|8080|United States|Ashburn|Amazon Technologies Inc.|
-|20|67.43.236.22|21725|Canada|Montreal|GloboTech Communications|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|66.206.15.148|8136|United States|Los Angeles|Primary|
+|14|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|168.63.153.150|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|18|67.43.236.22|21725|Canada|Montreal|GloboTech Communications|
+|19|18.209.61.25|8080|United States|Ashburn|Amazon.com, Inc.|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
