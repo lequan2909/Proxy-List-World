@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|3.236.82.222|8080|United States|Ashburn|Amazon Technologies Inc.|
-|5|103.12.76.136|3128|Vietnam|Quận Long Biên|MOCLAMESOUL|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|3.91.242.231|8080|United States|Ashburn|Amazon Technologies Inc.|
-|8|54.232.134.142|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|54.237.74.81|8080|United States|Ashburn|Amazon.com, Inc.|
-|10|18.204.3.61|8080|United States|Ashburn|Amazon.com, Inc.|
-|11|3.236.68.20|8080|United States|Ashburn|Amazon Technologies Inc.|
-|12|3.91.242.231|8080|United States|Ashburn|Amazon Technologies Inc.|
-|13|3.83.35.220|8080|United States|Ashburn|Amazon Technologies Inc.|
-|14|44.204.225.89|8080|United States|Ashburn|Amazon.com|
-|15|44.204.165.254|8080|United States|Ashburn|Amazon.com|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|54.196.44.215|8080|United States|Ashburn|Amazon.com, Inc.|
-|19|34.224.94.78|8080|United States|Ashburn|Amazon.com, Inc.|
-|20|3.236.68.20|8080|United States|Ashburn|Amazon Technologies Inc.|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|44.200.154.196|8080|United States|Ashburn|Amazon.com|
+|5|44.222.196.111|8080|United States|Ashburn|Amazon.com|
+|6|103.151.226.75|80|Indonesia|Bandung|URBANACCESS|
+|7|54.152.147.6|8080|United States|Ashburn|Amazon.com, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|18.231.64.211|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|18.209.61.25|8080|United States|Ashburn|Amazon.com, Inc.|
+|11|54.208.111.183|8080|United States|Ashburn|Amazon.com, Inc.|
+|12|18.209.231.61|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|3.227.3.210|8080|United States|Ashburn|Amazon Technologies Inc.|
+|14|34.238.172.145|8080|United States|Ashburn|Amazon.com, Inc.|
+|15|18.207.118.61|8080|United States|Ashburn|Amazon.com, Inc.|
+|16|18.212.91.33|8080|United States|Ashburn|Amazon.com, Inc.|
+|17|18.207.118.61|8080|United States|Ashburn|Amazon.com, Inc.|
+|18|44.222.196.111|8080|United States|Ashburn|Amazon.com|
+|19|44.200.154.196|8080|United States|Ashburn|Amazon.com|
+|20|23.22.40.30|8080|United States|Ashburn|Amazon.com|
 
 
 
