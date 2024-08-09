@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|110.77.171.226|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|203.150.113.101|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|171.6.72.228|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|12|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|13|103.228.36.164|10000|India|Mumbai|DXT|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|171.6.72.228|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|103.228.36.164|10000|India|Mumbai|DXT|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |18|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|103.142.165.193|58080|India|Bengaluru|All Time Tele Infra Pvt Ltd|
+|19|203.150.113.101|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|20|103.184.180.30|8080|Indonesia|Magetan|Lintas Data Prima, PT|
 
 
 
