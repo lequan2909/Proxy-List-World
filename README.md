@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|45.71.202.148|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
+|14|101.128.78.202|32650|Indonesia|Palembang|CBN|
+|15|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|15.235.171.248|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|17|103.143.169.210|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|13.229.237.224|8080|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
