@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.134.246.22|8080|Indonesia|Jembrana|Wisuandha Network Globalindo|
-|8|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
-|14|103.231.173.114|3128|United States|New York|Netsec Limited|
-|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|158.51.126.161|3128|United States|Las Vegas|Hostodo|
+|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|13|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|14|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|103.231.173.114|3128|United States|New York|Netsec Limited|
 |16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|103.203.173.49|84|India|Hyderabad|Softgaurd Powertronics|
-|19|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|46.250.239.99|8000|France|Paris|Contabo Asia Private Limited|
+|18|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
