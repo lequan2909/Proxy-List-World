@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.74.198.160|4006|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|116.109.184.19|4011|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|116.109.184.19|4012|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|12|171.240.151.130|4016|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
-|18|154.73.111.153|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|19|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|103.231.173.114|3128|United States|New York|Netsec Limited|
+|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|18|103.231.173.114|3128|United States|New York|Netsec Limited|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
