@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|157.230.33.240|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|182.53.23.107|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|116.109.184.19|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|36.64.52.226|8081|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|182.53.23.107|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|144.76.42.215|8118|Germany|Görwihl|Hetzner Online GmbH|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|103.231.173.114|3128|United States|New York|Netsec Limited|
-|18|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|19|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|103.54.218.202|8080|Indonesia|Pancoran|PT. Mora Telematika Indonesia|
+|20|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
 
 
 
