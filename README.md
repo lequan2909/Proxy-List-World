@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|67.43.227.230|28459|Canada|Montreal|GloboTech Communications|
-|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|72.10.164.178|23299|Canada|Montreal|GloboTech Communications|
-|20|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|9|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|10|186.125.218.146|999|Argentina|Molinos|Telecom Argentina S.A.|
+|11|67.43.227.230|28459|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|16|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
+|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|20|72.10.164.178|23311|Canada|Montreal|GloboTech Communications|
 
 
 
