@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1015|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1015|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1015|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|54.157.143.118|8080|United States|Ashburn|Amazon.com, Inc.|
-|5|3.231.226.41|8080|United States|Ashburn|Amazon Technologies Inc.|
-|6|3.92.166.163|8080|United States|Ashburn|Amazon Technologies Inc.|
-|7|54.175.66.32|8080|United States|Ashburn|Amazon.com, Inc.|
-|8|50.17.106.88|8080|United States|Ashburn|Amazon.com|
-|9|52.91.136.110|8080|United States|Ashburn|Amazon.com, Inc.|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|54.232.134.142|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|12|35.175.209.204|8080|United States|Ashburn|Amazon.com, Inc.|
-|13|54.162.218.88|8080|United States|Ashburn|Amazon.com, Inc.|
-|14|34.224.22.96|8080|United States|Ashburn|Amazon.com, Inc.|
-|15|54.159.125.128|8080|United States|Ashburn|Amazon.com, Inc.|
-|16|54.237.24.200|8080|United States|Ashburn|Amazon.com, Inc.|
-|17|54.226.156.129|8080|United States|Ashburn|Amazon.com, Inc.|
-|18|44.195.31.181|8080|United States|Ashburn|Amazon.com|
-|19|44.210.20.22|8080|United States|Ashburn|Amazon.com|
-|20|54.86.174.231|8080|United States|Ashburn|Amazon.com, Inc.|
+|4|54.232.134.142|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|34.193.237.138|8080|United States|Ashburn|Amazon.com, Inc.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|3.92.166.163|8080|United States|Ashburn|Amazon Technologies Inc.|
+|9|50.17.106.88|8080|United States|Ashburn|Amazon.com|
+|10|34.193.237.138|8080|United States|Ashburn|Amazon.com, Inc.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|44.192.86.84|8080|United States|Ashburn|Amazon.com|
+|14|54.152.173.37|8080|United States|Ashburn|Amazon.com, Inc.|
+|15|44.195.31.181|8080|United States|Ashburn|Amazon.com|
+|16|35.172.146.172|8080|United States|Ashburn|Amazon.com, Inc.|
+|17|3.230.125.80|8080|United States|Ashburn|Amazon Technologies Inc.|
+|18|3.92.166.163|8080|United States|Ashburn|Amazon Technologies Inc.|
+|19|54.237.24.200|8080|United States|Ashburn|Amazon.com, Inc.|
+|20|34.238.127.202|8080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
