@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.133.61.150|8181|Indonesia|Bandar Lampung|TLINK|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|27.74.198.160|4006|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|116.109.184.19|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|182.53.23.107|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|125.24.56.50|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|103.231.173.114|3128|United States|New York|Netsec Limited|
-|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|14.241.111.97|8080|Vietnam|Hanoi|VNPT|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|203.145.58.234|8080|Indonesia|Cianjur|PT HSN GLOBAL NETWORK|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|190.121.157.141|999|Colombia|Cúcuta|Media Commerce Partners S.A|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|102.39.215.83|9090|South Africa|Cape Town|Vox Telecom|
 
 
 
