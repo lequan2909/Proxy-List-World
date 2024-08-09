@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.212.6.226|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|4|13.126.80.213|3128|India|Mumbai|Amazon Technologies Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|34.227.150.180|8080|United States|Ashburn|Amazon.com, Inc.|
-|7|87.98.137.236|3128|France|Gravelines|MCPECloud SAS|
-|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|54.150.199.26|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|10|54.196.48.235|8080|United States|Ashburn|Amazon.com, Inc.|
-|11|54.237.85.102|8080|United States|Ashburn|Amazon.com, Inc.|
-|12|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|107.22.151.122|8080|United States|Ashburn|Amazon.com, Inc.|
-|14|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
-|15|34.193.237.138|8080|United States|Ashburn|Amazon.com, Inc.|
-|16|54.242.63.196|8080|United States|Ashburn|Amazon.com, Inc.|
+|2|13.212.6.226|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|13.126.80.213|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|23.20.49.30|8080|United States|Ashburn|Amazon.com|
+|8|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
+|9|3.81.118.243|8080|United States|Ashburn|Amazon Technologies Inc.|
+|10|44.200.8.43|8080|United States|Ashburn|Amazon.com|
+|11|3.235.146.190|8080|United States|Ashburn|Amazon Technologies Inc.|
+|12|3.80.18.23|8080|United States|Ashburn|Amazon Technologies Inc.|
+|13|18.230.62.175|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|14|18.212.6.234|8080|United States|Ashburn|Amazon.com, Inc.|
+|15|18.206.123.118|8080|United States|Ashburn|Amazon.com, Inc.|
+|16|3.235.237.228|8080|United States|Ashburn|Amazon Technologies Inc.|
 |17|54.175.136.11|8080|United States|Ashburn|Amazon.com, Inc.|
-|18|18.230.62.175|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|19|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|52.87.219.185|8080|United States|Ashburn|Amazon.com, Inc.|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|54.196.48.235|8080|United States|Ashburn|Amazon.com, Inc.|
+|20|3.87.215.69|8080|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
