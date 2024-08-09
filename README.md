@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|530|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|530|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|530|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|733|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|733|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|733|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|3|54.254.246.94|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|4|54.183.247.11|3128|United States|San Jose|Amazon.com, Inc.|
-|5|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|51.20.3.124|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|9|34.202.237.153|8080|United States|Ashburn|Amazon.com, Inc.|
-|10|3.238.143.41|8080|United States|Ashburn|Amazon Technologies Inc.|
-|11|100.29.14.20|8080|United States|Ashburn|Amazon.com|
-|12|3.226.245.80|8080|United States|Ashburn|Amazon Technologies Inc.|
-|13|54.156.75.244|8080|United States|Ashburn|Amazon.com, Inc.|
-|14|177.71.234.155|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|15|18.228.152.137|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|16|34.224.22.96|8080|United States|Ashburn|Amazon.com, Inc.|
-|17|44.202.24.9|8080|United States|Ashburn|Amazon.com|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|100.25.30.71|8080|United States|Ashburn|Amazon.com|
-|20|54.163.37.148|8080|United States|Ashburn|Amazon.com, Inc.|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|3.89.139.167|8080|United States|Ashburn|Amazon Technologies Inc.|
+|4|18.233.157.8|8080|United States|Ashburn|Amazon.com, Inc.|
+|5|18.234.63.160|8080|United States|Ashburn|Amazon.com, Inc.|
+|6|3.81.158.248|8080|United States|Ashburn|Amazon Technologies Inc.|
+|7|44.202.199.114|8080|United States|Ashburn|Amazon.com|
+|8|34.203.188.42|8080|United States|Ashburn|Amazon.com, Inc.|
+|9|34.207.126.103|8080|United States|Ashburn|Amazon.com, Inc.|
+|10|107.22.36.88|8080|United States|Ashburn|Amazon.com, Inc.|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|54.166.137.211|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|13.229.203.40|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|14|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|15|3.92.84.140|8080|United States|Ashburn|Amazon Technologies Inc.|
+|16|3.90.40.252|8080|United States|Ashburn|Amazon Technologies Inc.|
+|17|3.84.215.2|8080|United States|Ashburn|Amazon Technologies Inc.|
+|18|177.71.234.155|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|19|18.231.64.211|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|20|107.22.254.175|8080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
