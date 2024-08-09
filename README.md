@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|15|54.183.247.11|3128|United States|San Jose|Amazon.com, Inc.|
-|16|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|17|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|18|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
-|19|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
-|20|160.248.185.109|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|103.231.173.114|3128|United States|New York|Netsec Limited|
+|11|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|12|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|13|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|54.183.247.11|3128|United States|San Jose|Amazon.com, Inc.|
+|17|160.248.185.109|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 
 
 
