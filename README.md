@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
-|10|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|11|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
-|12|47.128.78.44|8080|Singapore|Singapore|Amazon Technologies Inc|
-|13|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
-|14|152.26.231.42|9443|United States|Huntersville|MCNC|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|72.10.160.171|29117|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|15693|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|54.254.246.94|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|20|67.43.228.250|15405|Canada|Montreal|GloboTech Communications|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
+|12|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
+|15|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
+|20|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
 
 
 
