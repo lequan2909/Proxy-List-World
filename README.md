@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|8|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|89.107.10.28|3128|Germany|Frankfurt| Miglovets Egor Andreevich|
-|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|202.47.88.82|8081|Indonesia|Jombang|PT. Java Digital Nusantara|
+|14|103.164.58.190|8080|Indonesia|Sangkalputung|PT Fivendro Mandiri Indonesia|
 |15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|18|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|20|14.185.209.170|8080|Vietnam|Hanoi|VNPT|
+|16|138.197.129.19|8090|Canada|Toronto|DigitalOcean, LLC|
+|17|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|138.197.129.19|8090|Canada|Toronto|DigitalOcean, LLC|
+|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
