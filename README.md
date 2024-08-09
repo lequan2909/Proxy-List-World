@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|5|103.191.250.162|8083|Indonesia|Batam|PT Mulia Batam Net|
-|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|200.37.252.122|8080|Peru|Lima|Telefonica del Peru S.A.A.|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
-|17|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|18|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
-|19|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
-|20|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.229.185.154|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|9|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|11|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|12|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
+|13|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
+|14|54.183.247.11|3128|United States|San Jose|Amazon.com, Inc.|
+|15|103.174.236.96|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|16|13.212.39.146|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|168.63.153.150|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
