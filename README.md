@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|190.61.61.210|999|Colombia|Juan de Acosta|Ufinet Panama S.A.|
-|10|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |11|103.231.173.114|3128|United States|New York|Netsec Limited|
-|12|176.36.188.198|8080|Ukraine|Kyiv|Lanet Network|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|19|13.212.39.146|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|12|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
+|13|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|17|13.212.39.146|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|18|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |20|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
 
 
