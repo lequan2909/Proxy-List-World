@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|686|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|686|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|686|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|6|43.129.64.28|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|14|104.156.140.145|3128|United States|Los Angeles|Multacom Corporation|
-|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|18|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|20|158.101.244.172|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|168.63.153.150|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
+|17|52.221.250.131|8080|Singapore|Singapore|Amazon.com, Inc.|
+|18|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|19|158.101.244.172|3128|Saudi Arabia|Jeddah|Oracle Corporation|
+|20|177.44.161.8|3128|Brazil|Chopinzinho|WIIP TELECOM SERVIÇOS DE INTERNET LTDA|
 
 
 
