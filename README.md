@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|177.136.85.113|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|101.109.176.57|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|101.109.176.57|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|203.128.73.122|8910|Indonesia|Sunter Agung|Neuviz|
-|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|77.41.146.43|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|16|177.136.85.113|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|18|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|190.94.212.255|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
