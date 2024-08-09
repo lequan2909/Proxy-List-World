@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|157.230.33.238|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
-|7|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
-|8|47.128.78.44|8080|Singapore|Singapore|Amazon Technologies Inc|
-|9|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
-|10|13.212.39.146|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|11|18.230.153.127|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|12|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|13.201.5.101|3128|India|Mumbai|Amazon.com, Inc.|
-|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|54.198.226.80|8080|United States|Ashburn|Amazon.com, Inc.|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|54.150.199.26|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
+|6|34.193.237.138|8080|United States|Ashburn|Amazon.com, Inc.|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|18.230.62.175|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|44.199.212.38|8080|United States|Ashburn|Amazon.com|
+|12|34.238.44.116|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|52.47.94.87|3128|France|Paris|Amazon Technologies Inc.|
+|15|107.23.76.50|8080|United States|Ashburn|Amazon.com, Inc.|
+|16|54.237.210.38|8080|United States|Ashburn|Amazon.com, Inc.|
+|17|44.192.66.65|8080|United States|Ashburn|Amazon.com|
+|18|18.234.253.223|8080|United States|Ashburn|Amazon.com, Inc.|
+|19|54.242.78.46|8080|United States|Ashburn|Amazon.com, Inc.|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
