@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.12.77.162|3128|Vietnam|Quận Long Biên|MOCLAMESOUL|
+|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|112.78.167.189|8080|Indonesia|Jakarta|Biznet Networks|
-|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|103.231.173.114|3128|United States|New York|Netsec Limited|
-|16|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
-|20|191.97.19.61|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|103.231.173.114|3128|United States|New York|Netsec Limited|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|19|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|20|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
 
 
 
