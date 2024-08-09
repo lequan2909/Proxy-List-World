@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5244** proxies at the latest update. Usable proxies are below.
+> Scraper found **5318** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|216|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|934|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|270|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2866|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|8|45.174.95.221|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|17|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|12|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|13|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|18|67.43.228.251|12289|Canada|Montreal|GloboTech Communications|
+|19|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
