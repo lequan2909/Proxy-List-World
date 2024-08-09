@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|101.109.176.57|8080|Thailand|Bangkok|TOT Public Company Limited|
 |2|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|103.124.197.229|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|4|103.12.77.162|3128|Vietnam|Quận Long Biên|MOCLAMESOUL|
+|5|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|112.78.167.189|8080|Indonesia|Jakarta|Biznet Networks|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|103.231.173.114|3128|United States|New York|Netsec Limited|
-|19|182.253.154.62|8080|Indonesia|Jakarta|BIZNET|
-|20|36.94.185.122|60080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|103.231.173.114|3128|United States|New York|Netsec Limited|
+|17|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|18|138.201.199.62|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|20|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
 
 
 
