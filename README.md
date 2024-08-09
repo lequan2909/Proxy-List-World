@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|157.230.33.240|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|157.230.33.240|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|128.199.126.214|9090|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.54.71.234|8080|Australia|Pakenham|CNTC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |9|182.53.23.107|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|116.109.184.19|4012|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|157.15.44.105|7777|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|103.231.173.114|3128|United States|New York|Netsec Limited|
+|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|20|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
