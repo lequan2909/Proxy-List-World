@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.53.60.105|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.231.173.114|3128|United States|New York|Netsec Limited|
-|8|45.238.58.1|999|Ecuador|Guayaquil|Instalacion De Sistemas EN Redes Insysred S.A.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|113.53.60.105|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|11|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|12|103.224.125.229|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|14|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|15|206.42.56.195|8080|Brazil|Fortaleza|Brisanet Prestacao De Servicos De Internet Ltda|
+|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|104.248.165.240|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|20|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 
 
 
