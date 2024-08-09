@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|61.247.52.158|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|15|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|3|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|6|119.110.69.215|57413|Indonesia|Jakarta|Maxindo|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|103.114.52.72|8089|Indonesia|Klaten|Proxy-registered|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|20|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
