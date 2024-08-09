@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
-|3|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|4|1.0.202.4|8080|Thailand|Trang|TOT Public Company Limited|
-|5|1.230.21.150|8443|South Korea|Guro-gu|SK Broadband Co Ltd|
-|6|119.110.69.215|57413|Indonesia|Jakarta|Maxindo|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|18|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|61.247.52.158|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|12|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|146.196.96.186|7777|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|17|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|18|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
