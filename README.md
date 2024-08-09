@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|79.175.189.51|1080|Iran|Tehran|Afranet|
-|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|175.196.233.101|3128|South Korea|Anyang-si|Korea Telecom|
+|6|101.128.107.210|7777|Indonesia|Jakarta|CBN|
+|7|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|178.33.181.133|8080|France|Roubaix|OVH SAS|
+|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|17|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
