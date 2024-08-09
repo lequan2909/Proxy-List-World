@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|18.230.153.127|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|5|18.228.152.137|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|177.71.234.155|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|5|34.193.237.138|8080|United States|Ashburn|Amazon.com, Inc.|
 |6|18.228.7.93|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|7|177.71.234.155|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|7|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
 |8|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|9|54.183.247.11|3128|United States|San Jose|Amazon.com, Inc.|
-|10|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
-|11|54.254.246.94|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|54.254.246.94|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|10|54.183.247.11|3128|United States|San Jose|Amazon.com, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|51.20.3.124|3128|Sweden|Stockholm|Amazon.com, Inc.|
 |13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|51.20.3.124|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|54.159.24.237|8080|United States|Ashburn|Amazon.com, Inc.|
-|17|54.159.239.97|8080|United States|Ashburn|Amazon.com, Inc.|
-|18|98.80.200.41|8080|United States|Ashburn|BellSouth.net Inc.|
-|19|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|20|54.159.24.237|8080|United States|Ashburn|Amazon.com, Inc.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|34.193.237.138|8080|United States|Ashburn|Amazon.com, Inc.|
+|16|3.231.226.41|8080|United States|Ashburn|Amazon Technologies Inc.|
+|17|3.83.187.226|8080|United States|Ashburn|Amazon Technologies Inc.|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|20|54.234.142.17|8080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
