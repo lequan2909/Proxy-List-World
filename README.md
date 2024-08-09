@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|171.240.151.130|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|157.230.33.240|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|182.53.23.107|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
-|10|103.234.34.18|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|103.231.173.114|3128|United States|New York|Netsec Limited|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|171.240.151.130|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|27.74.198.160|4006|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|19|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
+|20|102.39.215.83|9090|South Africa|Cape Town|Vox Telecom|
 
 
 
