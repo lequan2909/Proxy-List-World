@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|9|91.203.179.72|65056|Russia|Smolensk|MAN net Ltd.|
 |10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|17|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
+|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
