@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|72.10.164.178|15179|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|123.182.59.114|8089|China|Shijiazhuang|China Telecom|
-|19|67.43.227.226|13847|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|2049|Canada|Montreal|GloboTech Communications|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|9|72.10.160.171|20233|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|12|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|15|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|18|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
+|19|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
+|20|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
 
 
 
