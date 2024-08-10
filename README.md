@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|4|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|195.199.240.179|8080|Hungary|Újszász|KIFU (Governmental Info Tech Development Agency)|
-|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|185.204.0.94|8080|Russia|Moscow|First Server Limited|
-|20|103.231.173.114|3128|United States|New York|Netsec Limited|
+|8|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|18|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
