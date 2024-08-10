@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|103.231.173.114|3128|United States|New York|Netsec Limited|
 |8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|103.231.173.114|3128|United States|New York|Netsec Limited|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|14|189.127.190.109|8080|Brazil|Xapuri|Govista Telecomunicao Importacao Ltda|
-|15|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|19|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
-|20|183.242.69.110|3218|China|Beijing|China Mobile Communications Corporation|
+|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|157.100.56.47|999|Ecuador|Cariamanga|Ufinet Panama S.A.|
+|14|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|201.77.110.129|999|Mexico|Unión Campesina|Raul Duarte Urita|
+|17|188.125.169.211|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|182.253.68.150|8080|Indonesia|Surabaya|BIZNET|
+|19|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|20|103.203.232.110|3125|Indonesia|Kedok|INDANA|
 
 
 
