@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.231.173.114|3128|United States|New York|Netsec Limited|
-|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|103.231.173.114|3128|United States|New York|Netsec Limited|
+|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|18|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|19|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
+|20|122.53.75.222|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
 
 
 
