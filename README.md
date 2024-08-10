@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|8|72.10.164.178|33125|Canada|Montreal|GloboTech Communications|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|13.229.237.224|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|14|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|138.197.129.19|8089|Canada|Toronto|DigitalOcean, LLC|
-|17|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
-|20|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
+|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.231.173.114|3128|United States|New York|Netsec Limited|
+|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|72.10.164.178|5567|Canada|Montreal|GloboTech Communications|
+|15|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|13.229.237.224|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
+|19|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
