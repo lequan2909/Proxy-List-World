@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|2|13.126.184.76|3128|India|Mumbai|Amazon Technologies Inc.|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.231.173.114|3128|United States|New York|Netsec Limited|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|12|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
-|13|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|103.203.232.110|3125|Indonesia|Kedok|INDANA|
-|19|67.43.227.228|26049|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|6205|Canada|Montreal|GloboTech Communications|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|3|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|4|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|10|101.255.134.100|8080|Indonesia|Jakarta|PT Remala Abadi|
+|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.231.173.114|3128|United States|New York|Netsec Limited|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|15|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|16|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|17|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|18|37.120.187.59|80|Germany|Nuremberg|netcup GmbH|
+|19|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
