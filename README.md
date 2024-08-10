@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|12|185.128.138.192|8080|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
 |14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.231.173.114|3128|United States|New York|Netsec Limited|
 
 
 
