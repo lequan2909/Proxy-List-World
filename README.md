@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|109.74.34.194|8080|Yemen|Al Ḩazm|Public Telecommunication Corporation|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|103.231.173.114|3128|United States|New York|Netsec Limited|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|72.10.164.178|18143|Canada|Montreal|GloboTech Communications|
-|11|13.229.203.40|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|72.10.164.178|18143|Canada|Montreal|GloboTech Communications|
-|16|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
-|17|183.36.24.13|3128|China|Guangzhou|Chinanet|
-|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|109.74.34.194|8080|Yemen|Al Ḩazm|Public Telecommunication Corporation|
+|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|103.170.131.42|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|13.229.203.40|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|18|200.71.237.238|23500|Argentina|Gobernador Crespo|Telecom Argentina S.A.|
+|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|20|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
