@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|15|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
 |16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
-|18|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
-|19|54.254.246.94|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
+|18|54.179.148.153|8080|Singapore|Singapore|Amazon.com, Inc.|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|20|54.254.246.94|8080|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
