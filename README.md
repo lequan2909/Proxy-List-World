@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|171.240.151.130|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|85.172.174.28|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|10|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|14|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|15|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.89.136.82|3128|India|Noida|Planetcast Media Services Limited|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|19|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|20|103.231.173.114|3128|United States|New York|Netsec Limited|
 
 
 
