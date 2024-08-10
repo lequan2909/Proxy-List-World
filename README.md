@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|182.253.154.62|8080|Indonesia|Jakarta|BIZNET|
+|19|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
+|20|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
