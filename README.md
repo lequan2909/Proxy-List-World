@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|61.7.191.186|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|6|171.242.44.47|5104|Vietnam|Hanoi|Viettel Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|61.7.191.186|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|171.240.214.238|5104|Vietnam|Hanoi|Viettel Corporation|
-|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|41.216.186.194|8080|Indonesia|Purbalingga|FASTHOSTING|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|102.68.139.247|8080|Zambia|Lusaka|AirLink Broadband Limited|
+|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|17|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|115.127.91.225|58080|Bangladesh|Dhaka|BRACNet Limited|
-|20|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|20|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
