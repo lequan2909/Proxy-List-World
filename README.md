@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|154.90.49.12|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|5|113.160.155.121|19132|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.174.238.233|8181|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|193.111.124.25|8080|Indonesia|Garut|CV Atha Media Prima|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|5.17.6.83|8080|Russia|St Petersburg|Z-Telecom|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
+|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|11|103.55.30.22|1111|Indonesia|Kupang|PT Jaringan Optic Nusantara|
+|12|194.163.166.203|3128|Germany|Düsseldorf|Contabo GmbH|
+|13|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
+|19|181.198.53.6|3128|Ecuador|Guayaquil|Telconet S.A|
+|20|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
