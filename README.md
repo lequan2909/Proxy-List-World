@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5890** proxies at the latest update. Usable proxies are below.
+> Scraper found **5932** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|268|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|957|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|999|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|269|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3438|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|116.100.70.134|5104|Vietnam|Ngã Bảy|Viettel Corporation|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|115.79.237.110|5104|Vietnam|Ho Chi Minh City|VIETELftth|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|115.72.166.237|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|171.229.208.167|5104|Vietnam|Hanoi|Viettel Corporation|
-|17|103.231.173.114|3128|United States|New York|Netsec Limited|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|20|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|15|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|162.253.155.94|9999|United States|Portland|Reprise Hosting|
+|19|67.43.228.253|29457|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|14793|Canada|Montreal|GloboTech Communications|
 
 
 
