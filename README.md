@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.245.16.35|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|5|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|9|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.231.173.114|3128|United States|New York|Netsec Limited|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
