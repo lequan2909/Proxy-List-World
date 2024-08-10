@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|154.31.26.8|3128|United States|San Jose|HONG KONG Megalayer Technology Co., Limited|
-|14|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|182.253.154.62|8080|Indonesia|Jakarta|BIZNET|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|185.165.232.45|6060|Croatia|Zagreb|Intersat Telekomunikacije d.o.o.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|154.31.26.8|3128|United States|San Jose|HONG KONG Megalayer Technology Co., Limited|
+|17|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|18|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
+|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
