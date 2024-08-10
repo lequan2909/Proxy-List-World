@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.231.173.114|3128|United States|New York|Netsec Limited|
+|6|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|7|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |9|54.254.246.94|8080|Singapore|Singapore|Amazon Technologies Inc.|
 |10|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
-|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
 |12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|15|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
-|16|13.212.39.146|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|17|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|14|36.50.11.198|8080|Bangladesh|Dhaka|Stardust Telecom Ltd|
+|15|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|16|185.204.0.94|8080|Russia|Moscow|First Server Limited|
+|17|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.164.178|33125|Canada|Montreal|GloboTech Communications|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|20|13.212.39.146|8080|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
