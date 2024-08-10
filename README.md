@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|14|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|17|219.144.80.144|3128|China|Liuxiang|CHINANET SHAANXI province Cloud Base network|
-|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|159.65.12.201|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|5|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
+|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|9|38.156.75.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|12|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|15|103.154.77.204|8080|Indonesia|Sleman|T2NET|
+|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.231.173.114|3128|United States|New York|Netsec Limited|
+|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
