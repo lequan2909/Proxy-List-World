@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|5|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
-|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|9|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|10|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|11|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|12|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|14|174.138.20.66|9090|Singapore|Singapore|DigitalOcean, LLC|
-|15|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
-|17|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|19|67.43.227.228|25451|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|11629|Canada|Montreal|GloboTech Communications|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|12|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|19|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
 
 
 
