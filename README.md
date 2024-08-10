@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|4|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|16|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.227.228|15731|Canada|Montreal|GloboTech Communications|
-|19|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|16|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
