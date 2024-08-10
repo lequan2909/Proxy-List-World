@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|182.253.154.62|8080|Indonesia|Jakarta|BIZNET|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|111.94.234.50|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|16|67.43.236.20|25757|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
-|19|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|185.128.138.192|8080|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|94.179.109.254|8081|Ukraine|Kyiv|UKRTELECOM|
+|17|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|19|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
