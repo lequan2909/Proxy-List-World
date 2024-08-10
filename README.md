@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.110.155.159|10001|Vietnam|Hanoi|Viettel Corporation|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|171.101.216.74|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|203.150.113.138|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
-|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.150.113.138|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|45.130.21.47|3128|Netherlands|Amsterdam|Owl Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|182.253.179.34|3128|Indonesia|Jakarta Pusat|BIZNET|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|124.121.58.200|8080|Thailand|Pak Kret|TRUEBB|
+|8|103.162.55.2|18080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
+|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
+|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|17|177.93.40.182|999|Colombia|Tarqui|TV AZTECA SUCURSAL COLOMBIA|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|20|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|13|175.143.205.175|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|15|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|154.159.243.162|8080|Kenya|Nairobi|Airtel KE Mobile Broadband|
+|19|195.199.240.179|8080|Hungary|Újszász|KIFU (Governmental Info Tech Development Agency)|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
