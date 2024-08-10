@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|185.128.138.192|8080|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.231.173.114|3128|United States|New York|Netsec Limited|
-|13|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|181.232.190.218|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|94.179.109.254|8081|Ukraine|Kyiv|UKRTELECOM|
+|13|72.10.164.178|5067|Canada|Montreal|GloboTech Communications|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|200.71.237.238|23500|Argentina|Gobernador Crespo|Telecom Argentina S.A.|
+|17|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|18|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|67.43.236.20|26905|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
