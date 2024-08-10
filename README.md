@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.54.45.99|8026|South Korea|Mok-dong|Cona Hosting SDN BHD|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|103.54.45.99|8026|South Korea|Mok-dong|Cona Hosting SDN BHD|
+|6|213.169.33.7|4000|Bulgaria|Sofia|A1 Bulgaria EAD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|89.46.249.248|25585|United Kingdom|London|Hydra Communications Ltd|
 |9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|163.47.39.37|8080|Bangladesh|Dhaka|Bangladesh Research and Education Network (BdREN)|
+|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
 |14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|16|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
-|17|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|19|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|20|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|41.60.232.35|23500|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|20|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
 
 
 
