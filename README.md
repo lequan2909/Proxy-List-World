@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|203.150.113.138|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|171.101.216.74|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|9|102.222.173.5|8080|Botswana|Gaborone|Donya Digital (Pty) Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|194.163.166.203|3128|Germany|Düsseldorf|Contabo GmbH|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
+|5|171.240.151.130|4016|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|190.124.160.147|8080|Honduras|Cortés|Redes y Telecomunicaciones|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|12|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|103.151.34.152|8080|Indonesia|Tangerang|GAYUHNET|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|19|89.58.32.131|3128|Germany|Nuremberg|netcup GmbH|
-|20|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
+|15|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|16|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|17|122.3.103.17|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|19|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
