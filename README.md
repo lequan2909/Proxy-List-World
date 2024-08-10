@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|14|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|15|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|162.253.155.94|9999|United States|Portland|Reprise Hosting|
-|19|67.43.228.253|29457|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14793|Canada|Montreal|GloboTech Communications|
+|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|1.55.173.222|10001|Vietnam|Hanoi|FPT Telecom Company|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|85.172.174.25|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|5|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|6|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|13|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|16|72.10.164.178|13559|Canada|Montreal|GloboTech Communications|
+|17|170.64.175.174|8089|Australia|Sydney|DigitalOcean, LLC|
+|18|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|19|67.43.228.252|25651|Canada|Montreal|GloboTech Communications|
+|20|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
 
 
 
