@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5940** proxies at the latest update. Usable proxies are below.
+> Scraper found **5906** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|266|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|878|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|844|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|273|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3565|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|101.255.210.50|8080|Indonesia|Jakarta|PT Remala Abadi|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|109.74.34.194|8080|Yemen|Al Ḩazm|Public Telecommunication Corporation|
 |4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|7|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|13.229.203.40|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|11|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|12|47.128.78.44|8080|Singapore|Singapore|Amazon Technologies Inc|
-|13|52.221.244.218|8080|Singapore|Singapore|Amazon.com, Inc.|
-|14|13.229.237.224|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|15|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|16|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
-|17|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|18|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.231.173.114|3128|United States|New York|Netsec Limited|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|72.10.164.178|18143|Canada|Montreal|GloboTech Communications|
+|11|13.229.203.40|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|72.10.164.178|18143|Canada|Montreal|GloboTech Communications|
+|16|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
+|17|183.36.24.13|3128|China|Guangzhou|Chinanet|
+|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
