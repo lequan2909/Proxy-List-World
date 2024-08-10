@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|2|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|9|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|103.137.111.169|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
-|13|67.43.227.227|24369|Canada|Montreal|GloboTech Communications|
-|14|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|15|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|67.43.227.228|20455|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|2|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|3|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|67.43.227.227|20053|Canada|Montreal|GloboTech Communications|
+|15|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|16|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|5.8.64.55|3128|Russia|Moscow|IP SERVER LLC|
+|20|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
