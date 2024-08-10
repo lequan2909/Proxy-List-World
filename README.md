@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|87.255.200.108|60080|Kazakhstan|Almaty Oblysy|NLS Kazakhstan LLC|
-|10|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|9|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|103.231.173.114|3128|United States|New York|Netsec Limited|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.227.226|9219|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.231.173.114|3128|United States|New York|Netsec Limited|
+|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|185.89.156.2|44224|Albania|Tirana|ATU|
 
 
 
