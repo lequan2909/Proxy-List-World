@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|103.231.173.114|3128|United States|New York|Netsec Limited|
-|8|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
-|9|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|195.199.240.179|8080|Hungary|Újszász|KIFU (Governmental Info Tech Development Agency)|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |11|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
 |12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|14|157.100.56.47|999|Ecuador|Cariamanga|Ufinet Panama S.A.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|201.71.3.61|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|17|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|15|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|199.195.253.213|3128|United States|New York|FranTech Solutions|
 
 
 
