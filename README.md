@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|6|202.21.115.182|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|7|20.169.241.97|3128|United States|Boydton|Microsoft Corporation|
-|8|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|116.100.70.134|5104|Vietnam|Ngã Bảy|Viettel Corporation|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|115.79.237.110|5104|Vietnam|Ho Chi Minh City|VIETELftth|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|115.72.166.237|10001|Vietnam|Vũng Tàu|VIETELmetro|
 |14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|20.169.241.97|3128|United States|Boydton|Microsoft Corporation|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|171.229.208.167|5104|Vietnam|Hanoi|Viettel Corporation|
 |17|103.231.173.114|3128|United States|New York|Netsec Limited|
-|18|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|20|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
 
 
 
