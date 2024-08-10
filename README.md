@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|20|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|12|79.137.136.241|8079|Russia|Moscow|Slavcom Ltd.|
+|13|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|16|181.198.53.6|3128|Ecuador|Guayaquil|Telconet S.A|
+|17|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|18|67.43.236.20|14945|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|19939|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|13471|Canada|Montreal|GloboTech Communications|
 
 
 
