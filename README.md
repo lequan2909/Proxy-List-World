@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|154.90.48.9|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|103.231.173.114|3128|United States|New York|Netsec Limited|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.234.31.58|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|11|103.174.238.233|8181|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|12|103.231.173.114|3128|United States|New York|Netsec Limited|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|13.229.237.224|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|15|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|18|191.97.19.61|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|19|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
