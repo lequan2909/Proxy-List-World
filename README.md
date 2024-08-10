@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|5|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
 |6|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
-|7|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|8|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|24.152.58.132|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|8|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|16|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|17|103.231.173.114|3128|United States|New York|Netsec Limited|
+|18|54.254.202.240|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|19|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
+|20|52.221.228.246|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
 
