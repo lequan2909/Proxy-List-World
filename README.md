@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|4|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|5|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|6|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|10|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|67.43.236.19|29969|Canada|Montreal|GloboTech Communications|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|3|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|67.43.227.227|24789|Canada|Montreal|GloboTech Communications|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.164.178|29305|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|24789|Canada|Montreal|GloboTech Communications|
-|20|123.182.59.133|8089|China|Shijiazhuang|China Telecom|
+|15|123.182.59.133|8089|China|Shijiazhuang|China Telecom|
+|16|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|185.89.156.2|44224|Albania|Tirana|ATU|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
