@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|182.253.109.91|8080|Indonesia|Semarang|Biznet Metronet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|181.57.171.254|8085|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|5.8.64.55|3128|Russia|Moscow|IP SERVER LLC|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|182.253.109.91|8080|Indonesia|Semarang|Biznet Metronet|
+|8|203.150.128.244|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|138.201.199.62|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|182.253.68.150|8080|Indonesia|Surabaya|BIZNET|
+|17|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|18|13.212.87.176|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|13.229.237.224|8080|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
