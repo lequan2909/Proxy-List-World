@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
-|11|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|72.10.164.178|26079|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|17533|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|9947|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|24891|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|10015|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|9947|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|24891|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|24891|Canada|Montreal|GloboTech Communications|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.231.173.114|3128|United States|New York|Netsec Limited|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
+|9|67.43.227.227|24891|Canada|Montreal|GloboTech Communications|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|67.43.236.20|28515|Canada|Montreal|GloboTech Communications|
+|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|14|67.43.227.227|24891|Canada|Montreal|GloboTech Communications|
+|15|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.174|25917|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|3907|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|3907|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|3907|Canada|Montreal|GloboTech Communications|
 
 
 
