@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|101.255.169.249|8080|Indonesia|Bekasi|PT Remala Abadi|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|188.121.117.214|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
 
 
 
