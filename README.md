@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.140.188.217|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|3|203.150.128.244|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|182.253.109.91|8080|Indonesia|Semarang|Biznet Metronet|
-|7|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|194.163.166.203|3128|Germany|Düsseldorf|Contabo GmbH|
-|13|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|18|46.137.200.214|8080|Singapore|Singapore|Amazon.com, Inc.|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
