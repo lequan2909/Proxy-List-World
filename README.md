@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|181.204.81.181|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|31221|Canada|Montreal|GloboTech Communications|
-|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|20|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|72.10.164.178|23191|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|103.31.235.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 
 
 
