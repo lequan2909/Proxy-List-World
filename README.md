@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|67.220.86.253|3128|United States|Phoenix|GTHost|
-|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|11|41.60.232.35|23500|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|103.231.173.114|3128|United States|New York|Netsec Limited|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
-|18|72.10.160.174|25579|Canada|Montreal|GloboTech Communications|
-|19|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|20|72.10.160.90|11419|Canada|Montreal|GloboTech Communications|
+|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|163.172.33.137|4002|France|Vitry-sur-Seine|Online S.A.S.|
+|4|163.47.39.37|8080|Bangladesh|Dhaka|Bangladesh Research and Education Network (BdREN)|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|188.132.222.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.231.173.114|3128|United States|New York|Netsec Limited|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|16|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
+|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
