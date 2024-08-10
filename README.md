@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5525** proxies at the latest update. Usable proxies are below.
+> Scraper found **5641** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|285|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|747|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|863|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|166|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3369|✅|
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|103.231.173.114|3128|United States|New York|Netsec Limited|
 |7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
-|9|67.43.227.227|24891|Canada|Montreal|GloboTech Communications|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|67.43.236.20|28515|Canada|Montreal|GloboTech Communications|
-|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|14|67.43.227.227|24891|Canada|Montreal|GloboTech Communications|
-|15|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.174|25917|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3907|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3907|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3907|Canada|Montreal|GloboTech Communications|
+|8|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
+|9|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
+|10|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|103.55.30.22|1111|Indonesia|Kupang|PT Jaringan Optic Nusantara|
+|13|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|17|113.212.87.242|83|India|Ahmedabad|INPLs|
+|18|72.10.164.178|17091|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|17091|Canada|Montreal|GloboTech Communications|
+|20|103.231.173.114|3128|United States|New York|Netsec Limited|
 
 
 
