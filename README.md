@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|8|38.156.72.57|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|154.90.48.183|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|202.12.80.10|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|41.60.232.35|23500|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|82.137.244.151|8080|Syria|Damascus|ISP-TARASSUL|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|152.26.231.86|9443|United States|Huntersville|MCNC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|200.37.252.122|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|19|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|20|72.10.160.90|11629|Canada|Montreal|GloboTech Communications|
 
 
 
