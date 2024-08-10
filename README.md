@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|185.130.226.161|4006|The Netherlands|Amsterdam|Hostkey BV direct|
+|3|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
 |7|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|8|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|181.214.208.191|8080|The Netherlands|Amsterdam|rack400 com netherlands Infrastructure|
-|17|203.145.58.234|8080|Indonesia|Cianjur|PT HSN GLOBAL NETWORK|
-|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|20|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|202.12.80.15|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|183.88.214.44|8080|Thailand|Phan Thong|Triple T Broadband Public Company Limited|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.124.225.41|80|Bangladesh|Dhaka|Level3|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|78.111.85.50|3128|The Netherlands|Amsterdam|ITGLOBAL.COM NL B.V.|
+|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
