@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|8|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
-|19|77.48.22.49|33347|Czechia|Klopotovice|Vodafone Czech Republic|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|5|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|6|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|185.95.165.72|3129|Turkey|Istanbul|IHS Kurumsal Teknoloji Hizmetleri A.S|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|103.231.173.114|3128|United States|New York|Netsec Limited|
+|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|15|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|54.179.51.247|8080|Singapore|Singapore|Amazon.com, Inc.|
 |20|46.137.228.134|8080|Singapore|Singapore|Amazon.com, Inc.|
 
 
