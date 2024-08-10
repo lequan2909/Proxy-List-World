@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|110.78.149.81|8080|Thailand|Pluak Daeng|CAT-BB|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|213.6.78.87|8080|Palestine|Nablus|Palestine Telecommunications Company|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|7|110.78.149.81|8080|Thailand|Pluak Daeng|CAT-BB|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|101.255.166.185|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|104.156.140.145|3128|United States|Los Angeles|Multacom Corporation|
+|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
 |17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|20|104.156.140.145|3128|United States|Los Angeles|Multacom Corporation|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
