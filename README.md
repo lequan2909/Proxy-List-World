@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|547|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|547|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|547|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|4|103.154.91.182|8080|Indonesia|Jakarta|MORATELINDONAP|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
 |7|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|8|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
-|10|103.155.197.193|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|11|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|12|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
-|13|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
-|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|103.76.149.198|8082|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
+|17|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|20|104.156.140.145|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
