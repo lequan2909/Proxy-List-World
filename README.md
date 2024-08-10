@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|61.7.191.186|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|17|175.143.205.175|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|18|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|13.229.203.40|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|61.7.191.186|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|4|116.107.232.189|10001|Vietnam|Haiphong|Viettel Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|171.242.44.47|5104|Vietnam|Hanoi|Viettel Corporation|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|41.216.186.194|8080|Indonesia|Purbalingga|FASTHOSTING|
+|19|13.229.203.40|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|20|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
