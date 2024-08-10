@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|11|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|12|67.43.236.22|5291|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|67.43.236.20|28515|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|26079|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.229|22975|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26079|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|10597|Canada|Montreal|GloboTech Communications|
+|1|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|10|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|12|43.250.175.68|38080|Japan|Tokyo|Zenlayer Inc|
+|13|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|17|67.43.236.22|5291|Canada|Montreal|GloboTech Communications|
+|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
 
 
 
