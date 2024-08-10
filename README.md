@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.159.96.20|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.159.96.20|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.203.201.146|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 
 
 
