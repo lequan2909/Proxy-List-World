@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
-|3|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
-|7|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|46.253.99.71|8080|Czechia|Náchod|Edera Group a.s.|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|185.130.226.161|4006|The Netherlands|Amsterdam|Hostkey BV direct|
+|9|103.159.196.81|1111|Indonesia|Serang|PT Andalan Dinamika Informatika|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|16|181.214.208.191|8080|The Netherlands|Amsterdam|rack400 com netherlands Infrastructure|
-|17|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|103.124.225.41|80|Bangladesh|Dhaka|Level3|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|183.88.214.44|8080|Thailand|Phan Thong|Triple T Broadband Public Company Limited|
+|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
 
 
 
