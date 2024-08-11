@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5601** proxies at the latest update. Usable proxies are below.
+> Scraper found **5789** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|734|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|922|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|280|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3329|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|165.22.104.131|9090|Singapore|Singapore|DigitalOcean, LLC|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|146.196.96.186|7777|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|177.222.25.9|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|17|45.133.107.246|81|Russia|Mezmay|Art-net LLC|
-|18|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|152.26.231.86|9443|United States|Huntersville|MCNC|
+|11|117.5.14.71|10001|Vietnam|Thanh Hóa|VIETTEL|
+|12|195.87.136.2|5331|Türkiye|Magnesia ad Sipylum|Vodafone NET Iletisim Hizmetleri Anonim Sirketi|
+|13|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|67.43.228.253|27597|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|23873|Canada|Montreal|GloboTech Communications|
+|16|190.145.227.114|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|67.43.227.227|30369|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
