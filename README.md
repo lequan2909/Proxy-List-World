@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|5|103.231.173.114|3128|United States|New York|Netsec Limited|
-|6|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
-|9|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|45.226.205.33|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
-|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|13|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|20127|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|103.231.173.114|3128|United States|New York|Netsec Limited|
+|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|8|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|9|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
+|10|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|13|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|72.10.164.178|21129|Canada|Montreal|GloboTech Communications|
+|15|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|20|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
