@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|191.36.212.250|9010|Brazil|Boituva|BRC TELECOMUNICACOES EIRELI|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
-|15|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|72.10.164.178|1083|Canada|Montreal|GloboTech Communications|
-|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|15|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|16|103.174.236.96|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|24.204.29.115|8080|United States|Longview|Network IP|
 |19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.227.227|6037|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|27567|Canada|Montreal|GloboTech Communications|
 
 
 
