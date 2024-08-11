@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|125.26.97.183|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|3|125.26.97.183|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|4|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
 |5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|10|182.23.35.242|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|11|103.174.236.43|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|12|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|16|84.214.150.146|8080|Norway|Hakadal|Get AS|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|195.87.136.2|5331|Türkiye|Magnesia ad Sipylum|Vodafone NET Iletisim Hizmetleri Anonim Sirketi|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|12|202.154.36.129|8080|Indonesia|Surabaya|RADNET-BDG|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|16|182.253.154.62|8080|Indonesia|Jakarta|BIZNET|
+|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|18|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
 
 
 
