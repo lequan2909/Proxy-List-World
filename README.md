@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
+|4|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|5|103.203.232.110|3125|Indonesia|Kedok|INDANA|
 |6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|9|152.26.231.42|9443|United States|Huntersville|MCNC|
-|10|152.26.231.86|9443|United States|Huntersville|MCNC|
-|11|117.5.14.71|10001|Vietnam|Thanh Hóa|VIETTEL|
-|12|195.87.136.2|5331|Türkiye|Magnesia ad Sipylum|Vodafone NET Iletisim Hizmetleri Anonim Sirketi|
-|13|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|67.43.228.253|27597|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|23873|Canada|Montreal|GloboTech Communications|
-|16|190.145.227.114|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|67.43.227.227|30369|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|195.199.240.179|8080|Hungary|Újszász|KIFU (Governmental Info Tech Development Agency)|
+|13|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
