@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|67.43.227.229|20929|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|2903|Canada|Montreal|GloboTech Communications|
-|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.236.20|11049|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2149|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2149|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|11049|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.227.227|2903|Canada|Montreal|GloboTech Communications|
-|17|123.182.59.215|8089|China|Shijiazhuang|China Telecom|
-|18|72.10.160.90|16927|Canada|Montreal|GloboTech Communications|
-|19|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|7|188.125.169.211|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|67.43.227.227|20511|Canada|Montreal|GloboTech Communications|
+|10|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
+|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|67.43.236.20|11049|Canada|Montreal|GloboTech Communications|
+|13|192.82.92.33|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|14|72.10.164.178|21645|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|21645|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|20511|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|19|67.43.236.20|11049|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|30767|Canada|Montreal|GloboTech Communications|
 
 
 
