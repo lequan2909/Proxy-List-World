@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|222.127.67.204|8085|Philippines|Lahug|INNOVE|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|181.232.190.218|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|10|189.127.190.109|8080|Brazil|Xapuri|Govista Telecomunicao Importacao Ltda|
 |11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|14|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|15|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|156.67.214.186|3128|Singapore|Singapore|HOSTINGER SG|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|181.39.24.155|999|Ecuador|Guayaquil|Telconet S.A|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.160.90|14821|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.19|15929|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.230|5949|Canada|Montreal|GloboTech Communications|
+|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
