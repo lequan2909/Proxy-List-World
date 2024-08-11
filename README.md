@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|45.226.205.33|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|122.53.75.222|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|8|46.161.196.141|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|36.50.11.198|8080|Bangladesh|Dhaka|Stardust Telecom Ltd|
-|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|1|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|4|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|5|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|103.231.173.114|3128|United States|New York|Netsec Limited|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|11|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
 |12|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|13|72.10.164.178|6451|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|6451|Canada|Montreal|GloboTech Communications|
-|15|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.160.170|11919|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|15421|Canada|Montreal|GloboTech Communications|
-|20|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|72.10.164.178|15697|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
+|19|111.172.239.145|3128|China|Wuhan|China Telecom|
+|20|72.10.160.170|27073|Canada|Montreal|GloboTech Communications|
 
 
 
