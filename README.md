@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|176.121.48.97|23500|Russia|Zhavoronki|ZAO Greenline|
-|7|223.206.39.105|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.231.173.114|3128|United States|New York|Netsec Limited|
-|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|13|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|15.235.171.194|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|16|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|20|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|15.235.171.194|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|9|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|10|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|15|68.162.217.121|8080|United States|Leominster|Verizon Business|
+|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|17|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|20|181.233.90.70|999|Venezuela|Cabimas|Colnetwork C.A.|
 
 
 
