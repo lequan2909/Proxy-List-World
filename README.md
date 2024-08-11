@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
 |4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|164.92.207.53|30000|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.191.250.106|8083|Indonesia|Batam|PT Mulia Batam Net|
-|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|17|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|18|195.199.240.179|8080|Hungary|Újszász|KIFU (Governmental Info Tech Development Agency)|
-|19|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|210.231.177.142|8080|Japan|Chiyoda|NEWALLESNET|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|212.108.144.67|8080|Cyprus|Nicosia|Lifecell Digital LTD|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|18|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|19|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
