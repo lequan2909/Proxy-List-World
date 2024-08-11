@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|131.255.136.193|32650|Peru|Mi Perú|Level 3 Communications, Inc.|
+|2|124.107.144.249|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 |3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|186.215.87.194|6003|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
-|8|72.10.164.178|18845|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|18845|Canada|Montreal|GloboTech Communications|
-|10|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|11|67.43.236.20|7935|Canada|Montreal|GloboTech Communications|
-|12|41.216.186.183|8181|Indonesia|Purbalingga|FASTHOSTING|
-|13|111.225.153.92|8089|China|Shijiazhuang|China Telecom|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.160.171|12777|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|18365|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|22821|Canada|Montreal|GloboTech Communications|
-|19|86.190.123.0|80|United Kingdom|Kensington|BT Public Internet Service|
-|20|103.122.1.74|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|111.225.153.92|8089|China|Shijiazhuang|China Telecom|
+|7|138.59.151.162|8080|Brazil|Porto Feliz|Wireless Comm Services LTDA|
+|8|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|9|72.10.160.90|21133|Canada|Montreal|GloboTech Communications|
+|10|111.225.152.133|8089|China|Shijiazhuang|China Telecom|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|203.175.102.22|8082|Indonesia|Darma|PT. Mitra Kita Brilian|
+|14|67.43.228.253|8673|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|21133|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.171|20345|Canada|Montreal|GloboTech Communications|
+|17|183.36.24.13|3128|China|Guangzhou|Chinanet|
+|18|111.225.152.66|8089|China|Shijiazhuang|China Telecom|
+|19|67.43.227.230|6909|Canada|Montreal|GloboTech Communications|
+|20|103.69.151.189|8080|Bangladesh|Chittagong|DJBL|
 
 
 
