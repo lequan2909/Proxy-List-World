@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|170.205.29.82|8080|Japan|Tokyo|Advin Services LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|201.77.110.129|999|Mexico|Unión Campesina|Raul Duarte Urita|
-|10|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|67.43.227.226|3389|Canada|Montreal|GloboTech Communications|
-|12|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|13|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|116.99.239.196|30013|Vietnam|Đắk Mil|Viettel Corporation|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|171.231.28.200|49236|Vietnam|Pleiku|Viettel Corporation|
+|1|170.205.29.82|8080|Japan|Tokyo|Advin Services LLC|
+|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.130.175.169|8080|Bangladesh|Dhaka|Md. Rashed Harun-Or|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|5.44.101.53|13128|Germany|Frankfurt am Main|Alvotech GmbH via velia.net|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|19|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
+|20|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
