@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|14|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|15|72.10.164.178|11283|Canada|Montreal|GloboTech Communications|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|72.10.164.178|11283|Canada|Montreal|GloboTech Communications|
-|20|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
+|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|191.102.248.9|8084|Argentina|Rosario|IP·RED|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|181.64.75.158|999|Peru|Lima region|TDP-GRS|
+|14|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|16|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
