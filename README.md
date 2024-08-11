@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|103.169.254.9|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|177.93.58.182|999|Colombia|California|TV AZTECA SUCURSAL COLOMBIA|
 |10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|14|15.235.47.90|3128|Canada|Beauharnois|OVH SAS|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|217.160.221.48|3128|Germany|Karlsruhe|1&1 IONOS SE|
-|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|18|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
-|19|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|203.150.128.35|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|19|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|20|103.75.85.115|1111|Indonesia|Pekalongan|MEGADATA|
 
 
 
