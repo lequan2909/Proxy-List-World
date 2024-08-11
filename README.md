@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|27.50.29.82|8080|Indonesia|South Tangerang|PT. Mora Telematika Indonesia|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|219.151.19.1|3128|China|Guiyang|Chinanet|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|17|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
-|18|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
-|19|202.179.69.216|58080|India|Pune|Ankhnet|
-|20|67.43.236.20|7091|Canada|Montreal|GloboTech Communications|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 
 
 
