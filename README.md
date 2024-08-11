@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|103.55.30.22|1111|Indonesia|Kupang|PT Jaringan Optic Nusantara|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|6|103.87.169.176|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|9|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|10|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|11|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|152.26.229.86|9443|United States|Huntersville|MCNC|
+|14|170.82.13.121|3600|Brazil|Porto Seguro|Netcenter Telecom|
+|15|114.236.93.203|22488|China|Guangzhou|Chinanet|
 |16|67.43.227.227|28505|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.105.76.65|8080|Indonesia|Bojonegoro|GARUDA|
-|19|103.231.173.114|3128|United States|New York|Netsec Limited|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|89.58.32.131|3128|Germany|Nuremberg|netcup GmbH|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
