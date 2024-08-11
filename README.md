@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|177.46.198.115|8080|Brazil|Rio de Janeiro|Telecom South America S/A|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|170.84.146.176|8099|Brazil|Beneditinos|Direct Telecom Ltda|
-|10|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|12|67.43.227.227|24829|Canada|Montreal|GloboTech Communications|
-|13|103.162.63.181|8080|Indonesia|Bangkalan|PT Ring Media Nusantara|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|72.10.164.178|27273|Canada|Montreal|GloboTech Communications|
-|20|103.231.173.114|3128|United States|New York|Netsec Limited|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|152.26.229.86|9443|United States|Huntersville|MCNC|
+|4|103.131.18.183|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|6|103.231.173.114|3128|United States|New York|Netsec Limited|
+|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|36.66.130.147|80|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|15|171.97.16.245|8080|Thailand|Pak Kret|True Internet Corporation CO. Ltd.|
+|16|72.10.164.178|5947|Canada|Montreal|GloboTech Communications|
+|17|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|18|72.10.160.90|17835|Canada|Montreal|GloboTech Communications|
+|19|103.131.19.43|8080|Indonesia|Batang|PT Global Media Data Prima|
+|20|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
 
 
 
