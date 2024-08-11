@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|152.26.231.86|9443|United States|Huntersville|MCNC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.201.153.90|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
-|12|67.43.236.22|31561|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.93|7883|Canada|Montreal|GloboTech Communications|
-|14|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.48.70.209|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|67.43.227.227|20249|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|1667|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|21321|Canada|Montreal|GloboTech Communications|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.231.86|9443|United States|Huntersville|MCNC|
+|8|152.26.231.42|9443|United States|Huntersville|MCNC|
+|9|72.10.160.171|16297|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.173|31341|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.19|31189|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|28975|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|15|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|16|72.10.164.178|1573|Canada|Montreal|GloboTech Communications|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|103.170.64.128|1111|India|Pune|Dream Cables|
+|19|67.43.228.250|28975|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
