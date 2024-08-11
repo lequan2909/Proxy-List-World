@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.172.120.219|7777|Indonesia|Semarang|PT Digital Akses Nusantara|
-|6|185.153.92.229|8079|Russia|Sochi|3lan ru|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.169.241.238|3128|United States|Boydton|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|178.115.230.100|8080|Austria|Reichenthal|customers with static IP|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|15|103.134.220.128|1111|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|16|20.169.241.238|3128|United States|Boydton|Microsoft Corporation|
-|17|103.99.27.234|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|177.46.198.115|8080|Brazil|Rio de Janeiro|Telecom South America S/A|
+|3|103.162.63.181|8080|Indonesia|Bangkalan|PT Ring Media Nusantara|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.153.62.155|8080|Indonesia|Jakarta|IMEDIANET|
+|12|67.43.227.227|13589|Canada|Montreal|GloboTech Communications|
+|13|152.26.231.42|9443|United States|Huntersville|MCNC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|45.229.30.81|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
+|16|67.43.227.227|13589|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.92|5503|Canada|Montreal|GloboTech Communications|
+|18|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|67.43.227.227|13589|Canada|Montreal|GloboTech Communications|
 
 
 
