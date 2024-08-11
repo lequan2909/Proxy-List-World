@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
 |2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|11|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|12|72.10.160.171|29775|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|1763|Canada|Montreal|GloboTech Communications|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|45.76.124.96|80|Australia|Sydney|The Constant Company|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|18|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|19|67.43.227.227|28861|Canada|Montreal|GloboTech Communications|
-|20|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|6|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|103.231.173.114|3128|United States|New York|Netsec Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|15.235.171.194|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.227|8223|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.42|9443|United States|Huntersville|MCNC|
+|17|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.227|8223|Canada|Montreal|GloboTech Communications|
 
 
 
