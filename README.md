@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|27.50.29.82|8080|Indonesia|South Tangerang|PT. Mora Telematika Indonesia|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.118.152.126|3128|Colombia|Puerres|Telmex Colombia S.A.|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.168.123.2|8080|Indonesia|Jakarta|LINTASARTA|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.227.227|18921|Canada|Montreal|GloboTech Communications|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |11|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|103.75.85.100|1111|Indonesia|Pekalongan|MEGADATA|
-|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|67.43.227.227|20793|Canada|Montreal|GloboTech Communications|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|16|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|67.43.236.18|25087|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|22869|Canada|Montreal|GloboTech Communications|
 
 
 
