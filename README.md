@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|182.52.137.62|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|8|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|13|181.119.106.85|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|67.43.227.227|24863|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.228.250|29967|Canada|Montreal|GloboTech Communications|
+|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|49.144.27.137|8081|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|6|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|10|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.137.111.169|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|20|186.125.218.146|999|Argentina|Molinos|Telecom Argentina S.A.|
 
 
 
