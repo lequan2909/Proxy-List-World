@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|190.9.55.17|3128|Mexico|Hermosillo|Konecta Sonora SA de CV|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|8|84.204.138.51|8080|Russia|St Petersburg|PJSC MegaFon|
-|9|38.156.72.235|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.231.173.114|3128|United States|New York|Netsec Limited|
-|13|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|15|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|17|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|18|67.43.227.227|21085|Canada|Montreal|GloboTech Communications|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.162.54.251|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
+|7|182.252.80.1|8082|Bangladesh|Sirajganj|Agni Systems Limited|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|10|212.248.95.26|6565|Russia|Moscow|MTS PJSC|
+|11|43.243.174.26|83|India|Pune|Shah Solutions|
+|12|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|182.253.68.150|8080|Indonesia|Surabaya|BIZNET|
+|15|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|17|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|18|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|19|188.125.169.211|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 
 
 
