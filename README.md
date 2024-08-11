@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|152.26.231.42|9443|United States|Huntersville|MCNC|
-|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
 |10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|72.10.164.178|3205|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|201.20.94.93|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|67.43.227.226|22745|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|138.201.135.176|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|12|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|72.10.164.178|14499|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
