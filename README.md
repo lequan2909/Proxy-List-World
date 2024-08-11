@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|67.43.227.227|19797|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|67.43.227.228|5891|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22875|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|7|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|79.111.13.223|8080|Russia|Lyubertsy|PJSC MegaFon|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|20|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
 
 
 
