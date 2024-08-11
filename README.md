@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|103.182.212.201|6969|Bangladesh|Gafargaon|Md Ibrahim|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|203.150.113.67|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|51.158.62.124|34957|France|Paris|SCALEWAY|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.182.212.201|6969|Bangladesh|Gafargaon|Md Ibrahim|
+|3|51.158.62.124|34957|France|Paris|SCALEWAY|
+|4|203.150.113.67|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|11|190.82.105.122|43949|Chile|La Cisterna|Telefonica Empresas|
+|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|72.10.164.178|32263|Canada|Montreal|GloboTech Communications|
-|16|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|17|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.90|31293|Canada|Montreal|GloboTech Communications|
-|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|16|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|103.172.120.219|7777|Indonesia|Semarang|PT Digital Akses Nusantara|
+|20|72.10.160.90|31293|Canada|Montreal|GloboTech Communications|
 
 
 
