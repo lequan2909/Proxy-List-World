@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|103.165.155.161|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|10|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
-|13|36.91.45.12|51672|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|17|177.93.58.182|999|Colombia|California|TV AZTECA SUCURSAL COLOMBIA|
-|18|58.137.174.101|8080|Thailand|Huai Khwang|AGC|
-|19|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|102.66.222.137|8080|South Africa|Cape Town|HERO TELECOMS (PTY) LTD|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|15|103.231.173.114|3128|United States|New York|Netsec Limited|
+|16|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|20|103.179.252.76|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
 
 
 
