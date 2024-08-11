@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.93.50.2|8888|United States|North Bergen|DigitalOcean, LLC|
-|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.102.40.71|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|142.93.50.2|8888|United States|North Bergen|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
-|10|202.138.240.9|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|154.90.48.82|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|108.181.187.213|9001|United States|Dallas|Psychz Networks|
-|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|116.102.40.71|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
