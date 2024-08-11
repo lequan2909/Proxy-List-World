@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|8|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|159.69.212.168|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|19|103.231.173.114|3128|United States|New York|Netsec Limited|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|8|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.137.111.169|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|13|15.235.47.90|3128|Canada|Beauharnois|OVH SAS|
+|14|182.253.68.150|8080|Indonesia|Surabaya|BIZNET|
+|15|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
+|16|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|17|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|19|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
