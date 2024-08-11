@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.97.167.86|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|103.155.198.164|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|5|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|8|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|10|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
-|13|165.22.242.108|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|15|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|72.10.164.178|1375|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|29325|Canada|Montreal|GloboTech Communications|
-|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|182.253.154.62|8080|Indonesia|Jakarta|BIZNET|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|1.230.21.150|8443|South Korea|Guro-gu|SK Broadband Co Ltd|
+|8|103.124.199.117|8080|Indonesia|Batam|INTEK|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|11|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|12|182.253.154.62|8080|Indonesia|Jakarta|BIZNET|
+|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|14|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|16|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|17|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|102.211.209.124|3128|Tunisia|Tunis|OXAHOST|
+|19|103.194.172.130|8080|Indonesia|Bandung|MYNET|
+|20|72.10.164.178|1375|Canada|Montreal|GloboTech Communications|
 
 
 
