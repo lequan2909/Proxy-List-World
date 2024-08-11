@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|2|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|103.228.246.131|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|6|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|180.254.150.222|8080|Indonesia|Palembang|PT. TELKOM INDONESIA|
+|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|3|103.228.246.131|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 |10|103.231.173.114|3128|United States|New York|Netsec Limited|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|14|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|15|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.231.173.114|3128|United States|New York|Netsec Limited|
+|11|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|195.87.136.2|5331|Türkiye|Magnesia ad Sipylum|Vodafone NET Iletisim Hizmetleri Anonim Sirketi|
+|16|36.94.185.122|60080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.164.178|7719|Canada|Montreal|GloboTech Communications|
+|20|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
 
 
 
