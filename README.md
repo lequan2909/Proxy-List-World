@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|104.195.51.250|5678|United States|Los Angeles|eSited Solutions|
-|6|200.69.21.207|3128|Singapore|Singapore|A2 Hosting, Inc.|
+|2|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|3|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|8.218.100.45|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|11|67.43.227.228|32589|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.93|3319|Canada|Montreal|GloboTech Communications|
-|13|103.109.39.5|3128|Vietnam|Ba Đình District|Adsota Corporation|
-|14|152.26.231.42|9443|United States|Huntersville|MCNC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|72.10.160.170|15135|Canada|Montreal|GloboTech Communications|
-|17|219.151.19.1|3128|China|Guiyang|Chinanet|
-|18|103.231.173.114|3128|United States|New York|Netsec Limited|
-|19|103.166.159.163|8080|Indonesia|Serang|PT Timor Lintas Nusantara|
-|20|72.10.164.178|20611|Canada|Montreal|GloboTech Communications|
+|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|9|115.244.196.90|3129|India|Pune|Reliance Jio Infocomm Limited|
+|10|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|11|103.231.173.114|3128|United States|New York|Netsec Limited|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|103.105.55.51|9090|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
+|14|222.127.55.155|8083|Philippines|Lahug|INNOVE|
+|15|103.109.39.5|3128|Vietnam|Ba Đình District|Adsota Corporation|
+|16|72.10.160.93|19253|Canada|Montreal|GloboTech Communications|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.160.170|5391|Canada|Montreal|GloboTech Communications|
+|20|158.101.244.172|3128|Saudi Arabia|Jeddah|Oracle Corporation|
 
 
 
