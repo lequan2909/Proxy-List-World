@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|38.180.31.190|3128|France|Paris|M247 Europe SRL|
-|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
-|10|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|103.231.173.114|3128|United States|New York|Netsec Limited|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|13|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|14|103.122.1.74|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|15|45.224.149.243|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|18|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|20|103.191.250.106|8083|Indonesia|Batam|PT Mulia Batam Net|
 
 
 
