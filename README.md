@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.80.82.178|8181|Indonesia|Batutering|Jaringanku Sarana Nusantara|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.162.62.250|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 |7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|182.23.35.242|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|13|152.26.231.42|9443|United States|Huntersville|MCNC|
-|14|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|15|67.43.236.20|16931|Canada|Montreal|GloboTech Communications|
-|16|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.228.254|18461|Canada|Montreal|GloboTech Communications|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.87.169.181|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|11|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|15|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.20|25731|Canada|Montreal|GloboTech Communications|
+|20|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
 
 
 
