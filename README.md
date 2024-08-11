@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|11|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|13|72.10.164.178|11283|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.86|9443|United States|Huntersville|MCNC|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|11283|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|67.43.227.226|7077|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|22121|Canada|Montreal|GloboTech Communications|
-|20|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
+|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|8|79.111.13.223|8080|Russia|Lyubertsy|PJSC MegaFon|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|19|72.10.164.178|10389|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|30063|Canada|Montreal|GloboTech Communications|
 
 
 
