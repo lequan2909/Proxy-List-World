@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.154.178.106|3128|Indonesia|Jambi City|PT Aneka Teguh Jaya|
-|9|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|13|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|14|72.10.164.178|1589|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|22651|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.86.117.21|8080|Indonesia|Sumenep|PT Link Data Sumber Barokah|
+|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|8|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|12|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|13|152.26.231.86|9443|United States|Huntersville|MCNC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|19|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
