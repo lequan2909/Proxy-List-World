@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|67.43.236.21|9743|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.227|11095|Canada|Montreal|GloboTech Communications|
+|2|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|67.43.227.228|21287|Canada|Montreal|GloboTech Communications|
-|10|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
-|11|72.10.164.178|19939|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|8407|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|19939|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|19939|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|19787|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|24315|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|8407|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|67.43.236.20|8407|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|3127|Canada|Montreal|GloboTech Communications|
+|9|103.18.77.36|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|67.43.227.227|11095|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.21|9743|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|16761|Canada|Montreal|GloboTech Communications|
+|13|152.26.231.86|9443|United States|Huntersville|MCNC|
+|14|67.43.236.20|25145|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|25145|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|28807|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|25145|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.172|16277|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|202.21.115.182|8080|Mongolia|Ulan Bator|Mobinet LLC|
 
 
 
