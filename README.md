@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|7|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|10|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
-|12|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|13|170.205.29.82|8080|Japan|Tokyo|Advin Services LLC|
-|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|103.231.173.114|3128|United States|New York|Netsec Limited|
-|17|67.43.227.227|2903|Canada|Montreal|GloboTech Communications|
-|18|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|72.10.160.173|14411|Canada|Montreal|GloboTech Communications|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|6|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|7|103.231.173.114|3128|United States|New York|Netsec Limited|
+|8|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
+|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|13|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|17483|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
+|17|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|18|67.43.227.227|20017|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
