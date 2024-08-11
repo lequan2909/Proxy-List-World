@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|5|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|79.111.13.223|8080|Russia|Lyubertsy|PJSC MegaFon|
-|10|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|79.111.13.223|8080|Russia|Lyubertsy|PJSC MegaFon|
+|8|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
