@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|3|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|82.223.246.196|80|Spain|Logroño|arsys.es|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|10|102.211.145.83|8080|Kenya|Nairobi|Unwired Communications Ltd|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
-|14|103.164.214.122|8080|Indonesia|Cilangkap|PT iForte Global Internet|
-|15|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|17|51.83.185.24|3128|Poland|Warsaw|OVH SAS|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|103.164.235.105|8087|Indonesia|Bandung|PT Bantani Media Utama|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|180.211.177.206|58080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|8|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|9|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|205.164.84.247|8591|Brazil|Buritis|AGIS|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|219.144.80.144|3128|China|Liuxiang|CHINANET SHAANXI province Cloud Base network|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|18|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|19|103.105.76.65|8080|Indonesia|Bojonegoro|GARUDA|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
