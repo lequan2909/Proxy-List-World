@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|5|38.159.232.6|8080|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|202.191.125.147|8080|Bangladesh|Dhaka|BIJOY|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|14|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|15|177.234.193.184|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|19|67.43.227.228|19653|Canada|Montreal|GloboTech Communications|
-|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|1|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
