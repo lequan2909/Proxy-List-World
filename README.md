@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|103.169.198.214|8080|Indonesia|Palembang|PT. GLOBAL INAYAH ELEKTRINDO|
-|6|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|20.84.219.130|3128|United States|Des Moines|Microsoft Corporation|
+|4|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
-|12|72.10.160.172|4057|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.42|9443|United States|Huntersville|MCNC|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|67.43.228.253|12761|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|152.26.231.42|9443|United States|Huntersville|MCNC|
+|11|72.10.160.172|4057|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|185.142.64.90|8080|Russia|Lytkarino|Wellcom-l ISP|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|157.15.63.164|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|17|103.169.198.214|8080|Indonesia|Palembang|PT. GLOBAL INAYAH ELEKTRINDO|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
