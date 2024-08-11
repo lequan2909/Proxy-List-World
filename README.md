@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|191.97.16.129|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|5|119.47.90.221|8080|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
-|8|103.87.169.188|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
 |9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|12|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|13|72.10.164.178|23289|Canada|Montreal|GloboTech Communications|
+|10|182.160.100.156|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
 |14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|17|72.10.160.170|6079|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|24433|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|24433|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|24433|Canada|Montreal|GloboTech Communications|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.90|24433|Canada|Montreal|GloboTech Communications|
+|18|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
