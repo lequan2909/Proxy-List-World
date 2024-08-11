@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|212.108.144.67|8080|Cyprus|Nicosia|Lifecell Digital LTD|
-|6|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|12|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|13|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|168.232.174.43|3128|Brazil|Carmo do Cajuru|Sonik Serviços de Comunicação LTDA|
-|16|58.80.134.185|1080|Japan|Suita|ARTERIA Networks Corporation|
-|17|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|19|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
-|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.189.250.67|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|12|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|17|103.179.252.76|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|18|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
