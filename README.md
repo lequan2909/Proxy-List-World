@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|189.124.90.13|7171|Brazil|Presidente Epitácio|FIT Telecom Eireli|
-|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|152.26.231.42|9443|United States|Huntersville|MCNC|
-|9|158.101.244.172|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|10|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|11|128.199.156.234|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|154.90.48.9|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|92.246.136.39|80|Germany|Frankfurt am Main|Aeza International LTD|
-|17|219.151.19.1|3128|China|Guiyang|Chinanet|
-|18|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|19|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
+|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|3.108.115.48|1080|India|Mumbai|Amazon Technologies Inc.|
+|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|72.10.160.172|6591|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|72.10.164.178|22107|Canada|Montreal|GloboTech Communications|
 
 
 
