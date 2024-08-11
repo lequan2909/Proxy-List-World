@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.112.70.42|8083|Indonesia|Jakarta|GRAHANET|
-|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|146.196.96.186|7777|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
 |9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.203.232.110|3125|Indonesia|Kedok|INDANA|
-|12|103.189.96.38|8080|Indonesia|Sragen|Lintas Data Prima, PT|
-|13|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|103.137.111.169|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
-|16|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
-|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
-|20|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|15|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.48.71.114|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
