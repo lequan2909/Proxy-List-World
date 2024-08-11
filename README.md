@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
 |6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|116.107.210.184|5004|Vietnam|Hanoi|Viettel Corporation|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|103.186.204.10|8080|Indonesia|Bandung|PT Afna Digital Indonesia|
-|13|72.10.164.178|15911|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|15911|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|10287|Canada|Montreal|GloboTech Communications|
-|16|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|72.10.164.178|15911|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|25949|Canada|Montreal|GloboTech Communications|
-|19|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|20|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|111.225.153.147|8089|China|Shijiazhuang|China Telecom|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|15|72.10.164.178|23149|Canada|Montreal|GloboTech Communications|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|72.10.164.178|23149|Canada|Montreal|GloboTech Communications|
+|18|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|103.186.204.10|8080|Indonesia|Bandung|PT Afna Digital Indonesia|
+|20|67.43.227.227|10287|Canada|Montreal|GloboTech Communications|
 
 
 
