@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|116.109.184.19|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|12|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.160.90|1271|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|1827|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|28721|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|20571|Canada|Montreal|GloboTech Communications|
+|20|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 
 
 
