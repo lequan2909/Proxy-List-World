@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|154.73.108.206|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|5|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|8|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|1|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|201.20.94.93|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|13|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
 |14|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
 |15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|185.128.138.192|8080|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|19|103.78.113.9|8080|Indonesia|Bekasi|MORATELINDO|
-|20|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|67.43.236.18|2753|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
