@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5859** proxies at the latest update. Usable proxies are below.
+> Scraper found **5918** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|812|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|226|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|285|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3563|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|36.88.170.170|8080|Indonesia|Jatipulo|PT. Telekomunikasi Indonesia|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|14.187.98.106|8080|Vietnam|Ho Chi Minh City|VNPT|
+|1|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|170.205.29.82|8080|Japan|Tokyo|Advin Services LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|7|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|9|37.195.166.140|80|Russia|Novosibirsk|Novotelecom Ltd.|
-|10|170.205.29.82|8080|Japan|Tokyo|Advin Services LLC|
-|11|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|14|201.77.110.129|999|Mexico|Unión Campesina|Raul Duarte Urita|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|89.58.32.131|3128|Germany|Nuremberg|netcup GmbH|
-|17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|103.203.173.49|84|India|Hyderabad|Softgaurd Powertronics|
-|19|67.43.227.227|2893|Canada|Montreal|GloboTech Communications|
-|20|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|6|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|7|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|9|202.12.80.8|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|152.26.231.42|9443|United States|Huntersville|MCNC|
+|14|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|72.10.160.174|7443|Canada|Montreal|GloboTech Communications|
+|16|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
