@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|103.169.133.34|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|15.235.171.194|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|9|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|11|82.115.18.223|3128|Germany|Nuremberg|BitCommand LLC|
-|12|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
-|13|103.231.173.114|3128|United States|New York|Netsec Limited|
-|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|15|67.43.236.20|5067|Canada|Montreal|GloboTech Communications|
-|16|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|17|67.43.236.20|5067|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|5067|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|16353|Canada|Montreal|GloboTech Communications|
-|20|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|8|38.183.209.61|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|9|203.79.29.150|8080|Indonesia|Surabaya|PT Surya Global Teknologi|
+|10|82.223.246.196|80|Spain|Logroño|arsys.es|
+|11|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|13|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|158.179.215.122|8080|Spain|Madrid|Oracle Corporation|
+|17|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|20|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
