@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|103.169.131.26|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|11|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|12|200.37.252.122|8080|Peru|Lima|Telefonica del Peru S.A.A.|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.236.20|7365|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27791|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|11|103.169.131.26|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|12|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|13|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|14|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|15|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|19|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|20|51.83.185.24|3128|Poland|Warsaw|OVH SAS|
 
 
 
