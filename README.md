@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
-|2|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|4|187.190.99.229|8080|Mexico|Valle de Santiago|Total Play Telecomunicaciones SA De CV|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
-|15|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
+|1|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|128.127.180.205|3128|Belgium|Mont-Saint-Guibert|THGNET-VPS|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
+|7|103.160.184.155|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|12|182.253.68.150|8080|Indonesia|Surabaya|BIZNET|
+|13|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|183.242.69.110|3218|China|Beijing|China Mobile Communications Corporation|
 |17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|103.231.173.114|3128|United States|New York|Netsec Limited|
-|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|20|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
