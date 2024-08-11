@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|82.223.246.196|80|Spain|Logroño|arsys.es|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|8|154.90.48.212|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|9|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|10|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|11|103.231.173.114|3128|United States|New York|Netsec Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
-|14|219.144.80.144|3128|China|Liuxiang|CHINANET SHAANXI province Cloud Base network|
-|15|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|16|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|19|84.204.40.156|8080|Russia|St Petersburg|PJSC MegaFon|
-|20|94.154.152.4|8079|Albania|Lushnjë|Luva Group Sh.p.k.|
+|1|103.247.216.70|8080|Indonesia|Penggilingan|PT. Parsaoran Global Datatrans|
+|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|103.138.185.1|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|9|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.165.138.234|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|103.231.173.114|3128|United States|New York|Netsec Limited|
+|15|200.37.252.122|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|16|152.26.231.42|9443|United States|Huntersville|MCNC|
+|17|72.10.164.178|21737|Canada|Montreal|GloboTech Communications|
+|18|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|19|72.10.160.90|7463|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.251|2387|Canada|Montreal|GloboTech Communications|
 
 
 
