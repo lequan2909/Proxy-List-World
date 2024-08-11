@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|11|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|12|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|13|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.227.228|27735|Canada|Montreal|GloboTech Communications|
-|19|154.90.49.103|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|20|111.225.153.230|8089|China|Shijiazhuang|China Telecom|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|10|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|11|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|19|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
