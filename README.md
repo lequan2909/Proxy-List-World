@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|72.10.164.178|1573|Canada|Montreal|GloboTech Communications|
-|9|154.90.48.47|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|10|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
-|11|103.166.10.7|8090|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|12|180.191.49.60|8082|Philippines|Tarlac City|Globe Telecom|
-|13|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|16|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|17|129.146.226.84|3128|United States|Phoenix|Oracle Corporation|
-|18|72.10.160.170|11089|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|11089|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|6|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.10.164.178|28057|Canada|Montreal|GloboTech Communications|
+|9|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|154.90.48.47|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.160.170|11089|Canada|Montreal|GloboTech Communications|
+|15|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|16|154.90.49.103|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|17|72.10.164.178|28057|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|28911|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
