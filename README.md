@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|152.26.231.42|9443|United States|Huntersville|MCNC|
-|6|67.43.227.227|23219|Canada|Montreal|GloboTech Communications|
-|7|152.26.229.86|9443|United States|Huntersville|MCNC|
-|8|67.43.227.227|23219|Canada|Montreal|GloboTech Communications|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|72.10.164.178|12687|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|12687|Canada|Montreal|GloboTech Communications|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|37.210.165.14|8080|Qatar|Doha|Ooredoo-MBB|
-|14|67.43.227.227|23219|Canada|Montreal|GloboTech Communications|
-|15|191.241.184.61|40033|Brazil|Nossa Senhora da Glória|NetGloria Telecom|
-|16|67.43.228.253|3527|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|22005|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|23219|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12687|Canada|Montreal|GloboTech Communications|
-|20|203.14.18.242|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|138.59.151.162|8080|Brazil|Porto Feliz|Wireless Comm Services LTDA|
+|7|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|8|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|103.105.55.170|8085|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
+|12|67.43.227.228|8453|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|72.10.164.178|32263|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.171|28397|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|29401|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|7935|Canada|Montreal|GloboTech Communications|
+|18|111.172.239.145|3128|China|Wuhan|China Telecom|
+|19|67.43.227.227|22821|Canada|Montreal|GloboTech Communications|
+|20|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
 
 
 
