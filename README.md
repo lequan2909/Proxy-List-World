@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|45129|United States|Kansas City|WholeSale Internet|
-|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|171.240.151.130|4016|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.43|45129|United States|Kansas City|WholeSale Internet|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|14|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|15|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|16|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
-|19|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|20|103.165.155.75|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|1|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|125.26.97.183|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|6|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|7|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|11|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|103.231.173.114|3128|United States|New York|Netsec Limited|
+|15|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|16|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|17|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|18|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|19|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|20|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
