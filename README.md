@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|203.150.113.67|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|6|72.10.160.91|29059|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.252|13499|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|1417|Canada|Montreal|GloboTech Communications|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|72.10.160.171|1405|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|67.43.227.227|3035|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|1417|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|1417|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1417|Canada|Montreal|GloboTech Communications|
-|17|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
-|18|67.43.227.227|3035|Canada|Montreal|GloboTech Communications|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|72.10.160.90|22005|Canada|Montreal|GloboTech Communications|
+|2|38.9.56.70|8080|India|Chennai|Microsense Private Limited|
+|3|131.255.136.193|32650|Peru|Mi Perú|Level 3 Communications, Inc.|
+|4|51.158.62.124|34957|France|Paris|SCALEWAY|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.133.61.150|8181|Indonesia|Bandar Lampung|TLINK|
+|7|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|8|72.10.160.91|29627|Canada|Montreal|GloboTech Communications|
+|9|219.151.19.1|3128|China|Guiyang|Chinanet|
+|10|72.10.160.171|23949|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|31987|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|202.154.18.9|7070|Indonesia|Jombang|DIGITNET|
+|15|72.10.164.178|31987|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|31987|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|60.13.154.137|9898|China|Ürümqi|CNC Group CHINA169 Xinjiang Province Network|
+|20|149.11.58.226|3128|France|Toulouse|Cogent Communications|
 
 
 
