@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|3|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
-|4|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|72.10.160.170|18909|Canada|Montreal|GloboTech Communications|
-|6|123.182.58.208|8089|China|Shijiazhuang|China Telecom|
-|7|72.10.164.178|31987|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|22821|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|24575|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|1795|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|22821|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|3179|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|31987|Canada|Montreal|GloboTech Communications|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.227.227|22821|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|15335|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|3035|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|18909|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|31293|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|171.249.150.172|8083|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|103.162.62.92|8080|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|10|72.10.160.170|18909|Canada|Montreal|GloboTech Communications|
+|11|103.231.173.114|3128|United States|New York|Netsec Limited|
+|12|72.10.164.178|31987|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|23219|Canada|Montreal|GloboTech Communications|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|15|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
+|16|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|17|154.90.49.240|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|18|219.151.19.1|3128|China|Guiyang|Chinanet|
+|19|103.36.10.201|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|20|67.43.236.20|7935|Canada|Montreal|GloboTech Communications|
 
 
 
