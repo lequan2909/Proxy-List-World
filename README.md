@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
 |2|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
 |10|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|37.194.44.125|8080|Russia|Novosibirsk|Novotelecom Ltd.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.76.109.50|3127|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
+|16|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
