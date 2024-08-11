@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
-|5|117.0.193.88|5102|Vietnam|Hanoi|Viettel Group|
-|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.160.90|10691|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|18827|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|26137|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|5485|Canada|Montreal|GloboTech Communications|
-|20|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|1|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.136.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|152.26.231.86|9443|United States|Huntersville|MCNC|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|67.43.227.227|30575|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|85.172.174.28|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|72.10.164.178|14955|Canada|Montreal|GloboTech Communications|
+|17|178.115.230.100|8080|Austria|Reichenthal|customers with static IP|
+|18|103.187.162.75|8080|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
+|19|72.10.160.171|23097|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|14955|Canada|Montreal|GloboTech Communications|
 
 
 
