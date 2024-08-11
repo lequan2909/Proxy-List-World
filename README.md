@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|170.205.29.82|8080|Japan|Tokyo|Advin Services LLC|
-|7|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|9|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|12|24.199.84.240|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|14.143.172.238|8080|India|Kolkata|Tata Communications Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|152.42.224.138|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|5|64.23.232.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|170.205.29.82|8080|Japan|Tokyo|Advin Services LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|45.181.189.213|999|Colombia|Tame|Kalu De Colombia SAS|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|16|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|67.43.227.227|14149|Canada|Montreal|GloboTech Communications|
-|19|45.174.57.22|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|170.205.29.82|8080|Japan|Tokyo|Advin Services LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
