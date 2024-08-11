@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|177.93.58.182|999|Colombia|California|TV AZTECA SUCURSAL COLOMBIA|
-|8|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
-|10|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|1|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|134.35.3.221|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|64.23.176.37|3128|United States|San Francisco|DigitalOcean, LLC|
+|8|177.93.58.182|999|Colombia|California|TV AZTECA SUCURSAL COLOMBIA|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|157.230.188.193|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|103.169.254.9|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
-|17|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|20|195.199.240.179|8080|Hungary|Újszász|KIFU (Governmental Info Tech Development Agency)|
+|12|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|13|205.209.108.206|8080|United States|Englewood Cliffs|Interserver, Inc|
+|14|134.195.158.44|3128|United States|Ashburn|AB E-Commerce|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|67.43.227.227|25193|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|72.10.160.170|29935|Canada|Montreal|GloboTech Communications|
+|20|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
