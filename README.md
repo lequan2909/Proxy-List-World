@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
 |7|159.223.34.114|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|67.43.227.228|1241|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|1589|Canada|Montreal|GloboTech Communications|
-|10|152.26.231.86|9443|United States|Huntersville|MCNC|
-|11|67.43.236.20|22691|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|67.43.236.18|21171|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|23801|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|16245|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.236.20|22691|Canada|Montreal|GloboTech Communications|
+|8|219.151.19.1|3128|China|Guiyang|Chinanet|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|11|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|12|201.77.48.147|8080|Peru|Lima region|Telcom Mikrotik Peru S.A.C.|
+|13|220.118.191.171|3128|South Korea|Bupyeong-gu|Korea Telecom|
+|14|67.43.227.228|1429|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|17|191.7.8.26|80|Brazil|Patos de Minas|OnNet Telecomunicações LTDA|
+|18|72.10.164.178|1589|Canada|Montreal|GloboTech Communications|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
