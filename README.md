@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.21.115.182|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|2|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|3|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|6|157.120.61.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|3|157.120.61.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|103.224.125.229|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|5|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
-|13|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|14|13.112.9.71|3128|Japan|Tokyo|Amazon Technologies Inc|
-|15|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
-|16|72.10.160.172|20867|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|31711|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|2117|Canada|Montreal|GloboTech Communications|
-|19|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|20|72.10.160.93|24519|Canada|Montreal|GloboTech Communications|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|14|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|15|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|103.144.18.49|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|18|72.10.160.172|20867|Canada|Montreal|GloboTech Communications|
+|19|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
+|20|67.43.227.227|30817|Canada|Montreal|GloboTech Communications|
 
 
 
