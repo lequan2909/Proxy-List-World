@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.243.55.21|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|11|72.10.164.178|16031|Canada|Montreal|GloboTech Communications|
-|12|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|72.10.164.178|16031|Canada|Montreal|GloboTech Communications|
-|16|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|17|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|18|103.231.173.114|3128|United States|New York|Netsec Limited|
-|19|72.10.160.90|20487|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|72.10.164.178|1223|Canada|Montreal|GloboTech Communications|
+|9|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
+|10|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|11|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|72.10.160.90|26339|Canada|Montreal|GloboTech Communications|
+|14|103.231.173.114|3128|United States|New York|Netsec Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom|
+|19|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|20|121.228.74.101|888|China|Nanjing|China Telecom|
 
 
 
