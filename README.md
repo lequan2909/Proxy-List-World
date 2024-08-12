@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|85.172.174.28|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|2|103.159.196.81|1111|Indonesia|Serang|PT Andalan Dinamika Informatika|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|5.9.112.247|3128|Germany|Mainz|Hetzner Online GmbH|
 |5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|6|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|36.72.252.220|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|72.10.164.178|19481|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
 |12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|203.98.76.2|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|14|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|15|36.72.252.220|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|16|118.117.189.28|8089|China|Muping|Chinanet|
-|17|72.10.160.170|32777|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|72.10.160.173|17335|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|67.43.227.226|4071|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|25273|Canada|Montreal|GloboTech Communications|
+|15|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|16|103.48.70.209|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|164.92.207.53|30000|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|72.10.164.178|19481|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
