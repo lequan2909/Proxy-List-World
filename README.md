@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.72.252.220|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|203.150.128.181|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|8|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|9|220.118.191.171|3128|South Korea|Bupyeong-gu|Korea Telecom|
-|10|4.213.220.56|3128|India|Pune|Microsoft Corporation|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|154.90.48.82|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|103.156.15.242|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.236.20|16683|Canada|Montreal|GloboTech Communications|
-|20|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|36.72.252.220|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|6|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|203.150.128.181|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|9|167.88.166.70|3128|United States|Dallas|RouterHosting LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|167.88.166.70|3128|United States|Dallas|RouterHosting LLC|
+|18|188.132.222.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|207.188.6.20|3128|United States|Dallas|Latitude.sh|
 
 
 
