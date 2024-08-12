@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|3|103.12.76.201|3128|Vietnam|Quận Long Biên|MOCLAMESOUL|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.157.79.158|8080|Indonesia|Jakarta|EASTMEDIA|
-|9|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
-|11|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|116.203.203.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|14|72.10.164.178|17763|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17763|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|12529|Canada|Montreal|GloboTech Communications|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|72.10.160.170|9521|Canada|Montreal|GloboTech Communications|
-|19|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|20|72.10.160.93|30315|Canada|Montreal|GloboTech Communications|
+|2|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|3|103.12.76.150|3128|Vietnam|Quận Long Biên|MOCLAMESOUL|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.89.25.204|9085|China|Beijing|Alibaba.com LLC|
+|10|72.10.164.178|32047|Canada|Montreal|GloboTech Communications|
+|11|116.203.203.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|12|36.93.68.47|41890|Indonesia|South Tangerang|Telekomunikasi Indonesia|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|15|72.10.160.170|1805|Canada|Montreal|GloboTech Communications|
+|16|103.20.16.141|3128|Indonesia|Kampungmasjid|PT Layanan Internet Sakti|
+|17|67.43.227.228|20161|Canada|Montreal|GloboTech Communications|
+|18|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
