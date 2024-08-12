@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|178.170.122.55|3128|France|Courcouronnes|Ikoula Ripe|
-|3|94.70.95.243|3128|Greece|Attiki|OTEnet|
-|4|160.248.3.55|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|72.10.164.178|6009|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.174|13291|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.251|32445|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|7671|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|10039|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|20555|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|7671|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|7671|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|20555|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|23975|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|6009|Canada|Montreal|GloboTech Communications|
-|16|219.151.19.1|3128|China|Guiyang|Chinanet|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|72.10.160.170|7583|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|20555|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|20555|Canada|Montreal|GloboTech Communications|
+|2|160.248.3.55|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|72.10.164.178|23251|Canada|Montreal|GloboTech Communications|
+|4|38.180.31.190|33128|France|Paris|M247 Europe SRL|
+|5|152.26.231.86|9443|United States|Huntersville|MCNC|
+|6|67.43.228.251|24109|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.20|12049|Canada|Montreal|GloboTech Communications|
+|8|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|67.43.227.227|20511|Canada|Montreal|GloboTech Communications|
+|10|152.26.231.42|9443|United States|Huntersville|MCNC|
+|11|72.10.164.178|23251|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|14|72.10.164.178|23251|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|12049|Canada|Montreal|GloboTech Communications|
+|16|103.247.21.117|1111|Indonesia|Bekasi|PT wifian Solution|
+|17|67.43.227.227|20511|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|23251|Canada|Montreal|GloboTech Communications|
+|19|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|20|72.10.160.90|33087|Canada|Montreal|GloboTech Communications|
 
 
 
