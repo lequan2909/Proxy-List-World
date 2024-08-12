@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|10|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|8|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|9|152.26.231.86|9443|United States|Huntersville|MCNC|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|82.66.210.159|8118|France|Toulouse|Proxad / Free SAS|
-|16|154.90.49.103|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|17|72.10.160.93|30287|Canada|Montreal|GloboTech Communications|
-|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|67.43.227.227|27137|Canada|Montreal|GloboTech Communications|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|14|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|152.26.231.42|9443|United States|Huntersville|MCNC|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|67.43.227.227|27137|Canada|Montreal|GloboTech Communications|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
 
 
 
