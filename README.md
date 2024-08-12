@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|200.125.170.22|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.163.160.63|3128|Indonesia|Cikarawang|PT. Usaha Adisanggoro|
-|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|11|74.48.129.170|8443|United States|Los Angeles|Multacom Corporation|
-|12|152.26.231.42|9443|United States|Huntersville|MCNC|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|15|67.43.236.20|5359|Canada|Montreal|GloboTech Communications|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|18|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|19|72.10.164.178|19917|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|7963|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|203.150.128.5|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|103.124.139.210|8080|Indonesia|Kartasura|Global Media Data Prima|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|194.44.36.114|6868|Ukraine|Brody|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.163.160.63|3128|Indonesia|Cikarawang|PT. Usaha Adisanggoro|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|18|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|19|67.43.228.253|29905|Canada|Montreal|GloboTech Communications|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
