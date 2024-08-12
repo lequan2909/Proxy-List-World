@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|171.250.61.81|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|7|85.208.253.229|3128|Iran|Tehran|Green Web Samaneh Novin Co Ltd|
-|8|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|5.161.231.202|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
+|5|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|124.6.164.229|8085|Philippines|Lahug|INNOVE|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|182.253.45.103|8080|Indonesia|Jakarta|BIZNET|
-|13|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|17|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|18|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|19|202.51.199.100|8080|Indonesia|Depok|PT. Sejahtera Globalindo|
-|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|13|5.161.231.202|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
