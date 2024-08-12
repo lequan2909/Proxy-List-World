@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|2|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|3|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|9|103.231.173.114|3128|United States|New York|Netsec Limited|
-|10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|12|103.231.173.114|3128|United States|New York|Netsec Limited|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|190.192.228.174|8080|Argentina|Lanús|Telecom Argentina S.A.|
-|15|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|103.20.16.141|3128|Indonesia|Kampungmasjid|PT Layanan Internet Sakti|
-|20|198.91.163.172|808|Canada|Richmond Hill|Distributel Communications Limited|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|83.151.4.172|57812|Russia|Kazan'|MTS PJSC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|103.236.177.154|8081|Philippines|Makati City|Infinivan Incorporated|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|16|154.90.49.240|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|17|103.20.16.141|3128|Indonesia|Kampungmasjid|PT Layanan Internet Sakti|
+|18|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|19|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
 
 
 
