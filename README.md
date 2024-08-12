@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|157.120.61.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|157.120.61.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|152.26.231.42|9443|United States|Huntersville|MCNC|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|12|67.43.228.251|31679|Canada|Montreal|GloboTech Communications|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|72.10.160.171|23713|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|27929|Canada|Montreal|GloboTech Communications|
-|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
-|19|72.10.164.178|18085|Canada|Montreal|GloboTech Communications|
-|20|38.156.72.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|6|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|118.99.96.170|8080|Indonesia|Jakarta|Biznet Networks|
+|12|67.43.227.227|27481|Canada|Montreal|GloboTech Communications|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|15|72.10.160.171|23713|Canada|Montreal|GloboTech Communications|
+|16|103.231.173.114|3128|United States|New York|Netsec Limited|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|72.10.164.178|31505|Canada|Montreal|GloboTech Communications|
 
 
 
