@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
+|3|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|6|152.26.231.86|9443|United States|Huntersville|MCNC|
-|7|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|8|152.26.231.42|9443|United States|Huntersville|MCNC|
-|9|72.10.164.178|5571|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|5571|Canada|Montreal|GloboTech Communications|
-|11|111.172.239.145|3128|China|Wuhan|China Telecom|
-|12|72.10.160.90|22393|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|20591|Canada|Montreal|GloboTech Communications|
-|14|175.143.205.175|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|15|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|16|72.10.164.178|5571|Canada|Montreal|GloboTech Communications|
-|17|219.151.19.1|3128|China|Guiyang|Chinanet|
-|18|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|20|67.43.227.227|20591|Canada|Montreal|GloboTech Communications|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|152.26.231.86|9443|United States|Huntersville|MCNC|
+|11|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|72.10.160.90|22393|Canada|Montreal|GloboTech Communications|
+|14|103.48.70.209|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|219.151.19.1|3128|China|Guiyang|Chinanet|
+|16|67.43.227.228|29453|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.170|8191|Canada|Montreal|GloboTech Communications|
+|20|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
