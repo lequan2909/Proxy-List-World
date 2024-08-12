@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.150.128.5|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|4|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|126.209.9.26|8080|Philippines|Makati City|Infinivan Incorporated|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|14|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
-|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|2|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|11|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|36.72.252.220|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|14|152.26.231.86|9443|United States|Huntersville|MCNC|
+|15|72.10.164.178|6683|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|6683|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|9757|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|7171|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|6683|Canada|Montreal|GloboTech Communications|
+|20|92.51.126.42|8080|Georgia|Tbilisi|Delta NET Network|
 
 
 
