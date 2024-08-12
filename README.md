@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|154.90.49.196|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|67.43.236.20|25859|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|18993|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|23079|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|23079|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|31109|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|31109|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|31109|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.236.20|25859|Canada|Montreal|GloboTech Communications|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
