@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|137.184.62.237|9090|United States|North Bergen|DigitalOcean, LLC|
-|10|72.10.164.178|2597|Canada|Montreal|GloboTech Communications|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|152.26.231.42|9443|United States|Huntersville|MCNC|
-|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.164.178|2597|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|4845|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|4845|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|31351|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|9083|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|16111|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|2411|Canada|Montreal|GloboTech Communications|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|18|67.43.236.21|7097|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|2411|Canada|Montreal|GloboTech Communications|
+|20|217.219.121.66|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
 
 
 
