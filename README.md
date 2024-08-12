@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.169.241.108|3128|United States|Boydton|Microsoft Corporation|
-|3|143.255.111.112|3128|Brazil|Águas Lindas de Goiás|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.169.241.108|3128|United States|Boydton|Microsoft Corporation|
-|8|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|20|103.87.169.185|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|103.247.22.233|3127|Indonesia|Bekasi|PT wifian Solution|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|8|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|9|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|10|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|11|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|12|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|13|203.14.18.242|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
+|14|72.10.164.178|29667|Canada|Montreal|GloboTech Communications|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|72.10.160.90|22871|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|29667|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.174|24881|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|24881|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
