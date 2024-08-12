@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|157.230.254.254|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.156.17.114|8080|Indonesia|Indramayu|RSTNET|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|95.161.194.74|8080|Russia|Kazan'|"OBIT" Ltd.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|103.171.244.42|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|19|67.43.228.253|1553|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15417|Canada|Montreal|GloboTech Communications|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|157.230.254.254|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|103.20.16.141|3128|Indonesia|Kampungmasjid|PT Layanan Internet Sakti|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|192.82.92.33|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|17|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|18|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
 
 
 
