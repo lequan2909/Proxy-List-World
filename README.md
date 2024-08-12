@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.67.246.251|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|2|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|72.10.164.178|3039|Canada|Montreal|GloboTech Communications|
-|10|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|72.10.164.178|3039|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|13217|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|17513|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|194.61.120.132|3128|Netherlands|Amsterdam|BlueVPS OU|
-|19|72.10.164.178|3039|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3039|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|45.189.117.199|999|Peru|Lima|Conex TV E.I.R.L|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|6|139.255.41.118|8080|Indonesia|Jakarta|PT. LINKNET|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.234.61.173|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|10|201.47.88.21|3128|Brazil|São Paulo|Vivo|
+|11|72.10.164.178|25897|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.230|19579|Canada|Montreal|GloboTech Communications|
+|13|111.225.152.5|8089|China|Shijiazhuang|China Telecom|
+|14|72.10.164.178|25897|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|72.10.164.178|25897|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.227.230|19579|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|31985|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|25897|Canada|Montreal|GloboTech Communications|
 
 
 
