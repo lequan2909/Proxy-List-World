@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|103.189.116.107|8080|Indonesia|Banyumas|PT Callysta Total Solusindo|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.164.178|3855|Canada|Montreal|GloboTech Communications|
-|16|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|2|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|14|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.164.178|17367|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
