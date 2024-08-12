@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.51.205.20|8080|Indonesia|Semarang|Lintas Data Prima, PT|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|11|152.26.231.42|9443|United States|Huntersville|MCNC|
-|12|72.10.164.178|17885|Canada|Montreal|GloboTech Communications|
-|13|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|14|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|15|103.193.144.85|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|16|72.10.160.170|3709|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.21|6593|Canada|Montreal|GloboTech Communications|
-|18|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|19|72.10.164.178|17885|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17885|Canada|Montreal|GloboTech Communications|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|11|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|72.10.164.178|1025|Canada|Montreal|GloboTech Communications|
+|17|177.242.132.2|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|18|72.10.160.90|28617|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|21685|Canada|Montreal|GloboTech Communications|
+|20|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
 
 
 
