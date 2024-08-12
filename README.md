@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|1|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|103.247.22.233|3127|Indonesia|Bekasi|PT wifian Solution|
-|14|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|202.166.165.138|8080|Pakistan|Lahore|Web Concepts (Pvt) Ltd|
-|16|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|18|72.10.164.178|19959|Canada|Montreal|GloboTech Communications|
-|19|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|136.232.224.202|8080|India|Nellore|Reliance Jio Infocomm Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.51.205.20|8080|Indonesia|Semarang|Lintas Data Prima, PT|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|10|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|11|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|14|103.184.182.70|8080|Indonesia|Lumajang|Diskominfo Lumajang|
+|15|72.10.164.178|30127|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|26855|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.91|12209|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|219.151.19.1|3128|China|Guiyang|Chinanet|
+|20|72.10.164.178|30127|Canada|Montreal|GloboTech Communications|
 
 
 
