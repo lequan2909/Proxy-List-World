@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|34.166.75.86|3128|Saudi Arabia|Dammam|Google LLC|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
 |8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|152.26.231.86|9443|United States|Huntersville|MCNC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|34.166.75.86|3128|Saudi Arabia|Dammam|Google LLC|
 |15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|72.10.160.170|6005|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|10891|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.93|11395|Canada|Montreal|GloboTech Communications|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|19|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|20|67.43.227.227|2707|Canada|Montreal|GloboTech Communications|
 
 
 
