@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|188.209.238.58|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|72.10.160.171|10281|Canada|Montreal|GloboTech Communications|
-|14|111.225.152.187|8089|China|Shijiazhuang|China Telecom|
-|15|72.10.160.171|10281|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|18|111.225.153.102|8089|China|Shijiazhuang|China Telecom|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|11|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|188.209.238.58|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|72.10.164.178|18315|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|111.225.153.102|8089|China|Shijiazhuang|China Telecom|
+|17|72.10.160.171|10281|Canada|Montreal|GloboTech Communications|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|20|72.10.164.178|18315|Canada|Montreal|GloboTech Communications|
 
 
 
