@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|3|152.26.231.42|9443|United States|Huntersville|MCNC|
-|4|152.26.229.86|9443|United States|Huntersville|MCNC|
-|5|72.10.164.178|9999|Canada|Montreal|GloboTech Communications|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|72.10.160.170|1205|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.171|20709|Canada|Montreal|GloboTech Communications|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|11|67.43.227.226|30189|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|9999|Canada|Montreal|GloboTech Communications|
-|13|38.194.235.172|3128|Mexico|Pachuca|Cogent Communications|
-|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|72.10.160.91|28573|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|9999|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|6|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|7|152.26.231.42|9443|United States|Huntersville|MCNC|
+|8|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|72.10.164.178|13069|Canada|Montreal|GloboTech Communications|
+|10|85.172.174.28|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|72.10.160.170|28963|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.22|25535|Canada|Montreal|GloboTech Communications|
+|15|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|16|72.10.160.171|2641|Canada|Montreal|GloboTech Communications|
 |17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.171|20709|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|9999|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|28573|Canada|Montreal|GloboTech Communications|
+|18|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|13069|Canada|Montreal|GloboTech Communications|
 
 
 
