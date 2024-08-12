@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|3|103.54.43.131|8080|Bangladesh|Dhaka|The Net Heads|
-|4|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|1|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|154.90.49.182|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|152.26.231.42|9443|United States|Huntersville|MCNC|
-|14|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.236.20|7895|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1039|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|7895|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|24519|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|8|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
+|12|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|13|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|25897|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|9809|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
