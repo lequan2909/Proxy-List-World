@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|149.11.58.226|3128|France|Toulouse|Cogent Communications|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|181.78.17.73|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|113.192.30.185|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|16|125.20.72.28|3129|India|New Delhi|BHARTI|
-|17|111.225.153.7|8089|China|Shijiazhuang|China Telecom|
-|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|123.182.58.61|8089|China|Shijiazhuang|China Telecom|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|67.43.236.20|17713|Canada|Montreal|GloboTech Communications|
+|17|111.225.152.221|8089|China|Shijiazhuang|China Telecom|
+|18|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
 |19|118.117.189.18|8089|China|Muping|Chinanet|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|111.225.153.7|8089|China|Shijiazhuang|China Telecom|
 
 
 
