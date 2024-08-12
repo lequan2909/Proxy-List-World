@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.231.42|9443|United States|Huntersville|MCNC|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|67.43.228.253|24015|Canada|Montreal|GloboTech Communications|
-|11|201.77.48.147|8080|Peru|Lima region|Telcom Mikrotik Peru S.A.C.|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|67.43.227.227|31973|Canada|Montreal|GloboTech Communications|
-|14|46.252.243.249|3128|Russia|Moscow|JSC "Severen-Telecom"|
-|15|103.181.92.250|82|India|Pune|Vishwakarma Broadband Private Limited|
-|16|67.43.228.254|20349|Canada|Montreal|GloboTech Communications|
-|17|165.16.27.105|1976|Libya|Al Abraq|Aljeel Aljadeed For Technology|
-|18|72.10.160.171|6545|Canada|Montreal|GloboTech Communications|
-|19|150.136.171.168|3128|United States|Ashburn|Oracle Corporation|
-|20|72.10.164.178|1367|Canada|Montreal|GloboTech Communications|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|14|72.10.164.178|10597|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|10597|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
