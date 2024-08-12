@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.150.128.254|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.186.90.19|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.156.16.182|1111|Indonesia|Indramayu|RSTNET|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
-|12|152.26.231.42|9443|United States|Huntersville|MCNC|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|67.43.227.228|9451|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|21639|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|11097|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|11097|Canada|Montreal|GloboTech Communications|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.236.20|4731|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|26113|Canada|Montreal|GloboTech Communications|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.231.42|9443|United States|Huntersville|MCNC|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|72.10.164.178|31149|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|1793|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|1141|Canada|Montreal|GloboTech Communications|
+|13|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|67.43.227.228|9451|Canada|Montreal|GloboTech Communications|
+|16|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|72.10.164.178|31149|Canada|Montreal|GloboTech Communications|
+|19|185.142.64.90|8080|Russia|Lytkarino|Wellcom-l ISP|
+|20|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
 
 
 
