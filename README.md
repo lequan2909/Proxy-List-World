@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5616** proxies at the latest update. Usable proxies are below.
+> Scraper found **5481** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|853|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|718|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|319|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3468|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|171.249.226.224|5104|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|116.203.203.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|103.153.191.45|3128|Indonesia|Kudus|WANET|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|16|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.173|10225|Canada|Montreal|GloboTech Communications|
-|19|46.161.196.222|9812|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|20|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|187.189.175.136|999|Mexico|Ciudad Benito Juárez|Total Play Telecomunicaciones SA De CV|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|103.171.244.67|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|46.161.196.222|9812|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.203.203.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|15|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|67.43.228.250|3777|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|32047|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|13249|Canada|Montreal|GloboTech Communications|
+|20|103.231.173.114|3128|United States|New York|Netsec Limited|
 
 
 
