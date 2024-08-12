@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|41.205.24.238|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|4|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|18.136.1.172|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|15|91.107.163.2|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|67.43.236.20|18453|Canada|Montreal|GloboTech Communications|
-|17|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|18|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
-|19|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|20|67.43.236.20|18453|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|41.205.24.238|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|185.128.138.192|8080|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|12|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|13|181.78.17.73|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|14|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|15|67.43.227.227|1231|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|26323|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|7227|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
