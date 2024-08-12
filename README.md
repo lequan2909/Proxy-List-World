@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|41.205.24.238|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|72.10.164.178|17571|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|14255|Canada|Montreal|GloboTech Communications|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|72.10.160.172|11987|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|14255|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|32761|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17571|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|4541|Canada|Montreal|GloboTech Communications|
-|17|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|18|72.10.160.171|2287|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|6967|Canada|Montreal|GloboTech Communications|
-|20|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|72.10.164.178|29913|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.172|8099|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|67.43.227.228|31289|Canada|Montreal|GloboTech Communications|
+|12|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|13|67.43.236.20|18453|Canada|Montreal|GloboTech Communications|
+|14|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|182.253.36.52|33128|Indonesia|Sukabumi|BIZNET|
+|17|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|72.10.164.178|29913|Canada|Montreal|GloboTech Communications|
+|19|203.150.128.39|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|20|3.99.137.129|3128|Canada|Toronto|Amazon Technologies Inc.|
 
 
 
