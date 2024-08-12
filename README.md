@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|49.48.54.14|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|3|220.118.191.171|3128|South Korea|Bupyeong-gu|Korea Telecom|
-|4|175.184.234.19|8080|Indonesia|Ciputat|PT.Indonesia Comnets Plus|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|69.20.150.165|8080|United States|Tetonia|JAB Wireless, INC.|
-|8|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|203.98.76.2|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|72.10.160.90|16819|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|25451|Canada|Montreal|GloboTech Communications|
-|19|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
-|20|67.43.227.226|1143|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|69.20.150.165|8080|United States|Tetonia|JAB Wireless, INC.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|185.80.128.201|3128|Lithuania|Vilnius|UAB ESNET|
+|9|95.163.236.199|8081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|102.220.127.140|8080|South Africa|Nelspruit|Mpu Communications (Pty) Ltd|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
+|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.178.194.131|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
