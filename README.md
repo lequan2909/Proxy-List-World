@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
-|5|152.26.231.42|9443|United States|Huntersville|MCNC|
-|6|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|7|111.225.153.186|8089|China|Shijiazhuang|China Telecom|
-|8|72.10.160.90|26085|Canada|Montreal|GloboTech Communications|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|72.10.160.171|21213|Canada|Montreal|GloboTech Communications|
-|11|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.160.173|28481|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|15279|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|15279|Canada|Montreal|GloboTech Communications|
-|16|111.225.153.210|8089|China|Shijiazhuang|China Telecom|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
-|19|72.10.160.93|21549|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15279|Canada|Montreal|GloboTech Communications|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|37.148.217.154|999|Dominican Republic|Santiago de los Caballeros|IPXO|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|6|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
+|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|8|154.90.48.47|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|111.225.153.186|8089|China|Shijiazhuang|China Telecom|
+|12|103.134.246.22|8080|Indonesia|Jembrana|Wisuandha Network Globalindo|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|46.252.255.91|18080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|18|111.225.153.210|8089|China|Shijiazhuang|China Telecom|
+|19|72.10.164.178|10947|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|2223|Canada|Montreal|GloboTech Communications|
 
 
 
