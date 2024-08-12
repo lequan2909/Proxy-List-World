@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|152.26.231.42|9443|United States|Huntersville|MCNC|
-|7|152.26.231.86|9443|United States|Huntersville|MCNC|
-|8|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|72.10.164.178|9219|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|1|139.228.221.123|8080|Indonesia|Surabaya|PT. First Media, Tbk|
+|2|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|171.243.154.52|10000|Vietnam|Đồng Nai Province|Viettel Corporation|
+|5|121.100.19.82|7088|Indonesia|Malang|NAP.Net.id - Network Access Point|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|72.10.164.178|11525|Canada|Montreal|GloboTech Communications|
+|11|219.151.19.1|3128|China|Guiyang|Chinanet|
+|12|152.26.231.86|9443|United States|Huntersville|MCNC|
+|13|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|14|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
 |15|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.90|27355|Canada|Montreal|GloboTech Communications|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|92.51.126.42|8080|Georgia|Tbilisi|Delta NET Network|
-|19|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|20|67.43.236.20|7461|Canada|Montreal|GloboTech Communications|
+|16|103.156.141.151|3127|Indonesia|Jember|PT Tekling Media Telematika|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
