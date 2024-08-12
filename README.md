@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|152.26.231.86|9443|United States|Huntersville|MCNC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.165.150.66|8085|Indonesia|Bengkalis|PT Agsa Global Network|
-|8|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
-|9|103.231.173.114|3128|United States|New York|Netsec Limited|
-|10|72.10.160.90|13559|Canada|Montreal|GloboTech Communications|
-|11|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|15425|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|19691|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|72.10.160.90|13559|Canada|Montreal|GloboTech Communications|
-|17|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|18|72.10.164.178|30453|Canada|Montreal|GloboTech Communications|
-|19|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.228.253|20009|Canada|Montreal|GloboTech Communications|
+|1|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|103.36.11.169|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|7|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|8|152.26.231.86|9443|United States|Huntersville|MCNC|
+|9|72.10.164.178|21749|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|21749|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|21749|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|2927|Canada|Montreal|GloboTech Communications|
+|13|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|15|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.227|18661|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|18661|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|67.43.228.253|21487|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
