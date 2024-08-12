@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|37.235.53.208|6653|Spain|Seville|Comvive Servidores S.L.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|72.10.164.178|15007|Canada|Montreal|GloboTech Communications|
-|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.160.170|19843|Canada|Montreal|GloboTech Communications|
-|12|135.181.115.167|8118|Finland|Helsinki|Hetzner Online GmbH|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|72.10.160.90|26953|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|19843|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|15007|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|2369|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|15007|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|20591|Canada|Montreal|GloboTech Communications|
-|20|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|2|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|72.10.164.178|11907|Canada|Montreal|GloboTech Communications|
+|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|219.151.19.1|3128|China|Guiyang|Chinanet|
+|8|103.36.10.110|8090|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|9|177.93.36.74|3128|Colombia|Samaniego|TV AZTECA SUCURSAL COLOMBIA|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|72.10.164.178|11907|Canada|Montreal|GloboTech Communications|
+|12|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|13|103.231.173.114|3128|United States|New York|Netsec Limited|
+|14|72.10.160.90|10691|Canada|Montreal|GloboTech Communications|
+|15|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|18|72.10.160.170|20283|Canada|Montreal|GloboTech Communications|
+|19|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|20|67.43.228.251|28987|Canada|Montreal|GloboTech Communications|
 
 
 
