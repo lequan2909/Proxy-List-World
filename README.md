@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|85.172.174.28|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|138.197.129.19|8005|Canada|Toronto|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|138.197.129.19|8005|Canada|Toronto|DigitalOcean, LLC|
-|17|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.228.253|2071|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|18|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
