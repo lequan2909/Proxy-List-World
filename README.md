@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5498** proxies at the latest update. Usable proxies are below.
+> Scraper found **5510** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|735|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|799|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|319|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|267|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3468|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.231.173.114|3128|United States|New York|Netsec Limited|
-|2|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
-|10|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|11|103.231.173.114|3128|United States|New York|Netsec Limited|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|39.62.2.54|3127|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|15|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|177.242.132.2|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
-|18|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|1|203.150.128.191|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|103.231.173.114|3128|United States|New York|Netsec Limited|
+|3|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|4|171.243.154.52|10000|Vietnam|Đồng Nai Province|Viettel Corporation|
+|5|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|103.231.173.114|3128|United States|New York|Netsec Limited|
+|10|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|72.10.164.178|19317|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|19317|Canada|Montreal|GloboTech Communications|
+|20|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
