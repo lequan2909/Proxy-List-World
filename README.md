@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|152.26.231.42|9443|United States|Huntersville|MCNC|
-|12|15.235.171.214|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|13|72.10.160.91|8275|Canada|Montreal|GloboTech Communications|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|16|67.43.227.227|14421|Canada|Montreal|GloboTech Communications|
-|17|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|18|67.43.228.254|25211|Canada|Montreal|GloboTech Communications|
-|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
+|8|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|37.72.174.21|8080|United States|New York|HIVELOCITY, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
