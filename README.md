@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|103.231.173.114|3128|United States|New York|Netsec Limited|
 |2|207.188.6.20|3128|United States|Dallas|Latitude.sh|
 |3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|171.243.154.52|10000|Vietnam|Đồng Nai Province|Viettel Corporation|
-|12|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|203.82.39.231|3128|Philippines|Pasig|WifiCity, Inc|
-|16|36.90.93.121|8080|Indonesia|Sambas|PT. Telekomunikasi Indonesia|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|103.20.16.141|3128|Indonesia|Kampungmasjid|PT Layanan Internet Sakti|
-|19|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|10|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|11|103.231.173.114|3128|United States|New York|Netsec Limited|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|39.62.2.54|3127|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|15|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|177.242.132.2|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|18|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
 
 
 
