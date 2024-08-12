@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|109.111.158.156|8080|Russia|Kaliningrad|TIS-DIALOG|
-|5|103.133.24.50|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|6|103.20.16.141|3128|Indonesia|Kampungmasjid|PT Layanan Internet Sakti|
-|7|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|18.136.1.172|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|11|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|186.16.14.104|3131|Paraguay|Lambaré|Telecel S.A.|
+|5|103.20.16.141|3128|Indonesia|Kampungmasjid|PT Layanan Internet Sakti|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|203.150.128.58|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|18.136.1.172|3128|Singapore|Singapore|Amazon Technologies Inc.|
 |13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|16|72.10.160.172|2241|Canada|Montreal|GloboTech Communications|
-|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|183.134.101.182|3128|China|Hangzhou|Chinanet|
-|20|54.242.176.10|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|16|72.10.164.178|29207|Canada|Montreal|GloboTech Communications|
+|17|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.160.172|2241|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|24431|Canada|Montreal|GloboTech Communications|
+|20|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
 
 
 
