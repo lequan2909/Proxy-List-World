@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|157.120.61.160|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|202.21.115.182|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|154.90.49.134|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|10|152.26.229.86|9443|United States|Huntersville|MCNC|
-|11|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|12|152.26.231.86|9443|United States|Huntersville|MCNC|
-|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.10.164.178|25897|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|24593|Canada|Montreal|GloboTech Communications|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.164.178|25897|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.236.18|21205|Canada|Montreal|GloboTech Communications|
+|1|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|4|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|10|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|11|188.132.222.35|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|14|152.26.231.86|9443|United States|Huntersville|MCNC|
+|15|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
+|18|67.43.236.20|7895|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
 
 
 
