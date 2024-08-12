@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|72.10.164.178|4333|Canada|Montreal|GloboTech Communications|
-|10|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|11|72.10.160.171|32139|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|4333|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|32139|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|31411|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|31307|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|4333|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1565|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|4333|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.254|12139|Canada|Montreal|GloboTech Communications|
-|20|148.153.56.51|80|United States|Los Angeles|CDS Global Cloud Co., Ltd|
+|5|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|41.216.186.131|10001|Indonesia|Purbalingga|FASTHOSTING|
+|9|72.10.160.94|22613|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|31697|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|31697|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|30885|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.172|31481|Canada|Montreal|GloboTech Communications|
+|14|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|15|72.10.164.178|31697|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|31697|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|31697|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|20233|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|72.10.164.178|31697|Canada|Montreal|GloboTech Communications|
 
 
 
