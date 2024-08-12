@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|27.66.240.210|8080|Vietnam|Haiphong|Viettel Group|
-|5|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|72.10.164.178|7683|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|1335|Canada|Montreal|GloboTech Communications|
-|10|152.26.231.42|9443|United States|Huntersville|MCNC|
-|11|23.236.70.45|3129|United States|Los Angeles|Zenlayer Inc|
-|12|67.43.236.20|9059|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|15|67.43.236.20|9059|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|1391|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|7683|Canada|Montreal|GloboTech Communications|
-|18|150.136.171.168|3128|United States|Ashburn|Oracle Corporation|
-|19|67.43.227.227|1335|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|19077|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|17195|Canada|Montreal|GloboTech Communications|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|67.43.227.227|29447|Canada|Montreal|GloboTech Communications|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|152.26.231.86|9443|United States|Huntersville|MCNC|
+|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|14|72.10.164.178|17195|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.230|11107|Canada|Montreal|GloboTech Communications|
+|16|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.228.253|26169|Canada|Montreal|GloboTech Communications|
+|18|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|19|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|20|72.10.160.92|8601|Canada|Montreal|GloboTech Communications|
 
 
 
