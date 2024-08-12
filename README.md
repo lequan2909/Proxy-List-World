@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|3.107.102.55|3128|Australia|Sydney|Amazon Technologies Inc.|
-|4|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|188.121.128.250|9080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|4|154.90.49.25|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |6|36.72.252.220|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|8|203.150.128.181|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|9|103.88.90.53|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|10|220.118.191.171|3128|South Korea|Bupyeong-gu|Korea Telecom|
-|11|103.36.10.201|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|12|113.192.30.161|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|188.121.128.250|9080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|15|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|188.132.222.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|72.10.164.178|8897|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|7|154.90.49.34|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|8|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|9|220.118.191.171|3128|South Korea|Bupyeong-gu|Korea Telecom|
+|10|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|11|193.151.150.160|3128|Iran|Tehran|IR-AT|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
+|16|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|17|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|18|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|154.90.48.82|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
 
 
 
