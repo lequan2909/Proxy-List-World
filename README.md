@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|3|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|6|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|9|216.10.247.145|3128|India|Mumbai|PDR|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|1|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|203.150.128.181|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|36.72.252.220|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|5|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
+|6|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
+|7|52.35.240.119|1080|United States|Portland|Amazon.com, Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|10|103.159.66.61|8080|India|Ghaziabad|Home Broadband Services LLP|
+|11|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
+|12|154.90.48.82|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|102.214.106.114|8080|Libya|Tripoli|Rawafed|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|18|188.132.222.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|186.3.98.230|999|Ecuador|Esmeraldas|Telconet S.A|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|4.213.220.56|3128|India|Pune|Microsoft Corporation|
 |20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
 
 
