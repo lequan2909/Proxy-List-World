@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|9|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|138.94.236.153|8080|Brazil|Novo Progresso Municipality|Nettcon Provedor De Internet Eireli EPP|
+|13|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|14|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|67.43.227.227|31109|Canada|Montreal|GloboTech Communications|
+|16|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|17|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|67.43.228.251|1867|Canada|Montreal|GloboTech Communications|
 
 
 
