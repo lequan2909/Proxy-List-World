@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|89.117.152.126|3128|Germany|Frankfurt am Main|Limestone Networks, Inc.|
-|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|12|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|14|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|15|67.43.236.19|23495|Canada|Montreal|GloboTech Communications|
+|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|85.172.174.28|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|139.255.41.118|8080|Indonesia|Jakarta|PT. LINKNET|
+|9|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|10|103.231.173.114|3128|United States|New York|Netsec Limited|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|67.43.236.20|29085|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|26571|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.94|8893|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|67.43.227.227|20281|Canada|Montreal|GloboTech Communications|
 
 
