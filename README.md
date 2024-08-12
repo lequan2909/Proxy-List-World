@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|152.26.231.42|9443|United States|Huntersville|MCNC|
-|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|72.10.160.90|20395|Canada|Montreal|GloboTech Communications|
-|8|152.26.231.86|9443|United States|Huntersville|MCNC|
-|9|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|152.26.231.42|9443|United States|Huntersville|MCNC|
+|4|72.10.160.90|2769|Canada|Montreal|GloboTech Communications|
+|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|152.26.231.86|9443|United States|Huntersville|MCNC|
+|7|72.10.160.174|15511|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|4333|Canada|Montreal|GloboTech Communications|
+|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |10|67.43.227.227|24259|Canada|Montreal|GloboTech Communications|
-|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|67.43.227.227|24259|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|21995|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|2611|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|6511|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|67.43.236.20|16349|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|11837|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|67.43.227.227|24259|Canada|Montreal|GloboTech Communications|
+|12|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|13|67.43.227.227|24259|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.92|11837|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|29231|Canada|Montreal|GloboTech Communications|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 
 
 
