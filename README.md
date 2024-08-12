@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|110.77.171.115|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|103.155.199.151|8080|Indonesia|Sukabumi|PT Lintas Jaringan Nusantara|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|101.255.116.126|8080|Indonesia|Jakarta|PT Remala Abadi|
-|9|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|15|185.128.138.192|8080|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|16|157.15.80.20|7777|Indonesia|Menggala|PT Digitama Network Indonesia|
-|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|16|72.10.164.178|16267|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|20|72.10.164.178|16267|Canada|Montreal|GloboTech Communications|
 
 
 
