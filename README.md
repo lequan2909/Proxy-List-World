@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|72.10.164.178|2187|Canada|Montreal|GloboTech Communications|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|72.10.160.170|6533|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.92|28353|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2187|Canada|Montreal|GloboTech Communications|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|67.43.236.20|8897|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|30983|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2187|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|22063|Canada|Montreal|GloboTech Communications|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|177.37.160.81|8085|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|14.187.98.106|8080|Vietnam|Ho Chi Minh City|VNPT|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|72.10.160.90|13327|Canada|Montreal|GloboTech Communications|
+|20|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
