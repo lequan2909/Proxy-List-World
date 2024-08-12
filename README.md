@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|36.67.246.251|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 |2|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.12.76.102|3128|Vietnam|Quận Long Biên|MOCLAMESOUL|
-|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|186.96.31.46|7070|Mexico|Cholula|Total Play Telecomunicaciones SA De CV|
-|10|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|12|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
-|14|152.26.231.42|9443|United States|Huntersville|MCNC|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.164.178|13687|Canada|Montreal|GloboTech Communications|
-|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|182.93.85.225|8080|Nepal|Dharān|Subisu D85|
-|20|72.10.164.178|13687|Canada|Montreal|GloboTech Communications|
+|6|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|10|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|11|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|72.10.164.178|25897|Canada|Montreal|GloboTech Communications|
+|13|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
+|14|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|103.140.188.217|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|16|72.10.164.178|25897|Canada|Montreal|GloboTech Communications|
+|17|103.80.88.74|443|Indonesia|Gorontalo|PT Jala Lintas Media|
+|18|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|19|58.80.134.185|1080|Japan|Suita|ARTERIA Networks Corporation|
+|20|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
 
 
 
