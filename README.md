@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.6.72.253|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|6|171.6.72.253|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|206.42.19.56|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|46.250.229.49|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|15|103.180.118.138|1111|Indonesia|Gresik|PT Persada Data Multimedia|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|72.10.164.178|2931|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|72.10.164.178|2931|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|26231|Canada|Montreal|GloboTech Communications|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|19|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
