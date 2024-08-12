@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.231.173.114|3128|United States|New York|Netsec Limited|
-|6|210.245.83.71|2305|Vietnam|Hanoi|FPT Telecom Company|
-|7|184.174.96.152|3129|United States|Wilmington|Ipxo LLC|
-|8|67.43.236.20|31241|Canada|Montreal|GloboTech Communications|
-|9|20.169.241.108|3128|United States|Boydton|Microsoft Corporation|
-|10|152.26.231.42|9443|United States|Huntersville|MCNC|
-|11|67.43.236.20|31241|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|4413|Canada|Montreal|GloboTech Communications|
-|13|111.225.152.235|8089|China|Shijiazhuang|China Telecom|
-|14|115.72.43.231|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|20.169.241.250|3128|United States|Boydton|Microsoft Corporation|
-|17|20.169.241.252|3128|United States|Boydton|Microsoft Corporation|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|72.10.164.178|32759|Canada|Montreal|GloboTech Communications|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.231.173.114|3128|United States|New York|Netsec Limited|
+|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|182.93.82.191|8080|Nepal|Dharān|Subisu Cablenet|
+|13|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|107.148.20.208|1234|United States|Los Angeles|PEG TECH INC|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|67.43.236.18|4413|Canada|Montreal|GloboTech Communications|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|20|72.10.160.90|2149|Canada|Montreal|GloboTech Communications|
 
 
 
