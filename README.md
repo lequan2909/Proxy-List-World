@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|189.201.153.91|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.231.173.114|3128|United States|New York|Netsec Limited|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|20637|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.20.90.118|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|189.203.201.146|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
+|9|103.231.173.114|3128|United States|New York|Netsec Limited|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|12|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|13|191.102.248.6|8085|Argentina|Rosario|IP·RED|
+|14|202.40.185.146|8080|Bangladesh|Dhaka|Ranks ITT|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|103.121.22.163|3127|Indonesia|Malang|PT. Eka Mas Republik|
 
 
 
