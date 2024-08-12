@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|1|203.150.128.254|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|180.191.49.60|8082|Philippines|Tarlac City|Globe Telecom|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|67.43.227.227|1231|Canada|Montreal|GloboTech Communications|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|183.36.24.13|3128|China|Guangzhou|Chinanet|
-|14|103.144.18.49|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|15|72.10.164.178|13939|Canada|Montreal|GloboTech Communications|
-|16|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|17|67.43.228.253|10439|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13939|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|72.10.160.170|1425|Canada|Montreal|GloboTech Communications|
+|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|111.225.152.187|8089|China|Shijiazhuang|China Telecom|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|111.225.153.28|8089|China|Shijiazhuang|China Telecom|
+|13|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|67.43.227.227|1231|Canada|Montreal|GloboTech Communications|
+|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|18|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|19|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
+|20|219.151.19.1|3128|China|Guiyang|Chinanet|
 
 
 
