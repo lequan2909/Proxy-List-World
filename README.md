@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|11|152.26.231.42|9443|United States|Huntersville|MCNC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|14|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|15|72.10.164.178|32025|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|67.43.236.20|4759|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|67.43.227.227|16913|Canada|Montreal|GloboTech Communications|
-|20|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|38.194.235.172|3128|Mexico|Pachuca|Cogent Communications|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|67.43.227.227|5121|Canada|Montreal|GloboTech Communications|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
