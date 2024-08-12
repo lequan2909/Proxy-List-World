@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|178.170.122.55|3128|France|Courcouronnes|Ikoula Ripe|
-|3|152.26.231.86|9443|United States|Huntersville|MCNC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|152.26.229.86|9443|United States|Huntersville|MCNC|
-|6|152.26.231.42|9443|United States|Huntersville|MCNC|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|67.43.227.227|20555|Canada|Montreal|GloboTech Communications|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.164.178|17821|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.91|25571|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|17821|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|10481|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17821|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|19119|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17821|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|14509|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|13101|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.229|13319|Canada|Montreal|GloboTech Communications|
+|2|152.26.231.86|9443|United States|Huntersville|MCNC|
+|3|152.26.229.86|9443|United States|Huntersville|MCNC|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|6|67.43.227.227|10319|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|152.26.231.42|9443|United States|Huntersville|MCNC|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|72.10.164.178|17821|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|45.249.122.198|8080|India|Coimbatore|Airconnect Services|
+|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|67.43.227.229|13319|Canada|Montreal|GloboTech Communications|
+|16|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|67.43.228.254|22363|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|2213|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|8425|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|31289|Canada|Montreal|GloboTech Communications|
 
 
 
