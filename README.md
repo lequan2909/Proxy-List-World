@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.231.173.114|3128|United States|New York|Netsec Limited|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|103.236.177.154|8081|Philippines|Makati City|Infinivan Incorporated|
-|9|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|10|103.231.173.114|3128|United States|New York|Netsec Limited|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|13|83.151.4.172|57812|Russia|Kazan'|MTS PJSC|
-|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|201.77.110.123|999|Mexico|Unión Campesina|Raul Duarte Urita|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|103.163.160.63|3128|Indonesia|Cikarawang|PT. Usaha Adisanggoro|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|16|103.162.54.251|8080|Indonesia|Bandung|PT Pratama Asia Globalindo|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|103.231.173.114|3128|United States|New York|Netsec Limited|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
