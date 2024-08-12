@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|72.10.160.90|3231|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|18063|Canada|Montreal|GloboTech Communications|
-|12|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|13|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|167.88.166.70|3128|United States|Dallas|RouterHosting LLC|
-|16|182.253.40.149|8080|Indonesia|Jakarta Pusat|BIZNET|
-|17|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|18|67.43.236.18|20219|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|18063|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11781|Canada|Montreal|GloboTech Communications|
+|4|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|119.110.69.215|57413|Indonesia|Jakarta|Maxindo|
+|10|72.10.160.90|3453|Canada|Montreal|GloboTech Communications|
+|11|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.156.233.157|3456|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|14|72.10.164.178|11781|Canada|Montreal|GloboTech Communications|
+|15|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|72.10.160.92|8601|Canada|Montreal|GloboTech Communications|
 
 
 
