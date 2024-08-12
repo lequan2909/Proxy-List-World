@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|72.10.160.174|15511|Canada|Montreal|GloboTech Communications|
-|6|67.43.228.253|13189|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|20619|Canada|Montreal|GloboTech Communications|
-|8|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|67.43.227.227|11601|Canada|Montreal|GloboTech Communications|
-|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|72.10.160.170|11623|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|11623|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|20619|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|11601|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|67.43.228.253|3673|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|9999|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|1951|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|1951|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|21373|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.226|16247|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.160.170|1951|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|9999|Canada|Montreal|GloboTech Communications|
 |17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|72.10.160.170|11623|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|11623|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|22077|Canada|Montreal|GloboTech Communications|
+|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
