@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|6|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|152.26.229.86|9443|United States|Huntersville|MCNC|
-|14|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|15|72.10.164.178|1943|Canada|Montreal|GloboTech Communications|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|72.10.164.178|1943|Canada|Montreal|GloboTech Communications|
-|19|171.6.72.253|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|20|154.90.49.103|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|181.212.41.172|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
 
 
 
