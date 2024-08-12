@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|49.144.27.137|8081|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|152.26.231.42|9443|United States|Huntersville|MCNC|
-|9|72.10.164.178|24921|Canada|Montreal|GloboTech Communications|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|67.43.227.227|25571|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|24993|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|24921|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|4875|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|27703|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|67.43.228.250|1149|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|15159|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|5263|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24921|Canada|Montreal|GloboTech Communications|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|152.26.231.42|9443|United States|Huntersville|MCNC|
+|7|72.10.164.178|25541|Canada|Montreal|GloboTech Communications|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|72.10.160.90|2001|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|13|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|14|67.43.236.20|5615|Canada|Montreal|GloboTech Communications|
+|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|16|67.43.227.228|28843|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|5615|Canada|Montreal|GloboTech Communications|
+|18|202.182.49.26|5656|Indonesia|Gelora|PT Remala Abadi|
+|19|72.10.160.171|4875|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
