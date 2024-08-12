@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|222.127.55.155|8083|Philippines|Lahug|INNOVE|
-|11|152.26.231.42|9443|United States|Huntersville|MCNC|
-|12|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|200.39.120.81|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.160.92|15125|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|67.43.228.252|2323|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|25817|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|4|152.26.231.42|9443|United States|Huntersville|MCNC|
+|5|72.10.160.90|28541|Canada|Montreal|GloboTech Communications|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|67.43.227.227|10337|Canada|Montreal|GloboTech Communications|
+|9|152.26.231.86|9443|United States|Huntersville|MCNC|
+|10|72.10.160.93|3533|Canada|Montreal|GloboTech Communications|
+|11|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|72.10.160.173|24433|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|27.72.63.61|8080|Vietnam|Hanoi|Newass2011xDSLHN|
 
 
 
