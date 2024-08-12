@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|8|195.158.3.198|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.154.77.204|8080|Indonesia|Sleman|T2NET|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|157.15.63.230|8090|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|36.67.123.173|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|18|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|39.62.2.54|3127|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|17|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
