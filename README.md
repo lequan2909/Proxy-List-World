@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.150.128.191|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|103.231.173.114|3128|United States|New York|Netsec Limited|
-|3|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|4|171.243.154.52|10000|Vietnam|Đồng Nai Province|Viettel Corporation|
-|5|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
+|4|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|5|103.231.173.114|3128|United States|New York|Netsec Limited|
 |6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|103.231.173.114|3128|United States|New York|Netsec Limited|
-|10|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|72.10.164.178|19317|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19317|Canada|Montreal|GloboTech Communications|
-|20|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|15.235.171.245|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|8|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|12|171.243.154.52|10000|Vietnam|Đồng Nai Province|Viettel Corporation|
+|13|44.226.167.102|3128|United States|Portland|Amazon.com, Inc.|
+|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|15|66.210.33.34|8080|United States|Milton|Cox Communications Inc.|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.20.16.141|3128|Indonesia|Kampungmasjid|PT Layanan Internet Sakti|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
 
 
 
