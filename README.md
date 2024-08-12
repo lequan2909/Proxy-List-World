@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|157.230.254.254|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.163.160.65|3128|Indonesia|Cikarawang|PT. Usaha Adisanggoro|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|157.230.254.254|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|103.163.160.65|3128|Indonesia|Cikarawang|PT. Usaha Adisanggoro|
+|5|113.192.30.185|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|95.161.194.74|8080|Russia|Kazan'|"OBIT" Ltd.|
-|11|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|14|103.231.173.114|3128|United States|New York|Netsec Limited|
-|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|119.76.142.136|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|17|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|18|172.104.39.91|80|Singapore|Singapore|Akamai Technologies|
+|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|10|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|103.20.16.141|3128|Indonesia|Kampungmasjid|PT Layanan Internet Sakti|
+|18|67.43.227.227|17477|Canada|Montreal|GloboTech Communications|
 |19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|67.43.227.227|15867|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|3245|Canada|Montreal|GloboTech Communications|
 
 
 
