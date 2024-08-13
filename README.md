@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|72.10.164.178|20171|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|103.228.246.131|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
