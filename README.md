@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.26.231.86|9443|United States|Huntersville|MCNC|
-|11|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|12|115.223.11.212|50000|China|Wenzhou|China Telecom|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|72.10.164.178|25845|Canada|Montreal|GloboTech Communications|
-|15|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
-|16|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|186.190.225.153|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
+|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|152.26.231.86|9443|United States|Huntersville|MCNC|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|15|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|16|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|17|72.10.164.178|17587|Canada|Montreal|GloboTech Communications|
+|18|57.128.193.70|1088|Poland|Warsaw|OVH SAS|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|115.72.43.231|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
