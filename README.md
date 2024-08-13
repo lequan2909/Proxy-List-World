@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.247.23.189|8080|Indonesia|Bekasi|PT wifian Solution|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|13.88.30.112|3128|United States|San Francisco|Microsoft Corporation|
-|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|9|103.35.108.129|5020|Bangladesh|Dhaka|Ranks ITT|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|91.229.28.105|3128|Slovakia|Nitra|KOMNET, s.r.o.|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|194.140.198.23|80|United States|Orangeburg|Nubes, LLC|
+|4|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|11|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|103.255.241.101|8080|Indonesia|Semarang|PT Media Sarana Data|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|17|103.158.162.18|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
