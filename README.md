@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.234.34.18|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|8|72.10.160.90|9581|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|16929|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|16929|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|16929|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|16929|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|16929|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|14343|Canada|Montreal|GloboTech Communications|
-|15|15.235.171.219|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|16|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|17|67.43.236.18|29491|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|32933|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|190.83.15.21|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|115.147.32.198|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|72.10.160.90|4175|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|72.10.164.178|28325|Canada|Montreal|GloboTech Communications|
+|15|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
+|16|72.10.164.178|28325|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
