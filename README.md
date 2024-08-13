@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.153.63.211|8085|Indonesia|Rejoagung Satu|IMEDIANET|
-|10|152.26.231.42|9443|United States|Huntersville|MCNC|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|14|152.26.231.86|9443|United States|Huntersville|MCNC|
-|15|103.48.68.98|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|216.10.247.145|3128|India|Mumbai|PDR|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|20|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|19|72.10.164.178|24495|Canada|Montreal|GloboTech Communications|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
