@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|57.128.193.70|1094|Poland|Warsaw|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|152.26.231.42|9443|United States|Huntersville|MCNC|
-|14|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
-|15|67.43.227.227|6497|Canada|Montreal|GloboTech Communications|
-|16|111.225.153.169|8089|China|Shijiazhuang|China Telecom|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|113.16.204.19|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|19|67.43.228.251|4739|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|6617|Canada|Montreal|GloboTech Communications|
+|13|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|16|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|45.125.222.81|8080|Bangladesh|Dhaka|SSD-TECH|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
