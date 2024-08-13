@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|139.162.51.163|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|8|152.26.231.42|9443|United States|Huntersville|MCNC|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
 |10|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|11|5.59.145.129|8080|Russia|Rostov-on-Don|Timer, LLC|
-|12|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|13|72.10.160.90|21031|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|24001|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|16525|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|16525|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|174.138.184.82|39029|United States|Secaucus|Interserver, Inc|
-|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|20|67.43.227.227|19125|Canada|Montreal|GloboTech Communications|
+|11|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|14|190.121.4.157|999|Chile|Osorno|Telefonica del Sur S.A.|
+|15|67.43.227.227|22483|Canada|Montreal|GloboTech Communications|
+|16|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|17|72.10.164.178|28049|Canada|Montreal|GloboTech Communications|
+|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|174.138.184.82|39029|United States|Secaucus|Interserver, Inc|
 
 
 
