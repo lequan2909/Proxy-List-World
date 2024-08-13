@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|103.178.42.3|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|6|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
 |7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|174.138.20.66|9090|Singapore|Singapore|DigitalOcean, LLC|
-|13|34.122.55.49|3128|United States|Council Bluffs|Google LLC|
-|14|188.209.238.58|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|15|115.72.43.231|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|72.10.160.90|6235|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|20831|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.42|9443|United States|Huntersville|MCNC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|167.88.166.70|3128|United States|Dallas|RouterHosting LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|89.23.103.161|3128|The Netherlands|Amsterdam|Global Connectivity Solutions LLP|
+|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|17|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
