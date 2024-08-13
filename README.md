@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|91.219.171.48|8952|Ukraine|Odesa|PE Saychik Pavlo Evgenovuch|
+|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|19897|Canada|Montreal|GloboTech Communications|
 |18|152.26.231.42|9443|United States|Huntersville|MCNC|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|72.10.164.178|8215|Canada|Montreal|GloboTech Communications|
+|19|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
