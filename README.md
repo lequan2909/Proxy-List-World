@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|152.26.231.86|9443|United States|Huntersville|MCNC|
-|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.231.42|9443|United States|Huntersville|MCNC|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
-|15|67.43.227.227|19493|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|16209|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|17287|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|72.10.160.90|27931|Canada|Montreal|GloboTech Communications|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|152.26.231.86|9443|United States|Huntersville|MCNC|
+|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.231.42|9443|United States|Huntersville|MCNC|
+|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|103.172.120.219|7777|Indonesia|Semarang|PT Digital Akses Nusantara|
+|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|18|120.50.18.146|58080|Bangladesh|Dhaka|Telnet|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|178.214.80.28|1981|Israel|Giv'on HaHadasha|GEMZO|
 
 
 
