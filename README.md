@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|165|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|800|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|164|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|801|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3183|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |5|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
 |6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.126.148.24|8080|Bangladesh|Dhaka|Delta Software and Communication Limited|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|72.10.160.174|23069|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.164.178|16431|Canada|Montreal|GloboTech Communications|
+|18|191.37.66.225|8080|Brazil|Embu das Artes|Yara Dos Santos Barreiro - ME|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
