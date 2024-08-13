@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|87.97.60.4|18080|Hungary|Érd|INVITEL Zrt|
-|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|210.231.177.142|8080|Japan|Chiyoda|NEWALLESNET|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.227|16253|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|15.235.171.225|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|20|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|25845|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|19|219.151.19.1|3128|China|Guiyang|Chinanet|
+|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 
 
 
