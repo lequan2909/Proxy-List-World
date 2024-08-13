@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|134.236.49.93|8080|Thailand|Chon Buri|CAT-BB|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.157.135.199|443|Bangladesh|Jessore|Radiance Technology|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|15|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|16|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|17|72.10.164.178|1431|Canada|Montreal|GloboTech Communications|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|72.10.160.92|6353|Canada|Montreal|GloboTech Communications|
+|19|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
 |20|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
 
 
