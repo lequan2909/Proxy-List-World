@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|72.10.160.171|20003|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|7763|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|9919|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|17323|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|17117|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|7763|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|7763|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|6789|Canada|Montreal|GloboTech Communications|
+|3|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|4|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|219.151.19.1|3128|China|Guiyang|Chinanet|
+|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.160.171|20003|Canada|Montreal|GloboTech Communications|
 
 
 
