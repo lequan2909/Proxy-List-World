@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|190.8.47.122|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|72.10.164.178|20157|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|11|72.10.164.178|6331|Canada|Montreal|GloboTech Communications|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|152.26.231.86|9443|United States|Huntersville|MCNC|
+|14|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|15|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
 |16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 
 
 
