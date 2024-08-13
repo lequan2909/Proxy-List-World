@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|13|103.228.36.164|10000|India|Mumbai|DXT|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
+|19|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|20|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
 
 
 
