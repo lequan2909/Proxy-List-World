@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|101.108.123.4|8080|Thailand|Bangkok|TOT Public Company Limited|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|185.44.26.217|43097|Spain|Pozo Estrecho|Electronica Martinez de Cartagena S.L.|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.236.20|2425|Canada|Montreal|GloboTech Communications|
-|16|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
-|17|67.43.236.20|2425|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|202.165.25.230|3128|Malaysia|Kuala Lumpur|TM VADS|
-|20|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
