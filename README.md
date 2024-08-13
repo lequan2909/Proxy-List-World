@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|12|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
-|13|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|72.10.160.170|14985|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|9759|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|16769|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.171|6661|Canada|Montreal|GloboTech Communications|
+|9|178.158.166.161|3128|Ukraine|Donetsk|EAST-NET Ltd|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|20|72.10.164.178|31091|Canada|Montreal|GloboTech Communications|
 
 
 
