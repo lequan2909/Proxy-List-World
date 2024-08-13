@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|37.24.165.222|3128|Germany|Sankt Leon-Rot|Vodafone|
-|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|116.74.80.134|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|154.90.48.183|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|17|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|154.90.49.182|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|20|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|186.180.66.138|8080|Colombia|Cúcuta|Colombia Móvil|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|38.9.56.70|8080|India|Chennai|Microsense Private Limited|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|103.122.1.74|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
