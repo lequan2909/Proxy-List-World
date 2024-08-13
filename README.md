@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|154.90.48.82|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|17|72.10.160.174|13093|Canada|Montreal|GloboTech Communications|
-|18|95.85.93.200|3128|United States|Manassas|G-Core Labs S.A.|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|51.77.211.107|80|France|Strasbourg|OVH SAS|
+|7|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|8|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.30.115.154|8080|Timor-Leste|Dili|Telin Telkomcel TimorLeste|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
