@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.46.8.3|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|7|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|124.6.168.26|80|Philippines|Lahug|INNOVE|
-|15|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|16|115.223.31.79|32650|China|Wenzhou|China Telecom|
-|17|72.10.160.90|9757|Canada|Montreal|GloboTech Communications|
-|18|81.215.229.55|1453|Turkey|Izmir|TurkTelecom|
-|19|67.43.227.227|25941|Canada|Montreal|GloboTech Communications|
-|20|114.9.24.198|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|4|103.46.8.3|8181|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
+|19|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
 
 
 
