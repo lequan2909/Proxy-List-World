@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|119.76.142.181|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|2|57.128.193.70|1094|Poland|Warsaw|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|57.128.193.70|1094|Poland|Warsaw|OVH SAS|
 |4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|219.151.19.1|3128|China|Guiyang|Chinanet|
-|14|67.43.236.20|1521|Canada|Montreal|GloboTech Communications|
-|15|113.16.204.19|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.160.174|17409|Canada|Montreal|GloboTech Communications|
-|18|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|19|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|17|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
+|19|113.16.204.19|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
 |20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
