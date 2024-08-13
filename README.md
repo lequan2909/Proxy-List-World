@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|203.150.128.108|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|206.217.131.28|3128|United States|Elk Grove Village|HostPapa|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|203.150.128.108|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|7|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|9|171.97.16.245|8080|Thailand|Pak Kret|True Internet Corporation CO. Ltd.|
+|10|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|152.26.231.86|9443|United States|Huntersville|MCNC|
-|20|67.43.227.227|33153|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
