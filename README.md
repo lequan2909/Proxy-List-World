@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|181.232.190.220|999|Dominican Republic|Guerra|Airtime Technology SRL|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|146.190.101.222|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|41.33.203.227|1976|Egypt|Cairo|TE Data|
+|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|103.70.123.6|8085|Indonesia|Kudus|PT Menara Digital Salama|
-|19|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|20|72.10.164.178|21361|Canada|Montreal|GloboTech Communications|
+|13|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
+|14|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
