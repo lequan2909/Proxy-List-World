@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|72.10.164.178|14579|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|103.113.230.121|82|India|Bhopal|Winux Communications Pvt. Ltd.|
 
 
 
