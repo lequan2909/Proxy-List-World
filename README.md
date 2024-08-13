@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|9|67.43.227.230|12501|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|6643|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|3915|Canada|Montreal|GloboTech Communications|
-|12|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|36.72.252.220|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|154.159.243.162|8080|Kenya|Nairobi|Airtel KE Mobile Broadband|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|72.10.160.171|31147|Canada|Montreal|GloboTech Communications|
-|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|20|72.10.164.178|14647|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
