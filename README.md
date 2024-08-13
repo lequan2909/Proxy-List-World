@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|188.209.238.58|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|4|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|188.209.238.58|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|188.132.222.68|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|72.128.133.154|16099|United States|Austin|Charter Communications|
-|15|72.10.164.178|15177|Canada|Montreal|GloboTech Communications|
-|16|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
-|17|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|13|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.164.178|28971|Canada|Montreal|GloboTech Communications|
+|16|116.197.132.201|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
+|17|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
+|18|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|19|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
 
 
 
