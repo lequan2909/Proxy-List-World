@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Care Limited|
-|12|24.204.29.115|8080|United States|Longview|Network IP|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.228.36.164|10000|India|Mumbai|DXT|
-|16|191.37.66.225|8080|Brazil|Embu das Artes|Yara Dos Santos Barreiro - ME|
-|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
+|4|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|11|177.184.199.36|80|Brazil|Suzano|Wireless Comm Services LTDA|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|66.54.106.56|8104|United States|Itta Bena|Mobile Communications, LLC|
+|14|66.54.106.56|8104|United States|Itta Bena|Mobile Communications, LLC|
+|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
