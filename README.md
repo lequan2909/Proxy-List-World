@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |3|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|8|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|9|152.26.231.86|9443|United States|Huntersville|MCNC|
-|10|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|72.10.164.178|30295|Canada|Montreal|GloboTech Communications|
-|15|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|16|67.43.227.227|19511|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
-|19|72.10.164.178|30295|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.229|3131|Canada|Montreal|GloboTech Communications|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|157.119.222.22|8080|Indonesia|Semarang|DESNET|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|203.98.76.2|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|14|172.190.226.115|3128|United States|Boydton|Microsoft|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|192.82.92.33|3128|Mongolia|Ulan Bator|MCS Com Co Ltd|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
