@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|152.26.231.42|9443|United States|Huntersville|MCNC|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|67.43.236.21|15753|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|19529|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|4175|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|118.117.189.13|8089|China|Muping|Chinanet|
-|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|72.10.164.178|7689|Canada|Montreal|GloboTech Communications|
+|15|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.90|4175|Canada|Montreal|GloboTech Communications|
+|18|45.229.32.244|999|Dominican Republic|Santo Domingo Este|Gold Data USA Inc|
 |19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|72.10.164.178|22739|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|21659|Canada|Montreal|GloboTech Communications|
 
 
 
