@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|81.94.135.202|1256|Russia|Moscow|WEST-CALL|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|31.28.31.212|3128|Russia|Moscow|Citytelecom LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|72.10.164.178|28611|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|67.43.236.20|29297|Canada|Montreal|GloboTech Communications|
-|17|177.81.30.222|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|18|72.10.164.178|28611|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|1855|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28611|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.231.86|9443|United States|Huntersville|MCNC|
+|13|38.52.222.250|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|14|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|72.10.164.178|28611|Canada|Montreal|GloboTech Communications|
+|17|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|67.43.236.20|28461|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|3973|Canada|Montreal|GloboTech Communications|
+|20|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
