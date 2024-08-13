@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.167.68.75|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.164.178|26225|Canada|Montreal|GloboTech Communications|
-|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|72.10.164.178|26225|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|26225|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.160.90|10529|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|27521|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|7883|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|12491|Canada|Montreal|GloboTech Communications|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|72.10.164.178|13247|Canada|Montreal|GloboTech Communications|
+|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|17|72.10.164.178|13247|Canada|Montreal|GloboTech Communications|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|72.10.164.178|13247|Canada|Montreal|GloboTech Communications|
 
 
 
