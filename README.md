@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4964** proxies at the latest update. Usable proxies are below.
+> Scraper found **4717** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|740|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|216|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2943|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2696|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|134.236.49.93|8080|Thailand|Chon Buri|CAT-BB|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.172.35.19|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.231.173.114|3128|United States|New York|Netsec Limited|
-|12|158.101.244.172|3128|Saudi Arabia|Jeddah|Oracle Corporation|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|51.77.211.107|80|France|Strasbourg|OVH SAS|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|72.10.160.170|1097|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|4185|Canada|Montreal|GloboTech Communications|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|72.10.160.170|3211|Canada|Montreal|GloboTech Communications|
+|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.171|31147|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|28219|Canada|Montreal|GloboTech Communications|
 
 
 
