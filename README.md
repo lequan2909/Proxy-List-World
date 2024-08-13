@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|9|191.97.16.72|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.231.173.114|3128|United States|New York|Netsec Limited|
-|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|103.186.97.18|8008|Indonesia|Kurintji|PT Jaringan Datamedia Nusantara|
-|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|18|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|19|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|20|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|8|103.173.231.18|3127|Indonesia|Serang|PT Jaringan Internet Banten|
+|9|103.151.35.164|1111|Indonesia|Tangerang|GAYUHNET|
+|10|116.197.134.13|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|177.93.58.182|999|Colombia|California|TV AZTECA SUCURSAL COLOMBIA|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|119.76.142.211|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|103.231.173.114|3128|United States|New York|Netsec Limited|
 
 
 
