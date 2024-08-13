@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|202.51.121.59|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|9|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|119.18.37.201|8888|Australia|Brisbane|Wideband Networks Pty Ltd|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|207.188.6.20|3128|United States|Dallas|Latitude.sh|
 
 
 
