@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|46.252.255.92|18080|Russia|St Petersburg|JSC "Severen-Telecom"|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|152.26.231.86|9443|United States|Huntersville|MCNC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|152.26.231.42|9443|United States|Huntersville|MCNC|
-|10|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|72.10.160.90|30407|Canada|Montreal|GloboTech Communications|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|20077|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|10|152.26.231.86|9443|United States|Huntersville|MCNC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|13|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|195.133.250.173|3127|Russia|Moscow|JSC Mastertel|
+|17|72.10.164.178|26967|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
