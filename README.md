@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|152.42.186.181|9090|Singapore|Singapore|DigitalOcean, LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|179.124.206.88|8080|Brazil|Assis Chateaubriand|Newcenter Telecom|
 |11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|152.42.186.181|9090|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.227.226|20989|Canada|Montreal|GloboTech Communications|
-|19|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|20|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|149.11.58.226|3128|France|Toulouse|Cogent Communications|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.26.231.42|9443|United States|Huntersville|MCNC|
+|17|191.37.66.225|8080|Brazil|Embu das Artes|Yara Dos Santos Barreiro - ME|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|20|72.10.164.178|3109|Canada|Montreal|GloboTech Communications|
 
 
 
