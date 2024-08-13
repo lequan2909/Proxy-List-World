@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|125.27.128.208|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|119.76.142.211|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.117.194.69|8080|Bangladesh|Kāfrul|DigiCon Telecommunication Ltd|
-|9|167.114.86.188|3128|Canada|Montreal|OVH Hosting|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.159.93.139|8095|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|16|167.114.86.188|3128|Canada|Montreal|OVH Hosting|
-|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
-|19|72.10.164.178|9105|Canada|Montreal|GloboTech Communications|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|3|119.76.142.211|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|17|103.186.97.18|8008|Indonesia|Kurintji|PT Jaringan Datamedia Nusantara|
+|18|72.10.164.178|9105|Canada|Montreal|GloboTech Communications|
+|19|45.137.70.218|3128|Germany|Goslar|Smartnet Limited|
+|20|72.10.164.178|9105|Canada|Montreal|GloboTech Communications|
 
 
 
