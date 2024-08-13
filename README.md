@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|45.76.124.96|80|Australia|Sydney|The Constant Company|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|10|103.11.198.68|3128|Vietnam|Quận Hoàng Mai|COKHITHUYLUCVIETNHAT|
-|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|72.10.160.170|9753|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
-|17|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|18|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|14561|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|25451|Canada|Montreal|GloboTech Communications|
+|1|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|2|45.76.124.96|80|Australia|Sydney|The Constant Company|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|167.88.166.70|3128|United States|Dallas|RouterHosting LLC|
+|12|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|13|178.214.80.28|1981|Israel|Giv'on HaHadasha|GEMZO|
+|14|152.26.231.86|9443|United States|Huntersville|MCNC|
+|15|67.43.227.227|27521|Canada|Montreal|GloboTech Communications|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|19|72.10.160.170|11671|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|2299|Canada|Montreal|GloboTech Communications|
 
 
 
