@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|46.252.255.92|18080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|152.26.231.42|9443|United States|Huntersville|MCNC|
-|15|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
-|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|17|72.10.164.178|9293|Canada|Montreal|GloboTech Communications|
-|18|51.158.62.124|45539|France|Paris|SCALEWAY|
-|19|45.12.74.32|7890|Russia|St Petersburg|Beget LLC|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
+|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|111.172.239.145|3128|China|Wuhan|China Telecom|
 
 
 
