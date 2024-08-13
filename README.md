@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|5|206.217.131.28|3128|United States|Elk Grove Village|HostPapa|
-|6|206.217.131.28|3128|United States|Elk Grove Village|HostPapa|
-|7|203.150.128.108|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|186.96.95.205|999|Costa Rica|San José|Telefonica de Costa Rica TC, SA|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|6|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|7|101.255.166.185|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|201.251.61.143|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|20|72.10.164.178|13247|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|20|68.183.149.126|11010|United States|Clifton|DigitalOcean, LLC|
 
 
 
