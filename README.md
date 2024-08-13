@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|6|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
-|7|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|5.45.93.252|4954|The Netherlands|Amsterdam|Scalaxy B.V.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|67.43.227.227|1121|Canada|Montreal|GloboTech Communications|
-|17|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|18|72.10.164.178|33149|Canada|Montreal|GloboTech Communications|
-|19|191.37.66.225|8080|Brazil|Embu das Artes|Yara Dos Santos Barreiro - ME|
-|20|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|9|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|111.225.152.187|8089|China|Shijiazhuang|China Telecom|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
 
 
 
