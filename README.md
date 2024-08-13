@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.178.43.26|8080|Indonesia|Jakarta|PT PHATRIA INTI PERSADA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|13|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|15|72.10.160.93|21327|Canada|Montreal|GloboTech Communications|
-|16|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|17|72.10.160.91|28393|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11983|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|11983|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|109.236.44.178|8080|Albania|Tirana|Abissnet sh.a.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|24.172.82.94|53281|United States|Mt Pleasant|Spectrum|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|19|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
