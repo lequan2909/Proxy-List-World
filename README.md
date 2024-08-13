@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|94.101.185.188|13699|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.172.35.19|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|9|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.27.22.65|32650|Pakistan|Lahore|Supernet|
-|14|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|38.7.1.185|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
