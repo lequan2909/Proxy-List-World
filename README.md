@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
-|6|202.182.49.26|5656|Indonesia|Gelora|PT Remala Abadi|
+|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|84.247.146.104|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|12|103.167.170.128|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|19|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|20|72.10.164.178|4633|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|10|64.206.77.122|3128|United States|Staten Island|Windstream Communications LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|13|66.206.15.148|8136|United States|Los Angeles|Primary|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|20|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 
 
 
