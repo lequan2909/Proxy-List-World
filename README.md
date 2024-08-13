@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|2|103.11.198.98|3128|Vietnam|Quận Hoàng Mai|COKHITHUYLUCVIETNHAT|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|5|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|8|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
 |10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|36.93.204.241|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|13|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|72.10.164.178|11983|Canada|Montreal|GloboTech Communications|
-|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.171|23351|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|67.43.227.227|8149|Canada|Montreal|GloboTech Communications|
+|17|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|11983|Canada|Montreal|GloboTech Communications|
+|20|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
