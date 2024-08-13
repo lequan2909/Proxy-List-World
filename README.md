@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|5|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.165.155.226|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|45.76.124.96|80|Australia|Sydney|The Constant Company|
-|17|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|65.20.189.104|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|4|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|201.251.61.143|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|20|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
 
 
 
