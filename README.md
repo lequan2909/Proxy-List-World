@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|18|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|67.43.236.20|1375|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|91.219.171.48|8952|Ukraine|Odesa|PE Saychik Pavlo Evgenovuch|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|13.83.94.137|3128|United States|San Francisco|Microsoft Corporation|
+|19|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
