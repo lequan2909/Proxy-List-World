@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|49.48.48.110|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|49.0.2.194|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.87.169.146|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|16|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|2|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|5|49.48.48.110|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|6|103.188.175.6|8080|Indonesia|Tarakan|PT. Fiber Networks Indonesia|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|19|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|29975|Canada|Montreal|GloboTech Communications|
 
 
 
