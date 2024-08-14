@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|74.48.129.170|8443|United States|Los Angeles|Multacom Corporation|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|132.145.171.177|3128|United States|Ashburn|Oracle Corporation|
 |4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.97.224.185|8080|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|14|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|5|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|13|132.145.171.177|3128|United States|Ashburn|Oracle Corporation|
+|14|74.48.129.170|8443|United States|Los Angeles|Multacom Corporation|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|184.82.44.167|8080|Thailand|Khon Kaen|AIS-Fibre|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
