@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.231.42|9443|United States|Huntersville|MCNC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|72.10.164.178|16409|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|16409|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|31433|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|8347|Canada|Montreal|GloboTech Communications|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|67.43.227.227|8347|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16409|Canada|Montreal|GloboTech Communications|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|14|152.26.231.86|9443|United States|Huntersville|MCNC|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|17541|Canada|Montreal|GloboTech Communications|
+|17|139.162.62.191|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|18|72.10.160.173|12329|Canada|Montreal|GloboTech Communications|
+|19|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
