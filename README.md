@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|91.195.178.107|3128|Russia|Novosibirsk|STARTELECOM-NOVOSIBIRSK|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|121.101.131.57|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.171.240.162|8181|Indonesia|Jatiasih|PT Abs Multimedia Indonesia|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.36.10.201|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|72.10.160.170|10527|Canada|Montreal|GloboTech Communications|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|191.97.16.19|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
+|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
