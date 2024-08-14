@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|124.120.142.11|8080|Thailand|Bangkok|TRUEBB|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|9|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
-|14|67.43.227.227|2587|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.160.91|17481|Canada|Montreal|GloboTech Communications|
-|17|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|19|67.43.236.20|31569|Canada|Montreal|GloboTech Communications|
-|20|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|124.120.142.11|8080|Thailand|Bangkok|TRUEBB|
+|8|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|14|72.10.160.91|29305|Canada|Montreal|GloboTech Communications|
+|15|219.144.80.144|3128|China|Liuxiang|CHINANET SHAANXI province Cloud Base network|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
+|18|72.10.160.90|31231|Canada|Montreal|GloboTech Communications|
+|19|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
+|20|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
 
 
 
