@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|14|112.208.252.255|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|15|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|20|104.248.165.240|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|10|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|11|103.174.18.11|8080|Indonesia|Jakarta Pusat|MORATELINDONAP|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
