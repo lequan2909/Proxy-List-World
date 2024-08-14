@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|124.120.142.11|8080|Thailand|Bangkok|TRUEBB|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.159.194.121|8080|Indonesia|Demak|PT Giga Digital Nusantara|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|10919|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|19|67.43.227.227|30903|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10919|Canada|Montreal|GloboTech Communications|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|191.37.66.225|8080|Brazil|Embu das Artes|Yara Dos Santos Barreiro - ME|
+|13|72.10.164.178|10919|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|124.120.142.11|8080|Thailand|Bangkok|TRUEBB|
+|16|67.43.227.227|25571|Canada|Montreal|GloboTech Communications|
+|17|186.16.14.104|3131|Paraguay|Lambaré|Telecel S.A.|
+|18|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|19|72.10.160.170|21643|Canada|Montreal|GloboTech Communications|
+|20|101.32.161.39|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
