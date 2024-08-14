@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|101.255.134.100|8080|Indonesia|Jakarta|PT Remala Abadi|
+|4|101.108.194.232|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|152.26.229.42|9443|United States|Huntersville|MCNC|
-|14|72.10.160.90|13891|Canada|Montreal|GloboTech Communications|
-|15|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|16|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|17|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|179.60.129.195|8080|Brazil|Goiânia|MP INFORMATICA LTDA|
+|12|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|13|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|20|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
