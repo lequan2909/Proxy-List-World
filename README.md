@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5820** proxies at the latest update. Usable proxies are below.
+> Scraper found **5913** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|186|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1028|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1099|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|358|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|380|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3290|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|134.236.17.44|8080|Thailand|Bang Lamung|CAT-BB|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|94.131.9.215|4002|France|Paris|Stark Industries Solutions LTD|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|14|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|16|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
-|17|103.35.108.181|5020|Bangladesh|Dhaka|Ranks ITT|
-|18|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|104.129.192.170|11066|United States|San Jose|ZSCALER, INC.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|178.73.192.2|8118|Sweden|Stockholm|Portlane Network|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
