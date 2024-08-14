@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.48.48.110|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|2|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|49.48.48.110|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|6|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.59.218|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|16|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|85.117.60.162|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
