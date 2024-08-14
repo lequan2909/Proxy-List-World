@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|36.72.252.220|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|103.186.204.10|8080|Indonesia|Bandung|PT Afna Digital Indonesia|
-|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|14|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|17|216.10.247.145|3128|India|Mumbai|PDR|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.76.149.198|8082|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|181.78.82.213|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|13|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.164.178|16933|Canada|Montreal|GloboTech Communications|
 
 
 
