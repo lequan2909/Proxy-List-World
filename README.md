@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|125.27.125.213|8080|Thailand|Pattaya|TOT Public Company Limited|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|125.27.125.213|8080|Thailand|Pattaya|TOT Public Company Limited|
+|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|12|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|13|57.128.193.70|1094|Poland|Warsaw|OVH SAS|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|20|45.236.170.178|999|Ecuador|General Villamil|Codgrec S.A.|
 
 
 
