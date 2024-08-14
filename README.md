@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|17|190.9.55.17|3128|Mexico|Hermosillo|Konecta Sonora SA de CV|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|190.9.55.17|3128|Mexico|Hermosillo|Konecta Sonora SA de CV|
 
 
 
