@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.160.182.159|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|129.153.113.206|8118|United States|Phoenix|Oracle Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
-|13|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|14|67.43.227.227|4989|Canada|Montreal|GloboTech Communications|
-|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|186.16.14.104|3131|Paraguay|Lambaré|Telecel S.A.|
-|17|67.43.228.251|21207|Canada|Montreal|GloboTech Communications|
-|18|203.145.58.234|8080|Indonesia|Cianjur|PT HSN GLOBAL NETWORK|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|67.43.236.20|11263|Canada|Montreal|GloboTech Communications|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|15|72.10.164.178|31679|Canada|Montreal|GloboTech Communications|
+|16|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
