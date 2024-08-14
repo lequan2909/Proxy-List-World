@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|101.109.31.119|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|154.38.186.190|3128|United States|Orangeburg|Nubes, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|14|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|152.26.231.42|9443|United States|Huntersville|MCNC|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|134.236.17.44|8080|Thailand|Bang Lamung|CAT-BB|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
+|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|104.129.192.170|11066|United States|San Jose|ZSCALER, INC.|
+|14|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
