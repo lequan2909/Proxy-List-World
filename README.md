@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|103.68.214.22|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|58.80.134.185|1080|Japan|Suita|ARTERIA Networks Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|85.117.63.37|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|19|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
-|20|58.80.134.185|1080|Japan|Suita|ARTERIA Networks Corporation|
+|16|89.117.152.126|3128|Germany|Frankfurt am Main|Limestone Networks, Inc.|
+|17|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|19|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
