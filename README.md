@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|38.49.152.103|8080|Mexico|Jerécuaro|Ientc S De RL De CV|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|67.43.227.227|24703|Canada|Montreal|GloboTech Communications|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|178.254.186.1|6666|Croatia|Varaždin|O TELEKOMUNIKACIJE d.o.o.|
+|15|103.165.155.60|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|17|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
