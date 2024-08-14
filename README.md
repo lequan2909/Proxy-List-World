@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |2|165.22.243.212|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.166.159.163|8080|Indonesia|Serang|PT Timor Lintas Nusantara|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|222.127.67.204|8085|Philippines|Lahug|INNOVE|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|202.47.189.106|8080|Indonesia|Sintang|PT.CITRA BERDIKARI NUSANTARA|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|202.47.189.106|8080|Indonesia|Sintang|PT.CITRA BERDIKARI NUSANTARA|
-|16|104.129.192.170|10230|United States|San Jose|ZSCALER, INC.|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|109.74.38.14|8080|Yemen|Al Jarrāḩī|Public Telecommunication Corporation|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
 
 
 
