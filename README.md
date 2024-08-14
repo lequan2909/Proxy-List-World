@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|179.1.141.10|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
-|14|72.10.164.178|29975|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|72.10.164.178|29975|Canada|Montreal|GloboTech Communications|
-|17|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
-|18|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|72.10.164.178|29975|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|7557|Canada|Montreal|GloboTech Communications|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|103.80.230.21|8080|Indonesia|Medan|PT Dream Network Solusindo|
+|8|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.188.175.6|8080|Indonesia|Tarakan|PT. Fiber Networks Indonesia|
+|11|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|72.10.164.178|29975|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|72.10.164.178|29975|Canada|Montreal|GloboTech Communications|
 
 
 
