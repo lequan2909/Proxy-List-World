@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|27.147.131.41|58080|Bangladesh|Mymensingh|Corporate-Subscriber|
-|13|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.160.90|23975|Canada|Montreal|GloboTech Communications|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.159.194.171|3128|Indonesia|Demak|PT Giga Digital Nusantara|
+|14|27.147.131.41|58080|Bangladesh|Mymensingh|Corporate-Subscriber|
+|15|88.255.106.27|8080|Türkiye|Istanbul|TurkTelekom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|204.199.174.77|999|Peru|Arequipa|Fiberred Sociedad Anonima Cerrada|
 
 
 
