@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.17.146.18|8080|Germany|Frankfurt am Main|LeaseWeb DE|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.147.134.231|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
