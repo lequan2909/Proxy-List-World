@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.108.194.232|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|11|104.129.192.170|10230|United States|San Jose|ZSCALER, INC.|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
-|15|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|72.10.160.170|22717|Canada|Montreal|GloboTech Communications|
+|14|104.129.192.170|10230|United States|San Jose|ZSCALER, INC.|
+|15|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|16|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|17|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
+|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
