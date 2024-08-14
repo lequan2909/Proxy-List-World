@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|167.71.212.147|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|193.68.152.102|8080|Bulgaria|Rakovski|Digital Systems Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
-|8|190.14.239.58|999|Colombia|Pasto|Media Commerce Partners S.A|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|6|118.99.119.35|8080|Indonesia|Bandar Lampung|Biznet Networks|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|118.99.119.35|8080|Indonesia|Bandar Lampung|Biznet Networks|
-|16|103.31.251.252|5040|Indonesia|Jakarta|ARGON|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|19|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|20|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|15|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|16|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|17|103.48.71.26|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|19|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|20|115.127.91.225|58080|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
