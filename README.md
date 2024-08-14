@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|57.128.193.70|1148|Poland|Warsaw|OVH SAS|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|188.132.222.37|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
 
 
 
