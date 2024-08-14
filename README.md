@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|189.232.93.121|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|82.180.154.142|8080|United Kingdom|Manchester|Hostinger International Limited|
-|12|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
