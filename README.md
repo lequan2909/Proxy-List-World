@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|14|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|15|45.189.118.214|999|Peru|Lima|Fiber Digital S.R.L|
-|16|113.16.204.19|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|17|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|18|72.10.164.178|16693|Canada|Montreal|GloboTech Communications|
-|19|111.225.152.217|8089|China|Shijiazhuang|China Telecom|
-|20|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|9|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|10|113.16.204.19|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
+|11|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|15|67.43.236.20|32151|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|4251|Canada|Montreal|GloboTech Communications|
+|17|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|18|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|19|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|20|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
 
 
 
