@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|128.199.77.28|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.51.205.20|8080|Indonesia|Semarang|Lintas Data Prima, PT|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|61.7.183.248|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
