@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|5|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|72.10.160.90|9361|Canada|Montreal|GloboTech Communications|
-|11|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|123.182.59.182|8089|China|Shijiazhuang|China Telecom|
-|14|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|15|72.10.164.178|2707|Canada|Montreal|GloboTech Communications|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|152.26.229.42|9443|United States|Huntersville|MCNC|
+|10|103.68.214.22|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|11|152.26.231.42|9443|United States|Huntersville|MCNC|
+|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|13|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|14|72.10.164.178|2707|Canada|Montreal|GloboTech Communications|
+|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
 |16|72.10.164.178|2707|Canada|Montreal|GloboTech Communications|
-|17|63.239.220.117|8080|United States|Okeechobee|CenturyLink Communications, LLC|
-|18|67.43.228.253|2485|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|72.10.164.178|2707|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|7989|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|72.10.160.92|13613|Canada|Montreal|GloboTech Communications|
+|20|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
 
 
 
