@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|176.98.239.142|52900|Kazakhstan|Astana|JSC Transtelecom|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 |8|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|9|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|152.26.231.42|9443|United States|Huntersville|MCNC|
-|12|72.10.160.90|7625|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.230|5583|Canada|Montreal|GloboTech Communications|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|67.43.228.253|11257|Canada|Montreal|GloboTech Communications|
-|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|17|95.163.236.199|8081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|18|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|19|67.43.227.227|29383|Canada|Montreal|GloboTech Communications|
-|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|183.242.69.113|3218|China|Beijing|China Mobile Communications Corporation|
+|12|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|103.175.46.222|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|16|194.48.209.150|33128|Ukraine|Lymanka|Beetec Telekom LLC|
+|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|18|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
 
 
 
