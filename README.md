@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|190.106.118.221|999|Dominican Republic|Santo Domingo|Estrela Telecom|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|178.150.253.205|8080|Ukraine|Kyiv|Triolan|
-|12|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
-|13|72.10.164.178|6283|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|17|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|6283|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|1|160.248.79.245|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|101.255.165.129|1111|Indonesia|Bekasi|PT Remala Abadi|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|190.106.118.221|999|Dominican Republic|Santo Domingo|Estrela Telecom|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
