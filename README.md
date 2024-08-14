@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
+|2|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|3|91.223.224.230|8080|Russia|Nizhniy Novgorod|LLC ATK Telecom|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|6|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|7|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|8|149.28.134.107|2020|Singapore|Singapore|The Constant Company|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
-|11|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|25139|Canada|Montreal|GloboTech Communications|
+|5|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|6|216.10.247.145|3128|India|Mumbai|PDR|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|16|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|17|72.10.164.178|25139|Canada|Montreal|GloboTech Communications|
+|18|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|19|72.10.164.178|25139|Canada|Montreal|GloboTech Communications|
+|20|120.50.18.146|58080|Bangladesh|Dhaka|Telnet|
 
 
 
