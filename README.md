@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
-|3|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|72.10.164.178|23201|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|72.10.160.90|19975|Canada|Montreal|GloboTech Communications|
-|14|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
-|18|67.43.227.227|21763|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|26693|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|4|124.120.142.11|8080|Thailand|Bangkok|TRUEBB|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|13|72.10.164.178|24687|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
 
 
 
