@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|13|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|15|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|72.10.160.170|9139|Canada|Montreal|GloboTech Communications|
-|20|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|183.242.69.110|3218|China|Beijing|China Mobile Communications Corporation|
+|19|140.99.122.244|999|Dominican Republic|Santiago de los Caballeros|EpicUp Holdings Inc|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
