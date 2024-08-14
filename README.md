@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|185.129.82.203|8080|Iran|Tehran|Paya Kian Parham Co.|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|10|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|59.98.151.237|8080|India|Alwar|BSNL Internet|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|19|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|177.37.217.45|8080|Brazil|Caruaru|Brisanet Servicos De Telecomunicacoes Ltda|
+|14|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|15|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|16|89.117.152.126|3128|Germany|Frankfurt am Main|Limestone Networks, Inc.|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
