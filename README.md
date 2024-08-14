@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|7|125.27.125.213|8080|Thailand|Pattaya|TOT Public Company Limited|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|19|108.181.56.101|3128|United States|Ashburn|Psychz Networks|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
