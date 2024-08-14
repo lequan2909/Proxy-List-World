@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|4|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
-|5|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
-|15|72.10.160.90|9793|Canada|Montreal|GloboTech Communications|
-|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|17|182.253.218.86|8081|Indonesia|Ngawi|BIZNET|
-|18|72.10.164.178|21351|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|82.180.154.142|8080|United Kingdom|Manchester|Hostinger International Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
+|4|115.97.103.72|3128|India|Chennai|Hathway IP over Cable Internet Access|
+|5|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
+|9|101.32.161.39|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|20|72.10.164.178|32477|Canada|Montreal|GloboTech Communications|
 
 
 
