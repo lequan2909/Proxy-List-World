@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|27.66.240.210|8080|Vietnam|Haiphong|Viettel Group|
-|15|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|13.231.108.224|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|204.199.120.60|8080|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|17|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|18|101.255.116.126|8080|Indonesia|Jakarta|PT Remala Abadi|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|20|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
