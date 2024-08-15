@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
 |4|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|79.175.189.220|1080|Iran|Tehran|Afranet|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|190.69.157.213|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|101.255.169.249|8080|Indonesia|Bekasi|PT Remala Abadi|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|115.72.43.231|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
