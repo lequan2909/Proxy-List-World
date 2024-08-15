@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|200.233.131.170|8080|Brazil|São Paulo|ALGAR TELECOM S/A|
-|8|152.26.229.86|9443|United States|Huntersville|MCNC|
-|9|67.43.228.250|5683|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|21333|Canada|Montreal|GloboTech Communications|
-|11|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|67.43.227.227|27301|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.229|11647|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|67.43.227.230|3075|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|27301|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|13|172.190.226.115|3128|United States|Boydton|Microsoft|
+|14|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|29501|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Huntersville|MCNC|
+|19|67.43.228.250|5683|Canada|Montreal|GloboTech Communications|
+|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 
 
 
