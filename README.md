@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|79.175.189.220|1080|Iran|Tehran|Afranet|
+|3|158.140.177.206|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|6|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|7|181.115.66.234|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
 |8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.169.148.2|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
-|16|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|191.37.66.225|8080|Brazil|Embu das Artes|Yara Dos Santos Barreiro - ME|
-|20|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
+|12|103.144.221.218|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|13|124.217.97.131|8080|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|14|139.162.62.191|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|17|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
+|18|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
