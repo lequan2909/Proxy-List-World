@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|103.172.197.93|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|12|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|20|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
 
 
 
