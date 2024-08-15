@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
 |11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.164.178|27189|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|16|72.10.164.178|32779|Canada|Montreal|GloboTech Communications|
 |17|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|18|15.235.171.225|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|19|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|20|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
