@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|7|103.76.149.67|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|8|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|103.180.118.5|8888|Indonesia|Gresik|PT Persada Data Multimedia|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|14|101.255.210.50|8080|Indonesia|Jakarta|PT Remala Abadi|
-|15|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|183.242.69.110|3218|China|Beijing|China Mobile Communications Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|11|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|27.147.131.122|8090|Bangladesh|Mymensingh|Corporate-Subscriber|
+|17|152.26.229.42|9443|United States|Huntersville|MCNC|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|20|123.182.58.42|8089|China|Shijiazhuang|China Telecom|
 
 
 
