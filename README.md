@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|124.217.97.131|8080|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|15|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|16|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|17|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|158.140.177.206|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|20.169.241.250|3128|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|20.169.241.250|3128|United States|Boydton|Microsoft Corporation|
+|13|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|14|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|15|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
