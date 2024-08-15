@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.76.124.96|80|Australia|Sydney|The Constant Company|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|41.111.167.61|80|Algeria|Beni Saf|Algerie Telecom|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|8|159.223.62.105|9090|Singapore|Singapore|DigitalOcean, LLC|
-|9|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|10|35.185.120.84|3128|United States|North Charleston|Google LLC|
-|11|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|12|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
-|13|139.59.108.204|9090|Singapore|Singapore|DIGITALOCEAN|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|20.169.241.173|3128|United States|Boydton|Microsoft Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|35.185.120.84|3128|United States|North Charleston|Google LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|7|202.191.123.228|58080|Bangladesh|Dhaka|BIJOY|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
