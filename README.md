@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|171.6.79.31|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|8|194.233.76.162|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|20.169.241.103|3128|United States|Boydton|Microsoft Corporation|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|20.169.241.103|3128|United States|Boydton|Microsoft Corporation|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|19|148.66.21.202|3128|Hong Kong|Cheung Sha Wan|Netsec Limited|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
