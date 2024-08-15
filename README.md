@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|4|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|8|45.133.107.238|81|Russia|Mezmay|Art-net LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
-|12|181.176.71.193|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|157.100.9.237|999|Ecuador|Quito|Telconet S.A|
-|18|103.105.55.51|9090|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
-|19|103.144.102.230|8085|Indonesia|Bandung|PANDAWANET|
-|20|138.59.151.162|8080|Brazil|Porto Feliz|Wireless Comm Services LTDA|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|103.105.55.51|9090|Indonesia|Banyumas|PT. Mega Artha Lintas Data|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|41.65.251.49|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|11|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|14|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|15|103.224.124.239|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|16|189.90.255.208|3128|Brazil|João Monlevade|Companhia Itabirana Telecomunicações Ltda|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|181.176.71.193|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|19|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
+|20|85.31.234.252|80|United States|Phoenix|HOSTINGER US|
 
 
 
