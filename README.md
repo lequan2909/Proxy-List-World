@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|8|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|9|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|10|67.43.228.252|13815|Canada|Montreal|GloboTech Communications|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|72.10.160.171|1761|Canada|Montreal|GloboTech Communications|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|10|178.254.42.100|8118|Germany|Berlin|BLU-VH|
+|11|45.125.222.81|8080|Bangladesh|Dhaka|SSD-TECH|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |14|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|15|67.43.227.227|5349|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|11849|Canada|Montreal|GloboTech Communications|
-|17|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|163.172.33.137|4004|France|Vitry-sur-Seine|Online S.A.S.|
-|20|200.195.235.226|3128|Brazil|Salvador|BR.Digital Provider|
+|15|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|18|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
 
 
 
