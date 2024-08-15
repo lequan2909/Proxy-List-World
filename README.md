@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|10|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|16|72.10.164.178|8385|Canada|Montreal|GloboTech Communications|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|19|190.221.139.18|3128|Argentina|Buenos Aires|Techtel LMDS Comunicaciones Interactivas S.A.|
-|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|1|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|2|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|3|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|15.235.171.225|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|15.235.171.214|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
 
 
 
