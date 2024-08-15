@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|186.207.191.213|8080|Brazil|Salvador|Claro NXT Telecomunicacoes Ltda|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.54.80.162|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
-|20|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|152.26.231.42|9443|United States|Huntersville|MCNC|
+|19|171.239.232.48|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
