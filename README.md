@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|212.46.210.234|8080|Russia|Moscow|VympelKom broadband internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|187.190.99.229|8080|Mexico|Valle de Santiago|Total Play Telecomunicaciones SA De CV|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|103.193.144.13|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|17|123.114.43.147|8800|China|Beijing|China Unicom Beijing Province Network|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|103.84.208.170|8080|Indonesia|Padang|CINOXMEDIANET|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|51.222.102.172|80|Canada|Beauharnois|OVH SAS|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|114.5.199.222|80|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|157.15.63.164|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|152.26.231.86|9443|United States|Huntersville|MCNC|
-|20|200.39.120.123|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|19|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
