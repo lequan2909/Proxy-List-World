@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|14.102.108.58|8080|India|Delhi|World Phone Internet Services Pvt Ltd|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|19|152.26.231.86|9443|United States|Huntersville|MCNC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|77.48.22.49|33347|Czechia|Klopotovice|Vodafone Czech Republic|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|152.26.229.86|9443|United States|Huntersville|MCNC|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
