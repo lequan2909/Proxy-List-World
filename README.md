@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|4|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|9|119.47.90.221|8080|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|10|101.255.169.249|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|38.7.1.185|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|13|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
 
 
 
