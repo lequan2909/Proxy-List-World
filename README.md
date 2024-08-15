@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|79.175.189.220|1080|Iran|Tehran|Afranet|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|182.253.162.82|8080|Indonesia|Jakarta Pusat|BIZNET|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|72.10.164.178|25363|Canada|Montreal|GloboTech Communications|
-|20|94.131.9.215|4002|France|Paris|Stark Industries Solutions LTD|
+|5|101.128.78.202|32650|Indonesia|Palembang|CBN|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|103.248.9.226|8181|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|103.76.109.50|3127|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|119.59.96.112|80|Thailand|Bang Rak|Metrabyte Co., Ltd|
+|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 
 
 
