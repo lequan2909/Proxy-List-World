@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|166.1.201.166|3128|The Netherlands|Amsterdam|Baxet Group Inc.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|14|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
-|15|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
-|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|94.179.109.254|8081|Ukraine|Kyiv|UKRTELECOM|
+|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.154.139.83|8080|Indonesia|Utan|MORATELINDONAP|
+|9|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|14|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|57.128.169.167|3128|United Kingdom|Erith|OVH SAS|
+|17|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|18|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
