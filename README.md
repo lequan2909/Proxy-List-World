@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|41.231.37.76|3128|Tunisia|Tunis|Tunisia BackBone AS|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|177.136.85.113|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|171.239.232.48|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|46.161.196.222|9812|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|18|45.81.235.16|3128|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|19|186.97.172.178|60080|Colombia|Medellín|Colombia Móvil|
-|20|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
+|6|38.188.127.123|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|7|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|45.133.107.238|81|Russia|Mezmay|Art-net LLC|
+|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|92.51.126.42|8080|Georgia|Tbilisi|Delta NET Network|
+|14|212.248.95.26|6565|Russia|Moscow|MTS PJSC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|17|157.100.9.238|999|Ecuador|Quito|Telconet S.A|
+|18|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
