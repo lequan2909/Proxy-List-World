@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|13|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|20|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
