@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|103.169.254.155|3127|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|79.175.189.220|1080|Iran|Tehran|Afranet|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|175.143.205.175|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|13|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|139.162.62.191|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|103.179.182.241|8090|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|20|177.93.45.225|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
+|14|200.106.184.129|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|15|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
