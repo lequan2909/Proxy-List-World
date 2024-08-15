@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|206.189.158.220|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|51.158.62.124|38541|France|Paris|SCALEWAY|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|51.158.62.124|38541|France|Paris|SCALEWAY|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.155.116.243|8085|Indonesia|Bekasi|IOSYS|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |18|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|19|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
 |20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
