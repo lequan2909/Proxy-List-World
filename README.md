@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|152.26.231.42|9443|United States|Huntersville|MCNC|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|16|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
-|17|188.132.221.81|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
-|19|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|101.109.152.150|8080|Thailand|Klaeng|TOT Public Company Limited|
+|4|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
