@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|116.58.232.54|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|154.90.48.166|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|154.90.49.12|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|18|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|34.246.254.29|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|18.181.142.87|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|13|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
