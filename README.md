@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|119.47.90.109|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|16|103.137.218.233|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|19|182.53.50.2|3128|Thailand|Ban Mai Khao|TOT Public Company Limited|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.234.31.58|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|103.154.230.188|8080|Indonesia|Lamongan|DIGITNET|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|156.200.123.170|8080|Egypt|Cairo|TE Data|
 
 
 
