@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|206.189.158.220|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|10|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|20|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|19|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|20|103.159.46.45|83|India|Ahmedabad|King Netsol Private Limited|
 
 
 
