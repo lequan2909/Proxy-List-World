@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
+|18|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|19|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
