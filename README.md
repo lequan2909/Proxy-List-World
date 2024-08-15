@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|79.175.189.220|1080|Iran|Tehran|Afranet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.129.123.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
 
 
 
