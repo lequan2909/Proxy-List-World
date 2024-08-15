@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|2|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|3|79.175.189.220|1080|Iran|Tehran|Afranet|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|101.255.208.18|3129|Indonesia|Ciputat|PT Remala Abadi|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
-|20|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|1.2.220.29|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|189.195.139.178|999|Mexico|Tangancícuaro de Arista|Mega Cable, S.A. de C.V.|
+|15|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
