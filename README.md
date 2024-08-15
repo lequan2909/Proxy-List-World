@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|79.175.189.220|1080|Iran|Tehran|Afranet|
-|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|5|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|18|154.90.49.240|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|19|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|113.164.94.137|3218|Vietnam|Da Lat|VietNam Post and Telecom Corporation|
+|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|16|154.90.49.240|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
