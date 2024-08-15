@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|84.204.135.251|8080|Russia|St Petersburg|PJSC MegaFon|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|213.19.123.178|229|Czechia|Dolní Újezd|FORTECH|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|80.194.38.106|3333|United Kingdom|Oldham|Virgin Media Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|188.132.221.233|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|116.197.134.13|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|17|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|116.101.22.249|10013|Vietnam|Haiphong|Viettel Corporation|
 
 
 
