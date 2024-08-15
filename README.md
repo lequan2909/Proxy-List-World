@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|187.251.230.10|3128|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |13|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|72.10.164.178|31361|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Huntersville|MCNC|
-|18|67.43.227.227|22161|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|15|152.26.231.86|9443|United States|Huntersville|MCNC|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|72.10.160.91|1445|Canada|Montreal|GloboTech Communications|
 
 
 
