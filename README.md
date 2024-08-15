@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|103.13.204.89|8083|Indonesia|Bodeh|PT JARINGANKU SARANA NUSANTARA|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|50.28.7.7|80|United States|Lansing|Liquid Web, L.L.C|
-|11|79.175.189.220|1080|Iran|Tehran|Afranet|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|43.252.107.102|7777|Indonesia|Blitar|PT Lintas Data Prima|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|16|103.217.224.69|8585|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|20|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.13.204.89|8083|Indonesia|Bodeh|PT JARINGANKU SARANA NUSANTARA|
+|12|103.174.236.96|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|13|15.235.171.206|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
