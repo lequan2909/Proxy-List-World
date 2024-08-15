@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
+|13|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|16|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
+|17|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
+|18|67.43.236.20|15415|Canada|Montreal|GloboTech Communications|
+|19|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
