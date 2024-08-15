@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|172.104.41.13|16379|Singapore|Singapore|Akamai Technologies|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|67.43.236.20|8879|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23003|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
