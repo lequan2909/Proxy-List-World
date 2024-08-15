@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|14|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|12|47.243.166.133|18080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|14|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|158.140.139.11|3128|Singapore|Singapore|Myrepublic Limited|
-|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|17|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
+|18|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|19|191.102.254.27|8085|Argentina|Rosario|IP·RED|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
