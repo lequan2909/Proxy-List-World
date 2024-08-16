@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|190.181.24.34|999|Bolivia|La Paz|AXS Bolivia S. A.|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|202.143.111.245|3128|Vietnam|Phường Bảy|Digital world data online company|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|152.26.229.86|9443|United States|Huntersville|MCNC|
-|10|152.26.231.86|9443|United States|Huntersville|MCNC|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|152.26.229.42|9443|United States|Huntersville|MCNC|
-|13|77.105.147.162|3128|Germany|Frankfurt am Main|Aeza International LTD|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|16|72.10.164.178|19599|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|19599|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19599|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|1679|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|7|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|202.143.111.245|3128|Vietnam|Phường Bảy|Digital world data online company|
+|11|103.139.242.181|83|India|Pune|Spectram Telecom Pvt.Ltd|
+|12|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|177.75.1.33|8080|Brazil|Formosa|Networld Provedor e Servicos de Internet Ltda|
+|14|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|46.101.179.49|3129|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
