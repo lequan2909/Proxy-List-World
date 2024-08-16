@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|5|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|68.183.149.126|11010|United States|Clifton|DigitalOcean, LLC|
-|9|103.162.63.181|8080|Indonesia|Bangkalan|PT Ring Media Nusantara|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|8|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|9|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|10|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|11|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
 |12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|13|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|77.105.147.162|3128|Germany|Frankfurt am Main|Aeza International LTD|
-|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|19|77.105.147.162|3128|Germany|Frankfurt am Main|Aeza International LTD|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
