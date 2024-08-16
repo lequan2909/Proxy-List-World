@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|2|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|3|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|4|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
-|5|103.114.52.72|8089|Indonesia|Klaten|Proxy-registered|
-|6|92.204.163.211|8889|France|Strasbourg|velia.net Internetdienste GmbH|
-|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|2|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|3|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|4|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|7|195.90.211.235|3128|Germany|Berlin|EVANZO e-commerce GmbH|
+|8|94.23.204.27|3128|France|Roubaix|OVH SAS|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|13|119.110.69.215|57413|Indonesia|Jakarta|Maxindo|
-|14|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|15|181.209.82.195|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|139.162.62.191|8080|Singapore|Singapore|Akamai Technologies, Inc.|
-|17|195.90.211.235|3128|Germany|Berlin|EVANZO e-commerce GmbH|
-|18|14.99.215.106|80|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|19|154.73.87.241|8080|Botswana|Rakops|STATURE (PTY) LTD|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|158.140.139.11|3128|Singapore|Singapore|Myrepublic Limited|
+|16|152.26.229.42|9443|United States|Huntersville|MCNC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|72.10.160.94|20299|Canada|Montreal|GloboTech Communications|
+|19|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
