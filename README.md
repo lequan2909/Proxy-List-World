@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|11|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|190.97.94.2|999|Colombia|Pradera|Empresa de Recursos Tecnologicos S.A E.S.P|
-|18|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|19|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|20|45.224.247.102|6969|Brazil|Lorena|Upix Networks|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|79.175.189.51|1080|Iran|Tehran|Afranet|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|19|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
