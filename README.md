@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|65.21.182.126|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|79.175.189.88|1080|Iran|Tehran|Afranet|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|103.87.169.165|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|24.204.29.115|8080|United States|Longview|Network IP|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|5|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|12|103.234.159.5|8080|India|Bengaluru|MWPL|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|103.189.96.196|8085|Indonesia|Sragen|Lintas Data Prima, PT|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|18|182.253.168.5|8080|Indonesia|Jakarta|BIZNET|
+|19|180.211.91.45|3125|Indonesia|Bekasi|PT. KINGS NETWORK INDONESIA|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
