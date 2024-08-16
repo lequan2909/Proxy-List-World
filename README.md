@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|12|103.222.255.140|8080|Indonesia|Jakarta|PT Iktiar Doa Tawakal|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 |14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|17|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|18|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|16|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|17|103.83.179.134|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|18|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|222.74.73.202|42055|China|Hechi|Chinanet|
 
 
 
