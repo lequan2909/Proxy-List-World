@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|16|103.81.195.222|8088|Indonesia|Bogor|PT Rtiga Global Media|
-|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
