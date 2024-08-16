@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |4|79.175.189.220|1080|Iran|Tehran|Afranet|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.82.8.242|8989|Bangladesh|Dhaka|FNF Online|
-|15|152.26.231.86|9443|United States|Huntersville|MCNC|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|20|67.43.228.253|17215|Canada|Montreal|GloboTech Communications|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
 
 
 
