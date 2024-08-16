@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|79.175.189.220|1080|Iran|Tehran|Afranet|
+|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|67.43.227.227|22691|Canada|Montreal|GloboTech Communications|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|12|177.174.126.203|8080|Brazil|São Paulo|Vivo|
-|13|67.43.227.226|9123|Canada|Montreal|GloboTech Communications|
-|14|154.90.49.34|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|15|213.3.34.39|443|Switzerland|Steinhausen|Swisscom (Schweiz) AG - Bluewin|
-|16|72.10.160.90|1121|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|1121|Canada|Montreal|GloboTech Communications|
-|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.228.250|29581|Canada|Montreal|GloboTech Communications|
-|20|139.162.62.191|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|13|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|14|67.43.227.227|22691|Canada|Montreal|GloboTech Communications|
+|15|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.160.90|29613|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|29819|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|72.10.164.178|26709|Canada|Montreal|GloboTech Communications|
 
 
 
