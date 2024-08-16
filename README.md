@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|118.99.119.35|8080|Indonesia|Bandar Lampung|Biznet Networks|
+|9|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|210.187.188.191|8080|Malaysia|Johor Bahru|ADSL Streamyx Telekom Malaysia|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
 
 
 
