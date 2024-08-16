@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5117** proxies at the latest update. Usable proxies are below.
+> Scraper found **4999** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|270|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|804|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|686|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|201|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2884|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|87.247.188.186|8080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.81.158.137|8080|India|Talwandi Bhai|Digitax India Communications Pvt Ltd.|
-|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|12|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
-|13|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|14|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|15|191.37.4.218|8085|Brazil|Buriti|Fonte Informatica ltda|
-|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|3|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|45.70.171.135|999|Colombia|Bogotá|Comunicaciones Wifi Colombia S.A.S|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
+|11|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.226|5727|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.252|26147|Canada|Montreal|GloboTech Communications|
+|17|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
