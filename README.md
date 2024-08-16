@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |5|79.175.189.88|1080|Iran|Tehran|Afranet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|207.65.132.78|3128|Japan|Honchō|Sony Network Communications Inc|
-|18|171.7.83.36|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|20|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|7|103.224.125.229|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|202.47.188.133|8090|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|182.253.168.5|8080|Indonesia|Jakarta|BIZNET|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|72.10.160.90|32975|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|17795|Canada|Montreal|GloboTech Communications|
 
 
 
