@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|54.255.143.236|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 |6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|8|92.204.163.211|8889|France|Strasbourg|velia.net Internetdienste GmbH|
-|9|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|10|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|11|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|124.107.144.249|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|148.66.21.204|3128|Hong Kong|Cheung Sha Wan|Netsec Limited|
-|16|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|17|187.141.125.210|8080|Mexico|Ciudad del Carmen|Uninet S.A. de C.V.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|17|177.242.132.2|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|20|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
 
 
 
