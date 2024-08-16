@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|6|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|7|200.195.235.226|3128|Brazil|Salvador|BR.Digital Provider|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|7|189.22.142.29|8091|Brazil|Extrema|Claro S.A|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|190.94.213.13|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.160.90|22359|Canada|Montreal|GloboTech Communications|
-|14|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.227|13315|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|1171|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|15117|Canada|Montreal|GloboTech Communications|
-|18|77.105.147.162|3128|Germany|Frankfurt am Main|Aeza International LTD|
-|19|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|20|72.10.160.90|22359|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.254|4275|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|19|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|190.97.94.2|999|Colombia|Pradera|Empresa de Recursos Tecnologicos S.A E.S.P|
 
 
 
