@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.120.167.109|8885|Bangladesh|Mādhabdi|Discovery Internet/ Madhabdi|
+|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.173.230.147|9191|Indonesia|Serang|PT Jaringan Internet Banten|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|18|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|19|72.10.164.178|28843|Canada|Montreal|GloboTech Communications|
-|20|177.37.217.45|8080|Brazil|Caruaru|Brisanet Servicos De Telecomunicacoes Ltda|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
+|13|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|14|119.47.90.241|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|18|38.156.72.172|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
