@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
 |8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|9|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
 |16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|18|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
