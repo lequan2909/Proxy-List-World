@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|210.87.125.210|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|119.76.142.148|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|15|95.0.90.242|8080|Turkey|Acibadem|Turk Telekomunikasyon Anonim Sirketi|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|2|79.175.189.88|1080|Iran|Tehran|Afranet|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|210.61.207.92|3128|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|38.52.222.250|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
+|17|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
+|20|183.242.69.110|3218|China|Beijing|China Mobile Communications Corporation|
 
 
 
