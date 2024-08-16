@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
+|2|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|16|67.43.227.227|12187|Canada|Montreal|GloboTech Communications|
-|17|103.148.129.177|8080|Pakistan|Jaranwala|MAC WIFI NETWORKS (PRIVATE) LIMITED|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.173|3085|Canada|Montreal|GloboTech Communications|
+|8|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|186.16.14.104|3131|Paraguay|Lambaré|Telecel S.A.|
+|16|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|17|103.245.16.35|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|18|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|19|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|20|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
 
 
 
