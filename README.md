@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|79.175.189.220|1080|Iran|Tehran|Afranet|
-|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|15|79.175.189.88|1080|Iran|Tehran|Afranet|
-|16|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|20|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 
 
 
