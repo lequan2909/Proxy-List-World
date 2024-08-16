@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
-|14|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|152.26.231.86|9443|United States|Huntersville|MCNC|
-|17|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.231.86|9443|United States|Huntersville|MCNC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|72.10.160.90|23023|Canada|Montreal|GloboTech Communications|
+|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
 
 
 
