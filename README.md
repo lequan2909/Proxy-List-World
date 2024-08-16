@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5079** proxies at the latest update. Usable proxies are below.
+> Scraper found **4977** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|268|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|794|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|692|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|176|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2883|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|5|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|5|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|8|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|10|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|11|77.105.147.162|3128|Germany|Frankfurt am Main|Aeza International LTD|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|216.10.247.145|3128|India|Mumbai|PDR|
-|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|16|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|17|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|18|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|68.183.149.126|11010|United States|Clifton|DigitalOcean, LLC|
+|9|103.162.63.181|8080|Indonesia|Bangkalan|PT Ring Media Nusantara|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|13|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|77.105.147.162|3128|Germany|Frankfurt am Main|Aeza International LTD|
+|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
