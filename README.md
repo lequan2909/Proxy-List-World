@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
 |5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|13|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
-|14|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 |15|206.217.131.28|3128|United States|Elk Grove Village|HostPapa|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|17|171.7.83.36|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|18|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|16|103.245.16.35|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|20|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
