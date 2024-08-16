@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|10|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |11|79.175.189.88|1080|Iran|Tehran|Afranet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|103.171.244.42|8088|Indonesia|Ponorogo|PT Data Arta Sedaya|
-|15|85.166.192.78|3128|Norway|Trondheim|Telenor Business Solutions|
-|16|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|17|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|139.162.62.191|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|185.255.132.129|8118|Russia|Moscow|First Server Limited|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|19|103.203.232.101|3125|Indonesia|Kedok|INDANA|
+|20|103.76.149.198|8082|Indonesia|Cibinong|PT. Java Digital Nusantara|
 
 
 
