@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.10.22.236|8080|Mongolia|Ulan Bator|Kewiko LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|103.67.90.2|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|67.43.228.254|4275|Canada|Montreal|GloboTech Communications|
-|15|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|72.10.164.178|18903|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|72.10.160.90|23023|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
