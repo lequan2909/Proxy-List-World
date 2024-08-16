@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|131.100.48.125|999|Colombia|Neiva|Fibernet TV SAS|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|45.180.140.209|8081|Ecuador|Ventanas|Deceret Cia. Ltda.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|103.101.99.45|8080|Bangladesh|Daripāra|Pandora Technology|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 
 
 
