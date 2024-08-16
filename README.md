@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|182.253.218.86|8081|Indonesia|Ngawi|BIZNET|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|79.175.189.88|1080|Iran|Tehran|Afranet|
-|12|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|103.97.224.185|8080|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|210.187.188.191|8080|Malaysia|Johor Bahru|ADSL Streamyx Telekom Malaysia|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
+|18|128.254.207.181|8080|United States|Miami|Zappie Host LLC|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
