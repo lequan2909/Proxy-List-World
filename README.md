@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|42.190.167.28|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.48.69.225|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|202.137.8.149|8080|Indonesia|Bekasi|LINKNET|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|19|37.72.174.21|8080|United States|New York|HIVELOCITY, Inc.|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|171.7.83.36|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|119.18.37.201|8888|Australia|Brisbane|Wideband Networks Pty Ltd|
+|18|188.132.222.168|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
