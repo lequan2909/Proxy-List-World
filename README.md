@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|177.37.160.81|8085|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
-|11|178.254.42.100|8118|Germany|Berlin|BLU-VH|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|67.43.228.251|4245|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.42|9443|United States|Huntersville|MCNC|
-|16|67.43.227.227|6043|Canada|Montreal|GloboTech Communications|
-|17|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|67.43.236.20|6227|Canada|Montreal|GloboTech Communications|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|85.89.172.66|8080|Poland|Lodz|TOYA Sp. z o.o.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.67.90.2|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|15.235.171.225|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|16|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|17|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
