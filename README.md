@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|177.44.161.8|3128|Brazil|Chopinzinho|WIIP TELECOM SERVIÇOS DE INTERNET LTDA|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|190.221.139.18|3128|Argentina|Buenos Aires|Techtel LMDS Comunicaciones Interactivas S.A.|
-|12|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
-|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.86|9443|United States|Huntersville|MCNC|
-|15|103.88.239.179|84|India|Hyderabad|Mana Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.170|19287|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|152.26.229.42|9443|United States|Huntersville|MCNC|
-|20|72.10.160.90|19597|Canada|Montreal|GloboTech Communications|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|10|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
+|11|202.143.111.245|3128|Vietnam|Phường Bảy|Digital world data online company|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|15|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|16|212.248.95.26|6565|Russia|Moscow|MTS PJSC|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
