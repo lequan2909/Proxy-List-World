@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|568|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|568|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|568|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|120.28.217.227|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|154.90.48.21|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|6|154.90.48.202|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|7|154.90.49.232|9090|Indonesia|Jakarta|Kaopu Cloud HK Limited|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|5.42.76.177|3128|Sweden|Stockholm|Aeza International LTD|
-|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|5.42.76.177|3128|Sweden|Stockholm|Aeza International LTD|
+|7|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|8|143.0.243.80|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|92.204.163.211|8889|France|Strasbourg|velia.net Internetdienste GmbH|
+|11|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|148.66.21.204|3128|Hong Kong|Cheung Sha Wan|Netsec Limited|
 |14|79.175.189.220|1080|Iran|Tehran|Afranet|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|205.164.84.247|8591|Brazil|Buritis|AGIS|
-|20|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|15|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|16|124.217.44.37|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
+|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|103.38.183.63|80|India|Uttarkāshi|Reis Network Solutions|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
