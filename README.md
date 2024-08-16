@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|181.129.1.226|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|202.93.244.98|8080|Indonesia|Mojokerto|PT. Dutakom Wibawa Putra|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|177.129.249.165|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|95.214.123.199|8080|Hungary|Kecskemét|Deltakon Kft.|
+
 
 
 ## Contributing
