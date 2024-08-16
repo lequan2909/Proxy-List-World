@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|41.205.24.106|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|17|152.26.231.42|9443|United States|Huntersville|MCNC|
-|18|177.87.144.122|8086|Brazil|São José do Rio Pardo|Videomar Rede Nordeste S/A|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|11|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
+|12|15.235.171.249|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|13|152.26.231.42|9443|United States|Huntersville|MCNC|
+|14|41.205.24.106|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.172|19471|Canada|Montreal|GloboTech Communications|
+|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
