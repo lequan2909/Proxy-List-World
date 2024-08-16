@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|79.175.189.220|1080|Iran|Tehran|Afranet|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|11|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
-|15|207.188.6.20|3128|United States|Dallas|Latitude.sh|
-|16|72.10.164.178|26937|Canada|Montreal|GloboTech Communications|
-|17|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|18|67.43.227.226|14329|Canada|Montreal|GloboTech Communications|
-|19|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|20|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
+|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|15|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|17|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
+|18|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|19|67.43.227.226|22869|Canada|Montreal|GloboTech Communications|
+|20|165.16.46.193|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
 
 
 
