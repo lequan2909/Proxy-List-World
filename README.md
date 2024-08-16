@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|4|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|3|54.255.143.236|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
 |5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|82.223.246.196|80|Spain|Logroño|arsys.es|
-|7|181.188.27.162|8080|Trinidad and Tobago|Port of Spain|Columbus Communications Trinidad Limited.|
-|8|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|6|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|7|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|8|82.223.246.196|80|Spain|Logroño|arsys.es|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|223.25.110.228|3125|Indonesia|Malang|SinergiNet|
-|11|124.217.44.37|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|12|37.187.149.223|8081|France|Roubaix|OVH SAS|
-|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|205.164.84.247|8591|Brazil|Buritis|AGIS|
+|12|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|1.160.2.126|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|103.113.149.245|6969|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|20|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
 
 
 
