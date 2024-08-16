@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|152.42.186.180|9090|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|2|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|14.187.98.106|8080|Vietnam|Ho Chi Minh City|VNPT|
+|14|5.9.21.152|3128|Germany|Mainz|Hetzner Online GmbH|
 |15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|79.175.189.51|1080|Iran|Tehran|Afranet|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|152.42.186.180|9090|Singapore|Singapore|DigitalOcean, LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
