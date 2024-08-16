@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
-|11|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|15|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|16|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|17|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|18|67.43.227.226|13049|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|28507|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16073|Canada|Montreal|GloboTech Communications|
+|3|79.175.189.88|1080|Iran|Tehran|Afranet|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|9|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|10|161.34.0.253|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|67.43.227.228|11667|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|17175|Canada|Montreal|GloboTech Communications|
+|15|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|16|67.43.228.250|11729|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.178.43.26|8080|Indonesia|Jakarta|PT PHATRIA INTI PERSADA|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
