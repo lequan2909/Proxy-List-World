@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|45.70.171.135|999|Colombia|Bogotá|Comunicaciones Wifi Colombia S.A.S|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
-|11|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.226|5727|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.252|26147|Canada|Montreal|GloboTech Communications|
-|17|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|152.26.231.42|9443|United States|Huntersville|MCNC|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|79.175.189.220|1080|Iran|Tehran|Afranet|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|7|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
+|8|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.231.42|9443|United States|Huntersville|MCNC|
+|11|46.36.123.50|81|Armenia|K’anak’erravan|LikeNet LLC|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|15|210.61.207.92|3128|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|16|72.10.164.178|14175|Canada|Montreal|GloboTech Communications|
+|17|38.52.222.250|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|18|67.43.228.252|14541|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
