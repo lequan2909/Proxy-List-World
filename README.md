@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|14|188.132.222.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|101.32.161.39|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|103.131.19.156|3127|Indonesia|Pasarkemis|PT Global Media Data Prima|
-|18|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|19|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|2|182.253.109.147|8080|Indonesia|Semarang|Biznet Metronet|
+|3|103.228.246.151|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|207.188.6.20|3128|United States|Dallas|Latitude.sh|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.237.248.3|3128|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|160.22.6.148|8080|Indonesia|Demak|PT Satu Lima Indonesia|
+|10|177.242.132.2|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|11|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|12|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|13|185.89.156.2|44224|Albania|Tirana|ATU|
+|14|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|72.10.164.178|17991|Canada|Montreal|GloboTech Communications|
 
 
 
