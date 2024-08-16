@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|2|202.57.2.20|80|Indonesia|Jakarta|Primanet - ISP|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.156.141.151|3127|Indonesia|Jember|PT Tekling Media Telematika|
-|12|15.235.171.214|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|152.26.231.42|9443|United States|Huntersville|MCNC|
-|15|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|16|67.43.228.253|17741|Canada|Montreal|GloboTech Communications|
-|17|77.105.147.162|3128|Germany|Frankfurt am Main|Aeza International LTD|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|36.255.84.69|83|India|Bengaluru|Gatik Business Solutions|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|152.26.231.86|9443|United States|Huntersville|MCNC|
+|15|152.26.231.42|9443|United States|Huntersville|MCNC|
+|16|77.105.147.162|3128|Germany|Frankfurt am Main|Aeza International LTD|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.170|15731|Canada|Montreal|GloboTech Communications|
+|19|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|72.10.160.173|12335|Canada|Montreal|GloboTech Communications|
 
 
 
