@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|185.195.71.217|18080|Switzerland|Hünenberg|Datasource AG|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|79.175.189.220|1080|Iran|Tehran|Afranet|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|45.180.140.209|8081|Ecuador|Ventanas|Deceret Cia. Ltda.|
+|14|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|20|61.74.61.57|3128|South Korea|Cheongju-si|Korea Telecom|
 
 
 
