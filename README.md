@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |11|79.175.189.220|1080|Iran|Tehran|Afranet|
-|12|189.201.153.90|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.236.20|28521|Canada|Montreal|GloboTech Communications|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
+|18|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
