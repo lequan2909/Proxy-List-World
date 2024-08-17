@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|14|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|16|72.10.164.178|26823|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|26823|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|200.39.120.44|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|15|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
 |19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|20|72.10.164.178|26823|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|15655|Canada|Montreal|GloboTech Communications|
 
 
 
