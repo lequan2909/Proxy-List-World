@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|79.175.189.220|1080|Iran|Tehran|Afranet|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|79.175.189.220|1080|Iran|Tehran|Afranet|
+|4|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|190.9.55.17|3128|Mexico|Hermosillo|Konecta Sonora SA de CV|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
-|19|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|79.175.189.51|1080|Iran|Tehran|Afranet|
+|16|181.209.111.82|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
