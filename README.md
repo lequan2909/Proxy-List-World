@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|13|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|16|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|171.239.232.48|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|27.147.130.10|58080|Bangladesh|Mymensingh|Link3 Technologies Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.245.16.35|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|19|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|20|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
 
 
 
