@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.205.28.76|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|12|202.57.18.3|8080|Indonesia|Krajan Karangwage|PT Akses Data Internusa|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|20|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|223.205.28.76|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|79.175.189.88|1080|Iran|Tehran|Afranet|
+|13|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|89.108.74.198|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|16|210.61.207.92|3128|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
