@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5950** proxies at the latest update. Usable proxies are below.
+> Scraper found **5854** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1035|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|939|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|281|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3376|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|79.175.189.88|1080|Iran|Tehran|Afranet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.228.233.92|999|Guatemala|Guatemala City|Infinitum S.A.|
-|11|103.139.242.117|83|India|Pune|Spectram Telecom Pvt.Ltd|
-|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|72.10.160.94|27733|Canada|Montreal|GloboTech Communications|
-|17|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|18|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|19|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|45.228.233.92|999|Guatemala|Guatemala City|Infinitum S.A.|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|14|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
+|17|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|18|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|19|67.43.227.227|26985|Canada|Montreal|GloboTech Communications|
+|20|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
 
 
 
