@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|203.150.128.11|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|203.150.128.11|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.52.36.49|32650|India|Hyderabad|VAINAVIINDUSTRIESLTD|
-|14|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
-|15|186.125.218.146|999|Argentina|Molinos|Telecom Argentina S.A.|
-|16|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|17|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|18|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|79.175.189.51|1080|Iran|Tehran|Afranet|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
+|17|181.119.67.134|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|20|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
 
 
 
