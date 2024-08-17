@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5863** proxies at the latest update. Usable proxies are below.
+> Scraper found **5715** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|885|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|888|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|287|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3433|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3282|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
 |10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|104.167.6.218|80|United States|Boca Raton|Cloud South|
-|12|79.175.189.220|1080|Iran|Tehran|Afranet|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|212.252.66.209|8080|Turkey|Kuşcuburun|HEPONLINEELEKTRONIK|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|36.67.246.251|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|148.72.173.18|10679|United States|St Louis|GoDaddy.com, LLC|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|148.72.173.18|10679|United States|St Louis|GoDaddy.com, LLC|
+|15|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|16|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
