@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|62.3.30.70|8080|Georgia||Enbinet Ltd.|
-|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|11|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|12|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|13|152.26.231.42|9443|United States|Huntersville|MCNC|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|67.43.236.20|2123|Canada|Montreal|GloboTech Communications|
-|16|117.21.14.245|8000|China|Taohua|Chinanet|
-|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|19|147.45.77.58|3128|Sweden|Stockholm|Aeza International LTD|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|118.175.30.26|80|Thailand|Lopburi|TOT Public Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|12|36.94.101.111|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|188.132.222.168|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|18|119.76.142.203|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|20|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
 
 
 
