@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|12|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|13|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|14|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|203.150.113.139|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|7|93.190.14.204|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|180.191.59.191|8081|Philippines|Tarlac City|Globe Telecom|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|14|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
-|20|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|17|165.16.27.105|1981|Libya|Al Abraq|Aljeel Aljadeed For Technology|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|20|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
