@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|80.66.81.36|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|36.79.213.106|8080|Indonesia|Kediri|PT. TELKOM INDONESIA|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|200.159.143.38|8080|Brazil|Rio de Janeiro|Winfnet Telecom Wireless Ltda|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|157.66.16.48|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|13|186.3.97.45|999|Ecuador|Esmeraldas|Telconet S.A|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|80.66.81.36|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|16|103.87.169.205|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|17|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|101.255.134.100|8080|Indonesia|Jakarta|PT Remala Abadi|
+|20|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
 
 
 
