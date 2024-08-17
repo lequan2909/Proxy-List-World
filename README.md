@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|79.175.189.220|1080|Iran|Tehran|Afranet|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|11|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|12|64.6.8.5|8080|United States|Stronghurst|MTC Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|202.180.20.11|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
-|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|18|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.227.228|32637|Canada|Montreal|GloboTech Communications|
+|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|51.222.102.172|8080|Canada|Beauharnois|OVH SAS|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|9|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|13|210.61.207.92|3128|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|14|45.188.167.25|999|Mexico|La Barca|Velocom SA De CV|
+|15|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|17|152.26.231.42|9443|United States|Huntersville|MCNC|
+|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|19|103.166.158.191|7777|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|20|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
 
 
 
