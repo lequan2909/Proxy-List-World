@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|203.150.128.155|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|193.68.152.102|8080|Bulgaria|Rakovski|Digital Systems Ltd|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
 |7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|95.72.8.48|8080|Russia|Moscow|CTC-JNPR|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|19|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
+|14|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|17|152.26.229.86|9443|United States|Huntersville|MCNC|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
