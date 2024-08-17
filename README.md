@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.99.27.127|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|177.93.48.43|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|17|190.211.172.182|999|Chile|Santa Cruz|InterNexa Global Network|
-|18|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|20.190.104.113|80|Australia|Melbourne|Microsoft Corporation|
+|6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|8|177.10.201.171|5566|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
+|12|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|72.10.160.170|15325|Canada|Montreal|GloboTech Communications|
 
 
 
