@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |3|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|200.39.120.44|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|152.26.231.86|9443|United States|Huntersville|MCNC|
 
 
 
