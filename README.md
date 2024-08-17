@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.234.31.58|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|12|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|15|103.48.70.209|83|India|Hyderabad|Country Online Services PVT LTD|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|18|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|19|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|17|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
