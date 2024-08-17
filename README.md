@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|79.175.189.220|1080|Iran|Tehran|Afranet|
-|2|79.175.189.88|1080|Iran|Tehran|Afranet|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|7|24.204.29.115|8080|United States|Longview|Network IP|
-|8|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|166.159.90.56|53281|United States|Lewiston|Verizon Business|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|152.26.229.86|9443|United States|Huntersville|MCNC|
-|13|178.254.42.100|8118|Germany|Berlin|BLU-VH|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|191.37.4.218|8085|Brazil|Buriti|Fonte Informatica ltda|
-|16|152.26.229.42|9443|United States|Huntersville|MCNC|
-|17|72.10.164.178|28729|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|20|67.43.227.226|22459|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|103.110.34.136|3125|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|10|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|11|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|17|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
