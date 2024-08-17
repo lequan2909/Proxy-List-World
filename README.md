@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5361** proxies at the latest update. Usable proxies are below.
+> Scraper found **5211** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|635|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|127|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3341|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3191|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|187.245.214.7|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
-|14|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|4|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|10|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|11|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|12|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.230|8499|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|84.204.138.51|8080|Russia|St Petersburg|PJSC MegaFon|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|72.128.133.154|16099|United States|Austin|Charter Communications|
+|19|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
