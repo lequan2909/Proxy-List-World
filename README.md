@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|4|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|7|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 |14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|79.175.189.51|1080|Iran|Tehran|Afranet|
 |17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
