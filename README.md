@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|148.72.173.18|10679|United States|St Louis|GoDaddy.com, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|13|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|17|75.128.125.149|8080|United States|Portage|Charter Communications|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|79.175.189.51|1080|Iran|Tehran|Afranet|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|20.169.241.58|3128|United States|Boydton|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|20.169.241.58|3128|United States|Boydton|Microsoft Corporation|
+|12|15.235.171.249|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|13|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
+|14|103.74.229.133|8080|Bangladesh|Dhaka|Windstream|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
 
 
 
