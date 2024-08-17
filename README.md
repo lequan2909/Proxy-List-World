@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|157.10.97.11|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|14|45.22.209.157|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|18|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|103.162.63.181|8080|Indonesia|Bangkalan|PT Ring Media Nusantara|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|186.125.218.147|999|Argentina|Molinos|Telecom Argentina S.A.|
+|15|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|20|72.10.160.90|16397|Canada|Montreal|GloboTech Communications|
 
 
 
