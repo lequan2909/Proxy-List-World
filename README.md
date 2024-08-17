@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|89.108.74.198|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|6|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|3|103.182.79.141|8080|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|4|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|72.10.160.174|8461|Canada|Montreal|GloboTech Communications|
-|12|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|67.43.227.227|7189|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|67.43.227.227|7189|Canada|Montreal|GloboTech Communications|
-|19|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|20|72.10.164.178|19807|Canada|Montreal|GloboTech Communications|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|103.245.16.35|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|19|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|20|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
