@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|41.65.224.69|1981|Egypt|Cairo|Etisalat Misr|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|79.175.189.51|1080|Iran|Tehran|Afranet|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|67.43.228.253|7443|Canada|Montreal|GloboTech Communications|
-|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|41.65.224.69|1981|Egypt|Cairo|Etisalat Misr|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|152.26.229.42|9443|United States|Huntersville|MCNC|
+|14|152.26.229.86|9443|United States|Huntersville|MCNC|
+|15|67.43.236.21|10961|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|16867|Canada|Montreal|GloboTech Communications|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.90|30497|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|13705|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|10225|Canada|Montreal|GloboTech Communications|
 
 
 
