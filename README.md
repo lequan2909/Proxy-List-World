@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|103.40.121.33|8089|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|191.37.4.218|8085|Brazil|Buriti|Fonte Informatica ltda|
-|14|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|17|109.207.80.1|8080|Russia|Ivanteyevka|Ivanteevskie telecommunicacii Ltd|
-|18|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|19|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|20|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
+|3|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|10|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.217.224.69|8585|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|13|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|14|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|15|176.192.80.10|3128|Russia|Moscow|Net By Net Holding LLC|
+|16|210.61.207.92|3128|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
