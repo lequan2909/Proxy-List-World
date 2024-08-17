@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|203.150.128.140|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.18.232.18|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|79.175.189.88|1080|Iran|Tehran|Afranet|
-|12|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Care Limited|
-|13|143.255.111.112|3128|Brazil|Águas Lindas de Goiás|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|19|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 
 
 
