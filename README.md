@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|79.175.189.220|1080|Iran|Tehran|Afranet|
 |4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|103.131.18.119|8099|Indonesia|Kudus|PT Global Media Data Prima|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|186.125.218.185|999|Argentina|Molinos|Telecom Argentina S.A.|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|189.100.247.109|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|194.156.88.125|2411|United Kingdom|Bradford|aurologic GmbH|
-|16|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|152.26.229.86|9443|United States|Huntersville|MCNC|
-|20|152.26.231.86|9443|United States|Huntersville|MCNC|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.131.18.119|8099|Indonesia|Kudus|PT Global Media Data Prima|
+|9|121.101.134.150|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|15.235.171.213|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|14|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|15|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|38.52.222.250|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|18|75.128.125.149|8080|United States|Portage|Charter Communications|
+|19|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
