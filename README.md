@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|146.196.41.141|8080|Indonesia|Karawang|UNINA|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
 |10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
-|20|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|14|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|146.196.41.141|8080|Indonesia|Karawang|UNINA|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
