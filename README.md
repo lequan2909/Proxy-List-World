@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|190.145.21.179|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|45.228.233.92|999|Guatemala|Guatemala City|Infinitum S.A.|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|190.145.21.179|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|45.228.233.92|999|Guatemala|Guatemala City|Infinitum S.A.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
-|19|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
+|13|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.191.115.252|83|India|Bānka|Xpress Fiber Private Limited|
+|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
