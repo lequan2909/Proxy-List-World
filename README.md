@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|79.175.189.51|1080|Iran|Tehran|Afranet|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|114.199.102.81|8080|Indonesia|South Tangerang|PT. Solusi Aksesindo Pratama|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|15|79.175.189.51|1080|Iran|Tehran|Afranet|
+|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|17|79.175.189.220|1080|Iran|Tehran|Afranet|
+|18|45.122.123.182|8080|India|Delhi|FusionNet|
+|19|179.189.48.253|8080|Brazil|Sinop|Avato Tecnologia S.A|
 |20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
