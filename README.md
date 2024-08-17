@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|79.175.189.220|1080|Iran|Tehran|Afranet|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|177.70.174.103|8080|Brazil|Entre Rios|infotec- serviços de provedor da internet ltda|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|6|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
-|7|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|8|152.26.231.86|9443|United States|Huntersville|MCNC|
-|9|103.70.123.6|8085|Indonesia|Kudus|PT Menara Digital Salama|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|12|64.6.8.5|8080|United States|Stronghurst|MTC Communications|
-|13|72.10.160.93|25709|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|1841|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.160.90|25423|Canada|Montreal|GloboTech Communications|
-|17|15.235.171.225|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|18|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
-|19|67.43.228.253|29867|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1841|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|38.156.74.8|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|186.125.218.161|999|Argentina|Molinos|Telecom Argentina S.A.|
+|14|31.128.69.121|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|18|177.37.160.81|8085|Brazil|Couto Fernandes / Favela do Oito|Brisanet Servicos De Telecomunicacoes S.A|
+|19|177.174.126.203|8080|Brazil|São Paulo|Vivo|
+|20|182.253.38.13|3128|Indonesia|Semarang|BIZNET|
 
 
 
