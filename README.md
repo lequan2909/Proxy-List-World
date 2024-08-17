@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|79.175.189.88|1080|Iran|Tehran|Afranet|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|10|200.159.143.38|8080|Brazil|Rio de Janeiro|Winfnet Telecom Wireless Ltda|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|152.26.229.42|9443|United States|Huntersville|MCNC|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|118.117.189.28|8089|China|Muping|Chinanet|
+|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|13|200.159.143.38|8080|Brazil|Rio de Janeiro|Winfnet Telecom Wireless Ltda|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|200.195.235.226|3128|Brazil|Salvador|BR.Digital Provider|
+|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.229.86|9443|United States|Huntersville|MCNC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.48.70.209|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
