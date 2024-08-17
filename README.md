@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|2|79.175.189.51|1080|Iran|Tehran|Afranet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|13|27.124.83.229|8080|Indonesia|Kebon Gunung|PT.Global Media Data Prima|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|17|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|18|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|14|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|15|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|16|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|17|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|139.162.62.191|8080|Singapore|Singapore|Akamai Technologies, Inc.|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
