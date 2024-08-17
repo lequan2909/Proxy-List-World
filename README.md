@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|16|103.245.16.35|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
-|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|20|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|2|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|12|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|152.26.231.42|9443|United States|Huntersville|MCNC|
+|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|16|38.52.222.250|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|17|67.43.227.226|15103|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|13279|Canada|Montreal|GloboTech Communications|
+|19|103.245.16.35|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
