@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|79.175.189.88|1080|Iran|Tehran|Afranet|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|170.238.112.71|8080|Brazil|Placas|Marlon Lima Gomes - ME|
-|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
