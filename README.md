@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|45.228.233.92|999|Guatemala|Guatemala City|Infinitum S.A.|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|103.133.27.197|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|14|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|186.67.74.52|3128|Chile|Santiago|Entel Chile S.A.|
-|17|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|18|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|19|67.43.227.227|26985|Canada|Montreal|GloboTech Communications|
-|20|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
+|16|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|17|66.210.33.34|8080|United States|Milton|Cox Communications Inc.|
+|18|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|67.43.227.227|6829|Canada|Montreal|GloboTech Communications|
 
 
 
