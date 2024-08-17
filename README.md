@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|119.76.142.203|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|11|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|17|190.121.4.157|999|Chile|Osorno|Telefonica del Sur S.A.|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|12|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|13|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|14|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|15|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
+|19|200.92.201.126|999|Mexico|Dolores Hidalgo|Mega Cable, S.A. de C.V.|
+|20|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
 
 
 
