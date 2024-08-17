@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|4|79.175.189.220|1080|Iran|Tehran|Afranet|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|117.0.193.88|5102|Vietnam|Hanoi|Viettel Group|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|38.242.141.110|8008|Germany|Düsseldorf|Contabo GmbH|
 |12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|16|152.26.231.42|9443|United States|Huntersville|MCNC|
+|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|118.117.189.28|8089|China|Muping|Chinanet|
 |17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|59.175.199.130|7777|China|Wuhan|Chinanet|
-|20|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|18|103.65.238.225|8181|Indonesia|Medan|PT Media Alvina Sejati|
+|19|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|20|116.101.22.249|10013|Vietnam|Haiphong|Viettel Corporation|
 
 
 
