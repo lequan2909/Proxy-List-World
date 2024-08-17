@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.134.220.128|1111|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|79.175.189.51|1080|Iran|Tehran|Afranet|
-|15|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|45.173.230.227|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|20|158.222.90.12|4481|United States|Bagley|Northwest Minnesota Special Access, LLC|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|7|116.104.93.5|5102|Vietnam|Hanoi|Viettel Corporation|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|10|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|79.175.189.88|1080|Iran|Tehran|Afranet|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|18|190.9.55.17|3128|Mexico|Hermosillo|Konecta Sonora SA de CV|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
