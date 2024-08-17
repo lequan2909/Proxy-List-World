@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|79.175.189.51|1080|Iran|Tehran|Afranet|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|15.235.171.214|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|16|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
-|17|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|190.94.212.151|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|14|15.235.171.249|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|18|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|19|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|20|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
 
 
 
