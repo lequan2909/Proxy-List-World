@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|6|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|79.175.189.88|1080|Iran|Tehran|Afranet|
+|4|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|5|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|6|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|9|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|15|79.175.189.220|1080|Iran|Tehran|Afranet|
+|16|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|17|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
