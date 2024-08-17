@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|79.175.189.220|1080|Iran|Tehran|Afranet|
-|4|161.34.35.168|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
 |5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|12|203.150.128.11|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|103.10.230.246|1337|Thailand|Bangkok|CATBB|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.108.156.38|8080|Indonesia|Bekasi|Pop Net Indonesia|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|191.37.66.225|8080|Brazil|Embu das Artes|Yara Dos Santos Barreiro - ME|
-|20|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|6|103.10.230.246|1337|Thailand|Bangkok|CATBB|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|213.19.123.178|229|Czechia|Dolní Újezd|FORTECH|
+|13|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|18|119.18.37.201|8888|Australia|Brisbane|Wideband Networks Pty Ltd|
+|19|103.139.242.181|83|India|Pune|Spectram Telecom Pvt.Ltd|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
