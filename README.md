@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|190.223.60.131|3128|Peru|Lima region|America Movil Peru S.A.C.|
-|11|178.254.42.100|8118|Germany|Berlin|BLU-VH|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|187.190.249.114|1994|Mexico|Othón P. Blanco|Total Play Telecomunicaciones SA De CV|
-|14|103.87.169.205|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.191.58.60|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|18|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|190.223.60.131|3128|Peru|Lima region|America Movil Peru S.A.C.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|8|36.79.213.106|8080|Indonesia|Kediri|PT. TELKOM INDONESIA|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|79.175.189.88|1080|Iran|Tehran|Afranet|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|177.174.126.203|8080|Brazil|São Paulo|Vivo|
+|18|45.143.108.115|8080|Georgia|Tbilisi|Airmax LLC|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
