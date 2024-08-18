@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|7|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|79.175.189.220|1080|Iran|Tehran|Afranet|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|1|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|10|38.156.75.197|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|74.48.129.170|8443|United States|Los Angeles|Multacom Corporation|
+|13|200.233.131.170|8080|Brazil|São Paulo|ALGAR TELECOM S/A|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
