@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|101.255.165.146|8090|Indonesia|Bekasi|PT Remala Abadi|
 |3|131.196.198.209|8888|Brazil|Cotia|BB Host|
-|4|101.255.166.185|8080|Indonesia|Bekasi|PT Remala Abadi|
-|5|36.37.163.254|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|152.26.231.42|9443|United States|Huntersville|MCNC|
-|8|67.43.228.252|22959|Canada|Montreal|GloboTech Communications|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|67.43.236.20|1661|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|30751|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.42|9443|United States|Huntersville|MCNC|
+|10|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
+|11|131.196.198.209|8888|Brazil|Cotia|BB Host|
 |12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|67.43.227.227|26067|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|24201|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|223.205.38.198|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|17|72.10.164.178|31843|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|3763|Canada|Montreal|GloboTech Communications|
-|19|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|20|201.20.94.93|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|67.43.228.253|3763|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|6407|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|20781|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31843|Canada|Montreal|GloboTech Communications|
 
 
 
