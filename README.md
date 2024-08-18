@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|79.175.189.220|1080|Iran|Tehran|Afranet|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|125.26.230.100|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|12|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|119.136.114.98|1088|China|Shenzhen|Chinanet|
+|19|152.26.229.42|9443|United States|Huntersville|MCNC|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
