@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|6|103.76.109.50|3127|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
+|15|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|16|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|20|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
 
 
 
