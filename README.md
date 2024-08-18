@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|6|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|176.226.247.41|8080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|11|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
-|18|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|19|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|152.26.229.86|9443|United States|Huntersville|MCNC|
+|20|103.48.68.90|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
