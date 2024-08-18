@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|20.243.138.252|3128|Japan|Tokyo|Microsoft Corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|79.175.189.51|1080|Iran|Tehran|Afranet|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|187.189.175.136|999|Mexico|Ciudad Benito Juárez|Total Play Telecomunicaciones SA De CV|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
