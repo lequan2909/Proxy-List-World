@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|182.52.110.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|103.156.17.137|8181|Indonesia|Indramayu|RSTNET|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
-|16|138.94.99.134|8080|Brazil|Natal|LT2 TELECOMUNICACOES LTDA - EPP|
-|17|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|79.175.189.51|1080|Iran|Tehran|Afranet|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|136.232.224.202|8080|India|Nellore|Reliance Jio Infocomm Limited|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.154.139.83|8080|Indonesia|Utan|MORATELINDONAP|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
+|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|18|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|19|152.26.231.86|9443|United States|Huntersville|MCNC|
+|20|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
