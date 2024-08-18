@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|202.57.18.3|8080|Indonesia|Krajan Karangwage|PT Akses Data Internusa|
-|18|176.226.247.41|8080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|152.26.229.86|9443|United States|Huntersville|MCNC|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|152.26.229.86|9443|United States|Huntersville|MCNC|
+|13|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|14|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
+|15|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|67.43.236.20|9947|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
