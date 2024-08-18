@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5655** proxies at the latest update. Usable proxies are below.
+> Scraper found **5573** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|796|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|714|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|254|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3347|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|1.20.203.200|8080|Thailand|Surat Thani|TOT Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|79.175.189.51|1080|Iran|Tehran|Afranet|
-|12|49.0.2.194|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|188.121.128.250|9080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|182.52.110.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|78.158.171.156|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|20|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
