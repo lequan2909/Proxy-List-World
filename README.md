@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|4|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|8|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
 |9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|11|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|119.18.37.201|8888|Australia|Brisbane|Wideband Networks Pty Ltd|
-|14|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|15|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|16|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|10|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|15|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
+|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|79.175.189.88|1080|Iran|Tehran|Afranet|
-|19|216.10.247.145|3128|India|Mumbai|PDR|
-|20|5.42.76.177|3128|Sweden|Stockholm|Aeza International LTD|
+|18|119.18.37.201|8888|Australia|Brisbane|Wideband Networks Pty Ltd|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
