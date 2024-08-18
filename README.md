@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|78.47.185.44|2020|Germany|Nuremberg|Hetzner Online GmbH|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|19|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|13|148.72.165.7|30135|United States|St Louis|GoDaddy.com|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|92.249.113.194|55443|Ukraine|Kyiv|Private "Stock company "Sater"|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|186.123.26.79|8080|Argentina|Villa Ballester|AMX Argentina S.A.|
+|19|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|20|124.105.48.232|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
