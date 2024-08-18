@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|4|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|35.197.150.32|8888|Singapore|Singapore|Google LLC|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|89.108.74.198|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
 
 
 
