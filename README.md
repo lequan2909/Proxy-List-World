@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|67.43.228.253|7757|Canada|Montreal|GloboTech Communications|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.165.138.234|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|67.43.227.227|15479|Canada|Montreal|GloboTech Communications|
-|20|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|8|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
