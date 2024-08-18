@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|101.108.96.238|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|200.106.124.119|999|Peru|Tacna|Telefonica del Peru|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|189.203.201.146|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|12|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
 |13|152.26.231.42|9443|United States|Huntersville|MCNC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.42|9443|United States|Huntersville|MCNC|
-|19|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|20|72.10.164.178|24359|Canada|Montreal|GloboTech Communications|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|9289|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Huntersville|MCNC|
 
 
 
