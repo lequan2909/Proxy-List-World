@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|12|79.175.189.220|1080|Iran|Tehran|Afranet|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
+|1|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.228.233.92|999|Guatemala|Guatemala City|Infinitum S.A.|
+|13|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|152.26.229.86|9443|United States|Huntersville|MCNC|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|45.227.195.121|8082|Brazil|Chapecó|Mhnet Telecom|
+|15|152.26.229.86|9443|United States|Huntersville|MCNC|
+|16|130.61.181.220|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|72.10.164.178|11569|Canada|Montreal|GloboTech Communications|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
