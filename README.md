@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|103.247.14.103|1111|Indonesia|Klaten|TERABIT|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|190.223.60.131|3128|Peru|Lima region|America Movil Peru S.A.C.|
-|17|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
+|9|171.228.219.71|4000|Vietnam|Hanoi|Viettel Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|14|190.223.60.131|3128|Peru|Lima region|America Movil Peru S.A.C.|
+|15|58.80.134.185|1080|Japan|Suita|ARTERIA Networks Corporation|
+|16|103.171.83.253|8080|Indonesia|Karawang|PT Multi Network Indonesia|
+|17|72.10.160.90|7171|Canada|Montreal|GloboTech Communications|
+|18|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|19|103.178.42.241|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|20|152.26.231.42|9443|United States|Huntersville|MCNC|
 
 
 
