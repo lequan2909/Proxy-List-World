@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|182.52.110.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|118.97.237.2|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|10|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|203.111.253.38|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|13|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|79.175.189.220|1080|Iran|Tehran|Afranet|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|89.108.74.198|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|16|118.97.237.2|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|179.49.117.19|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
+|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|20|115.127.91.225|58080|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
