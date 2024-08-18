@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|27.147.131.41|58080|Bangladesh|Mymensingh|Corporate-Subscriber|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|177.44.161.8|3128|Brazil|Chopinzinho|WIIP TELECOM SERVIÇOS DE INTERNET LTDA|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
-|18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|19|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|202.56.166.157|8080|Indonesia|Yogyakarta|PT Lintas Data Prima|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.244.23.226|8181|Indonesia|Cileungsir|PT Kahuripan Makmur Sentosa|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|177.242.132.2|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|15|103.165.157.79|8090|Indonesia|Purbalingga|MEGADATA-ISP|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|89.108.74.198|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
 
 
 
