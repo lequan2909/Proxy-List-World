@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|79.175.189.220|1080|Iran|Tehran|Afranet|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|1|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|66.85.30.139|80|Canada|Toronto|Idigital Internet Inc.|
+|3|66.85.30.138|80|Canada|Toronto|Idigital Internet Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|10|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
+|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|79.175.189.88|1080|Iran|Tehran|Afranet|
+|19|181.78.13.68|999|Colombia|Guamal|IFX Networks Argentina S.R.L|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
