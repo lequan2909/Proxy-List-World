@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|15.235.171.214|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
 |18|59.89.148.104|8080|India|Jaipur|Bharat Sanchar Nigam Ltd|
-|19|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|202.57.18.3|8080|Indonesia|Krajan Karangwage|PT Akses Data Internusa|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
 
 
 
