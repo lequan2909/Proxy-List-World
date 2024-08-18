@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|119.18.37.201|8888|Australia|Brisbane|Wideband Networks Pty Ltd|
-|14|103.162.63.127|8080|Indonesia|Bangkalan|PT Ring Media Nusantara|
-|15|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|210.61.207.92|80|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|18|198.91.163.172|808|Canada|Richmond Hill|Distributel Communications Limited|
+|12|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|81.43.68.47|8080|Spain|Madrid|Telefonica de Espana SAU|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 |19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|20|176.9.238.176|16379|Germany|Falkenstein|Hetzner|
 
 
 
