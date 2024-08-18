@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|131.196.198.209|8888|Brazil|Cotia|BB Host|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|146.19.207.221|8118|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|13|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|19|190.94.212.247|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|79.175.189.51|1080|Iran|Tehran|Afranet|
+|14|79.175.189.88|1080|Iran|Tehran|Afranet|
+|15|66.31.131.217|8080|United States|Watertown|Comcast Cable Communications|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
 
 
 
