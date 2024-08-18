@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|79.175.189.220|1080|Iran|Tehran|Afranet|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|131.196.198.209|8888|Brazil|Cotia|BB Host|
-|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|19|79.175.189.51|1080|Iran|Tehran|Afranet|
-|20|190.181.24.34|999|Bolivia|La Paz|AXS Bolivia S. A.|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|79.175.189.220|1080|Iran|Tehran|Afranet|
+|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|14|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.176.96.211|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
 
 
 
