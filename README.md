@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|171.224.28.80|5104|Vietnam|Hanoi|Viettel Corporation|
-|9|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
-|14|177.37.217.45|8080|Brazil|Caruaru|Brisanet Servicos De Telecomunicacoes Ltda|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|186.16.14.104|3131|Paraguay|Lambaré|Telecel S.A.|
-|18|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|185.49.170.20|43626|Spain|Madrid|OLIVE|
+|11|183.80.111.55|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|12|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|180.191.40.45|8082|Philippines|Tarlac City|Globe Telecom|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
 
 
 
