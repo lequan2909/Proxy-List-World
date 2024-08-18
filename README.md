@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.8.67.90|8080|France|Saint-Trivier-sur-Moignans|maxnod|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|152.26.231.86|9443|United States|Huntersville|MCNC|
-|10|152.26.229.42|9443|United States|Huntersville|MCNC|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.8.67.90|8080|France|Saint-Trivier-sur-Moignans|maxnod|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|5.42.83.70|3128|Sweden|Stockholm|Aeza International LTD|
+|10|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|11|152.26.231.86|9443|United States|Huntersville|MCNC|
+|12|152.26.229.42|9443|United States|Huntersville|MCNC|
 |13|152.26.231.42|9443|United States|Huntersville|MCNC|
-|14|77.105.136.28|1995|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|67.43.227.226|28761|Canada|Montreal|GloboTech Communications|
-|16|163.172.33.137|4017|France|Vitry-sur-Seine|Online S.A.S.|
-|17|72.10.164.178|11965|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|32471|Canada|Montreal|GloboTech Communications|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|72.10.164.178|11965|Canada|Montreal|GloboTech Communications|
+|14|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|72.10.164.178|20813|Canada|Montreal|GloboTech Communications|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|67.43.227.226|14217|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|20813|Canada|Montreal|GloboTech Communications|
 
 
 
