@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
 |5|185.8.67.90|8080|France|Saint-Trivier-sur-Moignans|maxnod|
-|6|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|179.104.70.250|8080|Brazil|Nova Serrana|ALGAR TELECOM S/A|
-|13|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|14|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|17|103.171.83.253|8080|Indonesia|Karawang|PT Multi Network Indonesia|
-|18|79.175.189.51|1080|Iran|Tehran|Afranet|
-|19|103.169.194.21|8080|Indonesia|Jatimulyo|PT Aderani Multi Akses|
-|20|152.26.229.42|9443|United States|Huntersville|MCNC|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|109.165.193.183|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|5.42.83.70|3128|Sweden|Stockholm|Aeza International LTD|
+|13|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|14|152.26.229.42|9443|United States|Huntersville|MCNC|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|6251|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|6251|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|6705|Canada|Montreal|GloboTech Communications|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
