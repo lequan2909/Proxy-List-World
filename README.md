@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.217.44.37|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|2|103.182.213.65|8080|Bangladesh|Tongi|Md Ibrahim|
+|1|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|15.235.171.236|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|188.132.222.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|79.175.189.88|1080|Iran|Tehran|Afranet|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
