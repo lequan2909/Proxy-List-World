@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|3|131.196.198.209|8888|Brazil|Cotia|BB Host|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|152.26.229.86|9443|United States|Huntersville|MCNC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|201.20.94.93|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|11|181.78.11.218|999|Colombia|Guacarí|IFX Networks Argentina S.R.L|
-|12|223.205.38.198|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|13|67.43.236.20|18821|Canada|Montreal|GloboTech Communications|
-|14|103.148.130.107|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|15|181.209.122.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|67.43.236.19|18457|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|5421|Canada|Montreal|GloboTech Communications|
-|18|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|19|67.43.236.20|18821|Canada|Montreal|GloboTech Communications|
-|20|4.155.2.13|9443|United States|Quincy|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|101.255.165.146|8090|Indonesia|Bekasi|PT Remala Abadi|
+|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.86|9443|United States|Huntersville|MCNC|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|72.10.164.178|11755|Canada|Montreal|GloboTech Communications|
+|11|190.99.71.23|999|Argentina|Avellaneda|Ipv6 SRL|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|14|72.10.164.178|11755|Canada|Montreal|GloboTech Communications|
+|15|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|16|103.81.221.168|8080|Indonesia|Bandung|STARNET|
+|17|152.26.231.86|9443|United States|Huntersville|MCNC|
+|18|72.10.164.178|11755|Canada|Montreal|GloboTech Communications|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|59.175.199.130|7777|China|Wuhan|Chinanet|
 
 
 
