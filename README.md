@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|223.205.101.153|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|223.206.91.59|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|72.10.164.178|26997|Canada|Montreal|GloboTech Communications|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|152.26.229.86|9443|United States|Huntersville|MCNC|
-|18|152.26.231.86|9443|United States|Huntersville|MCNC|
-|19|185.8.67.90|8080|France|Saint-Trivier-sur-Moignans|maxnod|
-|20|72.10.164.178|26997|Canada|Montreal|GloboTech Communications|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|79.175.189.51|1080|Iran|Tehran|Afranet|
+|15|223.206.91.59|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|185.8.67.90|8080|France|Saint-Trivier-sur-Moignans|maxnod|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
