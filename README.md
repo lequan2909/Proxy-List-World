@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|103.158.121.51|8080|Indonesia|Indramayu|CDN|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.171.83.253|8080|Indonesia|Karawang|PT Multi Network Indonesia|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|185.8.67.90|8080|France|Saint-Trivier-sur-Moignans|maxnod|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|202.179.184.68|8080|Indonesia|Bulakan|Telemedia Dinamika Sarana, PT|
-|15|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.203.201.146|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 |17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|185.8.67.90|8080|France|Saint-Trivier-sur-Moignans|maxnod|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
