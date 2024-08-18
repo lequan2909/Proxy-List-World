@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|79.175.189.88|1080|Iran|Tehran|Afranet|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|79.175.189.220|1080|Iran|Tehran|Afranet|
 |12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|79.175.189.220|1080|Iran|Tehran|Afranet|
-|15|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|4.155.2.13|9443|United States|Quincy|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.53.78.26|8080|Indonesia|Surabaya|INTI|
+|19|210.61.207.92|3128|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
