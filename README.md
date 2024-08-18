@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|5|185.8.67.90|8080|France|Saint-Trivier-sur-Moignans|maxnod|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|152.26.231.42|9443|United States|Huntersville|MCNC|
-|11|152.26.229.86|9443|United States|Huntersville|MCNC|
-|12|152.26.231.86|9443|United States|Huntersville|MCNC|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|72.10.160.170|4803|Canada|Montreal|GloboTech Communications|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|12|103.76.149.144|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|200.195.235.226|3128|Brazil|Salvador|BR.Digital Provider|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|49.49.209.22|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|152.26.231.86|9443|United States|Huntersville|MCNC|
+|19|152.26.231.42|9443|United States|Huntersville|MCNC|
+|20|152.26.229.86|9443|United States|Huntersville|MCNC|
 
 
 
