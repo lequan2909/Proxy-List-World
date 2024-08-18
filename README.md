@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.236.20|14981|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.231.86|9443|United States|Huntersville|MCNC|
-|14|152.26.229.42|9443|United States|Huntersville|MCNC|
-|15|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|16|67.43.228.253|14467|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2665|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|13965|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.227.227|7973|Canada|Montreal|GloboTech Communications|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|101.108.192.173|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|209.14.119.209|999|Colombia|Bogotá|AGIS|
+|15|152.26.229.42|9443|United States|Huntersville|MCNC|
+|16|152.26.231.86|9443|United States|Huntersville|MCNC|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
