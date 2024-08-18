@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|82.152.165.218|20000|Hong Kong|Tsuen Wan|Hytron Network Services Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|9|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|11|119.18.37.201|8888|Australia|Brisbane|Wideband Networks Pty Ltd|
-|12|79.175.189.220|1080|Iran|Tehran|Afranet|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|153.179.16.236|8080|Japan|Tokushima|NTT Communications Corporation|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|17|216.10.247.145|3128|India|Mumbai|PDR|
-|18|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
