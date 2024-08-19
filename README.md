@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|47.128.243.200|8888|Singapore|Singapore|Amazon Technologies Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|79.175.189.88|1080|Iran|Tehran|Afranet|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
