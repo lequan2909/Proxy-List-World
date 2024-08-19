@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|79.175.189.51|1080|Iran|Tehran|Afranet|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|14|79.175.189.88|1080|Iran|Tehran|Afranet|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|12|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
