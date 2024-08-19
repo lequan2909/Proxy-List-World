@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|79.175.189.88|1080|Iran|Tehran|Afranet|
+|1|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|2|49.48.102.135|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|6|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|9|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.228.250|30683|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|13779|Canada|Montreal|GloboTech Communications|
-|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|67.43.228.250|30683|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|11021|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|12|93.190.14.205|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
