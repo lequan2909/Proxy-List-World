@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.212.18|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|116.109.196.48|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|11|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|167.71.212.18|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|67.43.227.227|32643|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|26969|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|11867|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|32643|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|67.43.227.226|1743|Canada|Montreal|GloboTech Communications|
-|18|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|19|67.43.227.228|7837|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|8285|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|67.43.227.228|22391|Canada|Montreal|GloboTech Communications|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
