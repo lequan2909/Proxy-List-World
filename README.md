@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.128.243.200|8888|Singapore|Singapore|Amazon Technologies Inc|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
