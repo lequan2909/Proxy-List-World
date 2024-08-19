@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|203.150.128.171|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|10|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|72.10.160.170|14807|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|14807|Canada|Montreal|GloboTech Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.164.178|5339|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|6925|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|20441|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|13|72.10.160.172|16231|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|1857|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|67.43.236.20|11431|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|72.10.160.90|17719|Canada|Montreal|GloboTech Communications|
+|19|49.156.151.246|83|India|Kākināda|City Online|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
