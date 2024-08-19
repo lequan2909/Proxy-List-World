@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|9|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
 |10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
-|14|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|18|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|20|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|12|79.175.189.51|1080|Iran|Tehran|Afranet|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|103.80.81.53|8090|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|19|85.31.234.252|80|United States|Phoenix|HOSTINGER US|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
