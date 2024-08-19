@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|79.175.189.88|1080|Iran|Tehran|Afranet|
-|4|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|152.26.229.86|9443|United States|Concord|MCNC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|11|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|12|72.10.160.90|12897|Canada|Montreal|GloboTech Communications|
-|13|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|14|67.43.236.20|2831|Canada|Montreal|GloboTech Communications|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|72.10.164.178|24527|Canada|Montreal|GloboTech Communications|
-|19|117.68.38.188|38921|China|Hefei|China Telecom|
-|20|67.43.236.22|1645|Canada|Montreal|GloboTech Communications|
+|1|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|158.140.177.206|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|103.106.219.132|1111|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|16|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|67.43.227.227|4995|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|13101|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
