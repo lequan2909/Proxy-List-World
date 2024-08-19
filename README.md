@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|115.76.207.89|30493|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|67.43.227.227|24145|Canada|Montreal|GloboTech Communications|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|79.175.189.51|1080|Iran|Tehran|Afranet|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|72.10.164.178|4003|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
 |17|72.10.160.90|7829|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|67.43.227.227|2273|Canada|Montreal|GloboTech Communications|
 |19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|72.10.164.178|4003|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|28679|Canada|Montreal|GloboTech Communications|
 
 
 
