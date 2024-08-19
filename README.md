@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|3|186.207.191.213|8080|Brazil|Salvador|Claro NXT Telecomunicacoes Ltda|
 |4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
