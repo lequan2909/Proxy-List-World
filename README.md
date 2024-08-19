@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|12|152.42.186.179|9090|Singapore|Singapore|DigitalOcean, LLC|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|72.10.164.178|23083|Canada|Montreal|GloboTech Communications|
-|15|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|66.206.15.148|8136|United States|Los Angeles|Primary|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|51.222.200.225|3128|Canada|Beauharnois|OVH SAS|
+|14|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|15|67.43.227.228|17021|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|23083|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|23083|Canada|Montreal|GloboTech Communications|
+|18|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
+|19|72.10.160.90|6177|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|23083|Canada|Montreal|GloboTech Communications|
 
 
 
