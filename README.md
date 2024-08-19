@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|72.10.164.178|2745|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.228|2637|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|2745|Canada|Montreal|GloboTech Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.227.227|5487|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|2745|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.174|29415|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|16|72.10.160.92|17053|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|5487|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|11431|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|27175|Canada|Montreal|GloboTech Communications|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|72.10.164.178|31243|Canada|Montreal|GloboTech Communications|
+|6|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|7|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|67.43.227.228|11187|Canada|Montreal|GloboTech Communications|
+|11|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|13|67.43.227.227|30295|Canada|Montreal|GloboTech Communications|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.236.20|6509|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|27689|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
