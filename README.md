@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|2|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|3|116.109.196.48|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|72.10.160.171|4011|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|103.81.158.137|8080|India|Talwandi Bhai|Digitax India Communications Pvt Ltd.|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|72.10.160.170|19635|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|20923|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|27281|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|17691|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|116.104.135.43|5020|Vietnam|Hanoi|Viettel Corporation|
-|19|67.43.227.227|32705|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|20923|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|72.10.160.170|8735|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|3155|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|17691|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|72.10.160.171|4011|Canada|Montreal|GloboTech Communications|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
