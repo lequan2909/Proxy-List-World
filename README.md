@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|1|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|10|72.10.164.178|14593|Canada|Montreal|GloboTech Communications|
+|11|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
 |12|72.10.160.91|31711|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|72.10.160.173|17385|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|22077|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.173|25471|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|116.105.57.43|10001|Vietnam|Quận Bảy|Viettel Corporation|
 |16|152.26.231.86|9443|United States|Concord|MCNC|
 |17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|20.92.93.238|3128|Australia|The Rocks|Microsoft Corporation|
-|19|67.43.236.20|16087|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|25827|Canada|Montreal|GloboTech Communications|
+|18|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|72.10.160.173|25471|Canada|Montreal|GloboTech Communications|
 
 
 
