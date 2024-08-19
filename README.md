@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|72.10.164.178|2571|Canada|Montreal|GloboTech Communications|
-|17|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|18|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|19|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|14|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|20|72.10.164.178|6021|Canada|Montreal|GloboTech Communications|
 
 
 
