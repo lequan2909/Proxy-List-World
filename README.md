@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5436** proxies at the latest update. Usable proxies are below.
+> Scraper found **5256** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -31,8 +31,8 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|774|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|175|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3507|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|182|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3320|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.53.14.6|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|113.53.14.6|8080|Thailand|Bangkok|TOT Public Company Limited|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|11|122.3.121.231|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|139.228.221.123|8080|Indonesia|Surabaya|PT. First Media, Tbk|
-|18|103.182.213.65|8080|Bangladesh|Tongi|Md Ibrahim|
-|19|72.10.164.178|6099|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6099|Canada|Montreal|GloboTech Communications|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|103.159.194.171|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
+|16|72.10.164.178|10067|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|20|101.32.161.39|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
