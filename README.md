@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|152.26.229.42|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|67.43.227.227|15097|Canada|Montreal|GloboTech Communications|
-|8|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|67.43.227.228|28843|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.170|19487|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|16389|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|1311|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.19|13359|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|22573|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|30525|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|67.43.227.227|15097|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|1311|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|28843|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
+|8|14.241.111.97|8080|Vietnam|Hanoi|VNPT|
+|9|72.10.160.93|8787|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.173|30405|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|15097|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.91|27401|Canada|Montreal|GloboTech Communications|
+|13|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|67.43.227.228|8985|Canada|Montreal|GloboTech Communications|
+|18|190.99.71.23|999|Argentina|Avellaneda|Ipv6 SRL|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
