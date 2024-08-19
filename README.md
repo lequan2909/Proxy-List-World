@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|116.109.196.48|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|4|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|181.176.71.193|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
-|13|72.10.160.170|30163|Canada|Montreal|GloboTech Communications|
-|14|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|15|72.10.160.91|15385|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.94|25977|Canada|Montreal|GloboTech Communications|
-|17|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|18|72.10.160.170|30163|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|30069|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|2303|Canada|Montreal|GloboTech Communications|
+|9|139.228.221.123|8080|Indonesia|Surabaya|PT. First Media, Tbk|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|12|72.10.160.170|21357|Canada|Montreal|GloboTech Communications|
+|13|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|14|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|15|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|16|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|17|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|72.10.160.170|21357|Canada|Montreal|GloboTech Communications|
+|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
