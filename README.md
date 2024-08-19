@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|152.42.186.180|9090|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|131.196.198.209|8888|Brazil|Cotia|BB Host|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|115.76.207.89|30493|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|116.107.232.189|10036|Vietnam|Haiphong|Viettel Corporation|
-|19|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|20|72.10.164.178|1339|Canada|Montreal|GloboTech Communications|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|9|115.76.207.89|30493|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|72.10.164.178|19159|Canada|Montreal|GloboTech Communications|
+|19|146.19.207.221|8118|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
