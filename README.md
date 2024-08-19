@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|79.175.189.88|1080|Iran|Tehran|Afranet|
-|12|65.109.116.246|10001|Finland|Helsinki|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|115.76.207.89|30493|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|38.156.73.50|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
-|18|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
+|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
 
 
 
