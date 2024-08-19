@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|65.21.190.215|443|Finland|Helsinki|Hetzner Online GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|72.10.164.178|29161|Canada|Montreal|GloboTech Communications|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|72.10.164.178|29161|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.227|29685|Canada|Montreal|GloboTech Communications|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|103.40.121.33|8089|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
+|19|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
