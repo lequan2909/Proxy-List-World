@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|79.175.189.51|1080|Iran|Tehran|Afranet|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|79.175.189.88|1080|Iran|Tehran|Afranet|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|200.125.170.106|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|20|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
 
 
 
