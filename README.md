@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|112.109.20.106|6060|Indonesia|Surabaya|DATAUTAMANET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|43.134.59.218|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|72.10.160.170|27931|Canada|Montreal|GloboTech Communications|
+|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|11|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|79.175.189.51|1080|Iran|Tehran|Afranet|
+|13|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|171.6.195.249|8080|Thailand|Nonthaburi|Triple T Broadband Public Company Limited|
+|17|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
