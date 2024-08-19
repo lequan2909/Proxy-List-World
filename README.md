@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.76.108.74|3127|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|157.66.84.27|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|13|65.109.116.246|10001|Finland|Helsinki|Hetzner Online GmbH|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|67.43.228.253|17961|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|15177|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|17961|Canada|Montreal|GloboTech Communications|
-|18|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|19|72.10.160.171|9419|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|30069|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Care Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|72.10.164.178|2337|Canada|Montreal|GloboTech Communications|
+|15|103.76.108.74|3127|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
+|16|67.43.228.253|17883|Canada|Montreal|GloboTech Communications|
+|17|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|18|4.155.2.13|9401|United States|Quincy|Microsoft Corporation|
+|19|72.10.164.178|2337|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
