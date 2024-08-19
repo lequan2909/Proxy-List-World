@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|80.66.81.36|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|103.131.18.119|8099|Indonesia|Kudus|PT Global Media Data Prima|
-|20|67.43.227.227|24567|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|46.161.195.182|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
