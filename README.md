@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|122.185.180.190|32650|India|Mumbai|Bharti Airtel Limited|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|72.10.164.178|2135|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|147.161.170.105|9443|Germany|Munich|Zscaler MUC1|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|17|67.43.227.227|4993|Canada|Montreal|GloboTech Communications|
-|18|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|19|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|20|72.10.164.178|2135|Canada|Montreal|GloboTech Communications|
+|16|45.189.252.218|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|147.161.170.105|9443|Germany|Munich|Zscaler MUC1|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
