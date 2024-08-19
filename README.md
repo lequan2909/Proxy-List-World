@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|7|72.10.160.171|21377|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.226|22885|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|14327|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.173|31763|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.92|28855|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|14327|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|14327|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|13683|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|14327|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|22887|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|30467|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3917|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|14847|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.21|31129|Canada|Montreal|GloboTech Communications|
+|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|72.10.160.171|21377|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|5027|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|67.43.236.21|31129|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.226|23363|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|12331|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|20|67.43.227.227|15365|Canada|Montreal|GloboTech Communications|
 
 
 
