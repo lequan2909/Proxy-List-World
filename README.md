@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
-|5|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|4|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|5|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|10|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|11|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|79.175.189.220|1080|Iran|Tehran|Afranet|
-|16|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|79.175.189.220|1080|Iran|Tehran|Afranet|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
