@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|185.88.158.34|3128|Russia|St Petersburg|SkyNet Ltd.|
-|6|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|7|51.77.222.4|8118|France|Gravelines|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|66.206.15.148|8136|United States|Los Angeles|Primary|
-|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|13|103.10.171.114|8080|Indonesia|Bandung|TRANSTECH|
-|14|101.32.161.39|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|72.10.164.178|25367|Canada|Montreal|GloboTech Communications|
-|20|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|12|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|13|67.43.227.228|31361|Canada|Montreal|GloboTech Communications|
+|14|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|15|103.80.116.61|8080|India|Nashik|Multicraft Digital Technologies Private Limited|
+|16|72.10.160.92|8819|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|19|72.10.164.178|29161|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
