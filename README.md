@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|80.66.81.36|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|6|156.250.119.176|40074|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
 |11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|13|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|14|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|72.10.164.178|6683|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|19|116.105.57.43|10001|Vietnam|Quận Bảy|Viettel Corporation|
-|20|72.10.164.178|6683|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|72.10.164.178|7485|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.18|25087|Canada|Montreal|GloboTech Communications|
+|17|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|18|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|67.43.227.226|15507|Canada|Montreal|GloboTech Communications|
 
 
 
