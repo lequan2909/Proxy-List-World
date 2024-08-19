@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|193.188.22.20|3128|United States|Los Angeles|Hydra Communications Ltd|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|193.188.22.20|3128|United States|Los Angeles|Hydra Communications Ltd|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|112.109.20.106|6060|Indonesia|Surabaya|DATAUTAMANET|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|67.43.227.227|3373|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|8961|Canada|Montreal|GloboTech Communications|
 
 
 
