@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|79.175.189.88|1080|Iran|Tehran|Afranet|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|79.175.189.51|1080|Iran|Tehran|Afranet|
-|14|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|89.187.191.121|8888|Czechia|Prague|DataCamp Limited|
+|15|79.175.189.88|1080|Iran|Tehran|Afranet|
+|16|79.175.189.220|1080|Iran|Tehran|Afranet|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
