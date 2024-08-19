@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|203.150.113.221|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|203.150.113.221|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|61.7.183.248|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|14|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
-|15|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|67.43.227.230|27919|Canada|Montreal|GloboTech Communications|
 |16|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|17|72.10.164.178|30709|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|24123|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7669|Canada|Montreal|GloboTech Communications|
-|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|72.10.160.90|21845|Canada|Montreal|GloboTech Communications|
+|19|192.145.206.192|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
