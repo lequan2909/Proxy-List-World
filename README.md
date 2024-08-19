@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|7|49.48.193.133|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|49.48.193.133|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|45.122.228.10|8899|Australia|Kuttabul|NETPTYLTD|
-|14|67.43.227.228|24317|Canada|Montreal|GloboTech Communications|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|72.10.160.90|11203|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|26849|Canada|Montreal|GloboTech Communications|
-|18|103.172.120.96|8080|Indonesia|Semarang|PT Digital Akses Nusantara|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|45.190.78.47|999|Mexico|Tala|Meta Networks SA De CV|
+|13|138.59.227.248|999|Paraguay|Ayolas|Aranda Cardozo Lider Ramon|
+|14|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|156.250.119.176|40074|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|18|133.242.171.242|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|72.10.164.178|5845|Canada|Montreal|GloboTech Communications|
 
 
 
