@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|67.43.228.250|25019|Canada|Montreal|GloboTech Communications|
-|7|152.26.231.42|9443|United States|Concord|MCNC|
-|8|152.26.231.86|9443|United States|Concord|MCNC|
+|4|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |9|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|10|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|11|67.43.227.226|13503|Canada|Montreal|GloboTech Communications|
-|12|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|13|67.43.236.20|8785|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|10199|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|18709|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|22319|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|22135|Canada|Montreal|GloboTech Communications|
-|18|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|72.10.164.178|18709|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|18709|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|17|67.43.227.228|19491|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|13503|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|72.10.160.90|5063|Canada|Montreal|GloboTech Communications|
 
 
 
