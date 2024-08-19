@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|152.26.231.42|9443|United States|Concord|MCNC|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|72.10.164.178|10281|Canada|Montreal|GloboTech Communications|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|72.10.160.173|21481|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|29239|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|1715|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|19933|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|28779|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|1715|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.229|14443|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|4367|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|1319|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|72.10.164.178|10281|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|67.43.227.229|14443|Canada|Montreal|GloboTech Communications|
+|15|188.132.166.120|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|16|72.10.164.178|10281|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|10281|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.91|19933|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|10281|Canada|Montreal|GloboTech Communications|
+|20|163.172.33.137|4182|France|Vitry-sur-Seine|Online S.A.S.|
 
 
 
