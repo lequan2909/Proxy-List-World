@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|131.196.198.209|8888|Brazil|Cotia|BB Host|
-|12|103.228.246.131|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|72.10.164.178|32567|Canada|Montreal|GloboTech Communications|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|117.21.14.245|8000|China|Taohua|Chinanet|
-|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|79.175.189.88|1080|Iran|Tehran|Afranet|
+|16|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
