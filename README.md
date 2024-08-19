@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|61.7.191.142|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|43.134.59.218|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|61.7.191.142|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|112.109.20.106|6060|Indonesia|Surabaya|DATAUTAMANET|
-|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|15|103.184.19.77|8080|Indonesia|Malang|PT Garuda Lintas Cakrawala|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|18|103.81.64.52|8080|Indonesia|Bandar Lampung|QIUNET|
-|19|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|89.108.74.198|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|18|81.215.229.55|1555|Turkey|Izmir|TurkTelecom|
+|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|20|103.144.102.230|8085|Indonesia|Bandung|PANDAWANET|
 
 
 
