@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|189.41.123.117|9090|Brazil|Ituiutaba|ALGAR TELECOM S/A|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|11|72.10.160.90|3275|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|14409|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|7045|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|139.255.67.212|8185|Indonesia|Jakarta|PT. LINKNET|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|67.43.227.226|14409|Canada|Montreal|GloboTech Communications|
+|13|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|14|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
+|15|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|16|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
 |17|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|23067|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2935|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|7045|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
