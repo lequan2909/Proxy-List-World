@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|131.196.198.209|8888|Brazil|Cotia|BB Host|
-|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
-|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|3|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|199.21.175.222|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
+|14|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
