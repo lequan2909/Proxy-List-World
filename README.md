@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Care Limited|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|13|103.87.169.201|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|14|156.250.119.176|40074|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|15|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|67.43.228.253|2227|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|67.43.227.227|27031|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|72.10.164.178|20403|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|25453|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|72.10.160.90|26335|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|21611|Canada|Montreal|GloboTech Communications|
 
 
 
