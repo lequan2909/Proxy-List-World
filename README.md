@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|101.255.116.126|8080|Indonesia|Jakarta|PT Remala Abadi|
-|15|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|178.124.234.95|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|177.23.176.58|8080|Brazil|Rio de Janeiro|JM TELECOMUNICACOES E MANUTENCAO DE COMP. EIRELI|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
 |19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|20|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 
 
 
