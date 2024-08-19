@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|116.109.196.48|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|72.10.164.178|30093|Canada|Montreal|GloboTech Communications|
-|15|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|16|67.43.236.18|31647|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|30093|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|26773|Canada|Montreal|GloboTech Communications|
-|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.236.18|31647|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|203.150.113.221|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|72.10.164.178|19851|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|27883|Canada|Montreal|GloboTech Communications|
+|18|117.184.46.29|18080|China|Guangzhou|China Mobile communications corporation|
+|19|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
