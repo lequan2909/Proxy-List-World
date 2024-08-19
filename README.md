@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|112.109.20.106|6060|Indonesia|Surabaya|DATAUTAMANET|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|188.240.101.157|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|112.109.20.106|6060|Indonesia|Surabaya|DATAUTAMANET|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|188.240.101.157|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
 |14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|72.10.164.178|20571|Canada|Montreal|GloboTech Communications|
-|17|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
-|18|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|72.10.160.90|27519|Canada|Montreal|GloboTech Communications|
+|15|89.108.74.198|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|16|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|17|67.43.227.227|31713|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|20571|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|11113|Canada|Montreal|GloboTech Communications|
 
 
 
