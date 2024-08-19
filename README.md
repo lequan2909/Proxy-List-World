@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|7|51.77.222.4|8118|France|Gravelines|OVH SAS|
-|8|185.88.158.34|3128|Russia|St Petersburg|SkyNet Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|11|202.47.188.133|8090|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
-|12|103.40.121.33|8089|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|6|148.72.140.24|30132|United States|St Louis|GoDaddy.com|
+|7|103.10.22.234|8080|Mongolia|Ulan Bator|Kewiko LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|212.46.210.242|8080|Russia|Moscow|VympelKom broadband internet|
+|17|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|18|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
