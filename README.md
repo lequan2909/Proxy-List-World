@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|135.148.100.78|48149|United States|Reston|OVH SAS|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|103.146.185.138|1111|Indonesia|Sragen|YAMNET|
 |4|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |5|135.148.100.78|48149|United States|Reston|OVH SAS|
 |6|79.175.189.223|1080|Iran|Tehran|Afranet|
-|7|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|101.108.119.102|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|103.165.157.206|8088|Indonesia|Taman|MEGADATA-ISP|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|171.241.200.233|10001|Vietnam|Thanh Hóa|Viettel Corporation|
-|16|72.10.164.178|1839|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|72.10.160.91|28647|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|11|103.125.174.17|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|189.193.254.98|8080|Mexico|Jilotepec de Molina Enríquez|Tele Go, Inc|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
