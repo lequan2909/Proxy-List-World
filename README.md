@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.148.100.78|48149|United States|Reston|OVH SAS|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
 |3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|67.43.227.227|32501|Canada|Montreal|GloboTech Communications|
-|13|103.40.121.91|8080|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
-|14|67.43.227.227|32501|Canada|Montreal|GloboTech Communications|
-|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|67.43.227.227|32501|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2677|Canada|Montreal|GloboTech Communications|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|67.43.227.227|32501|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|212.46.210.230|8080|Russia|Moscow|VympelKom broadband internet|
+|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|67.43.227.227|18285|Canada|Montreal|GloboTech Communications|
+|18|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.227|18285|Canada|Montreal|GloboTech Communications|
 
 
 
