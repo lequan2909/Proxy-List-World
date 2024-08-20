@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|67.43.228.253|7961|Canada|Montreal|GloboTech Communications|
-|8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|72.10.164.178|29139|Canada|Montreal|GloboTech Communications|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|72.10.164.178|29139|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|29139|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|29139|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|8191|Canada|Montreal|GloboTech Communications|
-|15|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
-|16|72.10.164.178|29139|Canada|Montreal|GloboTech Communications|
-|17|171.246.149.74|33333|Vietnam|Bình Dương Province|Viettel Corporation|
-|18|72.10.164.178|29139|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|8191|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|29139|Canada|Montreal|GloboTech Communications|
+|4|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|200.35.50.22|5556|Colombia|Medellín|Edatel S.a. E.S.P|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|72.10.164.178|22871|Canada|Montreal|GloboTech Communications|
+|16|171.246.149.74|33333|Vietnam|Bình Dương Province|Viettel Corporation|
+|17|72.10.164.178|22871|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|22871|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|22871|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|22871|Canada|Montreal|GloboTech Communications|
 
 
 
