@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|2|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |9|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|221.132.33.170|6969|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|72.10.164.178|12601|Canada|Montreal|GloboTech Communications|
+|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|38.156.72.203|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|67.43.227.230|29413|Canada|Montreal|GloboTech Communications|
 
 
 
