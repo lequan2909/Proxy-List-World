@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|131.196.198.209|8888|Brazil|Cotia|BB Host|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|13|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|200.106.116.127|999|Peru|Barranca|Telefonica del Peru|
-|17|191.102.254.28|8085|Argentina|Rosario|IP·RED|
-|18|67.43.227.227|11191|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|31.204.199.54|81|Montenegro|Podgorica|Crnogorski Telekom|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
+|5|103.41.91.209|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
+|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.176.96.140|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|12|36.37.163.254|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
