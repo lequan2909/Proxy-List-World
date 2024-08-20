@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|135.148.100.78|48149|United States|Reston|OVH SAS|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|135.148.100.78|48149|United States|Reston|OVH SAS|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|135.148.100.78|48149|United States|Reston|OVH SAS|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|9|103.144.18.49|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|67.43.227.226|22489|Canada|Montreal|GloboTech Communications|
+|17|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|18|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
