@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|8|72.10.164.178|21879|Canada|Montreal|GloboTech Communications|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|67.43.227.227|27365|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|27365|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|17453|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|67.43.236.20|26037|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21879|Canada|Montreal|GloboTech Communications|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|124.6.164.229|8085|Philippines|Lahug|INNOVE|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
