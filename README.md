@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|128.199.201.237|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|156.250.119.137|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|135.148.100.78|48149|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|45.153.165.118|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
 
 
 
