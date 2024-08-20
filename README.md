@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|8|103.184.56.122|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|187.251.130.156|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|72.10.164.178|7925|Canada|Montreal|GloboTech Communications|
-|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|19|72.10.164.178|7925|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|203.150.113.155|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|136.232.224.202|8080|India|Nellore|Reliance Jio Infocomm Limited|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
