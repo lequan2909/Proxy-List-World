@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|135.148.100.78|48149|United States|Reston|OVH SAS|
 |2|135.148.100.78|48149|United States|Reston|OVH SAS|
-|3|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.92|5955|Canada|Montreal|GloboTech Communications|
-|16|36.111.151.156|80|China|Lipu|China Telecom|
-|17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|18|67.43.228.253|28221|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|72.10.160.90|9529|Canada|Montreal|GloboTech Communications|
+|3|103.146.185.138|1111|Indonesia|Sragen|YAMNET|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|82.65.27.56|80|France|Paris|Proxad / Free SAS|
+|7|15.235.171.203|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|8|156.250.119.139|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
+|20|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 
 
 
