@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|135.148.100.78|48149|United States|Reston|OVH SAS|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|135.148.100.78|48149|United States|Reston|OVH SAS|
-|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|12|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|14|188.132.222.222|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|187.190.99.229|8080|Mexico|Valle de Santiago|Total Play Telecomunicaciones SA De CV|
-|17|20.169.241.171|3128|United States|Boydton|Microsoft Corporation|
-|18|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|9|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|103.247.22.79|8080|Indonesia|Bekasi|PT wifian Solution|
+|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
