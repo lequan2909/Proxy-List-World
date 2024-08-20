@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|223.204.52.213|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|3|54.255.115.141|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|103.170.62.7|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|203.150.113.84|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|12|165.225.113.214|10006|Singapore|Singapore|ZSCALER, INC.|
-|13|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|14|67.43.227.227|7817|Canada|Montreal|GloboTech Communications|
-|15|104.129.194.38|8800|United States|Reston|ZSCALER, INC.|
-|16|156.250.117.45|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|17|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|19|156.250.119.150|40161|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|20|72.10.160.170|24531|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
+|11|112.78.150.132|8080|Indonesia|Jakarta|Biznet Networks|
+|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|14|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
+|15|165.225.113.214|10006|Singapore|Singapore|ZSCALER, INC.|
+|16|156.250.116.206|40173|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|17|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|18|67.43.227.227|23199|Canada|Montreal|GloboTech Communications|
+|19|112.198.200.62|8082|Philippines|Nasugbu|Globe Telecom|
+|20|104.129.194.38|8800|United States|Reston|ZSCALER, INC.|
 
 
 
