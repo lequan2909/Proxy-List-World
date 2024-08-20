@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|72.10.160.90|15423|Canada|Montreal|GloboTech Communications|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
 |8|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|9|72.10.160.171|20751|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|1743|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|2787|Canada|Montreal|GloboTech Communications|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|67.43.227.227|1743|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|1743|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|9277|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|13359|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|1743|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|9277|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|4779|Canada|Montreal|GloboTech Communications|
-|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|9277|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|26403|Canada|Montreal|GloboTech Communications|
+|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.236.19|13359|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|67.43.227.227|2787|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|26999|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|2787|Canada|Montreal|GloboTech Communications|
+|20|171.245.14.125|10001|Vietnam|Haiphong|Viettel Corporation|
 
 
 
