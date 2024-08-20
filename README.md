@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|3|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|177.93.58.182|999|Colombia|California|TV AZTECA SUCURSAL COLOMBIA|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|67.43.236.20|22625|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|3597|Canada|Montreal|GloboTech Communications|
-|15|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|72.10.160.90|8097|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|4689|Canada|Montreal|GloboTech Communications|
-|19|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|20|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|103.106.219.132|1111|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|15|72.10.160.170|3597|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|177.93.48.43|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|18|72.10.160.90|19043|Canada|Montreal|GloboTech Communications|
+|19|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|7925|Canada|Montreal|GloboTech Communications|
 
 
 
