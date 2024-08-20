@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|10|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|79.175.189.88|1080|Iran|Tehran|Afranet|
-|12|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.164.178|12667|Canada|Montreal|GloboTech Communications|
-|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|72.10.164.178|12667|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|103.125.50.234|8080|Indonesia|Pondok Bambu|PT. Eka Mas Republik|
-|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|11|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
+|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|13|72.10.164.178|17061|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|67.43.236.20|22615|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
 
 
 
