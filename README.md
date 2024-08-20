@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|103.156.16.182|1111|Indonesia|Jakarta|RSTNET|
+|4|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 |10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|67.43.236.20|26567|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
 |12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|67.43.227.226|21729|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17421|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.226|6365|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|17421|Canada|Montreal|GloboTech Communications|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |16|72.10.164.178|17421|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|19051|Canada|Montreal|GloboTech Communications|
-|18|139.162.51.163|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|19|67.43.228.250|6773|Canada|Montreal|GloboTech Communications|
-|20|103.186.204.52|8089|Indonesia|Muaratiga|PT Afna Digital Indonesia|
+|17|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|131.196.198.209|8888|Brazil|Cotia|BB Host|
+|19|67.43.227.227|21625|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
