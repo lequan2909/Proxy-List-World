@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.165.157.167|8080|Indonesia|Taman|MEGADATA-ISP|
-|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|135.148.100.78|48149|United States|Reston|OVH SAS|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|103.153.134.27|8090|Indonesia|Tangerang|WMINET|
-|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|72.10.160.171|32337|Canada|Montreal|GloboTech Communications|
-|13|103.97.224.185|8080|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|14|67.43.227.227|15883|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|67.43.227.227|15883|Canada|Montreal|GloboTech Communications|
-|17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.166.32.78|8090|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|101.108.119.102|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|135.148.100.78|48149|United States|Reston|OVH SAS|
+|10|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|79.175.189.223|1080|Iran|Tehran|Afranet|
+|14|156.250.119.139|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|72.10.160.171|32337|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
