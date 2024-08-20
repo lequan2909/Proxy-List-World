@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|9|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|10|135.148.100.78|48149|United States|Reston|OVH SAS|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|9|135.148.100.78|48149|United States|Reston|OVH SAS|
+|10|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|72.10.160.170|25675|Canada|Montreal|GloboTech Communications|
+|13|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|14|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|18|67.43.227.227|14009|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
 
 
 
