@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|103.154.230.58|8080|Indonesia|Lamongan|DIGITNET|
 |4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|103.156.140.203|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|135.148.100.78|48149|United States|Reston|OVH SAS|
-|14|82.202.247.117|3128|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|15|72.10.160.90|12741|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|9329|Canada|Montreal|GloboTech Communications|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|135.148.100.78|48149|United States|Reston|OVH SAS|
+|15|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
+|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
 |17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|191.102.248.9|8084|Argentina|Rosario|IP·RED|
-|19|72.10.160.170|30409|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.229|11647|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|17783|Canada|Montreal|GloboTech Communications|
+|19|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|20|72.10.160.170|16369|Canada|Montreal|GloboTech Communications|
 
 
 
