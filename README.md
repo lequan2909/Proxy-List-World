@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|103.148.130.107|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|135.148.100.78|48149|United States|Reston|OVH SAS|
+|14|101.128.107.210|7777|Indonesia|Jakarta|CBN|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|188.116.22.67|25124|Hong Kong|Hong Kong|M247 Europe SRL|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
