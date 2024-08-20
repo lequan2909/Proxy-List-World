@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|10|156.250.119.137|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|156.250.119.176|40074|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|13|67.43.227.229|32737|Canada|Montreal|GloboTech Communications|
-|14|156.250.118.95|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|15|72.10.160.90|2617|Canada|Montreal|GloboTech Communications|
-|16|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|91.209.114.179|8080|Hungary|Siófok|MVM NET Zrt.|
-|19|72.10.164.178|25521|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|2075|Canada|Montreal|GloboTech Communications|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|7|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|12|20.169.241.111|3128|United States|Boydton|Microsoft Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|156.250.119.137|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
