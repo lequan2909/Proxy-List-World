@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|135.148.100.78|48149|United States|Reston|OVH SAS|
-|7|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|135.148.100.78|48149|United States|Reston|OVH SAS|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|11|135.148.100.78|48149|United States|Reston|OVH SAS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
 
 
 
