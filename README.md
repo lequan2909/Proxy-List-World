@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|135.148.100.78|48149|United States|Reston|OVH SAS|
+|1|135.148.100.78|48149|United States|Reston|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|217.52.247.83|1976|Egypt|Cairo|Etisalat Misr|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|6|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|135.148.100.78|48149|United States|Reston|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 |12|152.26.231.86|9443|United States|Concord|MCNC|
 |13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.236.21|24947|Canada|Montreal|GloboTech Communications|
-|18|116.101.22.249|10009|Vietnam|Haiphong|Viettel Corporation|
-|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|72.10.164.178|7719|Canada|Montreal|GloboTech Communications|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|19|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|20|212.109.194.183|3128|Russia|Khimki|JSC IOT|
 
 
 
