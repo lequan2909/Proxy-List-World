@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.148.100.78|48149|United States|Reston|OVH SAS|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
 |3|135.148.100.78|48149|United States|Reston|OVH SAS|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|13|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
-|14|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
-|15|67.43.227.227|5993|Canada|Montreal|GloboTech Communications|
-|16|119.47.90.109|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|17|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|18|72.10.164.178|1097|Canada|Montreal|GloboTech Communications|
-|19|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|148.72.140.24|30118|United States|St Louis|GoDaddy.com|
+|18|67.43.227.227|5993|Canada|Montreal|GloboTech Communications|
+|19|223.205.28.76|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
