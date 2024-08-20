@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|182.253.109.187|8080|Indonesia|Semarang|Biznet Metronet|
-|5|113.192.30.161|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|135.148.100.78|48149|United States|Reston|OVH SAS|
-|11|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
-|12|80.66.81.36|4006|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|16|72.10.164.178|14515|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|19|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|2|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.5.196.62|9898|Brazil|Cascavel|Rpnet Informatica Ltda - ME|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|9|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|72.10.164.178|15651|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|72.10.164.178|15651|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|19961|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|72.10.160.91|10515|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|15651|Canada|Montreal|GloboTech Communications|
 
 
 
