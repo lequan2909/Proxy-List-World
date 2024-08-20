@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|182.253.109.187|8080|Indonesia|Semarang|Biznet Metronet|
-|7|72.10.160.91|13171|Canada|Montreal|GloboTech Communications|
+|6|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|67.43.236.20|1965|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|3483|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|26543|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|3483|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|26889|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|19591|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|18745|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.251|29809|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|4233|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|1965|Canada|Montreal|GloboTech Communications|
+|9|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|10|119.47.90.241|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|12|182.253.109.187|8080|Indonesia|Semarang|Biznet Metronet|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|67.43.227.228|26889|Canada|Montreal|GloboTech Communications|
+|15|177.152.94.37|8080|Brazil|Jardim|Elonet Provedor de Internet Ltda|
+|16|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|16403|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|72.10.164.178|16403|Canada|Montreal|GloboTech Communications|
 
 
 
