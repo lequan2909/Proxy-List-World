@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
 |4|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|67.43.227.227|20201|Canada|Montreal|GloboTech Communications|
-|13|200.94.96.174|999|Mexico|Villa de Cos|Alestra, S. de R.L. de C.V.|
-|14|72.10.160.92|7611|Canada|Montreal|GloboTech Communications|
-|15|45.173.6.194|999|Colombia|Zipaquirá|Columbus Networks Colombia|
-|16|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|17|67.43.227.227|20201|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|72.10.164.178|1681|Canada|Montreal|GloboTech Communications|
+|5|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|116.107.232.189|10008|Vietnam|Haiphong|Viettel Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|72.10.160.171|8103|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|171.245.12.88|10011|Vietnam|Haiphong|Viettel Corporation|
+|14|67.43.227.227|20201|Canada|Montreal|GloboTech Communications|
+|15|212.114.31.21|8080|France|Paris|Free Pro SAS|
+|16|171.245.12.88|10011|Vietnam|Haiphong|Viettel Corporation|
+|17|182.253.168.5|8080|Indonesia|Jakarta|BIZNET|
+|18|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
+|19|88.255.65.103|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
+|20|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
