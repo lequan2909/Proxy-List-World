@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
 |7|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.156.15.242|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|16|135.148.100.78|48149|United States|Reston|OVH SAS|
+|17|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
