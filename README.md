@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|135.148.100.78|48149|United States|Reston|OVH SAS|
-|5|61.7.191.38|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|6|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|7|103.125.16.69|8080|Indonesia|Tangerang|JAVAMEDIA|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|135.148.100.78|48149|United States|Reston|OVH SAS|
-|11|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
-|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|16|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|9|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|194.246.34.224|8080|United States|Los Angeles|NetLab Global|
+|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|103.35.108.129|5020|Bangladesh|Dhaka|Ranks ITT|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|135.148.100.78|48149|United States|Reston|OVH SAS|
 
 
 
