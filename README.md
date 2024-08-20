@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|110.78.85.161|8080|Thailand|Mukdahan|CAT Telecom Public Company Limited|
+|7|152.26.229.86|9443|United States|Concord|MCNC|
+|8|182.253.109.187|8080|Indonesia|Semarang|Biznet Metronet|
+|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.227.227|2729|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|30089|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.230|11273|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.227|2729|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|14847|Canada|Montreal|GloboTech Communications|
-|17|182.253.109.187|8080|Indonesia|Semarang|Biznet Metronet|
-|18|67.43.227.227|2729|Canada|Montreal|GloboTech Communications|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|67.43.227.227|2729|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|12449|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.226|3765|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|12449|Canada|Montreal|GloboTech Communications|
+|14|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|72.10.160.90|13473|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|30089|Canada|Montreal|GloboTech Communications|
+|19|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
