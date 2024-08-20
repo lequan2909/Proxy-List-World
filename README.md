@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|172.96.8.12|7000|United States|Kansas City|Heymman Servers Corporation|
-|16|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.227.228|19709|Canada|Montreal|GloboTech Communications|
-|20|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|103.234.34.18|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|16|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 
 
 
