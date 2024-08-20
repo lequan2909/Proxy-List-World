@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.148.100.78|48149|United States|Reston|OVH SAS|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|101.108.119.102|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|79.175.189.223|1080|Iran|Tehran|Afranet|
 |5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|115.76.207.89|30493|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|10|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|12|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|13|72.10.164.178|11135|Canada|Montreal|GloboTech Communications|
-|14|124.158.182.34|7654|Indonesia|Bogor|PT Jala Lintas Media|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|115.76.207.89|30493|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|14|72.10.164.178|13051|Canada|Montreal|GloboTech Communications|
 |15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|72.10.164.178|11135|Canada|Montreal|GloboTech Communications|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|67.43.228.252|13165|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.254|23077|Canada|Montreal|GloboTech Communications|
+|16|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|72.10.160.90|16531|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|26719|Canada|Montreal|GloboTech Communications|
+|20|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
 
 
 
