@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|179.104.69.166|8080|Brazil|Nova Serrana|ALGAR TELECOM S/A|
-|5|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|3|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|4|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|5|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|156.250.119.150|40161|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|156.250.119.139|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|182.253.109.187|8080|Indonesia|Semarang|Biznet Metronet|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|67.43.227.228|15229|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|15229|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|179.104.69.166|8080|Brazil|Nova Serrana|ALGAR TELECOM S/A|
+|8|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|69.197.135.43|18080|United States|Kansas City|WholeSale Internet|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|182.253.109.187|8080|Indonesia|Semarang|Biznet Metronet|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|161.34.35.181|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.228|15229|Canada|Montreal|GloboTech Communications|
 
 
 
