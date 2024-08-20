@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|41.205.24.31|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|7|152.26.231.42|9443|United States|Concord|MCNC|
-|8|152.26.229.42|9443|United States|Concord|MCNC|
-|9|67.43.227.228|30191|Canada|Montreal|GloboTech Communications|
+|6|152.26.231.42|9443|United States|Concord|MCNC|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
+|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
 |10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|67.43.227.227|26509|Canada|Montreal|GloboTech Communications|
-|12|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|13|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|14|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
-|15|135.148.100.78|48149|United States|Reston|OVH SAS|
-|16|213.210.37.210|3128|India|Mumbai|Hostinger International Limited|
-|17|72.10.160.90|21027|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|30191|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|67.43.228.252|3547|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.228|30191|Canada|Montreal|GloboTech Communications|
+|12|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|67.43.227.227|21127|Canada|Montreal|GloboTech Communications|
+|15|115.223.11.212|50000|China|Wenzhou|China Telecom|
+|16|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|17|119.47.90.25|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|67.43.227.227|21127|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
