@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|135.148.100.78|48149|United States|Reston|OVH SAS|
 |5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
-|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
+|7|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |13|15.204.161.192|18080|United States|Reston|OVH SAS|
 |14|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|15|103.154.77.10|8080|Indonesia|Sleman|T2NET|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|103.144.221.218|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|79.175.189.223|1080|Iran|Tehran|Afranet|
+|16|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|103.156.17.114|8080|Indonesia|Indramayu|RSTNET|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
