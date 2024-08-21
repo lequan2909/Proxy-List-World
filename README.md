@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|116.101.22.249|10042|Vietnam|Haiphong|Viettel Corporation|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|135.148.100.78|48149|United States|Reston|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|7|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|79.175.189.223|1080|Iran|Tehran|Afranet|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|79.175.189.51|1080|Iran|Tehran|Afranet|
-|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|135.148.100.78|48149|United States|Reston|OVH SAS|
+|11|79.175.189.223|1080|Iran|Tehran|Afranet|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|101.255.165.218|8080|Indonesia|Bekasi|PT Remala Abadi|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|17|103.182.79.141|8080|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|18|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
