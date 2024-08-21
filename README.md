@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|156.250.119.150|40161|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|4|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|8|152.26.229.42|9443|United States|Concord|MCNC|
-|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|2|79.175.189.51|1080|Iran|Tehran|Afranet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|180.211.161.110|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|13|67.43.227.227|13555|Canada|Montreal|GloboTech Communications|
-|14|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.228.250|15291|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.164.178|31501|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|13555|Canada|Montreal|GloboTech Communications|
-|20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|67.43.227.227|3185|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|15291|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|67.43.227.227|3185|Canada|Montreal|GloboTech Communications|
 
 
 
