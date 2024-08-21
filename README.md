@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.77.211.107|80|France|Strasbourg|OVH SAS|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|87.97.60.4|18080|Hungary|Érd|INVITEL Zrt|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|94.142.138.81|3128|Finland|Helsinki|Aeza International LTD|
-|16|200.110.169.57|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|19|156.250.118.95|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.130.183.165|5555|Indonesia|Depok|PT SUPRA BOGA INDONESIA|
+|10|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|135.148.100.78|48149|United States|Reston|OVH SAS|
+|12|119.157.83.34|8080|Pakistan|Faisalabad|Pakistan Telecommuication company limited|
+|13|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|182.160.110.154|9898|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|190.102.149.77|999|Peru|Lima|Optical Technologies S.A.C.|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
