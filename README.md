@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.154.230.100|8080|Indonesia|Lamongan|DIGITNET|
-|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|5|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|27.147.218.162|8080|Bangladesh|Paltan|Corporate-Subscriber|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|17|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|18|177.87.144.122|8086|Brazil|São José do Rio Pardo|Videomar Rede Nordeste S/A|
-|19|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|20|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|15.235.171.236|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|177.87.144.122|8086|Brazil|São José do Rio Pardo|Videomar Rede Nordeste S/A|
+|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|72.10.160.174|32157|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|148.251.139.51|13128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|67.43.227.228|33003|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|11075|Canada|Montreal|GloboTech Communications|
 
 
 
