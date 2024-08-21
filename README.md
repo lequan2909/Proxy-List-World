@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|221.132.33.170|6001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|1|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
 |7|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|144.91.120.37|80|Germany|Nuremberg|Contabo GmbH|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 |13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|148.251.139.51|13128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
-|17|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|18|72.10.160.173|2553|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|2251|Canada|Montreal|GloboTech Communications|
-|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|67.43.227.228|22405|Canada|Montreal|GloboTech Communications|
+|15|125.26.192.224|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|148.251.139.51|13128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.113.152.46|8080|Bangladesh|Dhaka|Md Ziaul Huque|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
