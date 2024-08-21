@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|4|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|135.148.100.78|48149|United States|Reston|OVH SAS|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|15|135.148.100.78|48149|United States|Reston|OVH SAS|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|18|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|2|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|171.250.61.81|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|135.148.100.78|48149|United States|Reston|OVH SAS|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|135.148.100.78|48149|United States|Reston|OVH SAS|
 |20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 
 
