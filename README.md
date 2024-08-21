@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|3|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|177.81.30.222|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|5|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|88.255.65.113|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
-|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|10|135.148.100.78|48149|United States|Reston|OVH SAS|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|67.43.227.228|1675|Canada|Montreal|GloboTech Communications|
+|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|18|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|19|72.10.160.90|7015|Canada|Montreal|GloboTech Communications|
+|20|88.255.65.113|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
