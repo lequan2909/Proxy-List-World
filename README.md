@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|114.110.19.33|8080|Indonesia|Bandung|BITEK|
-|6|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|7|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|67.43.227.226|12793|Canada|Montreal|GloboTech Communications|
-|12|135.148.100.78|48149|United States|Reston|OVH SAS|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|103.165.150.66|8085|Indonesia|Bengkalis|PT Agsa Global Network|
+|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|12|191.102.254.53|8085|Argentina|Rosario|IP·RED|
+|13|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
 |14|67.43.227.227|30917|Canada|Montreal|GloboTech Communications|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|72.10.164.178|11993|Canada|Montreal|GloboTech Communications|
-|19|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|67.43.227.228|4541|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|67.43.227.228|18019|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.76.149.134|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|202.154.36.211|8080|Indonesia|Surabaya|RADNET-BDG|
 
 
 
