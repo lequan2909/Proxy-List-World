@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|119.76.142.158|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
 |2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|42.190.167.28|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|135.148.100.78|48149|United States|Reston|OVH SAS|
-|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|9|67.43.227.228|21287|Canada|Montreal|GloboTech Communications|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|72.10.160.170|8277|Canada|Montreal|GloboTech Communications|
-|12|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|72.10.160.170|8277|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|2247|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|9|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|14|135.148.100.78|48149|United States|Reston|OVH SAS|
+|15|15.235.171.203|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
 |16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|148.251.139.51|13128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|18|72.10.160.170|8277|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|8277|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
