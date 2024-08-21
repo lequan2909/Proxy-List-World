@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|2|101.109.48.199|8080|Thailand|Pattaya|TOT Public Company Limited|
+|3|101.109.176.123|8080|Thailand|Bangkok|TOT Public Company Limited|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|203.150.128.188|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
-|10|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
-|19|72.10.160.173|32847|Canada|Montreal|GloboTech Communications|
-|20|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|79.106.108.150|8079|Albania|Tepelenë|ALBTELECOM VI|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|187.245.214.7|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
