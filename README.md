@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|135.148.100.78|48149|United States|Reston|OVH SAS|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|170.82.30.91|8080|Brazil|Boa Viagem|Lwnet Comercio E Servicos De Comunicacoes Ltda|
-|10|103.159.93.139|8095|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
-|11|103.145.68.77|8080|Indonesia|Surabaya|ALFANET|
-|12|103.153.246.142|8181|Indonesia|Purwakarta|PRIMAHOME|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|14.102.108.58|8080|India|Delhi|World Phone Internet Services Pvt Ltd|
-|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|103.87.169.154|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|103.153.134.27|8090|Indonesia|Tangerang|WMINET|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|135.148.100.78|48149|United States|Reston|OVH SAS|
+|10|185.130.226.161|4006|The Netherlands|Amsterdam|Hostkey BV direct|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|103.155.198.2|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|17|89.116.32.140|3128|India|Mumbai|Hostinger International Limited|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
