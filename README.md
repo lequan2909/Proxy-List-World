@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|135.148.100.78|48149|United States|Reston|OVH SAS|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|135.148.100.78|48149|United States|Reston|OVH SAS|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|80.81.243.26|80|Germany|Berlin|SPEEDBONE GmbH|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|125.24.110.67|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|125.24.110.67|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|12|103.13.204.89|8083|Indonesia|Bodeh|PT JARINGANKU SARANA NUSANTARA|
+|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|187.86.133.125|3128|Brazil|Pelotas|VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA|
+|15|185.89.156.2|44224|Albania|Tirana|ATU|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|72.10.160.170|18907|Canada|Montreal|GloboTech Communications|
+|20|154.73.28.253|8080|Libya|Tripoli|Rawafed|
 
 
 
