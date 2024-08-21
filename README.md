@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|188.240.120.248|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|8|135.148.100.78|48149|United States|Reston|OVH SAS|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|13|103.158.162.18|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|72.10.160.173|31411|Canada|Montreal|GloboTech Communications|
-|19|172.96.171.125|8095|Puerto Rico|Bayamón|Fuse Telecom LLC|
-|20|72.10.164.178|3225|Canada|Montreal|GloboTech Communications|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|135.148.100.78|48149|United States|Reston|OVH SAS|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|135.148.100.78|48149|United States|Reston|OVH SAS|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|188.240.120.248|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.53.76.82|8080|Indonesia|Surabaya|INTI|
 
 
 
