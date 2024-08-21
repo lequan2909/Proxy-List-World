@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5220** proxies at the latest update. Usable proxies are below.
+> Scraper found **5167** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|773|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|720|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|118|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3242|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|79.175.189.223|1080|Iran|Tehran|Afranet|
-|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|14|135.148.100.78|48149|United States|Reston|OVH SAS|
-|15|157.119.211.133|8080|India|Tirupati|Finecom Internet services Pvt Ltd|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|67.43.227.227|5043|Canada|Montreal|GloboTech Communications|
-|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|19|59.90.196.30|8080|India|Hyderabad|BSNL Internet|
-|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|1|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|103.167.168.2|5040|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|8|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|12|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
+|13|147.78.169.80|8443|Slovakia|Nitra|OSTV s.r.o.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|67.43.236.20|19695|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|15921|Canada|Montreal|GloboTech Communications|
 
 
 
