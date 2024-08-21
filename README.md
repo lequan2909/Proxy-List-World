@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|135.148.100.78|48149|United States|Reston|OVH SAS|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|135.148.100.78|48149|United States|Reston|OVH SAS|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
+|14|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|18|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|19|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 |20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
