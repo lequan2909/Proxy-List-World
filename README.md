@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|203.150.113.97|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.51.205.20|8080|Indonesia|Sragen|Lintas Data Prima, PT|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|154.73.28.129|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
-|19|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|79.175.189.223|1080|Iran|Tehran|Afranet|
+|4|45.71.114.217|6969|Ecuador|Loja|Ufinet Panama S.A.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|154.73.28.129|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|67.43.227.227|22585|Canada|Montreal|GloboTech Communications|
+|20|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
 
 
 
