@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|125.26.192.224|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|103.197.207.20|8080|Bangladesh|Gazipur|Cosmopolitan Communications Limited Khan Sons Center 37|
-|9|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
+|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 |14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|67.43.227.227|3713|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|3713|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.227.227|3713|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|3713|Canada|Montreal|GloboTech Communications|
-|20|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
+|18|72.10.160.170|24715|Canada|Montreal|GloboTech Communications|
+|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|20|72.10.160.171|25857|Canada|Montreal|GloboTech Communications|
 
 
 
