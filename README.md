@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
 |7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|8|135.148.100.78|48149|United States|Reston|OVH SAS|
-|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|212.109.194.183|3128|Russia|Khimki|JSC IOT|
-|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
 
 
 
