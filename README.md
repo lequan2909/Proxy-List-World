@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.65.202.209|8080|India|Warangal|Vaishnavi Online Internet Services Pvt. Ltd.|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|5.42.83.70|3128|Sweden|Stockholm|Aeza International LTD|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|17|67.43.227.226|3927|Canada|Montreal|GloboTech Communications|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.227.227|1615|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|15|139.144.62.169|8118|United States|Atlanta|Akamai Technologies, Inc.|
+|16|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.182.212.201|6969|Bangladesh|Gafargaon|Md Ibrahim|
+|19|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
