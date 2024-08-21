@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|2|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|135.148.100.78|48149|United States|Reston|OVH SAS|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|45.8.157.38|3128|United States|Atlanta|NKtelecom INC|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|135.148.100.78|48149|United States|Reston|OVH SAS|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|51.77.211.107|80|France|Strasbourg|OVH SAS|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.148.130.107|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|119.157.83.34|8080|Pakistan|Faisalabad|Pakistan Telecommuication company limited|
 
 
 
