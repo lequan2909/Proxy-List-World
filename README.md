@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|135.148.100.78|48149|United States|Reston|OVH SAS|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|79.175.189.51|1080|Iran|Tehran|Afranet|
+|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|8|135.148.100.78|48149|United States|Reston|OVH SAS|
 |9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|135.148.100.78|48149|United States|Reston|OVH SAS|
-|13|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|103.239.255.36|58080|Bangladesh|Dhaka|SSDTECH Object4|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|20|103.169.254.9|8090|Indonesia|Banyuwangi Regency|PT Master Star Network|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|156.250.117.45|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|14|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|101.255.166.114|7777|Indonesia|Bekasi|PT Remala Abadi|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
