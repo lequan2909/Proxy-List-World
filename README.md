@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|135.148.100.78|48149|United States|Reston|OVH SAS|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
+|7|185.130.226.161|4006|The Netherlands|Amsterdam|Hostkey BV direct|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|135.148.100.78|48149|United States|Reston|OVH SAS|
-|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|185.130.226.161|4006|The Netherlands|Amsterdam|Hostkey BV direct|
-|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|103.40.121.33|8089|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
-|19|190.121.4.157|999|Chile|Osorno|Telefonica del Sur S.A.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.236.177.154|8081|Philippines|Manila|Infinivan Incorporated|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
+|13|103.51.205.20|8080|Indonesia|Sragen|Lintas Data Prima, PT|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|18|103.97.224.185|8080|Indonesia|Kudus|PT Sistem Interkoneksi Data|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|154.73.28.129|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
 
 
 
