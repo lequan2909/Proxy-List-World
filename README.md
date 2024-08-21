@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|135.148.100.78|48149|United States|Reston|OVH SAS|
-|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|135.148.100.78|48149|United States|Reston|OVH SAS|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|135.148.100.78|48149|United States|Reston|OVH SAS|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|156.250.118.95|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
