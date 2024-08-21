@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|67.43.227.227|6961|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|8395|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|6961|Canada|Montreal|GloboTech Communications|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|67.43.228.253|1291|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.174|22669|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|6961|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|15951|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|67.43.227.227|6961|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|15951|Canada|Montreal|GloboTech Communications|
-|17|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|18|72.10.164.178|8395|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|1291|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|13611|Canada|Montreal|GloboTech Communications|
+|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|135.148.100.78|48149|United States|Reston|OVH SAS|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|79.175.189.223|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
+|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|13|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
+|16|135.148.100.78|48149|United States|Reston|OVH SAS|
+|17|15.235.171.203|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|103.155.198.2|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|20|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
