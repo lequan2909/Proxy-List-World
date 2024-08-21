@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
 |6|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|79.175.189.223|1080|Iran|Tehran|Afranet|
-|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|67.43.227.228|28721|Canada|Montreal|GloboTech Communications|
-|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|25569|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25569|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|15255|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|15793|Canada|Montreal|GloboTech Communications|
+|7|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|8|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|13|67.43.227.228|28721|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.172|1991|Canada|Montreal|GloboTech Communications|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|17|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|72.10.164.178|28055|Canada|Montreal|GloboTech Communications|
 
 
 
