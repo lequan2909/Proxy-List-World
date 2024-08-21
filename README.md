@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|135.148.100.78|48149|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|135.148.100.78|48149|United States|Reston|OVH SAS|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|61.7.191.177|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|134.209.147.65|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|135.148.100.78|48149|United States|Reston|OVH SAS|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|20|197.245.248.42|8080|South Africa|Durban|Vox Telecom|
+|15|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|80.66.81.36|4002|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|19|135.148.100.78|48149|United States|Reston|OVH SAS|
+|20|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
