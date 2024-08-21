@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5413** proxies at the latest update. Usable proxies are below.
+> Scraper found **5356** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|133|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|830|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|808|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|199|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3293|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|210|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3247|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|3|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|177.81.30.222|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|5|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|88.255.65.113|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
-|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|212.109.194.183|3128|Russia|Khimki|JSC IOT|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|135.148.100.78|48149|United States|Reston|OVH SAS|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|135.148.100.78|48149|United States|Reston|OVH SAS|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 
 
 
