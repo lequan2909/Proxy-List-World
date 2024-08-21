@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|135.148.100.78|48149|United States|Reston|OVH SAS|
-|5|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|125.24.110.67|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|135.148.100.78|48149|United States|Reston|OVH SAS|
-|13|80.81.243.26|80|Germany|Berlin|SPEEDBONE GmbH|
-|14|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|200.59.10.50|999|Argentina|Ingeniero Maschwitz|COTELCAM|
-|18|103.175.157.72|8090|Indonesia|Jakarta|MYARSYILA|
-|19|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|125.24.110.67|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|18|135.148.100.78|48149|United States|Reston|OVH SAS|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|135.148.100.78|48149|United States|Reston|OVH SAS|
 
 
 
