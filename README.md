@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|135.148.100.78|48149|United States|Reston|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|3|79.175.189.51|1080|Iran|Tehran|Afranet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|135.148.100.78|48149|United States|Reston|OVH SAS|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|13|72.10.164.178|15629|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|29199|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|13555|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|67.43.227.227|13555|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|72.10.164.178|15629|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|156.250.119.150|40161|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|10|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|11|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|67.43.227.227|13241|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|67.43.227.227|13241|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|22979|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|72.10.160.90|22039|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.254|27835|Canada|Montreal|GloboTech Communications|
+|20|221.132.33.170|6969|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
