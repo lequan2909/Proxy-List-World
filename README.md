@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|67.43.228.253|16461|Canada|Montreal|GloboTech Communications|
-|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|103.165.58.109|64999|Indonesia|Jakarta|PT iForte Global Internet|
-|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|67.43.227.226|8441|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|67.43.227.228|5995|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13693|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|67.43.227.227|4607|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|19685|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|15.235.171.213|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|9|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|65.20.189.104|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|67.43.227.228|20909|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
