@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|1|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|79.175.189.223|1080|Iran|Tehran|Afranet|
+|4|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|117.5.104.100|1001|Vietnam|Hanoi|VIETTEL|
-|13|67.43.227.229|20993|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|1795|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|67.43.236.20|1095|Canada|Montreal|GloboTech Communications|
-|17|117.68.38.181|20357|China|Hefei|China Telecom|
-|18|72.10.160.90|5629|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|3387|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|3387|Canada|Montreal|GloboTech Communications|
+|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|67.43.227.229|20993|Canada|Montreal|GloboTech Communications|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|67.43.227.227|8263|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|5883|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|2561|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|5883|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|30215|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.174|18835|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
 
 
 
