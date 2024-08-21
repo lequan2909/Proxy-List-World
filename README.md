@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|103.167.168.2|5040|Indonesia|Cianjur|PT Argon Internet Amariqindo|
-|8|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|12|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
-|13|147.78.169.80|8443|Slovakia|Nitra|OSTV s.r.o.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|67.43.236.20|19695|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|15921|Canada|Montreal|GloboTech Communications|
+|16|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|32363|Canada|Montreal|GloboTech Communications|
+|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
