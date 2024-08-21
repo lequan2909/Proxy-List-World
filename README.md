@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|135.148.100.78|48149|United States|Reston|OVH SAS|
-|13|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|62.40.157.231|32650|Austria|Wilhelmsburg|Kabelsignal AG|
-|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|135.148.100.78|48149|United States|Reston|OVH SAS|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
