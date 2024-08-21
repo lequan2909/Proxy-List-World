@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|79.175.189.223|1080|Iran|Tehran|Afranet|
-|3|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|79.175.189.223|1080|Iran|Tehran|Afranet|
+|7|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
-|11|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|19|103.53.76.82|8080|Indonesia|Surabaya|INTI|
-|20|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|9|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|10|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|11|103.107.85.249|1111|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|12|38.156.75.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|156.250.118.92|40009|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|15|156.250.119.139|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
