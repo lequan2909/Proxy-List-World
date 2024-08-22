@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|14.245.163.203|7001|Vietnam|Da Nang|VNPT|
-|4|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|5|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|67.43.227.226|20989|Canada|Montreal|GloboTech Communications|
-|11|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|13|72.10.160.90|12159|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|27703|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|2985|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|3363|Canada|Montreal|GloboTech Communications|
-|17|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
-|18|67.43.227.228|6791|Canada|Montreal|GloboTech Communications|
-|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.227.228|6791|Canada|Montreal|GloboTech Communications|
+|1|171.243.22.87|10557|Vietnam|Nha Trang|Viettel Corporation|
+|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|9|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|13|193.202.9.42|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|14|193.202.9.29|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|15|103.81.220.29|8080|Indonesia|Bandung|STARNET|
+|16|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
