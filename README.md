@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|135.148.100.78|48149|United States|Reston|OVH SAS|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|135.148.100.78|48149|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|95.0.90.242|8080|Turkey|Acibadem|Turk Telekomunikasyon Anonim Sirketi|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|79.175.189.223|1080|Iran|Tehran|Afranet|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
