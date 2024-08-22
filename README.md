@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|201.233.4.228|80|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|190.124.160.147|8080|Honduras|Cortés|Redes y Telecomunicaciones|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|135.148.100.78|48149|United States|Reston|OVH SAS|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|103.239.253.118|58080|Bangladesh|Dhaka|Carnival Internet|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|135.148.100.78|48149|United States|Reston|OVH SAS|
+|15|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
+|18|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|213.97.158.42|3128|Spain|Sant Antoni de Portmany|Telefonica de Espana SAU|
+|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 
 
 
