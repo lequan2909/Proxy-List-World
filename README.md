@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5588** proxies at the latest update. Usable proxies are below.
+> Scraper found **5583** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|189|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|967|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|962|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|150|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3324|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.64.142.177|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|2|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.182.78.137|1111|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|3|193.202.9.13|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|10|67.43.227.227|17525|Canada|Montreal|GloboTech Communications|
-|11|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|15|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|16|72.10.160.91|13531|Canada|Montreal|GloboTech Communications|
-|17|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|18|103.182.78.137|1111|Indonesia|Gresik|PT Cybernet Data Multimedia|
-|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|6|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|7|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|10|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|67.43.227.227|30179|Canada|Montreal|GloboTech Communications|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|15|154.73.29.201|8080|Libya|Tripoli|Rawafed|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|19|67.43.227.227|30179|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|9337|Canada|Montreal|GloboTech Communications|
 
 
 
