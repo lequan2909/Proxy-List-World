@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|193.202.9.42|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|10|79.175.189.51|1080|Iran|Tehran|Afranet|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|41.65.174.85|8080|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|19|158.181.204.159|8080|Kyrgyzstan|Bishkek|MEGALINE|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|41.65.174.85|8080|Egypt|Cairo|Etisalat Misr Mobile BB|
+|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|115.244.33.2|3129|India|Jaipur|Reliance Jio Infocomm Limited|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 
 
 
