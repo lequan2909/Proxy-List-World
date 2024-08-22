@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|11|46.149.73.118|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|67.43.227.228|27541|Canada|Montreal|GloboTech Communications|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|27.147.142.138|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
