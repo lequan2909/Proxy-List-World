@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|203.150.128.95|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|135.148.100.78|48149|United States|Reston|OVH SAS|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|135.148.100.78|48149|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|203.150.128.95|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|135.148.100.78|48149|United States|Reston|OVH SAS|
+|17|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|20|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
 
 
 
