@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|79.175.189.223|1080|Iran|Tehran|Afranet|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |10|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|103.75.76.39|10001|Vietnam|Quận Gò Vấp|EZ Technology Company Limited|
-|15|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|16|72.10.160.170|4321|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|6799|Canada|Montreal|GloboTech Communications|
-|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|20|67.43.227.227|14497|Canada|Montreal|GloboTech Communications|
+|13|38.156.75.226|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|72.10.160.170|4321|Canada|Montreal|GloboTech Communications|
+|16|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
+|17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|18|67.43.227.227|7081|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
