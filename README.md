@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
-|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|193.202.9.154|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|193.202.9.159|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|9|68.183.149.126|11010|United States|Clifton|DigitalOcean, LLC|
-|10|101.255.140.1|8090|Indonesia|Jakarta|PT Remala Abadi|
-|11|193.202.9.13|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
-|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|117.219.10.150|8080|India|Delhi|BSNL Internet|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|19|67.43.227.227|2079|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|36.64.142.177|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|2|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
+|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|10|67.43.227.227|17525|Canada|Montreal|GloboTech Communications|
+|11|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|15|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|16|72.10.160.91|13531|Canada|Montreal|GloboTech Communications|
+|17|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|18|103.182.78.137|1111|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
 
 
 
