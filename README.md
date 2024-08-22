@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|135.148.100.78|48149|United States|Reston|OVH SAS|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|182.253.169.17|8080|Indonesia|Jakarta|BIZNET|
 |5|79.175.189.223|1080|Iran|Tehran|Afranet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|182.253.169.17|8080|Indonesia|Jakarta|BIZNET|
-|8|135.148.100.78|48149|United States|Reston|OVH SAS|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|103.87.170.55|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|17|144.86.187.45|3129|United States|Malden|Charles River Operation|
-|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.191.250.162|8083|Indonesia|Batam|PT Mulia Batam Net|
+|8|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
+|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
