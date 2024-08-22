@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|95.164.86.187|8889|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|79.175.189.223|1080|Iran|Tehran|Afranet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
-|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|187.141.125.210|8080|Mexico|Oaxaca City|Uninet S.A. de C.V.|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|95.164.86.187|8889|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|35.243.171.153|3128|United States|North Charleston|Google LLC|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|135.148.100.78|48149|United States|Reston|OVH SAS|
+|13|103.53.78.26|8080|Indonesia|Surabaya|INTI|
+|14|35.243.171.153|3128|United States|North Charleston|Google LLC|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|190.2.209.61|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|18|193.202.9.42|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|19|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
