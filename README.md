@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|54.255.115.141|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|103.182.78.137|1111|Indonesia|Gresik|PT Cybernet Data Multimedia|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|104.248.151.11|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|187.141.125.210|8080|Mexico|Oaxaca City|Uninet S.A. de C.V.|
-|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|18|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|19|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
-|20|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
+|1|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|2|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|193.202.9.159|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|11|187.141.125.210|8080|Mexico|Oaxaca City|Uninet S.A. de C.V.|
+|12|103.44.19.217|1111|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|18|67.43.227.228|21605|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|19227|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
