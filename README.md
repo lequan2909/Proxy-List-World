@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|94.242.240.36|3128|The Netherlands|Amsterdam|Servers.com, Inc.|
-|10|79.175.189.223|1080|Iran|Tehran|Afranet|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|15|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|16|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|89.116.33.72|3128|India|Mumbai|Hostinger International Limited|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|17|129.151.112.176|8899|Chile|Santiago|Oracle Corporation|
+|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|19|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
