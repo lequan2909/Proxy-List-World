@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|135.148.100.78|48149|United States|Reston|OVH SAS|
-|3|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|135.148.100.78|48149|United States|Reston|OVH SAS|
+|5|38.156.72.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|193.202.9.42|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|8|95.164.86.187|8889|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|135.148.100.78|48149|United States|Reston|OVH SAS|
-|10|103.172.70.203|8080|Indonesia|Gemolong|AZNET|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|79.175.189.223|1080|Iran|Tehran|Afranet|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
+|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|135.148.100.78|48149|United States|Reston|OVH SAS|
+|11|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
+|14|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
+|15|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
