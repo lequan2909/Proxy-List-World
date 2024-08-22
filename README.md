@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|200.106.124.243|999|Peru|Tacna|Telefonica del Peru|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|144.86.187.43|3129|United States|Malden|Charles River Operation|
-|9|135.148.100.78|48149|United States|Reston|OVH SAS|
-|10|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|11|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|72.10.160.170|12851|Canada|Montreal|GloboTech Communications|
-|16|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|17|67.43.227.227|19383|Canada|Montreal|GloboTech Communications|
-|18|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|19|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|200.106.124.243|999|Peru|Tacna|Telefonica del Peru|
+|5|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|67.43.227.227|13837|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|67.43.227.227|13837|Canada|Montreal|GloboTech Communications|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|188.116.22.67|25124|Hong Kong|Hong Kong|M247 Europe SRL|
 
 
 
