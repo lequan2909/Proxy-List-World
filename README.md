@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|94.242.240.36|3128|The Netherlands|Amsterdam|Servers.com, Inc.|
-|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|9|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|79.175.189.223|1080|Iran|Tehran|Afranet|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|103.55.30.22|1111|Indonesia|Kupang|PT Jaringan Optic Nusantara|
-|14|202.57.18.3|8080|Indonesia|Krajan Karangwage|PT Akses Data Internusa|
-|15|103.217.224.69|8585|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|16|103.53.76.82|8080|Indonesia|Surabaya|INTI|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|15.235.199.252|3128|Singapore|Singapore|OVH SAS|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|11|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|12|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
+|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|94.242.240.36|3128|The Netherlands|Amsterdam|Servers.com, Inc.|
 
 
 
