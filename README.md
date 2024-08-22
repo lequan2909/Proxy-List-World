@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|2|79.175.189.223|1080|Iran|Tehran|Afranet|
 |3|200.106.124.243|999|Peru|Tacna|Telefonica del Peru|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|7|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|72.10.160.170|17871|Canada|Montreal|GloboTech Communications|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|199.195.253.213|3128|United States|New York|FranTech Solutions|
 
 
 
