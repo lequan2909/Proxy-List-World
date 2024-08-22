@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|17|67.43.228.253|25883|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|28847|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|79.175.189.223|1080|Iran|Tehran|Afranet|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|103.217.224.69|8585|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|9|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|67.43.227.227|17013|Canada|Montreal|GloboTech Communications|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.170|28847|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
