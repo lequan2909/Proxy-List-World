@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|159.65.135.27|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|135.148.100.78|48149|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|79.175.189.223|1080|Iran|Tehran|Afranet|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |8|135.148.100.78|48149|United States|Reston|OVH SAS|
-|9|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|12|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|17|202.93.244.54|8085|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|12|217.160.221.48|3128|Germany|Karlsruhe|1&1 IONOS SE|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|16|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 |18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
 |20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
