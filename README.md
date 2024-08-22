@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.202.9.145|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|1|193.202.9.102|8085|United States|Santa Clara|Hosting Solution Ltd.|
 |2|193.202.9.104|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|3|193.202.9.154|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|4|193.202.9.102|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|5|193.202.9.159|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|3|193.202.9.159|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|4|193.202.9.145|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|5|193.202.9.154|8085|United States|Santa Clara|Hosting Solution Ltd.|
 |6|193.202.9.13|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|7|104.248.151.11|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|187.141.125.210|8080|Mexico|Oaxaca City|Uninet S.A. de C.V.|
-|9|193.202.9.194|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|10|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|67.43.228.252|19625|Canada|Montreal|GloboTech Communications|
-|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|72.10.160.170|6407|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|32783|Canada|Montreal|GloboTech Communications|
+|7|193.202.9.194|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|8|104.248.151.11|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|103.63.26.254|8080|Indonesia|Tangerang|PT Global Media Data Prima|
+|18|36.67.199.171|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|20|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
 
 
 
