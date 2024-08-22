@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|1|135.148.100.78|48149|United States|Reston|OVH SAS|
+|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|103.76.109.50|3127|Indonesia|Lumajang|PT Mahawira Nusantara Grup|
-|6|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|7|115.245.181.54|23500|India|New Delhi|Reliance Jio Infocomm Limited|
-|8|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|135.148.100.78|48149|United States|Reston|OVH SAS|
-|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|15|72.10.160.92|22725|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|19|67.43.227.226|31161|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|31161|Canada|Montreal|GloboTech Communications|
+|4|135.148.100.78|48149|United States|Reston|OVH SAS|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|12|177.152.94.37|8080|Brazil|Jardim|Elonet Provedor de Internet Ltda|
+|13|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|16|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|17|67.43.227.226|6339|Canada|Montreal|GloboTech Communications|
+|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|19|67.43.227.227|18841|Canada|Montreal|GloboTech Communications|
+|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
