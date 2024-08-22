@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|144.86.187.36|3129|United States|Malden|Charles River Operation|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|9|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|10|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|103.121.22.163|3127|Indonesia|Depok|PT. Eka Mas Republik|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|103.103.89.85|8090|Bangladesh|Chittagong|Easy|
 |15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|18|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
