@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|8|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.53.76.82|8080|Indonesia|Surabaya|INTI|
-|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.227.227|10333|Canada|Montreal|GloboTech Communications|
-|15|38.188.127.123|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|16|171.228.219.71|4000|Vietnam|Hanoi|Viettel Corporation|
-|17|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|67.43.228.254|23003|Canada|Montreal|GloboTech Communications|
+|1|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|79.175.189.223|1080|Iran|Tehran|Afranet|
+|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|8|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.103.89.85|8090|Bangladesh|Chittagong|Easy|
+|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|201.77.110.129|999|Mexico|Unión Campesina|Raul Duarte Urita|
+|15|104.167.6.218|80|United States|Boca Raton|Cloud South|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|154.73.28.253|8080|Libya|Tripoli|Rawafed|
+|18|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
