@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|38.52.208.6|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|15|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|17|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|18|67.43.227.227|32947|Canada|Montreal|GloboTech Communications|
-|19|177.152.94.37|8080|Brazil|Jardim|Elonet Provedor de Internet Ltda|
-|20|67.43.227.228|32813|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.151.112.176|8899|Chile|Santiago|Oracle Corporation|
+|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|9|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|10|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|11|201.91.248.67|20183|Brazil|São Paulo|Vivo|
+|12|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|14|117.5.104.100|1001|Vietnam|Hanoi|VIETTEL|
+|15|67.43.227.227|7183|Canada|Montreal|GloboTech Communications|
+|16|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
