@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|135.148.100.78|48149|United States|Reston|OVH SAS|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|79.175.189.51|1080|Iran|Tehran|Afranet|
-|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|17|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|135.148.100.78|48149|United States|Reston|OVH SAS|
-|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|20|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|79.175.189.51|1080|Iran|Tehran|Afranet|
+|13|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|135.148.100.78|48149|United States|Reston|OVH SAS|
+|18|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 
 
 
