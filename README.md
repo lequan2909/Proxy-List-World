@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|135.148.100.78|48149|United States|Reston|OVH SAS|
-|11|104.128.228.69|8118|United States|Los Angeles|HostUS|
-|12|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|13|119.235.209.92|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|18|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|20|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|203.145.58.234|8080|Indonesia|Cianjur|PT HSN GLOBAL NETWORK|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|17|170.78.61.26|8080|Brazil|Itarantim|Maiqvox Telecom|
+|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
