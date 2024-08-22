@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|171.241.193.60|10006|Vietnam|Thanh Hóa|Viettel Corporation|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.164.178|5193|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|5193|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|21163|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.230|30411|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|23805|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5193|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|17|67.43.227.228|7435|Canada|Montreal|GloboTech Communications|
+|18|171.241.193.60|10006|Vietnam|Thanh Hóa|Viettel Corporation|
+|19|72.10.160.171|17033|Canada|Montreal|GloboTech Communications|
+|20|190.61.43.121|999|Colombia|Manizales|Ufinet Panama S.A.|
 
 
 
