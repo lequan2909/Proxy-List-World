@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|144.86.187.54|3129|United States|Malden|Charles River Operation|
 |4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|94.242.240.36|3128|The Netherlands|Amsterdam|Servers.com, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|144.86.187.54|3129|United States|Malden|Charles River Operation|
 |10|79.175.189.223|1080|Iran|Tehran|Afranet|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|13|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|14|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|19|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|20|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|17|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
