@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|115.74.127.233|1001|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|4|135.148.100.78|48149|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |8|135.148.100.78|48149|United States|Reston|OVH SAS|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|45.231.170.137|999|Mexico|Puerto Juárez|GigNet, S.A. de C.V.|
-|19|182.253.169.17|8080|Indonesia|Jakarta|BIZNET|
-|20|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|45.227.195.121|8082|Brazil|São Lourenço do Oeste|Mhnet Telecom|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|17|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|18|168.194.169.108|999|Peru|Lima|FASTNET|
+|19|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|20|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
 
 
 
