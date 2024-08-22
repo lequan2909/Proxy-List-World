@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
+|5|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|103.189.122.107|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
