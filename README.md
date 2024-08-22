@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
 |4|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|5|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|5|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|155.126.176.23|12094|China|Shanghai|The Procter and Gamble Company|
-|14|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|21417|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|6737|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
-|20|72.10.160.94|7663|Canada|Montreal|GloboTech Communications|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|168.194.169.108|999|Peru|Lima|FASTNET|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|18|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|19|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|20|72.10.160.170|11489|Canada|Montreal|GloboTech Communications|
 
 
 
