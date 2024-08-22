@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|6|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|170.78.61.26|8080|Brazil|Itarantim|Maiqvox Telecom|
-|15|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
+|9|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|10|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|13|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|116.105.57.43|10001|Vietnam|Quận Bảy|Viettel Corporation|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
 |19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 |20|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 
