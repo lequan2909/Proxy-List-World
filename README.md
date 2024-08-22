@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|135.148.100.78|48149|United States|Reston|OVH SAS|
-|2|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|135.148.100.78|48149|United States|Reston|OVH SAS|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|79.175.189.223|1080|Iran|Tehran|Afranet|
-|7|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|135.148.100.78|48149|United States|Reston|OVH SAS|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
-|13|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|17|103.154.179.52|8080|Indonesia|Jambi City|PT Aneka Teguh Jaya|
-|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|135.148.100.78|48149|United States|Reston|OVH SAS|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|135.148.100.78|48149|United States|Reston|OVH SAS|
+|14|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|3283|Canada|Montreal|GloboTech Communications|
+|17|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
+|18|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|19|114.9.27.190|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
