@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|79.175.189.223|1080|Iran|Tehran|Afranet|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|193.202.9.194|8085|United States|Santa Clara|Hosting Solution Ltd.|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|193.202.9.102|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|7|193.202.9.60|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|10|193.202.9.145|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|11|193.202.9.104|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|193.202.9.105|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|14|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|116.101.22.249|10042|Vietnam|Haiphong|Viettel Corporation|
-|16|193.202.9.13|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|17|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|18|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|4|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|5|193.202.9.154|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|193.202.9.102|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|193.202.9.13|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|10|193.202.9.60|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|11|193.202.9.190|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|12|193.202.9.105|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|13|193.202.9.159|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|14|94.153.163.226|81|Ukraine|Kyiv|Kyivstar UA|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|193.202.9.145|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|19|187.141.125.210|8080|Mexico|Oaxaca City|Uninet S.A. de C.V.|
+|20|193.202.9.104|8085|United States|Santa Clara|Hosting Solution Ltd.|
 
 
 
