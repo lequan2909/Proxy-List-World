@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|115.76.207.89|30493|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|135.148.100.78|48149|United States|Reston|OVH SAS|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|103.15.140.177|44759|Bangladesh|Kāfrul|ICC COMMUNICATION|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|115.76.207.89|30493|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|79.175.189.223|1080|Iran|Tehran|Afranet|
+|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|103.176.227.197|8009|Indonesia|Brebes|PT Pass Internet Indonesia|
+|14|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|79.175.189.51|1080|Iran|Tehran|Afranet|
+|17|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|18|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
