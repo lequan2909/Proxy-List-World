@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|119.76.142.161|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|187.141.125.210|8080|Mexico|Oaxaca City|Uninet S.A. de C.V.|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|193.202.9.50|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|79.175.189.223|1080|Iran|Tehran|Afranet|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.115.20.108|7777|Indonesia|Subang|PMYNET|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|103.162.63.65|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
+|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 
 
 
