@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.202.9.104|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|2|193.202.9.13|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|3|193.202.9.105|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|4|193.202.9.102|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|79.175.189.223|1080|Iran|Tehran|Afranet|
+|3|187.141.125.210|8080|Mexico|Oaxaca City|Uninet S.A. de C.V.|
+|4|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 |7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
 |9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|12|187.141.125.210|8080|Mexico|Oaxaca City|Uninet S.A. de C.V.|
-|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.236.20|15841|Canada|Montreal|GloboTech Communications|
+|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|193.202.9.60|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|12|193.202.9.104|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|13|103.246.79.10|1111|Indonesia|Pemalang|PT Saka Media Komunika|
+|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|193.202.9.102|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|20|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
 
 
 
