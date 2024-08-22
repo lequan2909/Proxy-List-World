@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|156.250.119.172|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|4|103.158.253.187|8027|Indonesia|Brebes|Rapid Network|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.127.220.206|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|7|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|193.202.9.42|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|13|177.93.48.43|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|15|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|16|24.106.221.230|53281|United States|Wilmington|Spectrum|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|72.10.160.173|6083|Canada|Montreal|GloboTech Communications|
-|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|156.250.118.66|40198|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.13.34.208|8118|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|79.175.189.223|1080|Iran|Tehran|Afranet|
+|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|193.202.9.42|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|177.93.48.43|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|12|144.86.187.48|3129|United States|Malden|Charles River Operation|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|201.144.25.10|8080|Mexico|Mexico City|UNINET|
 
 
 
