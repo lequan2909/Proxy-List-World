@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |4|135.148.100.78|48149|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.234.245.231|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|10|103.172.70.138|1111|Indonesia|Karangampel|AZNET|
-|11|191.102.248.8|8084|Argentina|Rosario|IP·RED|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|135.148.100.78|48149|United States|Reston|OVH SAS|
-|14|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|79.175.189.223|1080|Iran|Tehran|Afranet|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|20|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.177.107.117|8008|Indonesia|Ngawi|PT Data Arta Sedaya|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|135.148.100.78|48149|United States|Reston|OVH SAS|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|16|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 
 
 
