@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|135.148.100.78|48149|United States|Reston|OVH SAS|
-|2|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|135.148.100.78|48149|United States|Reston|OVH SAS|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|103.53.76.82|8080|Indonesia|Surabaya|INTI|
-|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|13|157.66.50.81|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|18|67.43.228.253|23543|Canada|Montreal|GloboTech Communications|
-|19|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|20|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|52.60.241.7|3128|Canada|Toronto|Amazon Technologies Inc.|
+|7|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|8|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|9|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|10|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|13|188.166.175.116|5843|United Kingdom|Slough|DigitalOcean, LLC|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.160.171|17995|Canada|Montreal|GloboTech Communications|
 
 
 
