@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.182.78.137|1111|Indonesia|Gresik|PT Cybernet Data Multimedia|
-|3|193.202.9.13|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|7|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|10|118.101.56.156|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
+|10|67.43.227.227|30179|Canada|Montreal|GloboTech Communications|
+|11|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 |12|67.43.227.227|30179|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
 |14|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|15|154.73.29.201|8080|Libya|Tripoli|Rawafed|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|171.245.14.125|10014|Vietnam|Haiphong|Viettel Corporation|
+|16|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |17|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|181.78.95.138|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|19|67.43.227.227|30179|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|9337|Canada|Montreal|GloboTech Communications|
+|18|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|19|72.10.160.90|9337|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.172|21383|Canada|Montreal|GloboTech Communications|
 
 
 
