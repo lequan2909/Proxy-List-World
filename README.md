@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|3|180.191.255.147|8081|Philippines|General Trias|Globe Telecom|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
-|7|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|10|193.202.9.29|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|193.202.9.29|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|14|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|103.148.25.201|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
+|19|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
