@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|2|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|9|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|12|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|72.10.160.92|4375|Canada|Montreal|GloboTech Communications|
-|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|17|103.237.248.3|3128|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|89.116.32.140|3128|India|Mumbai|Hostinger International Limited|
-|19|67.43.236.20|27149|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|26707|Canada|Montreal|GloboTech Communications|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|89.187.191.122|8888|Czechia|Prague|DataCamp Limited|
+|3|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|6|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|175.100.103.170|55443|Cambodia|Phumĭ Kândal|VIETTEL (CAMBODIA) PTE., LTD|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
