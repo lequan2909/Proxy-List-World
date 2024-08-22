@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
 |5|135.148.100.78|48149|United States|Reston|OVH SAS|
 |6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
-|15|181.115.67.3|999|Honduras|San Pedro Sula|Telgua|
-|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|17|72.10.160.172|18027|Canada|Montreal|GloboTech Communications|
-|18|158.180.76.46|3128|South Korea|Chuncheon|Oracle Corporation|
-|19|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
-|20|72.10.160.90|14611|Canada|Montreal|GloboTech Communications|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|11|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|12|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|13|38.172.128.25|8080|Peru|Lima|Conex TV E.I.R.L.|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|17|72.10.160.173|21881|Canada|Montreal|GloboTech Communications|
+|18|191.102.248.9|8084|Argentina|Rosario|IP·RED|
+|19|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|67.43.227.227|12973|Canada|Montreal|GloboTech Communications|
 
 
 
