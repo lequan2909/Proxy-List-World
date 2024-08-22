@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|20.13.34.208|8118|Netherlands|Amsterdam|Microsoft Corporation|
-|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|103.115.31.39|8181|Indonesia|Depok|HSPNET|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|102.221.40.114|8080|South Africa|George|Telkom SA Ltd.|
-|15|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|18|72.10.160.90|12159|Canada|Montreal|GloboTech Communications|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|135.148.100.78|48149|United States|Reston|OVH SAS|
+|3|157.100.54.14|80|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|4|89.187.191.120|8888|Czechia|Prague|DataCamp Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|135.148.100.78|48149|United States|Reston|OVH SAS|
+|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|144.86.187.48|3129|United States|Malden|Charles River Operation|
+|12|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|119.40.98.29|80|Mongolia|Ulan Bator|Topica Co., Ltd|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
