@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
 |6|36.73.68.101|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
-|7|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|186.150.207.207|8080|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|7|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|8|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
+|11|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|45.226.205.33|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
+|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|124.217.103.112|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
