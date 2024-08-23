@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|203.150.128.219|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
 |6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|181.78.80.222|999|Colombia|Duitama|IFX Networks Argentina S.R.L|
-|16|103.5.232.148|8080|Bangladesh|Chittagong|CTGONLINENET|
-|17|38.188.127.228|7777|Indonesia|Blitar|PT Data Buana Nusantara|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|13|103.5.232.148|8080|Bangladesh|Chittagong|CTGONLINENET|
+|14|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|136.233.80.157|4480|India|Chennai|Reliance Jio Infocomm Limited|
+|18|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
