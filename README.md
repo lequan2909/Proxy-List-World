@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|61.7.191.173|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|70.90.138.109|8080|United States|Fraser|Comcast Cable Communications, LLC|
-|17|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|18|103.149.194.61|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|202.8.74.11|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|202.47.188.94|5566|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|5.42.83.70|3128|Sweden|Stockholm|Aeza International LTD|
+|15|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
+|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|17|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|202.144.139.201|8080|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|19|202.8.74.11|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|20|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
 
 
 
