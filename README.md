@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|138.59.187.1|666|Brazil|São Francisco do Conde|Icaro Oliveira DA Cunha - ME|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|9|103.154.178.106|3128|Indonesia|Jambi City|PT Aneka Teguh Jaya|
-|10|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|101.51.107.190|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|16|84.247.141.245|80|Germany|Düsseldorf|Contabo GmbH|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|124.217.103.112|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
