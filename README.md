@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|5|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|6|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|8|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|202.154.12.144|7777|Indonesia|Jakarta|MENAKSOPAL|
-|11|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.169.198.214|8080|Indonesia|Palembang|PT. GLOBAL INAYAH ELEKTRINDO|
+|9|91.185.58.130|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|10|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 |12|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|13|182.253.62.72|8090|Indonesia|Jakarta|BIZNET|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|16|91.217.179.134|8080|Ukraine|Kyiv|Startnet LTD|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|103.203.232.101|1080|Indonesia|Kedok|INDANA|
 
 
 
