@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|5|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|182.253.62.72|8090|Indonesia|Jakarta|BIZNET|
-|10|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|11|193.202.9.22|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|193.202.9.38|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|12|45.171.242.3|8083|Brazil|Atibaia|MaetingaNET Informática e Telecomunicações|
+|13|196.213.196.210|8088|South Africa|Cape Town|Dimension Data|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|191.102.254.53|8085|Argentina|Rosario|IP·RED|
 
 
 
