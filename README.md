@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|159.223.212.136|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|187.63.156.132|999|Dominican Republic|Santo Domingo|Derivalnet Y Comunicaciones SRL|
-|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|103.53.79.115|8085|Indonesia|Jakarta|INTI|
-|20|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|159.223.212.136|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|20|201.144.25.10|8080|Mexico|Mexico City|UNINET|
 
 
 
