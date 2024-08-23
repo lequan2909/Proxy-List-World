@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|10|103.127.220.126|1080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|11|81.12.111.130|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|223.205.16.252|8080|Thailand|Sam Phran|Triple T Broadband Public Company Limited|
-|13|103.248.196.73|3125|Indonesia|Tarutung|PERMANA|
-|14|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|15|154.73.108.206|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|16|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|203.150.113.231|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|79.175.189.223|1080|Iran|Tehran|Afranet|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|112.78.160.220|8080|Indonesia|Jakarta|Biznet Networks|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|125.25.48.126|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|103.234.31.60|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|15|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|101.109.153.230|8080|Thailand|Pattaya|TOT Public Company Limited|
 
 
 
