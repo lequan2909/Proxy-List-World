@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|79.175.189.223|1080|Iran|Tehran|Afranet|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|103.239.253.66|8080|Bangladesh|Dhaka|SSDTECH Object2|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|15|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|20|154.73.29.201|8080|Libya|Tripoli|Rawafed|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|72.10.160.171|29413|Canada|Montreal|GloboTech Communications|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 
 
 
