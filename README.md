@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|36.82.19.86|3128|Indonesia|Gresik|PT. TELKOM INDONESIA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
 |6|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|9|43.252.11.68|8484|Indonesia|Jakarta|QUANTUMNET|
-|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|160.22.31.4|8181|Indonesia|Jombang|PT Aufa Berkah Media|
-|12|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|36.82.19.86|3128|Indonesia|Gresik|PT. TELKOM INDONESIA|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|193.168.173.73|3128|Netherlands|Amsterdam|CLOUDWEBMANAGE-EU|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|216.10.247.145|3128|India|Mumbai|PDR|
-|19|72.10.164.178|16207|Canada|Montreal|GloboTech Communications|
-|20|116.107.215.16|5020|Vietnam|Hanoi|Viettel Corporation|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
 
 
 
