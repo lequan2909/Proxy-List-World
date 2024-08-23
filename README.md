@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|4|27.76.205.53|5102|Vietnam|Hanoi|Viettel Group|
+|3|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|4|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|79.175.189.223|1080|Iran|Tehran|Afranet|
+|7|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|103.160.12.50|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|12|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
-|13|83.171.111.142|8080|Russia|Murmansk|Rostelecom networks|
-|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|103.81.223.78|8080|Indonesia|Bandung|STARNET|
-|17|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|147.45.150.51|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|19|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|20|49.48.82.112|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|11|208.87.128.2|8888|United States|New York|HIVELOCITY, Inc.|
+|12|208.87.128.2|8888|United States|New York|HIVELOCITY, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|15|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|16|27.76.205.53|5102|Vietnam|Hanoi|Viettel Group|
+|17|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|19|45.114.144.44|32650|India|Jaipur|Tejays Dynamic Limited|
+|20|27.71.128.70|5102|Vietnam|Bình Phước|Viettel Group|
 
 
 
