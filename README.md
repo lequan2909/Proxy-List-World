@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.105.76.216|8090|Indonesia|Bojonegoro|GARUDA|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|190.8.164.25|8086|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|13|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
-|14|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|15|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|45.149.93.223|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
+|11|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|103.105.76.216|8090|Indonesia|Bojonegoro|GARUDA|
+|14|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|17|103.48.70.81|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|19|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
