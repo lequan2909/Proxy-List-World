@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|27.73.208.37|9002|Vietnam|Hanoi|Viettel Group|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|193.202.9.40|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|15|193.202.9.26|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|193.202.9.25|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|13|193.202.9.26|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|14|190.145.227.114|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|15|193.202.9.34|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|16|36.37.163.254|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|19|193.202.9.36|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
