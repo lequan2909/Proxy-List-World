@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|9|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|10|36.111.151.156|80|China|Lipu|China Telecom|
-|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
-|14|102.0.11.134|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|6|115.147.26.219|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|10|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|103.247.23.198|8080|Indonesia|Bekasi|PT wifian Solution|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
