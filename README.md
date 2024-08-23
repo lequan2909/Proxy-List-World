@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|203.150.128.43|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
-|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|16|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|18|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.247.216.70|8080|Indonesia|Jakarta|PT. Parsaoran Global Datatrans|
+|6|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|9|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|79.175.189.223|1080|Iran|Tehran|Afranet|
+|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|16|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
 |19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|66.27.58.70|8080|United States|Artesia|Spectrum|
+|20|45.112.127.222|8181|Indonesia|South Tangerang|FIBERNET|
 
 
 
