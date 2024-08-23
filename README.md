@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|54.151.223.107|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.125.51.25|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|4|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|134.236.40.134|8080|Thailand|Bang Rak|CAT-BB|
+|11|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 |12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|15|102.214.106.114|8080|Libya|Tripoli|Rawafed|
+|16|103.72.89.69|8181|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |18|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|19|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|20|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
 
 
 
