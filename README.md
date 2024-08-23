@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|223.205.188.2|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 |4|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|5|188.209.245.158|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|6|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|154.38.186.225|3128|United States|Orangeburg|Nubes, LLC|
-|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|14|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|15|177.75.1.33|8080|Brazil|Formosa|Networld Provedor e Servicos de Internet Ltda|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|19|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|188.209.245.158|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|171.6.122.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|17|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
