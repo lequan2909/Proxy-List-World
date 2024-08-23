@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|1.230.21.150|8443|South Korea|Guro-gu|SK Broadband Co Ltd|
-|13|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|12|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|13|160.19.169.208|8080|Brazil|Barão de Cocais|BDC TELECOM|
+|14|1.230.21.150|8443|South Korea|Guro-gu|SK Broadband Co Ltd|
+|15|84.247.141.245|80|Germany|Düsseldorf|Contabo GmbH|
 |16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|17|171.245.14.125|10001|Vietnam|Haiphong|Viettel Corporation|
-|18|213.210.37.210|3128|India|Mumbai|Hostinger International Limited|
-|19|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|36.111.151.156|80|China|Lipu|China Telecom|
 
 
 
