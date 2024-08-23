@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|148.230.195.165|6969|Mexico|San Francisco Sola|Total Play Telecomunicaciones SA De CV|
-|14|193.202.9.25|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|19|193.202.9.41|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|20|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|8|27.73.208.37|9002|Vietnam|Hanoi|Viettel Group|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|189.41.21.149|3128|Brazil|Uberlândia|ALGAR TELECOM S/A|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|184.82.55.239|8080|Thailand|Khon Kaen|AIS-Fibre|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|18|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
