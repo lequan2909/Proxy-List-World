@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|103.173.138.240|1111|Indonesia|Babat|PT Serayu Multi Connection|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|19|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|5.161.210.232|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|11|5.161.210.232|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|14|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|17|103.48.71.50|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|19|45.71.3.53|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
