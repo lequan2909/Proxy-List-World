@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|171.241.195.130|5106|Vietnam|Thanh Hóa|Viettel Corporation|
+|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
 |7|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|27.73.208.37|9002|Vietnam|Hanoi|Viettel Group|
-|10|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|11|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|208.87.128.2|8888|United States|New York|HIVELOCITY, Inc.|
+|8|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|193.202.9.34|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |14|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|15|92.242.54.76|8090|Russia|Moscow|Avantel-MSK|
-|16|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
-|17|43.153.225.192|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|190.128.195.58|999|Paraguay|Luque|Telecel S.A.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
 
 
 
