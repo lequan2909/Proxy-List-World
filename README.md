@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |7|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|193.202.9.53|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|14|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|103.158.121.51|8080|Indonesia|Indramayu|CDN|
-|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|61.19.145.66|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|12|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|13|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|188.132.166.85|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|20|138.204.20.160|8080|Brazil|Camocim|FONTNET ME|
 
 
 
