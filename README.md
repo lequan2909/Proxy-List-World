@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6076** proxies at the latest update. Usable proxies are below.
+> Scraper found **5940** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|219|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1047|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|911|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|182|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3670|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|7|193.202.9.35|8085|United States|Santa Clara|Hosting Solution Ltd.|
 |8|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|193.202.9.25|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|13|193.202.9.26|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|14|190.145.227.114|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|15|193.202.9.34|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|16|36.37.163.254|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|10|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|103.115.242.195|8080|Bangladesh|Nawābganj|Md. Rashed Mollah|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|193.202.9.25|8085|United States|Santa Clara|Hosting Solution Ltd.|
 |19|193.202.9.36|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|170.79.224.205|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
 
 
 
