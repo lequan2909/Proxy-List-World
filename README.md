@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|170.79.224.205|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|8|193.202.9.35|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|9|103.13.204.19|8085|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
-|10|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|11|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|12|27.73.208.37|9002|Vietnam|Hanoi|Viettel Group|
-|13|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|103.115.242.195|8080|Bangladesh|Nawābganj|Md. Rashed Mollah|
-|16|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|20|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|3|8.217.131.196|58080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|171.241.195.130|5106|Vietnam|Thanh Hóa|Viettel Corporation|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|8|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|91.185.58.130|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|11|177.93.108.244|3128|Brazil|Brooklin|EVEO Serviços de Internet Ltda.|
+|12|193.202.9.33|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|13|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|14|125.25.198.205|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|193.202.9.35|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|17|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 
 
 
