@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|61.7.191.100|80|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|13|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.174.238.233|8181|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|16|45.117.29.153|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|18|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|19|103.169.254.131|3127|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|35.197.150.32|8888|Singapore|Singapore|Google LLC|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|14|61.7.191.100|80|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|19|103.174.238.233|8181|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
