@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|128.92.239.190|8080|United States|Los Angeles|Spectrum|
-|3|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
 |4|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|114.9.26.118|8090|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|9|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|10|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
-|11|45.226.205.33|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
-|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|13|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|67.43.236.20|14951|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|14951|Canada|Montreal|GloboTech Communications|
-|17|118.117.189.94|8089|China|Muping|Chinanet|
-|18|67.43.227.227|4421|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|4421|Canada|Montreal|GloboTech Communications|
-|20|188.116.22.67|25124|Hong Kong|Hong Kong|M247 Europe SRL|
+|7|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|51.222.200.225|3128|Canada|Beauharnois|OVH SAS|
+|11|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
+|12|209.146.18.99|8082|Philippines|Manila|Cogent Communications|
+|13|67.43.227.227|4421|Canada|Montreal|GloboTech Communications|
+|14|144.86.187.51|3129|United States|Malden|Charles River Operation|
+|15|67.43.227.227|4421|Canada|Montreal|GloboTech Communications|
+|16|154.73.28.253|8080|Libya|Tripoli|Rawafed|
+|17|160.119.251.245|3128|South Africa|Cape Town|Hostafrica|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|59.90.196.30|8080|India|Hyderabad|BSNL Internet|
+|20|67.43.227.227|4421|Canada|Montreal|GloboTech Communications|
 
 
 
