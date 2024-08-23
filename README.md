@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.247.23.198|8080|Indonesia|Bekasi|PT wifian Solution|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|171.232.51.74|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|171.232.51.74|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
 |9|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 |10|107.173.82.202|2233|United States|Santa Clara|HostPapa|
 |11|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|184.82.36.200|8080|Thailand|Khon Kaen|AIS-Fibre|
-|15|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|16|72.10.164.178|9239|Canada|Montreal|GloboTech Communications|
-|17|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
+|17|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
