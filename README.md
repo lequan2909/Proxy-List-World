@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|6|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |7|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|8|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|9|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
+|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 |13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|15|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|16|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
-|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|103.127.135.14|3128|Indonesia|Ciputat|PT Biznet Gio Nusantara|
+|16|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|17|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|18|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|19|72.10.160.173|6971|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
