@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.118.175.165|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|6|103.54.80.162|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.171.156.218|8080|Indonesia|Jakarta|MYREPUBLIC|
-|9|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
-|15|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|16|165.16.59.226|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
-|17|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|17|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
