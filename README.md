@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|14.245.163.203|7001|Vietnam|Da Nang|VNPT|
-|5|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|6|103.130.130.179|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|7|103.159.194.171|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|11|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|12|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|13|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|16|134.35.227.91|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|67.43.227.230|17505|Canada|Montreal|GloboTech Communications|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|4|15.235.171.249|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|213.210.37.210|3128|India|Mumbai|Hostinger International Limited|
+|7|45.230.50.3|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|8|15.235.171.203|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|9|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|10|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.124.138.144|8080|Indonesia|Adiwerna|Global Media Data Prima|
+|13|117.68.38.142|39112|China|Hefei|China Telecom|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|89.46.249.252|5080|United Kingdom|London|Hydra Communications Ltd|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
 
 
 
