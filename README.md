@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|13|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|181.209.78.76|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|11|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|182.16.169.178|8080|Indonesia|Depok|Cust Mwifo|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|20|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
 
 
 
