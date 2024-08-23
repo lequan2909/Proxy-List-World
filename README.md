@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|4|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|5|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|6|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|7|84.247.141.245|80|Germany|Düsseldorf|Contabo GmbH|
-|8|188.116.22.67|25124|Hong Kong|Hong Kong|M247 Europe SRL|
-|9|117.68.38.142|39112|China|Hefei|China Telecom|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|9|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|11|103.159.194.171|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
 |12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|67.43.228.254|13883|Canada|Montreal|GloboTech Communications|
-|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|72.10.164.178|1963|Canada|Montreal|GloboTech Communications|
-|19|84.247.141.245|80|Germany|Düsseldorf|Contabo GmbH|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|13|103.106.114.106|7777|Indonesia|Kedaton|SMSNET|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|103.124.138.144|8080|Indonesia|Adiwerna|Global Media Data Prima|
+|17|103.130.130.179|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|72.10.164.178|14835|Canada|Montreal|GloboTech Communications|
 
 
 
