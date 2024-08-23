@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|6|45.116.230.79|8080|India|Kochi|DWANIRINN|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|79.175.189.223|1080|Iran|Tehran|Afranet|
-|13|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|4|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|8|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|9|178.115.230.100|8080|Austria|Graz|customers with static IP|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
 |14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|17|200.178.4.153|8080|Brazil|São Paulo|Claro S.A|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
