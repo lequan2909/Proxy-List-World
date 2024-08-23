@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.128.43|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|38.188.127.228|7777|Indonesia|Blitar|PT Data Buana Nusantara|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|45.226.205.33|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|203.150.128.43|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
+|5|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|82.223.246.196|80|Spain|Logroño|arsys.es|
+|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|203.14.18.242|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
+|13|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|38.188.127.228|7777|Indonesia|Blitar|PT Data Buana Nusantara|
+|15|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
+|16|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|19|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
