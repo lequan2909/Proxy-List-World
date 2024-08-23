@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|14.226.224.58|1001|Vietnam|Ho Chi Minh City|VNPT|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|14.226.224.58|1001|Vietnam|Ho Chi Minh City|VNPT|
+|9|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
 |10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|61.7.191.173|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|13|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|15|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|67.43.227.227|19367|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|5.42.83.70|3128|Sweden|Stockholm|Aeza International LTD|
+|12|202.47.188.94|5566|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
+|13|61.7.191.173|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|187.95.136.194|8080|Brazil|Osasco|Horizons Telecomunicações e Tecnologia S.A|
+|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|201.77.96.153|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 
 
 
