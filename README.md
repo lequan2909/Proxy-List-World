@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
+|12|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|13|121.200.48.58|8080|India|Coimbatore|WLSNET|
+|14|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|15|177.36.14.137|8080|Brazil|Limoeiro|1telecom Servicos De Tecnologia EM Internet Ltda|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|18|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
 
 
 
