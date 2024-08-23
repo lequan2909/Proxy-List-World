@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|116.96.89.246|5102|Vietnam|Hanoi|Viettel Corporation|
-|3|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|7|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|8|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|8.217.131.196|58080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|14|36.73.91.14|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|193.202.9.35|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|19|45.236.106.243|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|4|116.105.113.111|5102|Vietnam|Quảng Ngãi|Viettel Corporation|
+|5|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|8.217.131.196|58080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|12|193.202.9.26|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|13|95.164.86.161|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|14|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|193.202.9.25|8085|United States|Santa Clara|Hosting Solution Ltd.|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
 
 
 
