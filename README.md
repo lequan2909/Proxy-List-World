@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|182.253.115.131|8080|Indonesia|Salatiga|BIZNET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
-|10|223.204.194.211|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|11|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|193.202.9.23|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|18|103.27.22.65|32650|Pakistan|Lahore|Supernet|
-|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|103.186.204.52|8089|Indonesia|Muaratiga|PT Afna Digital Indonesia|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|10|202.154.19.7|8080|Indonesia|Jombang|DIGITNET|
+|11|79.175.189.223|1080|Iran|Tehran|Afranet|
+|12|116.0.53.34|8080|Pakistan|Karachi|Supernet|
+|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|103.158.162.18|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|103.133.27.143|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 
 
 
