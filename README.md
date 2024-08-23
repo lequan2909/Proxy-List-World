@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|14|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|179.51.144.21|999|Dominican Republic|Santiago de los Caballeros|Delta Comunicaciones|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|103.118.175.165|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|7|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|10|103.154.230.129|8080|Indonesia|Lamongan|DIGITNET|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|102.0.9.116|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|17|36.70.30.55|8088|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|95.216.161.173|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
