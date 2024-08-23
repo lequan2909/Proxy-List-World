@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|187.1.57.222|8080|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
-|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|14|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|167.249.29.220|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
-|17|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|8|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|9|180.94.8.90|8085|Indonesia|Cikarang|BAST|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|13|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|103.81.220.29|8080|Indonesia|Bandung|STARNET|
+|16|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|17|67.43.227.227|6887|Canada|Montreal|GloboTech Communications|
+|18|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|19|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
