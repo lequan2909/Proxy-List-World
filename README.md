@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|79.175.189.223|1080|Iran|Tehran|Afranet|
-|9|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|45.133.107.234|81|Russia|Mezmay|Art-net LLC|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|193.181.35.113|8118|Sweden|Stockholm|PVDataNet AB|
+|10|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
 |11|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|186.150.207.207|8080|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
 |13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|185.132.125.4|24099|Malaysia|Kuala Lumpur|M247 Europe SRL|
 |15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |17|72.10.160.172|12637|Canada|Montreal|GloboTech Communications|
-|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|19|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|20|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|18|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|19|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
