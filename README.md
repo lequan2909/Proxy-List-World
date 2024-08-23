@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|3|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|144.86.187.40|3129|United States|Malden|Charles River Operation|
-|5|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|6|14.245.163.203|7001|Vietnam|Da Nang|VNPT|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|9|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|67.43.236.20|5631|Canada|Montreal|GloboTech Communications|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|17|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|67.43.228.253|31291|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|28333|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|7|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|8|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|14|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|67.43.227.228|16285|Canada|Montreal|GloboTech Communications|
+|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
+|18|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
