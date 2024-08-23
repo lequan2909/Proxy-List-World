@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|79.175.189.223|1080|Iran|Tehran|Afranet|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
-|6|67.43.227.226|5227|Canada|Montreal|GloboTech Communications|
-|7|177.81.30.222|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|8|190.94.212.43|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|203.161.55.52|3128|United Kingdom|London|Namecheap, Inc.|
 |11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.127.220.178|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|13|82.218.176.25|32650|Austria|Stockerau|kabelplus GmbH|
-|14|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|15|201.176.195.124|3128|Argentina|Ezeiza|Telefonica de Argentina|
-|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|17|103.48.68.90|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|12|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
+|17|80.66.81.46|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|18|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
