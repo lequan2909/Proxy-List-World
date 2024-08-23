@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|202.8.74.11|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
-|10|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|93.118.148.239|8080|Iran|Tehran|Iran Telecommunication Company PJS|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|176.102.49.228|3128|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|16|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|103.153.134.150|8080|Indonesia|Tangerang|WMINET|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|93.118.148.239|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|188.132.222.222|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
+|17|5.42.83.70|3128|Sweden|Stockholm|Aeza International LTD|
+|18|202.47.188.94|5566|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
 
 
 
