@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|93.190.14.205|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|79.175.189.223|1080|Iran|Tehran|Afranet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|12|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|13|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|79.175.189.223|1080|Iran|Tehran|Afranet|
+|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 |15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.160.174|26957|Canada|Montreal|GloboTech Communications|
-|19|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|20|51.159.66.158|3128|France|Paris|SCALEWAY|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|72.10.160.174|10025|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|3329|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
