@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|138.59.187.1|666|Brazil|São Francisco do Conde|Icaro Oliveira DA Cunha - ME|
+|4|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
 |5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|67.43.227.227|3285|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|17|67.43.236.18|16999|Canada|Montreal|GloboTech Communications|
-|18|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.160.93|3319|Canada|Montreal|GloboTech Communications|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|14.245.163.203|7001|Vietnam|Da Nang|VNPT|
+|10|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|67.43.227.228|28333|Canada|Montreal|GloboTech Communications|
 
 
 
