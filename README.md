@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|36.68.24.136|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|45.228.233.92|999|Guatemala|Guatemala City|Infinitum S.A.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|193.202.9.23|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|12|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|15|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|75.128.125.149|8080|United States|Portage|Charter Communications|
-|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|15|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
