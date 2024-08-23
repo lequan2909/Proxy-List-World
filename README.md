@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|2|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|6|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.203.233.99|3125|Indonesia|Klapanunggal|INDANA|
-|11|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|12|72.10.160.170|6779|Canada|Montreal|GloboTech Communications|
-|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.236.20|1615|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|17459|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|21879|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|6779|Canada|Montreal|GloboTech Communications|
-|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|20|67.43.227.228|24665|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.150.113.118|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|11|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
+|12|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 
 
 
