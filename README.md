@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|36.68.24.136|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|36.68.24.136|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|79.175.189.223|1080|Iran|Tehran|Afranet|
-|9|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|10|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|6|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
-|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|50.205.202.249|3128|United States|Englewood|Comcast Cable Communications, LLC|
+|13|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
 |17|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|18|45.228.233.92|999|Guatemala|Guatemala City|Infinitum S.A.|
-|19|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|36.94.101.111|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|193.202.9.50|8085|United States|Santa Clara|Hosting Solution Ltd.|
 
 
 
