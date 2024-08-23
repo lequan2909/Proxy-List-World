@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|203.150.128.43|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|79.175.189.223|1080|Iran|Tehran|Afranet|
-|9|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|203.150.128.43|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.156.140.203|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|8|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|9|103.38.104.224|8989|Indonesia|Wonosobo|PT Tunas Media Data|
 |10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|38.188.127.228|7777|Indonesia|Blitar|PT Data Buana Nusantara|
-|12|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|13|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
-|14|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|17|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.243.174.26|83|India|Pune|Shah Solutions|
-|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|20|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
+|11|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|16|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|18|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|38.188.127.228|7777|Indonesia|Blitar|PT Data Buana Nusantara|
 
 
 
