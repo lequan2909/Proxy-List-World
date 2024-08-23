@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5936** proxies at the latest update. Usable proxies are below.
+> Scraper found **5916** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|254|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1066|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|255|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1045|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|201|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3457|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|101.109.49.152|8080|Thailand|Pattaya|TOT Public Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|115.74.127.233|1001|Vietnam|Ho Chi Minh City|VIETELxdsl|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|10|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
-|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|12|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|14|201.77.110.129|999|Mexico|Unión Campesina|Raul Duarte Urita|
-|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|103.173.138.218|8080|Indonesia|Babat|PT Serayu Multi Connection|
+|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|14|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
+|15|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
