@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|109.165.196.133|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
-|4|61.7.183.122|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|131.0.207.41|8080|Brazil|Espumoso|CB NET TELECOM LTDA|
-|7|217.52.247.67|1981|Egypt|Cairo|Etisalat Misr|
-|8|49.148.105.108|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|171.7.65.58|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|17|67.43.227.227|13635|Canada|Montreal|GloboTech Communications|
-|18|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|193.202.9.41|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|20|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|13|121.172.52.96|3128|South Korea|Incheon|Korea Telecom|
+|14|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|15|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|16|72.10.160.171|12109|Canada|Montreal|GloboTech Communications|
+|17|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|67.43.227.227|17313|Canada|Montreal|GloboTech Communications|
 
 
 
