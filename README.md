@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |3|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
 |11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|13|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
-|20|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|12|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|17|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|20|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
 
 
 
