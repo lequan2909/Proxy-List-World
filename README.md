@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|103.147.247.122|8080|Indonesia|Tangerang|PLBNET|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|18|103.53.79.116|8085|Indonesia|Jakarta|INTI|
-|19|202.137.31.186|8080|Indonesia|Bekasi|LINKNET|
-|20|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|112.78.160.220|8080|Indonesia|Jakarta|Biznet Networks|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|14|36.82.19.86|3128|Indonesia|Gresik|PT. TELKOM INDONESIA|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|94.231.199.226|1971|Iraq|Erbil|Net Tech Ltd|
+|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|18|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|19|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
