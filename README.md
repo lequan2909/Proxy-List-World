@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|5.42.72.98|3128|Sweden|Stockholm|Aeza International LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|12|103.101.193.134|8085|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|1.1.189.58|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|154.73.28.253|8080|Libya|Tripoli|Rawafed|
-|18|67.43.227.228|18401|Canada|Montreal|GloboTech Communications|
-|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|67.43.227.227|19357|Canada|Montreal|GloboTech Communications|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|103.143.169.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|13|36.111.151.156|80|China|Lipu|China Telecom|
+|14|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
