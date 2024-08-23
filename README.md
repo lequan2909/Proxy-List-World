@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|79.175.189.223|1080|Iran|Tehran|Afranet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.166.159.142|7777|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|79.175.189.223|1080|Iran|Tehran|Afranet|
+|13|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|14|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
+|15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|16|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
 
 
 
