@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|4|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|57.128.169.167|3128|United Kingdom|Erith|OVH SAS|
-|9|49.48.68.78|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|10|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
+|7|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|203.161.55.52|3128|United Kingdom|London|Namecheap, Inc.|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|203.161.55.52|3128|United Kingdom|London|Namecheap, Inc.|
+|12|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 |16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|18|59.90.196.30|8080|India|Hyderabad|BSNL Internet|
-|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|20|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
 
 
 
