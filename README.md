@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
-|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
-|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|14|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|178.115.230.100|8080|Austria|Graz|customers with static IP|
-|18|192.145.206.192|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|79.175.189.223|1080|Iran|Tehran|Afranet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.155.198.2|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|101.109.36.170|8080|Thailand|Pattaya|TOT Public Company Limited|
+|15|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
