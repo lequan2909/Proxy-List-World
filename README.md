@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|4|203.161.55.52|3128|United Kingdom|London|Namecheap, Inc.|
-|5|223.25.110.228|3125|Indonesia|Surabaya|SinergiNet|
-|6|85.193.86.29|8080|Russia|St Petersburg|TimeWeb Ltd.|
-|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|15.235.171.230|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|203.161.55.52|3128|United Kingdom|London|Namecheap, Inc.|
+|9|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|14|65.20.233.204|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|15|103.182.79.141|8080|Indonesia|Gresik|PT Cybernet Data Multimedia|
-|16|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|80.66.81.46|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|19|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|20|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
+|12|101.128.82.150|8181|Indonesia|Jakarta|CBN|
+|13|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|179.49.162.133|999|Colombia|Zipaquirá|Integra Multisolutions|
+|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
