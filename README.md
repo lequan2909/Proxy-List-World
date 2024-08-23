@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|7|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
 |8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
-|14|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|15|49.48.68.78|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|16|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|17|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|18|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
-|19|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|9|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|10|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
+|11|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|14|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 
 
 
