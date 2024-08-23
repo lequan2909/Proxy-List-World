@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5885** proxies at the latest update. Usable proxies are below.
+> Scraper found **5928** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|246|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|871|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|929|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|184|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|169|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3626|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|171.232.51.74|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|10|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|11|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|13|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|9|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|36.111.151.156|80|China|Lipu|China Telecom|
+|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
+|14|102.0.11.134|8082|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
 |15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
-|17|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
