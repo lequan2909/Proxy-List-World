@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.48.71.50|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|193.188.22.20|3128|United States|Los Angeles|Hydra Communications Ltd|
-|13|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
-|14|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
-|15|203.150.128.132|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|89.187.191.112|8888|Czechia|Prague|DataCamp Limited|
+|15|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|16|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|17|14.226.224.58|1001|Vietnam|Ho Chi Minh City|VNPT|
+|18|160.119.224.143|7777|South Africa|Randburg|Web Squad Connect|
+|19|52.163.56.148|80|Singapore|Singapore|Microsoft Corporation|
+|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
 
 
 
