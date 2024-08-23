@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|11|103.171.244.28|8080|Indonesia|Madiun|PT Data Arta Sedaya|
-|12|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|41.65.163.67|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|13|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |15|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|16|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|19|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
-|20|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
+|18|186.232.160.246|8080|Brazil|Cabo Frio|VIP NETWORK TELECOMUNICAÇÕES LTDA|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
