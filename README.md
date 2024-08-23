@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|7|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|58.147.186.214|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|10|51.77.222.4|8118|France|Gravelines|OVH SAS|
-|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|12|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|103.159.194.171|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
-|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|157.66.16.48|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|20|36.89.212.252|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|144.86.187.58|3129|United States|Malden|Charles River Operation|
+|9|103.124.138.144|8080|Indonesia|Adiwerna|Global Media Data Prima|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|38.156.75.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|144.86.187.39|3129|United States|Malden|Charles River Operation|
+|14|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|16|58.147.186.214|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|17|103.101.193.134|8085|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|18|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|19|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
