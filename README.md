@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|10|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|200.39.120.78|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
 |14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|19|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|20|36.67.199.171|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|16|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|213.169.33.7|4002|Bulgaria|Sofia|A1 Bulgaria EAD|
 
 
 
