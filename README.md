@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|119.82.240.214|6060|Indonesia|Surabaya|Indonesia Network Information Center|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
-|6|79.175.189.223|1080|Iran|Tehran|Afranet|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|193.202.9.37|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|103.190.230.42|8080|Indonesia|Makassar|PT Mandiri Global Data|
-|13|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|193.202.9.23|8085|United States|Santa Clara|Hosting Solution Ltd.|
-|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|17|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|103.191.254.2|8085|Indonesia|Rembangan|PT Ayodya Data Internusa|
-|19|36.90.174.37|8080|Indonesia|Kediri|PT. Telekomunikasi Indonesia|
-|20|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|119.82.240.214|6060|Indonesia|Surabaya|Indonesia Network Information Center|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|14|103.170.64.128|1111|India|Pune|Dream Cables|
+|15|181.57.171.254|8085|Colombia|Bogotá|Telmex Colombia S.A.|
+|16|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|17|112.78.47.187|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
