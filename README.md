@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|79.175.189.223|1080|Iran|Tehran|Afranet|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|216.176.187.99|39837|United States|Seattle|Wowrack.com|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|12|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |14|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
