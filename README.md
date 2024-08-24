@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|154.212.175.82|9002|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
-|6|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|203.150.128.228|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |13|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|188.132.222.68|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|20|149.51.225.130|3128|United States|New York|Rackdog, LLC|
 
 
 
