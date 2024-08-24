@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|79.175.189.223|1080|Iran|Tehran|Afranet|
-|9|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|10|152.166.69.34|8080|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|11|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
-|12|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
-|13|80.81.243.26|8800|Germany|Berlin|SPEEDBONE GmbH|
-|14|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|103.31.251.251|5040|Indonesia|Jakarta|ARGON|
-|19|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
+|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|13|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|103.101.193.134|8085|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|19|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.65.202.209|8080|India|Warangal|Vaishnavi Online Internet Services Pvt. Ltd.|
 
 
 
