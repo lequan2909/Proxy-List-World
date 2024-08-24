@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|5|154.73.28.157|8080|Libya|Tripoli|Rawafed|
-|6|1.20.169.200|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|11|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|177.44.161.8|3128|Brazil|Chopinzinho|WIIP TELECOM SERVIÇOS DE INTERNET LTDA|
-|13|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|16|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|17|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|18|122.3.45.189|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|103.189.96.196|8085|Indonesia|Sragen|Lintas Data Prima, PT|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|9|85.193.86.29|8080|Russia|St Petersburg|TimeWeb Ltd.|
+|10|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 
 
 
