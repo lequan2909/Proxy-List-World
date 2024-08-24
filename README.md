@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
+|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|95.0.90.242|8080|Turkey|Acibadem|Turk Telekomunikasyon Anonim Sirketi|
-|14|24.204.29.115|8080|United States|Longview|Network IP|
-|15|72.10.160.170|5141|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
-|18|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|19|67.43.236.20|2887|Canada|Montreal|GloboTech Communications|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
+|14|112.109.19.117|80|Indonesia|Surabaya|DATAUTAMANET|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|103.170.227.11|83|India|Amalāpuram|Inet Fiber India Private Limited|
+|18|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|20|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
 
 
 
