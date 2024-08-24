@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|79.175.189.220|1080|Iran|Tehran|Afranet|
-|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|79.175.189.223|1080|Iran|Tehran|Afranet|
-|9|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|154.212.175.82|9002|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
-|11|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|148.101.179.182|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A|
-|20|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|79.175.189.223|1080|Iran|Tehran|Afranet|
+|10|79.175.189.220|1080|Iran|Tehran|Afranet|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|50.29.238.9|8888|United States|Wilkes-Barre|PenTeleData Inc.|
+|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|18|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|19|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
