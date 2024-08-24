@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|4|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|7|103.183.99.202|8080|Indonesia|Tulungagung|PT.LEXXA DATA INDONUSA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|6|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|9|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|94.139.204.51|8081|Bulgaria|Lukovit|Lukovitnet Ltd.|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|49.147.133.154|8081|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
