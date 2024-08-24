@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|111.89.146.58|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|200.39.120.43|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
-|14|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|15|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|16|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|17|103.65.202.209|8080|India|Warangal|Vaishnavi Online Internet Services Pvt. Ltd.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|171.245.14.125|10001|Vietnam|Haiphong|Viettel Corporation|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|15|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|92.242.54.78|8090|Russia|Moscow|Avantel-MSK|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|201.77.110.129|999|Mexico|Unión Campesina|Raul Duarte Urita|
+|20|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 
 
 
