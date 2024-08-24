@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.236|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|6|38.252.209.12|999|Peru|Lima|Cogent Communications|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|67.43.227.227|10335|Canada|Montreal|GloboTech Communications|
-|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|36.111.151.156|80|China|Lipu|China Telecom|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|190.102.139.146|999|Peru|Punta Hermosa|Optical Technologies S.A.C.|
-|16|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|72.10.160.173|1057|Canada|Montreal|GloboTech Communications|
-|19|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
-|20|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|203.150.113.236|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.171.244.47|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|177.129.242.73|48580|Brazil|Paracatu|V8 Telecom LTDA|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|15|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|16|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|17|115.74.127.233|2011|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|20|157.100.69.146|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
