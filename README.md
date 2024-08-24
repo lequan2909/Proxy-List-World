@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|6|85.193.86.29|8080|Russia|St Petersburg|TimeWeb Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|18|103.234.27.78|9990|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|101.128.78.202|32650|Indonesia|Palembang|CBN|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|103.159.194.33|1111|Indonesia|Temanjang|PT Giga Digital Nusantara|
+|7|191.102.248.2|8083|Argentina|Rosario|IP·RED|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|103.39.50.228|9090|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
+|18|101.255.165.146|8090|Indonesia|Bekasi|PT Remala Abadi|
+|19|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
