@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|51.250.46.17|1080|Russia|Moscow|Yandex.Cloud LLC|
-|11|158.160.175.191|1080|Russia|Moscow|Yandex.Cloud LLC|
-|12|79.175.189.223|1080|Iran|Tehran|Afranet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|79.175.189.223|1080|Iran|Tehran|Afranet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|17|51.250.46.17|1080|Russia|Moscow|Yandex.Cloud LLC|
+|18|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|79.175.189.88|1080|Iran|Tehran|Afranet|
 
 
 
