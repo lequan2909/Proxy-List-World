@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|7|95.164.86.161|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|8|79.175.189.223|1080|Iran|Tehran|Afranet|
-|9|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
-|13|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|1|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|103.155.198.50|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|191.102.248.9|8084|Argentina|Rosario|IP·RED|
+|9|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|11|79.175.189.223|1080|Iran|Tehran|Afranet|
+|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
+|15|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|16|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|17|191.102.254.9|8085|Argentina|Rosario|IP·RED|
+|18|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
 |19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.97.224.185|8080|Indonesia|Kudus|PT Sistem Interkoneksi Data|
+|20|179.1.123.51|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
 
 
 
