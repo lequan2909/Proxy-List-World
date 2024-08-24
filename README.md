@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|103.178.21.74|8090|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|12|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|13|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|14|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|15|36.111.151.156|80|China|Lipu|China Telecom|
-|16|49.51.244.112|8888|United States|San Jose|OPHL|
-|17|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|18|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|19|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|49.51.244.112|8888|United States|San Jose|OPHL|
+|20|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
