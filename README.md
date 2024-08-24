@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|203.111.253.38|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|14|79.175.189.223|1080|Iran|Tehran|Afranet|
-|15|117.54.181.21|8080|Indonesia|Jakarta|PT IndoInternet|
-|16|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|20|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|112.201.184.35|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|9|79.175.189.223|1080|Iran|Tehran|Afranet|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|103.61.7.255|8181|Indonesia|Banjar Badung|PT Agung Jaya Telekomunikasi Nusantara|
+|16|66.211.155.34|8080|United States|Mont Vernon|FirstLight Fiber|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|103.59.45.53|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
