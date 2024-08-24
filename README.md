@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
+|4|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|92.124.132.106|3128|Russia|Omsk|OJSC Sibirtelecom|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|12|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|13|116.74.80.134|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|1.230.21.150|8443|South Korea|Guro-gu|SK Broadband Co Ltd|
+|10|79.175.189.223|1080|Iran|Tehran|Afranet|
+|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|14|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|1.230.21.150|8443|South Korea|Guro-gu|SK Broadband Co Ltd|
 |20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
