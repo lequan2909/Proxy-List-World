@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|79.175.189.220|1080|Iran|Tehran|Afranet|
-|5|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|158.160.175.191|1080|Russia|Moscow|Yandex.Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|79.175.189.220|1080|Iran|Tehran|Afranet|
+|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|14|79.175.189.223|1080|Iran|Tehran|Afranet|
-|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|115.127.91.225|58080|Bangladesh|Dhaka|BRACNet Limited|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|79.175.189.88|1080|Iran|Tehran|Afranet|
-|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|14|137.116.142.82|80|Singapore|Singapore|Microsoft Corporation|
+|15|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|79.175.189.51|1080|Iran|Tehran|Afranet|
+|18|79.175.189.88|1080|Iran|Tehran|Afranet|
+|19|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
