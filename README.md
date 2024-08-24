@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|202.57.18.3|8080|Indonesia|Krajan Karangwage|PT Akses Data Internusa|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|157.66.50.81|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|103.239.253.66|8080|Bangladesh|Dhaka|SSDTECH Object2|
-|12|177.234.223.29|999|Ecuador|Jipijapa|Ufinet Panama S.A.|
-|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|103.184.54.42|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|191.102.248.5|8085|Argentina|Rosario|IP·RED|
-|18|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|19|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
-|20|79.175.189.223|1080|Iran|Tehran|Afranet|
+|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|95.164.86.161|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|103.239.253.66|8080|Bangladesh|Dhaka|SSDTECH Object2|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|103.65.202.209|8080|India|Warangal|Vaishnavi Online Internet Services Pvt. Ltd.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.189.95|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|103.203.173.49|84|India|Hyderabad|Softgaurd Powertronics|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|201.144.25.10|8080|Mexico|Mexico City|UNINET|
 
 
 
