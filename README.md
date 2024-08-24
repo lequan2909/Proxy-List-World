@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|111.89.146.70|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
 |4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|111.89.146.70|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
 |10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|13|103.165.157.206|8088|Indonesia|Taman|MEGADATA-ISP|
+|14|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|15|177.93.33.122|999|Colombia|La Sierra|TV AZTECA SUCURSAL COLOMBIA|
+|16|171.97.16.245|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
 |19|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|20|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
+|20|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
