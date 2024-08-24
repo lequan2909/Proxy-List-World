@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|144.86.187.46|3129|United States|Malden|Charles River Operation|
-|5|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|6|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|7|203.145.58.234|8080|Indonesia|Cianjur|PT HSN GLOBAL NETWORK|
-|8|144.86.187.35|3129|United States|Malden|Charles River Operation|
-|9|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|10|144.86.187.57|3129|United States|Malden|Charles River Operation|
-|11|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|12|144.86.187.52|3129|United States|Malden|Charles River Operation|
-|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|79.175.189.223|1080|Iran|Tehran|Afranet|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|122.54.105.109|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
