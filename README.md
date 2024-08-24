@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|125.26.133.109|8080|Thailand|Khlong Luang|TOT Public Company Limited|
+|2|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|79.175.189.223|1080|Iran|Tehran|Afranet|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|195.158.197.96|8088|Ukraine|Kyiv|Teremky LAN ISP LLC|
-|8|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
-|11|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
-|12|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|119.110.69.215|57413|Indonesia|Jakarta|Maxindo|
+|14|130.36.47.108|80|United States|Libertyville|Abbott Laboratories|
 |15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|16|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
+|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|18|101.255.166.185|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|72.10.160.173|8517|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
