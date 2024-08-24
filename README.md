@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|124.156.172.181|3128|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|13|113.31.114.213|3128|China|Yangpu|UCLOUD|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|9|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|27.112.70.42|8083|Indonesia|Jakarta|GRAHANET|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|16|72.10.160.170|6931|Canada|Montreal|GloboTech Communications|
-|17|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|20|177.93.36.74|3128|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
+|18|72.10.160.170|6931|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
 
 
 
