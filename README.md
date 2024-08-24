@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|111.89.146.58|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |3|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|190.8.47.122|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
-|10|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|11|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|12|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|112.201.184.35|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|170.78.144.41|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
+|11|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|14|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
