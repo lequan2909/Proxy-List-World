@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|79.175.189.88|1080|Iran|Tehran|Afranet|
-|3|79.175.189.220|1080|Iran|Tehran|Afranet|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|20|72.10.160.170|4009|Canada|Montreal|GloboTech Communications|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|101.255.169.249|8080|Indonesia|Bekasi|PT Remala Abadi|
+|5|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|103.168.44.210|3127|Indonesia|Jakarta|PT CYB Media Group|
+|12|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
+|13|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|15.235.199.252|3128|Singapore|Singapore|OVH SAS|
+|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|18|103.203.233.99|3125|Indonesia|Klapanunggal|INDANA|
+|19|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
