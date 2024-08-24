@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|110.77.171.77|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|8|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|11|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|12|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|13|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|15|156.250.117.14|40030|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|16|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|17|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|18|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|20|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|113.53.3.145|8081|Thailand|Pattani|TOT Public Company Limited|
+|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|103.163.244.52|83|India|Panipat|Infolink System|
+|14|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|36.111.151.156|80|China|Lipu|China Telecom|
+|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
 
