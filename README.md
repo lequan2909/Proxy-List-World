@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|109.200.186.109|8080|Yemen|Dhamār|Public Telecommunication Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|84.255.40.228|8998|Malta|Sliema|Melita plc|
-|12|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|114.9.26.118|8090|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|36.67.199.171|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|20|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
 
 
 
