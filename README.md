@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|111.89.146.70|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|8|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|43.154.118.74|8088|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|13|79.175.189.223|1080|Iran|Tehran|Afranet|
+|10|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|149.51.225.130|3128|United States|New York|Rackdog, LLC|
 |14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|113.53.3.145|8081|Thailand|Pattani|TOT Public Company Limited|
-|17|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|79.175.189.223|1080|Iran|Tehran|Afranet|
+|16|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|17|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|18|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|19|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
 
 
 
