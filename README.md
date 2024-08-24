@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|160.248.189.98|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|18|38.183.209.61|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|19|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|61.129.2.212|8080|China|Beijing|CHINANET|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|17|72.10.160.170|29129|Canada|Montreal|GloboTech Communications|
+|18|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|19|147.78.169.80|8443|Slovakia|Nitra|OSTV s.r.o.|
+|20|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
