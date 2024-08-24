@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |4|79.175.189.220|1080|Iran|Tehran|Afranet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|114.130.86.145|5443|Bangladesh|Dhaka|Mango Teleservices Limited|
-|8|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|103.203.173.49|84|India|Hyderabad|Softgaurd Powertronics|
-|12|177.36.14.137|8080|Brazil|Limoeiro|1telecom Servicos De Tecnologia EM Internet Ltda|
-|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|154.212.175.82|9050|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
-|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|16|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|67.43.227.227|4849|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|72.10.160.170|6931|Canada|Montreal|GloboTech Communications|
+|16|154.212.175.82|9050|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|157.100.69.146|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
 
 
 
