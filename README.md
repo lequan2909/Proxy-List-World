@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|148.101.179.182|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A|
-|4|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|6|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|103.180.118.5|8888|Indonesia|Gresik|PT Persada Data Multimedia|
-|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|11|92.124.132.106|3128|Russia|Omsk|OJSC Sibirtelecom|
-|12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|13|102.214.104.56|8080|Libya|Qaşr Khiyār|Rawafed|
+|1|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|9|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|66.96.235.34|8080|Indonesia|Jakarta|MYREPUBLIC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|103.154.90.190|3128|Indonesia|Jakarta Pusat|MORATELINDONAP|
+|19|113.31.114.213|3128|China|Yangpu|UCLOUD|
+|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 
 
 
