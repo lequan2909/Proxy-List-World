@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|13|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
-|14|103.101.193.134|8085|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|15|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.160.174|5437|Canada|Montreal|GloboTech Communications|
-|19|102.214.164.243|1981|Libya|Benghazi|Taqnyat Aljeel Company Communication and Information Technology LTD|
-|20|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|4|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|5|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|15|191.102.248.9|8084|Argentina|Rosario|IP·RED|
+|16|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|20|103.97.224.185|8080|Indonesia|Kudus|PT Sistem Interkoneksi Data|
 
 
 
