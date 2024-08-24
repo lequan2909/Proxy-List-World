@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|203.150.128.228|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|79.175.189.223|1080|Iran|Tehran|Afranet|
-|14|155.232.186.47|3128|South Africa|Cape Town|TENET (The UNINET Project)|
-|15|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|15|79.175.189.223|1080|Iran|Tehran|Afranet|
+|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|114.129.19.139|8080|Indonesia|Ciangsana|PT Hipernet Indodata|
 
 
 
