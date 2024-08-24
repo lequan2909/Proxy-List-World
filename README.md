@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|7|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|15|103.234.27.78|9990|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|1.20.169.200|8080|Thailand|Pattaya|TOT Public Company Limited|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|20|103.180.198.23|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|4|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.164.235.18|8085|Indonesia|Bandung|PT Bantani Media Utama|
+|11|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
 
 
 
