@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|41.203.213.211|8080|Kenya|Nairobi|Safaricom Limited|
+|1|160.248.185.235|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|186.3.76.228|999|Ecuador|Guayaquil|Telconet S.A|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|14|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|15|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|16|222.127.67.204|8085|Philippines|Lahug|INNOVE|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|16|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|18|190.102.139.146|999|Peru|Punta Hermosa|Optical Technologies S.A.C.|
+|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 |20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
 
 
