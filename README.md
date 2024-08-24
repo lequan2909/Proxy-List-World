@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |5|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|116.109.196.48|1001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|103.112.212.57|83|India|Bijapur|Supersonic Isp Connectivity India Pvt Ltd|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|17|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|18|103.101.193.134|8085|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|51.77.211.107|80|France|Strasbourg|OVH SAS|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|18|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
