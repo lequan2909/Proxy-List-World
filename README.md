@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.159.194.33|1111|Indonesia|Temanjang|PT Giga Digital Nusantara|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|6|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
-|10|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
-|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|15|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|18|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|2|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|12|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|13|200.24.136.42|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
+|14|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
