@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|103.165.155.60|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|3|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|9|190.121.207.58|999|Guatemala|San Agustín Acasaguastlán|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|10|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|79.175.189.223|1080|Iran|Tehran|Afranet|
 |12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|118.68.249.51|1001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|38.252.209.12|999|Peru|Lima|Cogent Communications|
-|16|103.255.241.101|8080|Indonesia|Semarang|PT Media Sarana Data|
-|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|18|200.106.124.119|999|Peru|Tacna|Telefonica del Peru|
-|19|139.255.94.123|39635|Indonesia|Jakarta|PT. LINKNET|
-|20|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|14|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|36.111.151.156|80|China|Lipu|China Telecom|
+|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|18|136.232.224.202|8080|India|Nellore|Reliance Jio Infocomm Limited|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
