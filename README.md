@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|4|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|9|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|13|144.86.187.62|3129|United States|Malden|Charles River Operation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|101.109.56.146|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|103.245.16.133|8080|Indonesia|Depok|PT Quantum Tera Network|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |14|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|17|67.43.227.226|28521|Canada|Montreal|GloboTech Communications|
-|18|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|15|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|16|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|103.156.17.63|8080|Indonesia|Indramayu|RSTNET|
 |19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|41.33.203.115|1982|Egypt|Cairo|TE Data|
 
 
 
