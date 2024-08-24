@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|111.89.146.70|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|8|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|9|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|12|130.36.47.108|443|United States|Libertyville|Abbott Laboratories|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|178.150.253.205|8080|Ukraine|Kyiv|Triolan|
-|15|177.93.33.122|999|Colombia|La Sierra|TV AZTECA SUCURSAL COLOMBIA|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|19|212.252.72.106|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
-|20|190.102.139.146|999|Peru|Punta Hermosa|Optical Technologies S.A.C.|
+|2|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|3|111.89.146.70|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|157.15.51.18|8080|Indonesia|Aceh Tamiang Regency|Aceh Digital Fenam|
+|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 
 
 
