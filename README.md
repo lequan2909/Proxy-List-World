@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|4|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|103.159.194.33|1111|Indonesia|Temanjang|PT Giga Digital Nusantara|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|18|116.254.118.162|8080|Indonesia|Semarang|PT Media Sarana Data|
-|19|116.101.22.249|10042|Vietnam|Haiphong|Viettel Corporation|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|7|47.251.70.179|80|United States|Minkler|Alibaba Cloud LLC|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|14|103.148.100.24|8090|Indonesia|Denpasar|FLYNET|
+|15|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|19|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
 
 
 
