@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|6|156.250.117.14|40030|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|156.250.117.35|40230|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|13|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|14|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|15|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|16|156.250.118.116|40094|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|45.122.228.10|8899|Australia|Kuttabul|NETPTYLTD|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|156.250.118.119|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|8|156.250.117.14|40030|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|11|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|79.175.189.223|1080|Iran|Tehran|Afranet|
+|14|156.250.118.66|40198|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|17|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|18|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|19|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
