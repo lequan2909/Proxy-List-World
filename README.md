@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5448** proxies at the latest update. Usable proxies are below.
+> Scraper found **5454** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|701|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|113|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3435|✅|
 
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |3|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|182.53.29.120|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|5|92.222.248.117|8080|France|Paris|OVH SAS|
-|6|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|103.165.43.140|8080|Indonesia|Jagirsidosermo|PT iForte Global Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|180.191.59.191|8081|Philippines|Tarlac City|Globe Telecom|
+|8|182.53.29.120|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|9|202.148.16.147|8080|Indonesia|Jakarta|PT. Core Mediatech|
+|10|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.101.193.134|8085|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|15|103.147.30.65|3128|Indonesia|Bandung|PT Semesta Teknologi Informatika|
-|16|210.5.104.126|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|18|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|5.249.145.68|3128|Italy|Arezzo|Aruba S.p.A. Network|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|103.115.20.108|7777|Indonesia|Subang|PMYNET|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
