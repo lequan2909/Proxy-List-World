@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.185.235|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|206.237.98.244|810|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|10|66.96.235.34|8080|Indonesia|Jakarta|MYREPUBLIC|
-|11|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
-|12|38.52.222.242|999|Dominican Republic|Santo Domingo Oeste|TELECABLE DOMINICANO, S.A.|
-|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|103.203.173.49|84|India|Hyderabad|Softgaurd Powertronics|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|154.212.175.82|9002|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
+|6|202.180.21.211|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|9|113.31.114.213|3128|China|Yangpu|UCLOUD|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|12|15.235.171.203|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|13|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
 |19|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
 
 
 
