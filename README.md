@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|175.143.205.175|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|9|103.80.77.1|443|Indonesia|Jakarta|Dewan Ketahanan Nasional|
-|10|103.155.198.50|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|181.78.105.156|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|15|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
-|16|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|191.102.248.9|8084|Argentina|Rosario|IP·RED|
-|19|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|190.40.234.18|999|Peru|Chiclayo|Telefonica del Peru|
+|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|177.36.14.137|8080|Brazil|Limoeiro|1telecom Servicos De Tecnologia EM Internet Ltda|
+|18|119.96.235.202|30000|China|Shanghai|CHINANET Hubei province network|
+|19|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
