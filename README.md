@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|79.175.189.220|1080|Iran|Tehran|Afranet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|110.77.170.112|80|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |10|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|12|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|103.131.237.34|8080|Indonesia|Dumai|PT. DUMAI MANDIRI NET|
-|17|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
-|19|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|18|118.117.189.13|8089|China|Muping|Chinanet|
+|19|154.73.28.253|8080|Libya|Tripoli|Rawafed|
+|20|67.43.227.227|19159|Canada|Montreal|GloboTech Communications|
 
 
 
