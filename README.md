@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|171.243.22.87|10557|Vietnam|Nha Trang|Viettel Corporation|
+|2|110.77.171.77|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
 |3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|156.250.118.116|40094|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|5|110.77.171.77|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|156.250.118.66|40198|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|156.250.119.172|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|10|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|156.250.117.35|40230|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|13|156.250.118.119|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
-|19|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|20|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|156.250.118.116|40094|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|123.16.13.146|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|103.164.112.123|10001|Indonesia|Jakarta|SOLUSINET|
+|17|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|18|202.154.19.163|8080|Indonesia|Jombang|DIGITNET|
+|19|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|188.125.167.71|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
