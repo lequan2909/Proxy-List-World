@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|111.89.146.58|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|202.51.214.134|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|7|181.78.3.138|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|8|91.187.113.50|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|170.78.144.41|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
-|12|103.44.19.185|1111|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|67.43.228.253|20781|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.226|14721|Canada|Montreal|GloboTech Communications|
-|19|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|2|111.89.146.58|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|79.175.189.223|1080|Iran|Tehran|Afranet|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|160.22.6.148|8080|Indonesia|Demak|PT Satu Lima Indonesia|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
+|19|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
