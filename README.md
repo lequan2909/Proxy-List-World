@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|79.175.189.223|1080|Iran|Tehran|Afranet|
-|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|3|79.175.189.51|1080|Iran|Tehran|Afranet|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
 |5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|67.43.236.22|22079|Canada|Montreal|GloboTech Communications|
-|13|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|14|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
-|18|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|101.109.56.146|8080|Thailand|Pattaya|TOT Public Company Limited|
+|8|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|103.131.237.34|8080|Indonesia|Dumai|PT. DUMAI MANDIRI NET|
+|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|110.77.170.112|80|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
