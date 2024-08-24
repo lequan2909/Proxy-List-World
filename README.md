@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|79.175.189.223|1080|Iran|Tehran|Afranet|
-|2|79.175.189.220|1080|Iran|Tehran|Afranet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|103.245.16.133|8080|Indonesia|Depok|PT Quantum Tera Network|
-|10|27.54.71.234|8080|Australia|Pakenham|CNTC|
-|11|188.125.167.72|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|67.43.228.250|1483|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|15033|Canada|Montreal|GloboTech Communications|
-|18|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|79.175.189.220|1080|Iran|Tehran|Afranet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.185.234|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|103.217.224.201|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|10|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|110.77.170.112|80|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|14|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|15|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|154.73.28.253|8080|Libya|Tripoli|Rawafed|
+|17|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|18|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|19|112.201.184.35|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|20|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
 
 
 
