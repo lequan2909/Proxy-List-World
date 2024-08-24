@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5605** proxies at the latest update. Usable proxies are below.
+> Scraper found **5715** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|269|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|795|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|146|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3437|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.164.235.18|8085|Indonesia|Bandung|PT Bantani Media Utama|
-|11|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|10|152.166.69.34|8080|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|11|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
+|12|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
+|13|80.81.243.26|8800|Germany|Berlin|SPEEDBONE GmbH|
+|14|189.240.60.163|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|103.31.251.251|5040|Indonesia|Jakarta|ARGON|
+|19|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
 
 
 
