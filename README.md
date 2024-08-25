@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.93.167|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|72.10.160.172|25571|Canada|Montreal|GloboTech Communications|
-|4|72.10.164.178|6027|Canada|Montreal|GloboTech Communications|
-|5|72.10.164.178|6027|Canada|Montreal|GloboTech Communications|
-|6|72.10.164.178|6027|Canada|Montreal|GloboTech Communications|
-|7|160.248.93.173|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|10|160.248.93.147|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|160.248.9.109|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|67.43.228.251|14857|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|111.89.146.26|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|160.248.8.232|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|72.10.160.90|23241|Canada|Montreal|GloboTech Communications|
+|4|72.10.164.178|26373|Canada|Montreal|GloboTech Communications|
+|5|152.26.229.42|9443|United States|Concord|MCNC|
+|6|160.248.93.147|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|160.248.93.173|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.9.109|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|72.10.160.90|6985|Canada|Montreal|GloboTech Communications|
+|12|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|13|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|111.89.146.26|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.8.232|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|72.10.164.178|26373|Canada|Montreal|GloboTech Communications|
 
 
 
