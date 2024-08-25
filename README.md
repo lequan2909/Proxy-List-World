@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|103.154.230.108|8080|Indonesia|Lamongan|DIGITNET|
-|14|164.155.191.161|58394|United States|Chicago|Arosscloud Inc.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|164.155.191.161|58394|United States|Chicago|Arosscloud Inc.|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.173|14713|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|19805|Canada|Montreal|GloboTech Communications|
+|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|223.25.110.227|8080|Indonesia|Surabaya|SinergiNet|
+|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|103.145.160.3|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
+|12|67.43.227.228|1755|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|32151|Canada|Montreal|GloboTech Communications|
+|14|112.78.155.214|3128|Indonesia|Jakarta|BIZNET|
+|15|72.10.160.170|11129|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|32151|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|3281|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|8465|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.92|9525|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|13881|Canada|Montreal|GloboTech Communications|
 
 
 
