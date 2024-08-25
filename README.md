@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|111.89.146.28|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|111.89.146.28|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
 |8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|160.248.189.196|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|160.248.8.252|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|160.248.93.179|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|160.248.185.234|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|160.248.187.83|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.189.196|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.93.179|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|36.66.123.193|8989|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|13|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|160.248.8.252|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|160.248.187.83|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|160.248.185.234|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
