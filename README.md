@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|2|79.175.189.51|1080|Iran|Tehran|Afranet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|182.253.115.131|8080|Indonesia|Salatiga|BIZNET|
 |3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|103.158.121.51|8080|Indonesia|Indramayu|CDN|
-|8|112.201.184.35|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|9|88.99.126.109|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|6|178.124.86.79|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|9|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
 |11|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|160.248.185.234|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |14|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|15|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
 |16|160.248.8.232|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|103.57.80.28|58080|India|Bengaluru|Allnet Broadband Network Pvt Ltd|
-|19|160.248.189.95|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|190.90.233.65|8080|Colombia|Medellín|InterNexa Global Network|
+|19|139.255.67.212|8185|Indonesia|Jakarta|PT. LINKNET|
+|20|94.139.204.51|8081|Bulgaria|Lukovit|Lukovitnet Ltd.|
 
 
 
