@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|156.250.119.137|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|5|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|9|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|10|156.250.119.176|40074|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|11|156.250.118.116|40094|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|12|103.107.84.177|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|13|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|160.248.9.9|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|103.48.68.6|82|India|Hyderabad|Country Online Services PVT LTD|
-|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.248.189.204|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|135.148.100.78|48149|United States|Reston|OVH SAS|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|135.148.100.78|48149|United States|Reston|OVH SAS|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|160.248.9.9|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|223.25.110.204|1080|Indonesia|Surabaya|SinergiNet|
+|15|160.248.189.204|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.9.8|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|157.15.63.164|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|18|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
