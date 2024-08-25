@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.198.200.62|8082|Philippines|Nasugbu|Globe Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|160.248.8.232|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|152.26.229.42|9443|United States|Concord|MCNC|
-|9|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|10|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|11|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|13|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|72.10.160.170|9561|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|22653|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.227|1537|Canada|Montreal|GloboTech Communications|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|38.159.229.242|999|Ecuador|Vinces|Turbonet S.A.|
+|13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|103.172.42.235|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|18|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
+|19|103.234.159.5|8080|India|Bengaluru|MWPL|
+|20|107.173.82.202|2233|United States|Santa Clara|HostPapa|
 
 
 
