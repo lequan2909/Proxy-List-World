@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
 |8|79.175.189.51|1080|Iran|Tehran|Afranet|
 |9|161.34.36.74|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
+|19|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|111.89.146.20|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
