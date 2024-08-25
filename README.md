@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.8.231|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|161.34.36.74|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|7|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|12|121.172.52.96|3128|South Korea|Incheon|Korea Telecom|
-|13|111.89.146.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|160.248.93.187|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
-|18|117.40.32.133|8080|China|Taohua|Chinanet|
-|19|67.43.228.253|10317|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1833|Canada|Montreal|GloboTech Communications|
+|3|103.133.63.61|8080|Indonesia|Bandar Lampung|TLINK|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|38.156.75.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|14|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|111.89.146.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
