@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|79.175.189.220|1080|Iran|Tehran|Afranet|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|49.0.3.125|7777|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|103.158.121.51|8080|Indonesia|Indramayu|CDN|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|16|67.43.227.226|5565|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|20|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|45.250.215.8|8080|India|New Delhi|Geocity Network Solutions PVT LTD|
+|11|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|12|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|14|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|103.244.107.65|8080|Indonesia|Karawang|PT Sahabat Fiber Indonesia|
+|17|27.112.70.42|8083|Indonesia|Jakarta|GRAHANET|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
