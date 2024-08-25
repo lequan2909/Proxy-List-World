@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.248.189.206|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|160.248.8.242|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|160.248.9.36|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|160.248.8.242|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.248.9.36|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|14|67.43.227.227|3463|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|27419|Canada|Montreal|GloboTech Communications|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 |16|67.43.227.228|10811|Canada|Montreal|GloboTech Communications|
-|17|103.40.121.33|8089|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
+|17|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 |18|72.10.160.170|4617|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19275|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.229|11823|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|8263|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|12541|Canada|Montreal|GloboTech Communications|
 
 
 
