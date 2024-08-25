@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.187.202|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|104.248.165.240|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|8|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
-|14|103.156.16.182|1111|Indonesia|Jakarta|RSTNET|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|17|177.36.14.137|8080|Brazil|Limoeiro|1telecom Servicos De Tecnologia EM Internet Ltda|
-|18|91.217.179.134|8080|Ukraine|Kyiv|Startnet LTD|
-|19|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
-|20|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|138.201.32.80|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|79.175.189.51|1080|Iran|Tehran|Afranet|
+|14|101.109.36.170|8080|Thailand|Pattaya|TOT Public Company Limited|
+|15|27.147.129.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|160.248.187.202|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|181.209.122.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
