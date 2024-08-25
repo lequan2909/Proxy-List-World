@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|135.148.100.78|48149|United States|Reston|OVH SAS|
-|3|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|135.148.100.78|48149|United States|Reston|OVH SAS|
-|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|79.175.189.220|1080|Iran|Tehran|Afranet|
-|11|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|7|103.162.62.250|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|160.248.187.213|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.227|26485|Canada|Montreal|GloboTech Communications|
-|17|160.248.189.204|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.187.213|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.228|24143|Canada|Montreal|GloboTech Communications|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|160.248.189.204|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
