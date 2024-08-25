@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.9.3|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
 |6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|77.52.187.199|10000|Ukraine|Rokytne|PrJSC "VF UKRAINE"|
-|13|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|135.148.100.78|48149|United States|Reston|OVH SAS|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|182.253.109.206|8080|Indonesia|Semarang|Biznet Metronet|
-|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|103.97.224.185|8080|Indonesia|Kudus|PT Sistem Interkoneksi Data|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|27.54.71.231|8080|Australia|Pakenham|CNTC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|14|200.39.120.78|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
+|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|16|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|17|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|135.148.100.78|48149|United States|Reston|OVH SAS|
+|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 
 
 
