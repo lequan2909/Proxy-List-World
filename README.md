@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|27.72.64.123|5102|Vietnam|Hanoi|Viettel Group|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|27.73.244.144|5102|Vietnam|Hanoi|Newass2011xDSLHN|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|17|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|18|103.154.92.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|19|103.175.46.31|8080|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
-|20|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|85.193.86.29|8080|Russia|St Petersburg|TimeWeb Ltd.|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|14|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|15|160.25.180.35|8080|India|Mumbai|Mnk Infoway Private Limited|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|20|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
 
 
 
