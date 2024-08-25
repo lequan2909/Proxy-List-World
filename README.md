@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.187.202|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|8|138.201.32.80|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|79.175.189.88|1080|Iran|Tehran|Afranet|
-|11|79.175.189.223|1080|Iran|Tehran|Afranet|
-|12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|200.69.21.207|3128|Singapore|Singapore|A2 Hosting, Inc.|
-|15|103.108.156.38|8080|Indonesia|Bekasi|Pop Net Indonesia|
+|1|160.248.189.205|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.248.187.201|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.93.173|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|111.89.146.26|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|6|160.248.189.95|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.187.202|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
 |16|15.204.161.192|18080|United States|Reston|OVH SAS|
 |17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|1.230.21.150|8443|South Korea|Guro-gu|SK Broadband Co Ltd|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|213.165.248.42|3128|The Netherlands|Amsterdam|InMotion Hosting, Inc.|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
