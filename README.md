@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|79.175.189.220|1080|Iran|Tehran|Afranet|
-|12|79.175.189.51|1080|Iran|Tehran|Afranet|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
-|14|79.175.189.223|1080|Iran|Tehran|Afranet|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|135.148.100.78|48149|United States|Reston|OVH SAS|
-|17|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|18|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|135.148.100.78|48149|United States|Reston|OVH SAS|
+|11|177.234.247.221|8080|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
+|12|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
+|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|160.248.187.83|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.186.212|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
