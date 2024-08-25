@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5419** proxies at the latest update. Usable proxies are below.
+> Scraper found **5403** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|813|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|169|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3468|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3452|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|79.175.189.88|1080|Iran|Tehran|Afranet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.185.235|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|160.248.185.235|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|103.124.198.85|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|14|160.248.93.148|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|12|160.248.93.148|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.248.93.147|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |18|161.34.36.74|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.93.147|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.236.20|18379|Canada|Montreal|GloboTech Communications|
+|19|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
