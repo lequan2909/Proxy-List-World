@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|152.32.67.107|65535|Philippines|Mandaluyong|Converge ICT Solution Inc|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
 |7|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|72.10.160.170|20289|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|9377|Canada|Montreal|GloboTech Communications|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.156.15.244|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|13|79.175.189.88|1080|Iran|Tehran|Afranet|
+|14|72.10.160.170|20749|Canada|Montreal|GloboTech Communications|
 |15|160.248.93.173|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|72.10.160.170|20289|Canada|Montreal|GloboTech Communications|
-|17|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|72.10.160.170|20749|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|160.248.93.189|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
 
 
 
