@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.93.147|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|79.175.189.88|1080|Iran|Tehran|Afranet|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.93.147|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|179.228.17.8|8080|Brazil|São Paulo|Vivo|
-|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|144.86.187.52|3129|United States|Malden|Charles River Operation|
-|14|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|15|72.10.160.171|21845|Canada|Montreal|GloboTech Communications|
+|9|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|183.80.111.55|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 |16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|144.86.187.58|3129|United States|Malden|Charles River Operation|
-|18|223.76.192.60|3128|China|Wuhan|China Mobile communications corporation|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|144.86.187.34|3129|United States|Malden|Charles River Operation|
+|17|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|36.111.151.156|80|China|Lipu|China Telecom|
+|19|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|20|67.43.228.253|26043|Canada|Montreal|GloboTech Communications|
 
 
 
