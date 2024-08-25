@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|180.180.88.93|8080|Thailand|Rayong|TOT Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|111.89.146.28|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|67.43.228.251|20605|Canada|Montreal|GloboTech Communications|
-|15|103.106.114.106|7777|Indonesia|Kedaton|SMSNET|
-|16|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|1|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|180.180.88.93|8080|Thailand|Rayong|TOT Public Company Limited|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|103.106.114.106|7777|Indonesia|Kedaton|SMSNET|
+|12|103.200.17.246|8088|Indonesia|Central Java|PT Palapa Global Nusantara|
+|13|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|111.89.146.28|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
+|17|67.43.227.226|14455|Canada|Montreal|GloboTech Communications|
 |18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|67.43.228.253|20149|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|67.43.227.227|3301|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
