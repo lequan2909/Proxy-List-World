@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|3|154.73.29.201|8080|Libya|Tripoli|Rawafed|
+|4|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|5|103.88.239.178|84|India|Hyderabad|Mana Communications|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|160.248.189.98|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|16|79.175.189.51|1080|Iran|Tehran|Afranet|
-|17|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|67.43.227.227|7487|Canada|Montreal|GloboTech Communications|
+|17|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|103.247.23.201|8080|Indonesia|Bekasi|PT wifian Solution|
 
 
 
