@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|79.175.189.223|1080|Iran|Tehran|Afranet|
-|12|79.175.189.51|1080|Iran|Tehran|Afranet|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|116.105.57.43|10001|Vietnam|Quận Bảy|Viettel Corporation|
-|17|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|18|111.89.146.28|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|8|5.182.36.2|3128|Switzerland|Bern|Stark Industries Solutions LTD|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|14.245.163.203|8008|Vietnam|Da Nang|VNPT|
+|11|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|15|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|18|45.166.93.27|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|111.89.146.28|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
