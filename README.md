@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.9.8|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |2|160.248.189.206|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|160.248.8.242|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|160.248.93.189|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|160.248.9.36|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|187.251.130.156|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
-|15|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.160.184.158|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|160.248.8.242|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|160.248.9.36|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|160.248.93.189|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |16|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|19|5.39.77.8|8080|France|Roubaix|OVH SAS|
-|20|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|123.200.7.110|8080|Bangladesh|Khulna|Corporate-Subscriber|
+|18|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|203.150.128.118|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
