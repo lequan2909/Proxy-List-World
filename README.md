@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|135.148.100.78|48149|United States|Reston|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|135.148.100.78|48149|United States|Reston|OVH SAS|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|36.90.174.37|8080|Indonesia|Kediri|PT. Telekomunikasi Indonesia|
-|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|49.0.3.125|7777|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|6|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|103.234.159.5|8080|India|Bengaluru|MWPL|
+|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 |12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|16|103.53.76.82|8080|Indonesia|Surabaya|INTI|
-|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|19|201.176.195.124|3128|Argentina|Ezeiza|Telefonica de Argentina|
-|20|67.43.227.226|20699|Canada|Montreal|GloboTech Communications|
+|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|17|103.248.9.154|8080|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|18|67.43.227.226|6233|Canada|Montreal|GloboTech Communications|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|191.102.248.5|8085|Argentina|Rosario|IP·RED|
 
 
 
