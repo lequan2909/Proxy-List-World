@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.187.81|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.248.8.232|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.187.81|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.248.8.232|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|223.25.110.228|3125|Indonesia|Surabaya|SinergiNet|
-|9|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|10|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|11|103.142.165.193|58080|India|Bengaluru|All Time Tele Infra Pvt Ltd|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|9|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
 |13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|27.73.244.150|5102|Vietnam|Hanoi|Newass2011xDSLHN|
-|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|16|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
-|17|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|179.49.117.19|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
-|19|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|103.85.114.249|8080|Bangladesh|Dhaka|FiSSA communication|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|18|103.166.159.142|7777|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|19|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
+|20|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
