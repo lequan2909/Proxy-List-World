@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5313** proxies at the latest update. Usable proxies are below.
+> Scraper found **5262** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|13|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|183|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3440|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|180.180.88.93|8080|Thailand|Rayong|TOT Public Company Limited|
-|4|103.160.184.155|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|152.32.67.107|65535|Philippines|Mandaluyong|Converge ICT Solution Inc|
-|10|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.154.230.108|8080|Indonesia|Lamongan|DIGITNET|
+|4|116.197.132.201|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|67.43.227.227|30285|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.94|25987|Canada|Montreal|GloboTech Communications|
 |13|111.89.146.20|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|202.5.56.139|5020|Bangladesh|Khulna|BBTS-NEW|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|111.89.146.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|116.197.132.201|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
-|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.160.172|16987|Canada|Montreal|GloboTech Communications|
+|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|67.43.236.20|17051|Canada|Montreal|GloboTech Communications|
+|19|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|20|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
