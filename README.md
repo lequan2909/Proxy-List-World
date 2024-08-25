@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|36.90.174.37|8080|Indonesia|Kediri|PT. Telekomunikasi Indonesia|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|107.173.82.202|2233|United States|Santa Clara|HostPapa|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|8|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.234.159.5|8080|India|Bengaluru|MWPL|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|45.189.252.245|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|5|193.168.173.73|3128|Netherlands|Amsterdam|CLOUDWEBMANAGE-EU|
+|6|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|72.10.160.170|1183|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|29003|Canada|Montreal|GloboTech Communications|
+|15|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|72.10.160.170|1183|Canada|Montreal|GloboTech Communications|
 
 
 
