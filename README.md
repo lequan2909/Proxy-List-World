@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|103.154.230.108|8080|Indonesia|Lamongan|DIGITNET|
-|4|116.197.132.201|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|67.43.227.227|30285|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.94|25987|Canada|Montreal|GloboTech Communications|
-|13|111.89.146.20|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.172|16987|Canada|Montreal|GloboTech Communications|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|67.43.236.20|17051|Canada|Montreal|GloboTech Communications|
-|19|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|20|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|180.180.88.93|8080|Thailand|Rayong|TOT Public Company Limited|
+|4|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|111.89.146.20|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|202.5.56.139|5020|Bangladesh|Khulna|BBTS-NEW|
+|9|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|67.43.227.227|27699|Canada|Montreal|GloboTech Communications|
+|12|12.15.68.21|8080|United States|Alex|AT&T Services, Inc.|
+|13|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
+|14|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|41.65.71.151|1976|Egypt|Kirdāsah|Etisalat Misr|
+|16|116.197.132.201|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
+|17|103.176.97.223|3127|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|18|160.248.8.232|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|103.180.122.52|8091|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
