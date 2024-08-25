@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5978** proxies at the latest update. Usable proxies are below.
+> Scraper found **5948** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|284|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1001|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|283|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|972|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|207|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3528|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|85.193.86.29|8080|Russia|St Petersburg|TimeWeb Ltd.|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|61.7.149.4|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|14|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|15|160.25.180.35|8080|India|Mumbai|Mnk Infoway Private Limited|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|102.68.128.216|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|20|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|12|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|16|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
