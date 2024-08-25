@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5731** proxies at the latest update. Usable proxies are below.
+> Scraper found **5688** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|283|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|896|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|853|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|196|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3398|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.9.3|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|160.248.9.3|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
 |5|79.175.189.223|1080|Iran|Tehran|Afranet|
 |6|79.175.189.88|1080|Iran|Tehran|Afranet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|27.54.71.231|8080|Australia|Pakenham|CNTC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|14|200.39.120.78|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
-|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|16|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|17|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|18|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|135.148.100.78|48149|United States|Reston|OVH SAS|
-|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|8|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|14|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|15|114.9.26.118|8090|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|18|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|77.52.187.199|10000|Ukraine|Rokytne|PrJSC "VF UKRAINE"|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
