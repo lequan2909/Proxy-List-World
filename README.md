@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |4|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|67.43.227.227|28153|Canada|Montreal|GloboTech Communications|
-|18|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|115.74.127.233|2007|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|20|72.10.164.178|32089|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|72.10.164.178|1215|Canada|Montreal|GloboTech Communications|
+|15|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|160.248.93.167|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 
 
 
