@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.107.84.177|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|117.54.239.130|3128|Indonesia|Cianjur|PT IndoInternet|
-|12|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|14|160.248.9.12|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|160.248.90.93|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.236.18|27477|Canada|Montreal|GloboTech Communications|
+|5|103.48.68.6|82|India|Hyderabad|Country Online Services PVT LTD|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.248.90.93|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|103.107.84.177|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|10|160.248.9.12|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|200.251.41.61|8002|Brazil|Itabirito|Claro S.A|
+|13|67.43.236.18|27477|Canada|Montreal|GloboTech Communications|
+|14|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|67.43.227.227|30041|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|6951|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|30041|Canada|Montreal|GloboTech Communications|
+|20|160.248.187.68|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
