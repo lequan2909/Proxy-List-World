@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|135.148.100.78|48149|United States|Reston|OVH SAS|
-|3|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Care Limited|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|103.158.121.51|8080|Indonesia|Indramayu|CDN|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|135.148.100.78|48149|United States|Reston|OVH SAS|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.191.196.47|3127|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|11|79.175.189.223|1080|Iran|Tehran|Afranet|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
-|15|66.27.58.70|8080|United States|Artesia|Spectrum|
-|16|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|20|201.217.246.212|8080|Argentina|Villa Berthet|Ecom Chaco S.A.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|103.158.121.51|8080|Indonesia|Indramayu|CDN|
+|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|103.31.251.250|5040|Indonesia|Jakarta|ARGON|
+|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|178.124.86.79|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|10|110.49.34.126|32650|Thailand|Phan Thong|Advanced Wireless Network Company Limited|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|83.171.111.142|8080|Russia|Murmansk|Rostelecom networks|
+|16|103.132.245.100|58080|India|Pune|Limerick Technologies Pvt Ltd|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|103.54.80.162|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
 
 
 
