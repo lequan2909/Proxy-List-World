@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|79.175.189.88|1080|Iran|Tehran|Afranet|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|5.182.36.2|3128|Switzerland|Bern|Stark Industries Solutions LTD|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|11|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|160.248.185.235|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|160.248.93.189|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|67.43.227.226|1563|Canada|Montreal|GloboTech Communications|
+|10|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.189.249.196|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|13|27.73.208.37|9002|Vietnam|Hanoi|Viettel Group|
+|14|160.248.185.235|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.93.189|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|67.43.227.226|1563|Canada|Montreal|GloboTech Communications|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.187.99|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|19|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|20|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
