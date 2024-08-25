@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|160.248.9.109|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|135.148.100.78|48149|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|10|79.175.189.88|1080|Iran|Tehran|Afranet|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|103.80.116.150|8080|India|Hyderabad|Multicraft Digital Technologies Private Limited|
-|13|135.148.100.78|48149|United States|Reston|OVH SAS|
-|14|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|45.133.107.234|81|Russia|Mezmay|Art-net LLC|
+|9|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
+|11|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|160.248.185.235|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.93.201|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.248.189.205|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
