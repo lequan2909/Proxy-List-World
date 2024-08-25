@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|5|5.182.36.2|3128|Switzerland|Bern|Stark Industries Solutions LTD|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|13|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|16|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|103.123.168.202|3932|Bangladesh|Āshuganj City|Sajid Trading Ltd|
-|19|160.248.187.83|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|103.81.223.78|8080|Indonesia|Bandung|STARNET|
+|7|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.248.187.83|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|161.34.38.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|16|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|160.248.189.95|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
 
 
 
