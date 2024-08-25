@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|79.175.189.88|1080|Iran|Tehran|Afranet|
-|4|135.148.100.78|48149|United States|Reston|OVH SAS|
+|1|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
 |7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|171.6.122.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|10|135.148.100.78|48149|United States|Reston|OVH SAS|
-|11|102.0.9.110|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|12|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|13|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|103.211.107.230|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|103.48.69.54|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|107.173.82.202|2233|United States|Santa Clara|HostPapa|
+|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|135.148.100.78|48149|United States|Reston|OVH SAS|
+|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|79.175.189.223|1080|Iran|Tehran|Afranet|
+|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|16|135.148.100.78|48149|United States|Reston|OVH SAS|
+|17|171.6.122.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|18|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
 
 
 
