@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|66.206.15.148|8136|United States|Los Angeles|Primary|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|79.175.189.88|1080|Iran|Tehran|Afranet|
-|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|13|66.206.15.148|8136|United States|Los Angeles|Primary|
-|14|129.146.226.84|3128|United States|Phoenix|Oracle Corporation|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|12|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|14|79.175.189.223|1080|Iran|Tehran|Afranet|
+|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|16|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|17|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|20|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 
 
 
