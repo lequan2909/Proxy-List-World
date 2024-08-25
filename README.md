@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|45.231.223.250|999|Mexico|Tijuana|Distrokom S De RL De CV|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|13|79.175.189.220|1080|Iran|Tehran|Afranet|
-|14|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|19|160.248.9.109|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|204.199.120.60|8080|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|79.175.189.51|1080|Iran|Tehran|Afranet|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|149.51.225.130|3128|United States|New York|Rackdog, LLC|
 
 
 
