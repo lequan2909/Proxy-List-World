@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.93.148|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|160.248.93.187|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|160.248.93.148|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.248.93.187|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |13|160.248.93.173|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|67.43.227.227|17409|Canada|Montreal|GloboTech Communications|
-|15|160.248.93.148|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|72.10.160.90|2391|Canada|Montreal|GloboTech Communications|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|72.10.164.178|11763|Canada|Montreal|GloboTech Communications|
-|19|103.107.85.249|1111|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|20|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|160.248.93.148|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.8.231|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
