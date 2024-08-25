@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.9.33|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|160.248.9.33|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|7|160.248.9.109|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|6|160.248.9.109|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|135.148.100.78|48149|United States|Reston|OVH SAS|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|79.175.189.88|1080|Iran|Tehran|Afranet|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|182.16.169.178|8080|Indonesia|Depok|Cust Mwifo|
-|16|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
-|17|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|18|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|188.132.222.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|11|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|12|135.148.100.78|48149|United States|Reston|OVH SAS|
+|13|150.239.111.249|3128|United States|Washington|SoftLayer|
+|14|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|16|150.239.111.249|3128|United States|Washington|SoftLayer|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|89.46.249.248|25585|United Kingdom|London|Hydra Communications Ltd|
+|19|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|103.167.5.13|8080|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
