@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.248.93.147|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|36.66.171.243|8080|Indonesia|Sukoharjo|PT. Telekomunikasi Indonesia|
-|10|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|13|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|72.10.160.174|27521|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|10553|Canada|Montreal|GloboTech Communications|
-|16|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|72.10.160.90|10553|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|28971|Canada|Montreal|GloboTech Communications|
-|20|5.44.101.53|13128|Germany|Frankfurt am Main|Alvotech GmbH via velia.net|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|14|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|19|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
 
 
 
