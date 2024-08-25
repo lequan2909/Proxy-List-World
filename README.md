@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5320** proxies at the latest update. Usable proxies are below.
+> Scraper found **5321** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|13|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|814|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|96|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|160.248.93.179|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|72.10.160.170|6371|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|2563|Canada|Montreal|GloboTech Communications|
-|20|111.89.146.58|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|183.96.12.239|3128|South Korea|Jungnang-gu|Korea Telecom|
+|4|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|12|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
+|14|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|160.248.8.236|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|160.248.93.179|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
