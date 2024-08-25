@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|5|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|129.154.192.70|3128|South Korea|Seoul|Oracle Corporation|
-|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|7|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|13|183.134.101.187|3128|China|Hangzhou|Chinanet|
+|14|72.10.160.90|16233|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|149.51.225.130|3128|United States|New York|Rackdog, LLC|
 |17|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
