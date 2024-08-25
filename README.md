@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|11|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |12|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|14|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|15|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|160.248.93.148|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
