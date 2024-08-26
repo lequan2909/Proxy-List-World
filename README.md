@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|79.175.189.223|1080|Iran|Tehran|Afranet|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|170.238.104.213|8080|Brazil|São Fidélis|Ubbinet Provedor de Servicos de Internet Ltda ME|
-|15|103.167.31.157|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|72.10.160.170|6785|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|7547|Canada|Montreal|GloboTech Communications|
+|2|79.175.189.51|1080|Iran|Tehran|Afranet|
+|3|79.175.189.88|1080|Iran|Tehran|Afranet|
+|4|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|9|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|12|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|72.10.160.170|3655|Canada|Montreal|GloboTech Communications|
+|15|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
+|17|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|18|67.43.227.227|13351|Canada|Montreal|GloboTech Communications|
+|19|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
+|20|67.43.227.227|13351|Canada|Montreal|GloboTech Communications|
 
 
 
