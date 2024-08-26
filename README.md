@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |3|119.76.142.142|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
-|4|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.55.30.22|1111|Indonesia|Kupang|PT Jaringan Optic Nusantara|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|117.68.38.134|31672|China|Hefei|China Telecom|
-|17|124.158.167.155|2909|Indonesia|Jakarta|ICON+|
-|18|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|6|171.228.144.105|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|17|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|36.111.151.156|80|China|Lipu|China Telecom|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
