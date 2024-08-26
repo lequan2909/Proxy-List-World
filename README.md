@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|79.175.189.223|1080|Iran|Tehran|Afranet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|8|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|67.43.227.226|30899|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19399|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|4669|Canada|Montreal|GloboTech Communications|
-|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
+|13|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.226|28283|Canada|Montreal|GloboTech Communications|
+|17|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|72.10.164.178|8073|Canada|Montreal|GloboTech Communications|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
