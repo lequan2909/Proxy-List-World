@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|79.175.189.220|1080|Iran|Tehran|Afranet|
-|4|157.15.51.18|8080|Indonesia|Aceh Tamiang Regency|Aceh Digital Fenam|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|67.43.236.20|27715|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|67.43.236.20|27715|Canada|Montreal|GloboTech Communications|
-|14|172.190.226.115|3128|United States|Boydton|Microsoft|
-|15|72.10.164.178|13129|Canada|Montreal|GloboTech Communications|
-|16|160.248.93.173|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|72.10.160.170|3597|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.164.178|13129|Canada|Montreal|GloboTech Communications|
+|1|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|154.212.175.21|9071|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|112.201.184.35|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|6|157.66.50.81|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|79.175.189.220|1080|Iran|Tehran|Afranet|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|182.160.123.113|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|160.248.93.173|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.248.93.179|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
