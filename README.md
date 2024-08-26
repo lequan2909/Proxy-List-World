@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|79.175.189.223|1080|Iran|Tehran|Afranet|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|202.179.184.69|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|201.71.2.249|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|13|72.10.160.172|27487|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|36.111.151.156|443|China|Lipu|China Telecom|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|67.43.236.20|22983|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|3559|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|161.34.38.233|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|79.175.189.51|1080|Iran|Tehran|Afranet|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|116.105.57.43|10008|Vietnam|Quận Bảy|Viettel Corporation|
+|18|131.0.207.176|8080|Brazil|Espumoso|CB NET TELECOM LTDA|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|67.43.236.20|29235|Canada|Montreal|GloboTech Communications|
 
 
 
