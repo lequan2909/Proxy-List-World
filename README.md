@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.93.202|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.93.202|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|160.248.93.164|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|112.78.164.43|8080|Indonesia|Jakarta|Biznet Networks|
-|7|202.93.244.54|8085|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|6|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|77.41.146.52|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|12|160.248.93.169|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|160.248.93.167|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|160.248.93.173|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|160.248.93.169|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.248.93.167|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|160.248.93.173|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|160.248.187.114|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|111.89.146.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|160.248.93.171|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
