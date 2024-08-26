@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
-|7|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|8|151.22.181.209|8080|Italy|Rho|INFOSTRADA|
-|9|79.175.189.88|1080|Iran|Tehran|Afranet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|103.163.245.9|83|India|Panipat|Infolink System|
+|14|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.187.81|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
