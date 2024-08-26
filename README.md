@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|79.175.189.51|1080|Iran|Tehran|Afranet|
 |4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|61.129.2.212|8080|China|Beijing|CHINANET|
-|6|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
+|5|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|6|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|160.248.93.201|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |8|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|160.248.187.114|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|67.43.227.226|32321|Canada|Montreal|GloboTech Communications|
+|9|160.248.187.114|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|67.43.227.228|11525|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|161.34.38.233|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|72.10.160.172|18521|Canada|Montreal|GloboTech Communications|
-|14|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|117.40.32.133|8080|China|Taohua|Chinanet|
-|16|72.10.164.178|5019|Canada|Montreal|GloboTech Communications|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|72.10.160.92|17053|Canada|Montreal|GloboTech Communications|
 |17|67.43.227.227|5729|Canada|Montreal|GloboTech Communications|
-|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.227|5729|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|9249|Canada|Montreal|GloboTech Communications|
+|18|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
