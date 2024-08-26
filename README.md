@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.93.172|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|160.248.93.142|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|160.248.93.163|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|160.248.185.169|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.93.158|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|160.248.93.142|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|160.248.185.169|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.93.172|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|160.248.93.158|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|160.248.93.163|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|95.217.5.41|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|79.175.189.223|1080|Iran|Tehran|Afranet|
-|14|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|23.143.160.193|999|Puerto Rico|Santo Domingo|Unonet Corp|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|79.175.189.220|1080|Iran|Tehran|Afranet|
+|12|95.217.5.41|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|79.175.189.223|1080|Iran|Tehran|Afranet|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
+|19|14.245.163.203|6001|Vietnam|Da Nang|VNPT|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
