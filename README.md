@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.131.196|58080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|171.246.149.74|32179|Vietnam|Bình Dương Province|Viettel Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|82.223.246.196|80|Spain|Logroño|arsys.es|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|80.66.81.46|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|160.248.93.187|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|171.246.149.74|32179|Vietnam|Bình Dương Province|Viettel Corporation|
-|17|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|79.175.189.220|1080|Iran|Tehran|Afranet|
+|4|80.81.243.26|8800|Germany|Berlin|SPEEDBONE GmbH|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|160.248.93.187|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|160.248.93.183|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|12|157.66.85.104|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|13|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|72.10.160.173|4387|Canada|Montreal|GloboTech Communications|
+|15|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|18|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|19|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
