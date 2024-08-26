@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|12|187.249.20.153|8081|Mexico|Ciudad Benito Juárez|Transtelco Inc|
-|13|103.130.5.34|8080|Indonesia|Samarinda|LINTASMAYA|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
-|17|154.73.29.129|8080|Libya|Tripoli|Rawafed|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|27809|Canada|Montreal|GloboTech Communications|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|119.76.142.142|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
+|4|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|79.175.189.220|1080|Iran|Tehran|Afranet|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|13|182.53.20.113|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|14|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|117.68.38.134|31672|China|Hefei|China Telecom|
+|18|36.111.151.156|80|China|Lipu|China Telecom|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
 
 
 
