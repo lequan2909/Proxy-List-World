@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.175.189.223|1080|Iran|Tehran|Afranet|
-|9|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.174.238.233|8181|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|6|41.111.243.134|80|Algeria|Belcourt|Algerie Telecom|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.248.93.174|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|160.248.8.242|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|160.248.8.242|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.171|9751|Canada|Montreal|GloboTech Communications|
-|16|161.34.35.240|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.160.170|29327|Canada|Montreal|GloboTech Communications|
+|16|160.248.93.167|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |17|160.248.8.230|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|160.248.93.167|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|72.10.164.178|22345|Canada|Montreal|GloboTech Communications|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|72.10.160.170|29327|Canada|Montreal|GloboTech Communications|
 |20|72.10.160.170|29327|Canada|Montreal|GloboTech Communications|
 
 
