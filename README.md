@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|111.89.146.58|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|160.248.93.168|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|160.248.8.238|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|216.137.177.184|3128|United States|Detroit|A2 Hosting, Inc.|
+|1|160.248.93.160|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.248.93.168|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|111.89.146.58|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|160.248.8.238|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |7|161.34.38.233|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.93.143|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|79.175.189.223|1080|Iran|Tehran|Afranet|
-|11|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|216.137.177.184|3128|United States|Detroit|A2 Hosting, Inc.|
-|15|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|79.175.189.51|1080|Iran|Tehran|Afranet|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|216.137.177.184|3128|United States|Detroit|A2 Hosting, Inc.|
+|11|160.248.93.143|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|79.175.189.88|1080|Iran|Tehran|Afranet|
+|15|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|216.137.177.184|3128|United States|Detroit|A2 Hosting, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
