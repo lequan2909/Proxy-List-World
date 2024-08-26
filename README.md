@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.9.104|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|160.248.185.234|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|79.175.189.88|1080|Iran|Tehran|Afranet|
-|11|167.86.106.97|3128|Germany|Nuremberg|Contabo GmbH|
-|12|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|41.111.243.133|80|Algeria|Belcourt|Algerie Telecom|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|18|49.157.62.204|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|19|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|160.248.185.234|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|8|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.122.1.74|7777|Indonesia|Palembang|PT. Java Digital Nusantara|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|167.86.106.97|3128|Germany|Nuremberg|Contabo GmbH|
+|14|103.156.74.156|8080|Indonesia|Gianyar|PT Trika Global Media|
+|15|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|79.175.189.88|1080|Iran|Tehran|Afranet|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|149.51.225.130|3128|United States|New York|Rackdog, LLC|
 
 
 
