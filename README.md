@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.9.104|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.185.234|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.9.104|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|160.248.185.234|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|79.175.189.88|1080|Iran|Tehran|Afranet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|20|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|9|167.86.106.97|3128|Germany|Nuremberg|Contabo GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.154.230.107|8080|Indonesia|Lamongan|DIGITNET|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|14|43.243.174.26|83|India|Pune|Shah Solutions|
+|15|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|17|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|18|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
