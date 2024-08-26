@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|160.248.189.98|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|154.212.175.34|9049|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|79.175.189.220|1080|Iran|Tehran|Afranet|
-|11|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|12|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|180.178.98.91|2526|Indonesia|Jakarta|PT Hipernet Indodata|
+|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|67.43.227.226|25065|Canada|Montreal|GloboTech Communications|
+|20|160.248.185.163|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
