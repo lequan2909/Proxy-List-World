@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|79.175.189.220|1080|Iran|Tehran|Afranet|
-|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|79.175.189.223|1080|Iran|Tehran|Afranet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.160.173|7297|Canada|Montreal|GloboTech Communications|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|112.78.131.6|8080|Indonesia|Pamulang|Biznet Networks|
-|14|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|2|103.165.155.75|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.172.42.89|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|139.255.41.118|8080|Indonesia|Jakarta|PT. LINKNET|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|72.10.160.174|8493|Canada|Montreal|GloboTech Communications|
 
 
 
