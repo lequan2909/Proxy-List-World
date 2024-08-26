@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5415** proxies at the latest update. Usable proxies are below.
+> Scraper found **5417** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|785|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|179|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|9|103.172.70.203|8080|Indonesia|Gemolong|AZNET|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|79.175.189.88|1080|Iran|Tehran|Afranet|
-|13|79.175.189.220|1080|Iran|Tehran|Afranet|
-|14|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
+|5|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|103.169.238.25|8080|Indonesia|Lampung|PT INDONESIA TRANS NETWORK|
+|9|103.217.224.69|8585|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|12|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|13|206.42.19.56|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|14|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|103.148.25.201|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
