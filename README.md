@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|5|203.190.44.252|8090|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|103.144.181.74|80|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|13|67.43.228.253|19215|Canada|Montreal|GloboTech Communications|
-|14|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|160.248.93.177|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|67.43.227.227|30915|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|30915|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|30933|Canada|Montreal|GloboTech Communications|
-|20|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|51.210.255.127|80|France|Gravelines|OVH SAS|
+|10|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|160.248.93.177|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
