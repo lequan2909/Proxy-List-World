@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|10|79.175.189.223|1080|Iran|Tehran|Afranet|
-|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.173|4909|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|19505|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|20699|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|23817|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|5353|Canada|Montreal|GloboTech Communications|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|79.175.189.223|1080|Iran|Tehran|Afranet|
+|10|101.255.166.141|3128|Indonesia|Bekasi|PT Remala Abadi|
+|11|103.118.152.12|8080|Bangladesh|Dhaka|NEXTGENONLINE|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.248.8.231|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|20|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
 
 
 
