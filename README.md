@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.93.142|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|160.248.93.172|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.248.93.142|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|160.248.185.169|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |6|160.248.93.163|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|160.248.185.169|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|160.248.93.161|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|160.248.93.158|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.93.158|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.93.161|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |10|160.248.93.205|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|79.175.189.220|1080|Iran|Tehran|Afranet|
-|12|38.183.144.117|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|79.175.189.223|1080|Iran|Tehran|Afranet|
-|15|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.247.22.79|8080|Indonesia|Bekasi|PT wifian Solution|
-|17|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|79.175.189.88|1080|Iran|Tehran|Afranet|
+|13|103.133.222.64|8090|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|14|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|160.248.9.109|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|38.183.144.117|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
 
 
 
