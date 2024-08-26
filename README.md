@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |6|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.87.170.228|45585|India|Jaipur|Tejays Industries Pvt Ltd|
-|10|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|79.175.189.220|1080|Iran|Tehran|Afranet|
-|14|79.175.189.51|1080|Iran|Tehran|Afranet|
-|15|82.223.246.196|80|Spain|Logroño|arsys.es|
-|16|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|18|103.25.210.141|3319|Indonesia|Purwokerto|TRANSDATA|
-|19|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.87.170.228|45585|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|9|79.175.189.223|1080|Iran|Tehran|Afranet|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|79.175.189.220|1080|Iran|Tehran|Afranet|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
