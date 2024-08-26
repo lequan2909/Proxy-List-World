@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|79.175.189.220|1080|Iran|Tehran|Afranet|
-|3|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|103.69.20.89|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|9|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|38.188.127.228|7777|Indonesia|Blitar|PT Data Buana Nusantara|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|79.175.189.220|1080|Iran|Tehran|Afranet|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|67.43.227.227|22133|Canada|Montreal|GloboTech Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|13|36.111.151.156|443|China|Lipu|China Telecom|
 |14|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|16|72.10.164.178|20725|Canada|Montreal|GloboTech Communications|
-|17|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|18|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|19|122.155.165.191|3128|Thailand|Khlong Luang|CAT Telecom Public Company Limited|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|18|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|19|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
