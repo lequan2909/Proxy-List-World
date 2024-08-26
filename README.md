@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|119.76.142.142|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
 |3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|4|119.76.142.142|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
-|12|186.3.97.43|999|Ecuador|Esmeraldas|Telconet S.A|
-|13|171.228.144.105|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|209.14.113.2|999|Colombia|Cértegui|AGIS|
-|16|103.153.136.93|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|36.111.151.156|443|China|Lipu|China Telecom|
-|19|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
-|20|171.241.193.60|10001|Vietnam|Thanh Hóa|Viettel Corporation|
+|11|36.111.151.156|80|China|Lipu|China Telecom|
+|12|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|200.114.81.252|8080|Argentina|Santa Rosa|Citarella S.A.|
+|14|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
+|15|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
+|16|171.241.193.60|10001|Vietnam|Thanh Hóa|Viettel Corporation|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|161.34.38.233|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
