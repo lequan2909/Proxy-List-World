@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|5|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|79.175.189.51|1080|Iran|Tehran|Afranet|
-|13|103.127.220.126|1080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|41.111.243.134|80|Algeria|Belcourt|Algerie Telecom|
-|16|203.190.44.252|8090|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|17|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|111.89.146.62|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|79.175.189.223|1080|Iran|Tehran|Afranet|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|103.255.241.101|8080|Indonesia|Semarang|PT Media Sarana Data|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|20|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
