@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|111.89.146.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|160.248.8.242|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|67.43.236.20|19209|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|72.10.160.91|4743|Canada|Montreal|GloboTech Communications|
-|19|111.89.146.20|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|67.43.227.227|6175|Canada|Montreal|GloboTech Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|101.255.209.41|8080|Indonesia|Jakarta|PT Remala Abadi|
+|12|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
+|15|111.89.146.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|160.248.8.242|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|160.248.9.104|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
