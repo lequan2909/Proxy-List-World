@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|103.159.195.233|9091|Indonesia|Rembang|PT Giga Digital Nusantara|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|10|188.72.43.129|47193|Iraq|Xebat|Pirmam For Information Technology Ltd|
-|11|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
-|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|13|103.180.118.138|1111|Indonesia|Gresik|PT Persada Data Multimedia|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|16|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
-|17|171.241.193.60|10001|Vietnam|Thanh Hóa|Viettel Corporation|
-|18|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|67.43.227.226|1991|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|1305|Canada|Montreal|GloboTech Communications|
+|2|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|3|140.238.243.243|2083|India|Mumbai|Oracle Corporation|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
+|9|103.244.23.226|8181|Indonesia|Cileungsir|PT Kahuripan Makmur Sentosa|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
+|12|51.255.204.242|8392|France|Gravelines|OVH SAS|
+|13|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|14|222.127.139.2|80|Philippines|Taguig|Globe Telecom|
+|15|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
+|18|72.10.160.172|8053|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|160.248.9.109|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
