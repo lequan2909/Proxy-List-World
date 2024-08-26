@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|160.248.93.189|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|72.10.164.178|8651|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
+|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|36.91.15.241|8080|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|10|103.105.55.51|9090|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|160.248.93.189|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |17|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|111.89.146.26|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|72.10.164.178|8651|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 
 
 
