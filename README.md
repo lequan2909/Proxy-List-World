@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|79.175.189.51|1080|Iran|Tehran|Afranet|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.93.187|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|160.248.93.167|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.248.8.231|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|72.10.164.178|6233|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|7|160.248.93.167|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.248.93.187|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|14.245.163.203|7009|Vietnam|Da Nang|VNPT|
+|12|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.8.231|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|67.43.227.230|17119|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|1799|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|11871|Canada|Montreal|GloboTech Communications|
+|18|103.154.230.124|8080|Indonesia|Lamongan|DIGITNET|
+|19|72.10.164.178|7223|Canada|Montreal|GloboTech Communications|
 |20|72.10.160.171|23411|Canada|Montreal|GloboTech Communications|
 
 
