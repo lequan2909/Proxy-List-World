@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|2|160.248.185.129|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.93.134|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|160.248.93.142|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|160.248.93.134|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|160.248.185.129|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.93.142|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|13|144.86.187.61|3129|United States|Malden|Charles River Operation|
+|14|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|15|144.86.187.49|3129|United States|Malden|Charles River Operation|
 |16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|19|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|20|144.86.187.61|3129|United States|Malden|Charles River Operation|
+|18|144.86.187.48|3129|United States|Malden|Charles River Operation|
+|19|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|111.89.146.23|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
