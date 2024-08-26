@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5373** proxies at the latest update. Usable proxies are below.
+> Scraper found **5366** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|716|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|145|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|138|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3425|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|79.175.189.220|1080|Iran|Tehran|Afranet|
-|3|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 |4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|103.216.57.177|8080|Bangladesh|Dhaka|Triangle Services|
-|9|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|10|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
-|13|160.248.9.104|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|72.10.160.173|8833|Canada|Montreal|GloboTech Communications|
-|19|160.248.187.81|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|113.161.70.165|41890|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|103.48.68.123|83|India|Hyderabad|Country Online Services PVT LTD|
+|11|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|12|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|103.174.236.72|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|15|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|16|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|17|160.248.9.104|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
