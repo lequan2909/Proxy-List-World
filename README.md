@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
 |2|182.53.20.113|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|103.169.238.211|3127|Indonesia|Lampung|PT INDONESIA TRANS NETWORK|
-|6|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|85.175.5.50|3128|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|181.129.123.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|213.130.138.12|3125|Indonesia|Bogor|PT Atharva Telematika Persada|
-|14|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|15|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
-|16|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|67.43.227.227|26719|Canada|Montreal|GloboTech Communications|
-|20|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|103.169.238.211|3127|Indonesia|Lampung|PT INDONESIA TRANS NETWORK|
+|11|36.111.151.156|443|China|Lipu|China Telecom|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|15|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
