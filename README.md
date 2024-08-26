@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|160.248.93.147|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|9|129.154.192.70|3128|South Korea|Seoul|Oracle Corporation|
+|10|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|12|221.139.249.113|3128|South Korea|Seoul|SK Broadband Co Ltd|
+|13|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|14|161.34.35.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|17|144.86.187.42|3129|United States|Malden|Charles River Operation|
 |18|152.26.229.86|9443|United States|Concord|MCNC|
 |19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|85.172.174.29|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
