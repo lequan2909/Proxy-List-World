@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|1|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|13|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|79.175.189.223|1080|Iran|Tehran|Afranet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|6|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|79.175.189.223|1080|Iran|Tehran|Afranet|
+|14|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|15|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|160.248.93.163|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|20|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
