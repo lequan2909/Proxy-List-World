@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|160.248.93.202|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|67.43.227.228|11525|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|15821|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|67.43.236.20|15821|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|11223|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|11223|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
+|2|79.175.189.51|1080|Iran|Tehran|Afranet|
+|3|102.214.255.6|8082|Kenya|Mombasa|SMA FIBERNET|
+|4|160.248.93.202|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|103.167.31.157|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|6|152.26.231.42|9443|United States|Concord|MCNC|
+|7|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|72.10.160.170|31989|Canada|Montreal|GloboTech Communications|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
 |15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|67.43.228.253|13181|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.160.170|11593|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|20777|Canada|Montreal|GloboTech Communications|
-|20|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|157.15.63.230|8090|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|17|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|72.10.160.170|31989|Canada|Montreal|GloboTech Communications|
+|19|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|67.43.227.227|11223|Canada|Montreal|GloboTech Communications|
 
 
 
