@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.187.114|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|67.43.227.227|32461|Canada|Montreal|GloboTech Communications|
-|10|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
+|10|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|13|72.10.160.170|13985|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|32461|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.21|29477|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|12587|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|17971|Canada|Montreal|GloboTech Communications|
+|12|160.248.187.114|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|67.43.227.227|16873|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|1369|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|25197|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.227|16873|Canada|Montreal|GloboTech Communications|
 |18|67.43.227.226|27251|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|25197|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|32461|Canada|Montreal|GloboTech Communications|
+|19|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
+|20|72.10.160.90|11151|Canada|Montreal|GloboTech Communications|
 
 
 
