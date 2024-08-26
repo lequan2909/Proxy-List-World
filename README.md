@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|79.175.189.220|1080|Iran|Tehran|Afranet|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|151.22.181.209|8080|Italy|Rho|INFOSTRADA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|6|79.175.189.220|1080|Iran|Tehran|Afranet|
 |7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|58.69.117.2|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
-|20|72.10.160.174|27363|Canada|Montreal|GloboTech Communications|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|14|200.24.157.121|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
