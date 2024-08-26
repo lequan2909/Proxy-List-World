@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|3|14.245.163.203|6001|Vietnam|Da Nang|VNPT|
-|4|160.248.185.229|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|101.109.56.146|8080|Thailand|Pattaya|TOT Public Company Limited|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|45.189.252.218|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|210.87.89.229|8080|Indonesia|Teluknaga|MYREPUBLIC|
-|17|72.10.160.90|29291|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.248.185.229|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|79.175.189.51|1080|Iran|Tehran|Afranet|
+|5|79.175.189.223|1080|Iran|Tehran|Afranet|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|188.132.222.247|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|36.83.52.0|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
