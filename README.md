@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|171.243.22.87|10557|Vietnam|Nha Trang|Viettel Corporation|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|79.175.189.220|1080|Iran|Tehran|Afranet|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|40.123.207.53|8080|United Arab Emirates|Dubai|Microsoft Corporation|
-|16|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|160.248.93.163|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|5|183.102.15.224|3128|South Korea|Gwangmyeong|Korea Telecom|
+|6|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|103.172.42.235|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|177.55.50.45|8085|Brazil|Cambará|Webby Tecnologia Ltda|
+|12|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|13|40.123.207.53|8080|United Arab Emirates|Dubai|Microsoft Corporation|
+|14|160.248.93.163|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|79.175.189.223|1080|Iran|Tehran|Afranet|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
