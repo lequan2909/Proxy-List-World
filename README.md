@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|79.175.189.223|1080|Iran|Tehran|Afranet|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|13|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|36.111.151.156|443|China|Lipu|China Telecom|
-|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
-|20|121.100.19.82|7088|Indonesia|Malang|NAP.Net.id - Network Access Point|
+|10|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|13|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|160.248.93.202|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
+|18|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|19|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|20|117.40.32.133|8080|China|Taohua|Chinanet|
 
 
 
