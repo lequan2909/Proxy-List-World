@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|79.175.189.223|1080|Iran|Tehran|Afranet|
 |4|79.175.189.220|1080|Iran|Tehran|Afranet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|67.43.227.227|3849|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.171|9751|Canada|Montreal|GloboTech Communications|
-|12|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|103.169.129.4|1111|Indonesia|Cirebon|PT Media Akses Data|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
 |14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.170|1915|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|3849|Canada|Montreal|GloboTech Communications|
-|17|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|72.10.164.178|2069|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|30869|Canada|Montreal|GloboTech Communications|
-|20|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
+|15|72.10.160.171|24783|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|27955|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|1915|Canada|Montreal|GloboTech Communications|
+|18|32.142.206.26|9081|United States|Bolton|AT&T Services, Inc.|
+|19|72.10.164.178|21637|Canada|Montreal|GloboTech Communications|
+|20|160.248.189.95|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
