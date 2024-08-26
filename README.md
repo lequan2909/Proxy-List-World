@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|72.10.160.170|10099|Canada|Montreal|GloboTech Communications|
-|13|103.184.54.62|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|14|103.186.8.162|8080|Indonesia|Kediri|PRISMA|
-|15|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.228|1151|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1941|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|79.175.189.220|1080|Iran|Tehran|Afranet|
+|10|79.175.189.51|1080|Iran|Tehran|Afranet|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|14|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|72.10.160.170|10099|Canada|Montreal|GloboTech Communications|
+|18|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
+|19|72.10.164.178|2545|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
