@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|79.175.189.220|1080|Iran|Tehran|Afranet|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|188.72.43.129|47193|Iraq|Xebat|Pirmam For Information Technology Ltd|
-|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|11|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|12|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|13|160.248.9.105|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|77.105.136.28|1995|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|72.10.160.173|3361|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|12421|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|72.10.160.90|12421|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|8053|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|25231|Canada|Montreal|GloboTech Communications|
+|3|79.175.189.223|1080|Iran|Tehran|Afranet|
+|4|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|84.255.35.210|9898|Malta|Sliema|Melita plc|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|160.248.9.105|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|36.111.151.156|443|China|Lipu|China Telecom|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|72.10.160.173|16641|Canada|Montreal|GloboTech Communications|
+|15|111.89.146.58|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|17|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|18|72.10.160.172|12879|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
