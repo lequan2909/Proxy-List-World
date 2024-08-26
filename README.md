@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|6|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.87.170.228|45585|India|Jaipur|Tejays Industries Pvt Ltd|
-|11|79.175.189.51|1080|Iran|Tehran|Afranet|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|79.175.189.220|1080|Iran|Tehran|Afranet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|9|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|79.175.189.220|1080|Iran|Tehran|Afranet|
+|15|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|20|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
