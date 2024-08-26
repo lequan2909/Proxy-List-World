@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|79.175.189.223|1080|Iran|Tehran|Afranet|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|160.248.189.98|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|9|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|9|43.252.107.102|7777|Indonesia|Blitar|PT Lintas Data Prima|
 |10|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|154.212.175.34|9049|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
-|12|79.175.189.220|1080|Iran|Tehran|Afranet|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|11|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|154.212.175.34|9049|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
+|14|79.175.189.220|1080|Iran|Tehran|Afranet|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|160.248.93.181|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|67.43.227.227|15075|Canada|Montreal|GloboTech Communications|
-|19|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|17|160.248.93.200|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.248.186.67|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 |20|160.248.93.179|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
