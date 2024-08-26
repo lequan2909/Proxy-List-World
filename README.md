@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4981** proxies at the latest update. Usable proxies are below.
+> Scraper found **5012** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|90|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|739|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|788|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|139|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|121|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3055|✅|
 
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|4|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|5|183.102.15.224|3128|South Korea|Gwangmyeong|Korea Telecom|
-|6|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|79.175.189.223|1080|Iran|Tehran|Afranet|
 |8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|103.172.42.235|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|177.55.50.45|8085|Brazil|Cambará|Webby Tecnologia Ltda|
-|12|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|13|40.123.207.53|8080|United Arab Emirates|Dubai|Microsoft Corporation|
-|14|160.248.93.163|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|79.175.189.88|1080|Iran|Tehran|Afranet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
+|12|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|40.123.207.53|8080|United Arab Emirates|Dubai|Microsoft Corporation|
 |16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|111.89.146.21|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.248.93.163|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|160.248.185.229|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
