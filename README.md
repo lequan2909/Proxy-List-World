@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|3|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|79.175.189.220|1080|Iran|Tehran|Afranet|
+|4|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|6|160.248.93.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
 |8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|67.43.227.227|9929|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|160.248.187.81|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|67.43.227.228|10517|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.22|4101|Canada|Montreal|GloboTech Communications|
-|20|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|10|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
+|13|124.236.25.252|8080|China|Shijiazhuang|Shijiazhuang IDC network, CHINANET Hebei province|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|16|103.245.17.219|8080|Indonesia|Depok|PT Quantum Tera Network|
+|17|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|160.248.187.81|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
