@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|2|160.248.93.134|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.154.230.88|8080|Indonesia|Lamongan|DIGITNET|
-|5|160.248.185.129|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.185.129|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
+|5|160.248.93.134|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|118.218.123.235|3128|South Korea|Asan|SK Broadband Co Ltd|
-|9|103.72.89.69|8181|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
-|10|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|144.86.187.40|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|144.86.187.46|3129|United States|Malden|Charles River Operation|
-|20|144.86.187.59|3129|United States|Malden|Charles River Operation|
+|8|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
+|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|14|160.248.93.166|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|160.248.93.178|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.248.93.162|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
