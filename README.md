@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|67.43.236.22|30877|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|15145|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.22|30877|Canada|Montreal|GloboTech Communications|
-|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|15|72.10.160.171|13227|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|27287|Canada|Montreal|GloboTech Communications|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
-|18|72.10.160.90|4007|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|5095|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|5095|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|135.181.102.118|7117|Finland|Helsinki|Hetzner Online GmbH|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|171.241.193.60|10001|Vietnam|Thanh Hóa|Viettel Corporation|
+|11|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|67.43.236.18|8883|Canada|Montreal|GloboTech Communications|
+|13|101.255.208.22|3127|Indonesia|Ciputat|PT Remala Abadi|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|36.111.151.156|80|China|Lipu|China Telecom|
+|16|67.43.227.227|10337|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.19|27287|Canada|Montreal|GloboTech Communications|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|27281|Canada|Montreal|GloboTech Communications|
 
 
 
