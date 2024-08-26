@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|111.89.146.24|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.8.233|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|160.248.189.98|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|15|109.194.22.112|3128|Russia|Khomutovo|CJSC "ER-Telecom Holding" Irkutsk branch|
-|16|160.248.185.48|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|5|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.87.170.228|45585|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|79.175.189.51|1080|Iran|Tehran|Afranet|
+|10|202.148.16.147|8080|Indonesia|Jakarta|PT. Core Mediatech|
+|11|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|118.68.249.51|1001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|109.194.22.112|3128|Russia|Khomutovo|CJSC "ER-Telecom Holding" Irkutsk branch|
+|19|201.20.118.146|27234|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|20|111.89.146.59|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
