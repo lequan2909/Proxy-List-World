@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|110.77.171.72|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|2|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|103.181.129.30|80|Indonesia|Tanjung|Diskominfo Tabalong|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|154.212.175.34|9049|Hong Kong|Hong Kong|Shenzhen Wanghu Technology Co|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|134.209.147.65|3128|India|Bengaluru|DigitalOcean, LLC|
-|13|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|160.248.185.156|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.185.234|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.185.236|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|160.248.185.153|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|79.175.189.220|1080|Iran|Tehran|Afranet|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|103.171.83.253|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
+|19|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
 
 
 
