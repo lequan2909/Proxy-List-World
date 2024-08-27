@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|4|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|67.43.228.253|10699|Canada|Montreal|GloboTech Communications|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|223.70.252.94|10008|China|Beijing|China Mobile communications corporation|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|15|72.10.160.173|16915|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|25061|Canada|Montreal|GloboTech Communications|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|67.43.236.20|18567|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8113|Canada|Montreal|GloboTech Communications|
-|20|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
+|1|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|2|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|7|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
+|8|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|16|216.176.187.99|39837|United States|Seattle|Wowrack.com|
+|17|202.51.214.134|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 
 
 
