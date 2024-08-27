@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|3|103.156.141.87|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|6|45.250.215.8|8080|India|New Delhi|Geocity Network Solutions PVT LTD|
-|7|192.145.228.211|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|8|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|125.26.4.221|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|67.43.236.20|16187|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|72.10.164.178|18391|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18391|Canada|Montreal|GloboTech Communications|
-|19|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|2|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|3|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|4|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|124.122.175.197|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|6|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|103.153.134.27|8090|Indonesia|Tangerang|WMINET|
+|12|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|13|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
+|14|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
