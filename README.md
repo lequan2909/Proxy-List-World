@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|128.199.214.49|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|8|206.1.161.25|9090|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|190.94.212.43|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|11|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
 |16|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
 |18|161.34.38.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.189.98|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|160.248.189.98|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
