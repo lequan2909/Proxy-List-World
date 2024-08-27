@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|79.175.189.220|1080|Iran|Tehran|Afranet|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|181.78.74.101|999|Colombia|Montería|IFX Networks Argentina S.R.L|
-|5|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
-|6|118.117.188.21|8089|China|Muping|Chinanet|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|10|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|11|5.8.34.209|3128|The Netherlands|Haarlem|G-Core Labs S.A.|
-|12|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|13|72.10.160.170|24907|Canada|Montreal|GloboTech Communications|
-|14|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|4|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|11|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|72.10.160.170|24907|Canada|Montreal|GloboTech Communications|
+|13|5.8.34.209|3128|The Netherlands|Haarlem|G-Core Labs S.A.|
+|14|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|181.37.240.89|999|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|72.10.160.90|30681|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|14399|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|72.10.160.90|11421|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|32287|Canada|Montreal|GloboTech Communications|
 
 
 
