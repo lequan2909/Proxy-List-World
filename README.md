@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|160.248.9.105|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|79.175.189.220|1080|Iran|Tehran|Afranet|
-|9|103.245.16.140|8080|Indonesia|Depok|PT Quantum Tera Network|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|79.175.189.88|1080|Iran|Tehran|Afranet|
-|12|79.175.189.223|1080|Iran|Tehran|Afranet|
-|13|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|189.50.9.30|8080|Brazil|Vitória|VIPRede Telecomunicações Ltda|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|160.248.9.105|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|79.175.189.223|1080|Iran|Tehran|Afranet|
+|12|79.175.189.88|1080|Iran|Tehran|Afranet|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|103.106.219.114|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
 |19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
 
 
 
