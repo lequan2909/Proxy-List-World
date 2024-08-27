@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.128.63|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|2|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|3|203.150.128.63|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 |7|117.40.32.133|8080|China|Taohua|Chinanet|
-|8|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|9|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|202.51.214.134|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|11|179.228.17.8|8080|Brazil|São Paulo|Vivo|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|72.10.164.178|16959|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|2463|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|183.88.241.167|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|18|45.233.67.210|999|Mexico|Tapachula|Conectividad Y Tecnologia S.A.|
-|19|202.154.18.133|8181|Indonesia|Jombang|DIGITNET|
-|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|8|216.10.247.145|3128|India|Mumbai|PDR|
+|9|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|10|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|72.10.164.178|10925|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|103.154.230.88|8080|Indonesia|Lamongan|DIGITNET|
+|20|67.43.236.20|28191|Canada|Montreal|GloboTech Communications|
 
 
 
