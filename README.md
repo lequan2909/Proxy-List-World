@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.38.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.38.234|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|180.180.151.197|8080|Thailand|Ban Talat Bueng|TOT Public Company Limited|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|10|124.248.180.161|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|11|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|160.248.9.105|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|9|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|19|160.248.9.105|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
