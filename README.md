@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|180.180.151.197|8080|Thailand|Ban Talat Bueng|TOT Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|8|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|180.180.151.197|8080|Thailand|Ban Talat Bueng|TOT Public Company Limited|
+|4|79.175.189.88|1080|Iran|Tehran|Afranet|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|188.125.169.40|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.38.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |14|111.89.146.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.248.93.205|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|160.248.93.201|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.227.227|24299|Canada|Montreal|GloboTech Communications|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|27.124.83.229|8080|Indonesia|Kebon Gunung|PT.Global Media Data Prima|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|160.248.93.205|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
