@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|220.118.70.92|1080|South Korea|Songpa-gu|Korea Telecom|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|45.167.124.230|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|134.35.47.84|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|13|185.125.169.24|8118|Norway|Sandefjord|TERRAHOST|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|36.91.133.49|10000|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|18|72.10.160.170|25721|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.171|17755|Canada|Montreal|GloboTech Communications|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|10|223.70.252.94|10008|China|Beijing|China Mobile communications corporation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
