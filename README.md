@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|186.3.76.228|999|Ecuador|Guayaquil|Telconet S.A|
-|8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|14|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|67.43.227.228|13131|Canada|Montreal|GloboTech Communications|
-|16|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|17|67.43.236.20|9071|Canada|Montreal|GloboTech Communications|
-|18|101.128.82.150|8181|Indonesia|Jakarta|CBN|
-|19|67.43.227.227|4075|Canada|Montreal|GloboTech Communications|
-|20|103.108.156.38|8080|Indonesia|Bekasi|Pop Net Indonesia|
+|2|117.40.32.133|8080|China|Taohua|Chinanet|
+|3|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|4|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|5|152.26.231.42|9443|United States|Concord|MCNC|
+|6|181.225.78.57|999|Colombia|San Martín|Media Commerce Partners S.A|
+|7|117.219.10.150|8080|India|Delhi|BSNL Internet|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|10|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|11|67.43.227.228|17817|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|14565|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|72.10.160.90|28029|Canada|Montreal|GloboTech Communications|
+|17|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|18|72.10.160.173|9337|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|9041|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|14565|Canada|Montreal|GloboTech Communications|
 
 
 
