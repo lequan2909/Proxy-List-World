@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|8|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|59.90.196.30|8080|India|Hyderabad|BSNL Internet|
-|19|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|66.206.15.148|8138|United States|Los Angeles|Primary|
+|10|79.175.189.220|1080|Iran|Tehran|Afranet|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.165.212.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
+|15|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
+|16|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|66.206.15.148|8138|United States|Los Angeles|Primary|
+|19|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
 
 
 
