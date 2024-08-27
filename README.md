@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|179.1.141.10|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
-|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|4|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|5|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|6|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|72.10.160.93|5613|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|21317|Canada|Montreal|GloboTech Communications|
+|1|101.51.107.190|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.156.17.114|8080|Indonesia|Indramayu|RSTNET|
+|5|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|6|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
+|9|41.65.103.6|1976|Egypt|Kirdāsah|Etisalat Misr Mobile BB|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|103.113.3.22|8080|Indonesia|South Tangerang|Diskominfo Tangerang Selatan|
+|14|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|16|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
 |17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|19|201.71.3.59|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|49.70.172.165|8089|China|Shanghai|Chinanet|
+|20|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
 
 
 
