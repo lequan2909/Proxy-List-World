@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|129.146.198.205|3129|United States|Phoenix|Oracle Corporation|
-|7|129.146.198.205|3129|United States|Phoenix|Oracle Corporation|
-|8|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|9|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|10|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
-|11|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|72.10.160.173|5899|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.18|1729|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|1495|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|2073|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|8287|Canada|Montreal|GloboTech Communications|
-|17|183.91.80.194|8089|Indonesia|Kebonbawang|PT Aplikanusa Lintasarta|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.227.229|2989|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|18003|Canada|Montreal|GloboTech Communications|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|79.175.189.223|1080|Iran|Tehran|Afranet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|13|121.101.135.94|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|36.95.142.35|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|72.10.160.173|5899|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|4685|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|4685|Canada|Montreal|GloboTech Communications|
 
 
 
