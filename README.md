@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.156.17.114|8080|Indonesia|Indramayu|RSTNET|
-|3|101.51.107.190|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|188.132.221.233|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|117.40.32.133|8080|China|Taohua|Chinanet|
-|8|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|9|158.140.169.9|8081|Indonesia|Surabaya|MYREPUBLIC|
-|10|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|1|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|6|103.159.90.42|83|India|Navi Mumbai|Pegasuswave Private Limited|
+|7|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|8|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
+|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
 |13|152.26.231.86|9443|United States|Concord|MCNC|
 |14|15.204.161.192|18080|United States|Reston|OVH SAS|
 |15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|72.10.160.90|33097|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|12737|Canada|Montreal|GloboTech Communications|
-|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|19|67.43.228.253|4269|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|33097|Canada|Montreal|GloboTech Communications|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|67.43.236.20|7365|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|25703|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|2523|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|7365|Canada|Montreal|GloboTech Communications|
 
 
 
