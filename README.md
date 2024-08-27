@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|160.248.93.205|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|67.43.228.253|5527|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|28373|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|45.70.221.145|18080|Argentina|Basavilbaso|Delco Imagen S.A.|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|79.175.189.220|1080|Iran|Tehran|Afranet|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.93.205|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|111.89.146.61|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|67.43.227.227|14559|Canada|Montreal|GloboTech Communications|
+|18|203.192.217.6|8080|India|Nagpur|Entire In2Cable|
+|19|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
+|20|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
