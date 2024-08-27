@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|79.175.189.220|1080|Iran|Tehran|Afranet|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|7|79.175.189.51|1080|Iran|Tehran|Afranet|
-|8|111.1.61.56|3128|China|Wenzhou|China Mobile communications corporation|
-|9|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|10|67.43.227.228|11625|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|12089|Canada|Montreal|GloboTech Communications|
-|12|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|13|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
+|5|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
+|6|79.175.189.51|1080|Iran|Tehran|Afranet|
+|7|189.100.247.109|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|101.255.169.249|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|111.1.61.56|3128|China|Wenzhou|China Mobile communications corporation|
+|13|202.57.25.62|1111|Indonesia|Semarang|announced of WINET|
 |14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|67.43.227.227|12089|Canada|Montreal|GloboTech Communications|
-|17|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
-|18|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|19|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
+|15|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|72.10.160.170|11629|Canada|Montreal|GloboTech Communications|
 
 
 
