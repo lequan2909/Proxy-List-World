@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.53.79.115|8086|Indonesia|Jakarta|INTI|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|5|103.53.79.115|8086|Indonesia|Jakarta|INTI|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|11|47.243.55.21|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|160.248.187.116|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|18|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|10|45.169.98.121|8080|Colombia|Mocoa|NET ISP S.A.S|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|43.252.11.68|8484|Indonesia|Jakarta|QUANTUMNET|
+|16|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
 
 
 
