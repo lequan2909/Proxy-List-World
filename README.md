@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
-|8|152.26.229.42|9443|United States|Concord|MCNC|
-|9|5.8.34.209|3128|The Netherlands|Haarlem|G-Core Labs S.A.|
-|10|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|67.43.227.228|23877|Canada|Montreal|GloboTech Communications|
+|5|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|6|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|7|117.40.32.133|8080|China|Taohua|Chinanet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
 |14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|67.43.227.227|23247|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23247|Canada|Montreal|GloboTech Communications|
-|20|103.136.7.158|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|15|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|67.43.227.227|8517|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|16699|Canada|Montreal|GloboTech Communications|
+|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
