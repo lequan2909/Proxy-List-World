@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|160.248.9.105|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|16|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
-|17|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|2|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.9.105|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|12|79.175.189.51|1080|Iran|Tehran|Afranet|
+|13|176.100.13.15|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|202.145.3.242|8080|Indonesia|Jakarta|PT UniNET Media Sakti|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|144.86.187.44|3129|United States|Malden|Charles River Operation|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|144.86.187.44|3129|United States|Malden|Charles River Operation|
 
 
 
