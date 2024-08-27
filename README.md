@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|117.40.32.133|8080|China|Taohua|Chinanet|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|187.234.48.223|3128|Mexico|Miguel Hidalgo|Uninet S.A. de C.V.|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|117.40.32.133|8080|China|Taohua|Chinanet|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|67.43.236.20|26413|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|2153|Canada|Montreal|GloboTech Communications|
+|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|181.192.18.56|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|6|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|117.40.32.133|8080|China|Taohua|Chinanet|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|72.10.160.171|15383|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|28115|Canada|Montreal|GloboTech Communications|
-|16|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|72.10.160.90|29597|Canada|Montreal|GloboTech Communications|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|72.10.160.90|29597|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|67.43.227.227|27069|Canada|Montreal|GloboTech Communications|
+|18|181.37.240.89|999|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
+|19|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|72.10.160.171|15383|Canada|Montreal|GloboTech Communications|
 
 
 
