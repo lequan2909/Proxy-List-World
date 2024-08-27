@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|79.175.189.51|1080|Iran|Tehran|Afranet|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|79.175.189.88|1080|Iran|Tehran|Afranet|
-|9|158.140.177.206|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|10|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.113.152.46|8080|Bangladesh|Dhaka|Md Ziaul Huque|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|205.164.84.247|8591|Brazil|Buritis|AGIS|
-|15|103.176.97.223|3127|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|16|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
-|17|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|18|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.93.205|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|9|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
+|10|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|15|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|188.132.166.85|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|17|160.248.93.205|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|116.105.57.43|10000|Vietnam|Quận Bảy|Viettel Corporation|
+|19|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
 
 
 
