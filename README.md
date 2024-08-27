@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|10|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|116.105.57.43|10001|Vietnam|Quận Bảy|Viettel Corporation|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Care Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|79.175.189.88|1080|Iran|Tehran|Afranet|
+|8|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
+|12|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|16|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|20|160.248.187.76|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
