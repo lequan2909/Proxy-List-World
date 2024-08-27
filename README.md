@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
 |6|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|10|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|11|72.10.164.178|19635|Canada|Montreal|GloboTech Communications|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|67.43.236.20|13201|Canada|Montreal|GloboTech Communications|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|67.43.227.228|14727|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|23247|Canada|Montreal|GloboTech Communications|
-|18|117.40.32.133|8080|China|Taohua|Chinanet|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|67.43.227.227|23247|Canada|Montreal|GloboTech Communications|
+|7|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|8|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|9|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|10|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|16|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|72.10.164.178|19635|Canada|Montreal|GloboTech Communications|
+|20|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
 
 
 
