@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|13|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|14|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|15|160.248.187.81|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.248.9.103|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|101.255.166.114|7777|Indonesia|Bekasi|PT Remala Abadi|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|9|103.166.159.163|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|223.70.252.94|10008|China|Beijing|China Mobile communications corporation|
+|15|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|191.97.19.10|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|17|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|45.233.67.226|999|Mexico|Tapachula|Conectividad Y Tecnologia S.A.|
+|19|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
+|20|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
 
 
 
