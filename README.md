@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|79.175.189.223|1080|Iran|Tehran|Afranet|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
 |10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|67.43.227.227|10685|Canada|Montreal|GloboTech Communications|
-|18|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|67.43.236.20|29955|Canada|Montreal|GloboTech Communications|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|16|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.180.123.219|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|19|72.10.160.170|26255|Canada|Montreal|GloboTech Communications|
+|20|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
 
 
 
