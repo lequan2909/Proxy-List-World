@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
 |4|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|5|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|14.245.163.203|7001|Vietnam|Da Nang|VNPT|
-|15|67.43.228.250|10031|Canada|Montreal|GloboTech Communications|
-|16|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|72.10.160.174|14717|Canada|Montreal|GloboTech Communications|
-|18|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|19|72.10.164.178|26865|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|16001|Canada|Montreal|GloboTech Communications|
+|5|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|6|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|160.154.163.18|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|12|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|13|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|14|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|200.188.123.247|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
