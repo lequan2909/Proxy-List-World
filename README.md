@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|2|103.156.17.114|8080|Indonesia|Indramayu|RSTNET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|6|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
-|7|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|8|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|9|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|7|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|8|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|9|49.70.172.165|8089|China|Shanghai|Chinanet|
+|10|152.32.68.171|65535|Philippines|Mandaluyong|Converge ICT Solution Inc|
+|11|202.93.244.38|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
 |15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
-|18|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
-|19|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
+|16|118.117.189.83|8089|China|Muping|Chinanet|
+|17|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|18|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|19|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
