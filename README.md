@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
-|6|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.154.230.88|8080|Indonesia|Lamongan|DIGITNET|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
-|11|67.43.227.229|3093|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|67.43.228.253|26985|Canada|Montreal|GloboTech Communications|
-|14|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
-|15|67.43.227.229|3093|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|18915|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|10885|Canada|Montreal|GloboTech Communications|
-|18|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|19|67.43.227.227|18915|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10885|Canada|Montreal|GloboTech Communications|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|67.43.227.229|6999|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|67.43.227.229|6999|Canada|Montreal|GloboTech Communications|
+|10|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|67.43.227.227|31201|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|31201|Canada|Montreal|GloboTech Communications|
+|13|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|14|72.10.164.178|11369|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|18|134.209.147.65|8080|India|Bengaluru|DigitalOcean, LLC|
+|19|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
