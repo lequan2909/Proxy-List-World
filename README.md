@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
-|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|5|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|67.43.228.253|1567|Canada|Montreal|GloboTech Communications|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|72.10.164.178|30967|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|17209|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|28473|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|30967|Canada|Montreal|GloboTech Communications|
-|14|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|72.10.160.171|20419|Canada|Montreal|GloboTech Communications|
-|16|177.174.126.203|8080|Brazil|Campinas|Vivo|
-|17|67.43.227.226|24249|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|30967|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|17209|Canada|Montreal|GloboTech Communications|
-|20|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|5|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|6|203.150.128.169|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|8|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|9|103.184.167.26|8080|Indonesia|Getengan|PT Pricom Media Solusi|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|12|181.119.67.134|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|13|192.99.169.19|8451|Canada|Beauharnois|OVH SAS|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|19|91.209.114.179|8080|Hungary|Siófok|MVM NET Zrt.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
