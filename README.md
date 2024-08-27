@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|3|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|6|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
-|13|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
-|15|111.1.61.58|3128|China|Wenzhou|China Mobile communications corporation|
-|16|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|67.43.228.250|4763|Canada|Montreal|GloboTech Communications|
-|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|19|115.223.31.79|32923|China|Wenzhou|China Telecom|
-|20|54.37.154.33|3128|France|Strasbourg|OVH SAS|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|7|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|8|101.51.107.190|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|203.150.128.63|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|138.94.238.32|8080|Brazil|Novo Progresso Municipality|Nettcon Provedor De Internet Eireli EPP|
+|15|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|20|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
 
 
 
