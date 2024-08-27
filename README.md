@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5377** proxies at the latest update. Usable proxies are below.
+> Scraper found **5376** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|182|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|181|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|787|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|132|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|117.40.32.133|8080|China|Taohua|Chinanet|
-|6|216.10.247.145|3128|India|Mumbai|PDR|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|11|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
-|12|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|101.231.64.89|8443|China|Shanghai|China Telecom (Group)|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|115.223.31.46|39593|China|Wenzhou|China Telecom|
-|20|67.43.227.227|5683|Canada|Montreal|GloboTech Communications|
+|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|4|103.245.16.133|8080|Indonesia|Depok|PT Quantum Tera Network|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|117.40.32.133|8080|China|Taohua|Chinanet|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|179.1.141.10|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|15|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|16|72.10.164.178|32491|Canada|Montreal|GloboTech Communications|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|67.43.236.20|1505|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|117.40.32.133|8080|China|Taohua|Chinanet|
 
 
 
