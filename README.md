@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5488** proxies at the latest update. Usable proxies are below.
+> Scraper found **5531** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|147|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|780|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|823|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|137|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3466|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.248.93.201|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
-|9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
-|12|177.200.80.6|11221|Brazil|Barcarena|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|79.175.189.88|1080|Iran|Tehran|Afranet|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|160.248.93.201|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|8|79.175.189.220|1080|Iran|Tehran|Afranet|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|203.150.128.132|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|79.175.189.88|1080|Iran|Tehran|Afranet|
+|12|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|181.78.1.219|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|20|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
