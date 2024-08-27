@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|176.119.20.81|8534|Russia|Abakan|Alfatel Ltd|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
-|7|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
-|8|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|72.10.160.170|23939|Canada|Montreal|GloboTech Communications|
-|13|200.24.146.51|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
-|14|181.37.240.89|999|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
-|15|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|16|222.243.174.132|81|China|Xiangtan|Chinanet|
-|17|188.190.40.44|8080|Ukraine|Kyiv|Lanet Network Ltd|
-|18|72.10.164.178|1645|Canada|Montreal|GloboTech Communications|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|182.253.68.150|80|Indonesia|Jakarta Pusat|BIZNET|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|152.26.229.86|9443|United States|Concord|MCNC|
+|6|152.26.231.86|9443|United States|Concord|MCNC|
+|7|152.26.231.42|9443|United States|Concord|MCNC|
+|8|72.10.160.170|10075|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|18927|Canada|Montreal|GloboTech Communications|
+|10|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|72.10.164.178|18013|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.173|18251|Canada|Montreal|GloboTech Communications|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|218.145.131.182|443|South Korea|Seocho-gu|Korea Telecom|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.227|18927|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|72.10.164.178|18013|Canada|Montreal|GloboTech Communications|
 
 
 
