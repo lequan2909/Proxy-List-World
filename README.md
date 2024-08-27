@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.187.114|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|210.247.252.10|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
-|5|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.248.187.114|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|147.45.43.241|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|11|79.175.189.220|1080|Iran|Tehran|Afranet|
-|12|103.165.155.161|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|202.144.139.201|8080|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|147.45.43.241|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|79.175.189.51|1080|Iran|Tehran|Afranet|
+|16|79.175.189.220|1080|Iran|Tehran|Afranet|
+|17|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
