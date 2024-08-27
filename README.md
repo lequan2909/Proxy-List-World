@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |3|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|103.165.58.109|64999|Indonesia|Jakarta|PT iForte Global Internet|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|223.76.192.60|3128|China|Wuhan|China Mobile communications corporation|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|223.76.192.60|3128|China|Wuhan|China Mobile communications corporation|
+|11|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
 |13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
 |16|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|17|212.174.79.177|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|18|117.219.10.150|8080|India|Delhi|BSNL Internet|
 |19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.251|1647|Canada|Montreal|GloboTech Communications|
+|20|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
 
 
 
