@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|9|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|10|103.13.204.24|8082|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|183.88.223.211|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|72.10.164.178|23251|Canada|Montreal|GloboTech Communications|
-|14|186.125.218.146|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|15|118.117.188.47|8089|China|Muping|Chinanet|
-|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|72.10.160.173|15837|Canada|Montreal|GloboTech Communications|
-|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|72.10.164.178|23251|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
+|5|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|6|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|204.199.174.75|999|Peru|Arequipa|Fiberred Sociedad Anonima Cerrada|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|103.156.141.130|1111|Indonesia|Jember|PT Tekling Media Telematika|
+|16|223.25.110.204|1080|Indonesia|Surabaya|SinergiNet|
+|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
 
 
 
