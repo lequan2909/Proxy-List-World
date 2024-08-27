@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|45.119.133.6|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|9|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|103.171.244.91|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|103.75.85.100|1111|Indonesia|Pekalongan|MEGADATA|
 
 
 
