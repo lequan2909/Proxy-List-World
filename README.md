@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5685** proxies at the latest update. Usable proxies are below.
+> Scraper found **5455** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|179|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|924|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|180|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|693|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|152|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3472|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|162.212.152.9|31280|United States|Flushing|tzulo, inc.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|13|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|8|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|103.82.8.242|8989|Bangladesh|Dhaka|FNF Online|
+|10|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|11|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|20.42.119.47|80|United States|Boydton|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
-|19|23.143.160.193|999|Puerto Rico|Santo Domingo|Unonet Corp|
-|20|103.154.230.100|8080|Indonesia|Lamongan|DIGITNET|
+|17|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|18|72.10.160.170|22227|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|24049|Canada|Montreal|GloboTech Communications|
 
 
 
