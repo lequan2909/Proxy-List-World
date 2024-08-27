@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
-|3|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|4|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|9|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|10|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|117.40.32.133|8080|China|Taohua|Chinanet|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|67.43.227.227|15195|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.172|8403|Canada|Montreal|GloboTech Communications|
-|18|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|72.10.164.178|28305|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|1961|Canada|Montreal|GloboTech Communications|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|67.43.227.227|29691|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.228|28757|Canada|Montreal|GloboTech Communications|
+|16|103.175.46.222|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|17|5.78.108.113|3128|United States|Hillsboro|Hetzner Online GmbH|
+|18|72.10.164.178|7895|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
