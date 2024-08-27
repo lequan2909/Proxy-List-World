@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|6|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|9|203.150.128.63|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|184.82.55.239|8080|Thailand|Khon Kaen|AIS-Fibre|
-|11|117.40.32.133|8080|China|Taohua|Chinanet|
-|12|188.190.40.44|8080|Ukraine|Kyiv|Lanet Network Ltd|
-|13|182.253.36.72|443|Indonesia|Sukabumi|BIZNET|
-|14|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom Ltd|
-|15|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|16|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
-|19|188.132.221.233|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|1|115.74.8.34|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|216.10.247.145|3128|India|Mumbai|PDR|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|9|184.82.55.239|8080|Thailand|Khon Kaen|AIS-Fibre|
+|10|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|13|117.40.32.133|8080|China|Taohua|Chinanet|
+|14|101.128.107.210|7777|Indonesia|Jakarta|CBN|
+|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|20|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
 
 
 
