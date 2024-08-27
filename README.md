@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|5.8.34.209|3128|The Netherlands|Haarlem|G-Core Labs S.A.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|190.69.157.213|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
-|11|103.144.146.49|8080|Indonesia|Tulungagung|Lexxa Data|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|103.189.250.67|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|20|223.70.252.94|10008|China|Beijing|China Mobile communications corporation|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|5.8.34.209|3128|The Netherlands|Haarlem|G-Core Labs S.A.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|203.111.253.38|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|16|179.124.206.88|8080|Brazil|Assis Chateaubriand|Newcenter Telecom|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|19|103.154.77.204|8080|Indonesia|Sleman|T2NET|
+|20|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
