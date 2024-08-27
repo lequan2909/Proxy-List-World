@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|79.175.189.51|1080|Iran|Tehran|Afranet|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|79.175.189.220|1080|Iran|Tehran|Afranet|
-|10|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|11|103.13.204.89|8083|Indonesia|Bodeh|PT JARINGANKU SARANA NUSANTARA|
-|12|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
-|13|103.165.155.50|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|103.41.88.182|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|10|79.175.189.223|1080|Iran|Tehran|Afranet|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|14|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|18|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|19|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|66.27.58.70|8080|United States|Artesia|Spectrum|
+|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
