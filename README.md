@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|91.209.114.179|8080|Hungary|Siófok|MVM NET Zrt.|
 |3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|15.235.171.245|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|7|176.119.20.81|8534|Russia|Abakan|Alfatel Ltd|
-|8|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|67.43.227.227|5441|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|20447|Canada|Montreal|GloboTech Communications|
-|14|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|15|72.10.164.178|20447|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|67.43.227.230|28243|Canada|Montreal|GloboTech Communications|
-|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.24.125.33|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|20|67.43.227.226|30507|Canada|Montreal|GloboTech Communications|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|152.26.229.86|9443|United States|Concord|MCNC|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|72.10.160.174|30881|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|67.43.227.230|25921|Canada|Montreal|GloboTech Communications|
+|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|183.134.101.185|3128|China|Hangzhou|Chinanet|
+|15|67.43.227.227|5441|Canada|Montreal|GloboTech Communications|
+|16|200.76.42.201|999|Mexico|Ciudad de Villa de Álvarez|Alestra, S. de R.L. de C.V.|
+|17|72.10.164.178|19721|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|26925|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|5441|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
