@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
+|2|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|138.117.85.141|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|38.7.30.129|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 |15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|160.248.93.202|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|160.248.187.99|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|72.10.160.90|15623|Canada|Montreal|GloboTech Communications|
-|19|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|160.248.93.202|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.248.187.99|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
