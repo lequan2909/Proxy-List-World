@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|103.156.16.227|8080|Indonesia|Jakarta|RSTNET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.115.114.150|8080|Australia|Melbourne|NET360|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|66.27.58.70|8080|United States|Artesia|Spectrum|
-|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|9|171.6.135.2|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|49.48.97.133|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|12|103.54.218.202|8080|Indonesia|Pancoran|PT. Mora Telematika Indonesia|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|113.212.87.242|83|India|Ahmedabad|INPLs|
-|16|111.1.61.56|3128|China|Wenzhou|China Mobile communications corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|79.175.189.223|1080|Iran|Tehran|Afranet|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|171.6.135.2|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|7|5.9.112.247|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|11|180.180.123.40|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|14|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|15|103.169.38.118|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
+|18|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|19|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|20|80.248.77.125|8081|Togo|Lomé|AS de CAFE Informatique|
 
 
 
