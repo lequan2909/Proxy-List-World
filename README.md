@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|79.175.189.88|1080|Iran|Tehran|Afranet|
-|8|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|13|80.66.81.46|4001|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
-|16|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|79.175.189.88|1080|Iran|Tehran|Afranet|
+|7|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|66.206.15.148|8138|United States|Los Angeles|Primary|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|160.248.9.141|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
