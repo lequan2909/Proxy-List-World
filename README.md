@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|4|79.175.189.51|1080|Iran|Tehran|Afranet|
-|5|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|216.10.247.145|3128|India|Mumbai|PDR|
-|10|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|144.86.187.38|3129|United States|Malden|Charles River Operation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|15|79.175.189.88|1080|Iran|Tehran|Afranet|
-|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|118.218.123.235|3128|South Korea|Asan|SK Broadband Co Ltd|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|79.175.189.51|1080|Iran|Tehran|Afranet|
+|3|79.175.189.88|1080|Iran|Tehran|Afranet|
+|4|79.175.189.220|1080|Iran|Tehran|Afranet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|171.228.144.105|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|14|80.66.81.46|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|15|144.86.187.58|3129|United States|Malden|Charles River Operation|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
+|18|111.89.146.56|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|160.248.93.201|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
