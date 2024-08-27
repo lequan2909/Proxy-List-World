@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|51.178.43.147|3128|France|Gravelines|OVH SAS|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.125.51.25|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|79.175.189.51|1080|Iran|Tehran|Afranet|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
-|15|116.105.57.43|10001|Vietnam|Quận Bảy|Viettel Corporation|
-|16|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|20|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|203.14.18.242|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
+|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|11|103.147.30.65|3128|Indonesia|Bandung|PT Semesta Teknologi Informatika|
+|12|115.178.48.92|8090|Indonesia|Bandung|NOC SIMAYA|
+|13|117.40.32.133|8080|China|Taohua|Chinanet|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.93.201|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|58.136.169.114|8080|Thailand|Udon Thani|AIS-Fibre|
 
 
 
