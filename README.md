@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.175.202.34|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|3|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|7|117.40.32.133|8080|China|Taohua|Chinanet|
-|8|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.167.15.213|83|Bangladesh|Nārāyanganj|Sajid Trading Limited|
-|11|131.100.148.76|8080|Brazil|Brasília|ALLREDE TELECOM (LINKWAP PROVEDOR)|
-|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|67.43.236.20|26297|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|67.43.236.20|26297|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.254|28011|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|18923|Canada|Montreal|GloboTech Communications|
-|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|1|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|117.40.32.133|8080|China|Taohua|Chinanet|
+|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|5|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|7|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|155.126.176.23|11428|China|Shanghai|The Procter and Gamble Company|
+|11|67.43.236.19|31757|Canada|Montreal|GloboTech Communications|
+|12|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|15|67.43.236.20|13115|Canada|Montreal|GloboTech Communications|
+|16|155.126.176.23|11428|China|Shanghai|The Procter and Gamble Company|
+|17|67.43.236.18|24185|Canada|Montreal|GloboTech Communications|
+|18|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
 
 
 
