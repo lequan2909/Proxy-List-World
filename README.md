@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|152.32.68.171|65535|Philippines|Mandaluyong|Converge ICT Solution Inc|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
-|9|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom Ltd|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|190.187.201.26|8080|Peru|Lima|Americatel Peru S.A.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|67.43.228.253|1501|Canada|Montreal|GloboTech Communications|
-|15|117.40.32.133|8080|China|Taohua|Chinanet|
-|16|72.10.160.90|32031|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|2|54.37.154.33|3128|France|Strasbourg|OVH SAS|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|7|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|152.32.68.171|65535|Philippines|Mandaluyong|Converge ICT Solution Inc|
+|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|72.10.164.178|3213|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|2371|Canada|Montreal|GloboTech Communications|
 
 
 
