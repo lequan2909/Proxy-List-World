@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|79.175.189.88|1080|Iran|Tehran|Afranet|
-|4|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|7|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|10|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|160.248.9.104|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|160.248.187.78|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
+|13|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|114.9.24.162|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|160.248.9.104|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|41.59.112.250|3030|Tanzania|Dar es Salaam|TTCL|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
