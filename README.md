@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|79.175.189.220|1080|Iran|Tehran|Afranet|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|79.175.189.223|1080|Iran|Tehran|Afranet|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|45.184.152.145|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|18|200.59.10.50|999|Argentina|Ingeniero Maschwitz|COTELCAM|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|79.175.189.223|1080|Iran|Tehran|Afranet|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|13|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|16|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|36.95.142.35|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
