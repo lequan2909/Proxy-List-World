@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |3|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 |6|152.26.229.42|9443|United States|Concord|MCNC|
 |7|152.26.231.86|9443|United States|Concord|MCNC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|10|67.43.227.227|17691|Canada|Montreal|GloboTech Communications|
-|11|223.76.192.60|3128|China|Wuhan|China Mobile communications corporation|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|72.10.160.173|27571|Canada|Montreal|GloboTech Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|17|72.10.164.178|15445|Canada|Montreal|GloboTech Communications|
-|18|102.215.198.113|1981|Libya|Ajdabiya|Rawafed|
-|19|67.43.227.227|17691|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|27571|Canada|Montreal|GloboTech Communications|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|72.10.164.178|1417|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.173|27571|Canada|Montreal|GloboTech Communications|
+|12|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|15|67.43.227.227|11203|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|11203|Canada|Montreal|GloboTech Communications|
+|17|181.37.240.89|999|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
+|18|72.10.164.178|1417|Canada|Montreal|GloboTech Communications|
+|19|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
