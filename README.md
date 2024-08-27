@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|103.30.182.116|80|Indonesia|Semarang|PT DES Teknologi Informasi|
-|4|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|82.222.46.42|8181|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|10|201.6.99.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|11|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|186.96.31.46|7070|Mexico|Cholula|Total Play Telecomunicaciones SA De CV|
-|16|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|19|118.117.189.83|8089|China|Muping|Chinanet|
-|20|103.13.204.24|8082|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
+|3|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|6|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
+|7|200.188.123.247|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|82.222.46.42|8181|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|11|201.6.99.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|118.117.189.83|8089|China|Muping|Chinanet|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
