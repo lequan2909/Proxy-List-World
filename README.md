@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|177.152.89.249|8080|Brazil|Jardim|Elonet Provedor de Internet Ltda|
-|11|163.47.210.74|8080|India|Chennai|Microsense Pvt. Limited|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|94.102.228.70|32650|Montenegro|Podgorica|One Crna Gora DOO|
-|14|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|67.43.227.227|17185|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|72.10.160.171|25061|Canada|Montreal|GloboTech Communications|
+|9|103.234.26.108|9990|Bangladesh|Kāfrul|BTS Communications (BD) Ltd|
+|10|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|190.122.185.170|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|15|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
