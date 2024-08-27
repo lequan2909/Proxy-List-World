@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|3|79.175.189.51|1080|Iran|Tehran|Afranet|
-|4|79.175.189.223|1080|Iran|Tehran|Afranet|
-|5|79.175.189.88|1080|Iran|Tehran|Afranet|
-|6|79.175.189.220|1080|Iran|Tehran|Afranet|
-|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|8|171.228.144.105|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|15|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|15.235.171.245|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|4|49.147.133.154|8081|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|7|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|8|176.36.188.198|8080|Ukraine|Kyiv|Lanet Network|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|79.175.189.88|1080|Iran|Tehran|Afranet|
+|11|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|79.175.189.51|1080|Iran|Tehran|Afranet|
+|14|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|103.58.95.5|8080|Bangladesh|Kāfrul|Metaphor Digital Media|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
 
 
 
