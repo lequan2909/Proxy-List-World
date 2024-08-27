@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|9|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|223.70.252.94|10008|China|Beijing|China Mobile communications corporation|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|19|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|5.8.34.209|3128|The Netherlands|Haarlem|G-Core Labs S.A.|
+|11|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|223.70.252.94|10008|China|Beijing|China Mobile communications corporation|
+|14|80.66.81.46|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
+|15|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
+|16|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
