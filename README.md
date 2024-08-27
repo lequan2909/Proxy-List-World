@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.70.203.107|999|Ecuador|Quito|Ufinet Panama S.A.|
-|9|103.180.198.23|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|67.43.227.227|20697|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|10001|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|8001|Canada|Montreal|GloboTech Communications|
-|15|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.160.90|10631|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|24755|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|10519|Canada|Montreal|GloboTech Communications|
-|20|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.230.50.3|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|72.10.164.178|32505|Canada|Montreal|GloboTech Communications|
+|14|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|15|72.10.160.170|10001|Canada|Montreal|GloboTech Communications|
+|16|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|17|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|20|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
