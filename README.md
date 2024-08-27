@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.122.175.197|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|5|103.165.157.167|8080|Indonesia|Taman|MEGADATA-ISP|
-|6|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|7|103.153.134.27|8090|Indonesia|Tangerang|WMINET|
-|8|67.43.227.227|12751|Canada|Montreal|GloboTech Communications|
-|9|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|10|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|67.43.228.253|2195|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|19775|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|12751|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|67.43.236.20|8287|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|8287|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|72.10.160.171|31429|Canada|Montreal|GloboTech Communications|
-|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|20|72.10.160.90|20221|Canada|Montreal|GloboTech Communications|
+|3|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|67.43.227.227|1681|Canada|Montreal|GloboTech Communications|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|67.43.236.20|1887|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.170|17643|Canada|Montreal|GloboTech Communications|
+|15|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|72.10.164.178|5393|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.92|28937|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|13113|Canada|Montreal|GloboTech Communications|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|117.40.32.133|8080|China|Taohua|Chinanet|
 
 
 
