@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|128.199.214.49|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
 |7|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|9|79.175.189.51|1080|Iran|Tehran|Afranet|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|12|188.132.222.134|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|203.14.18.242|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|8|126.209.9.26|8080|Philippines|Manila|Infinivan Incorporated|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|128.199.214.49|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|190.94.212.43|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
