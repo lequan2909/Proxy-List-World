@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|1|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|5|117.40.32.133|8080|China|Taohua|Chinanet|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|10|67.43.228.253|13521|Canada|Montreal|GloboTech Communications|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|72.10.164.178|4913|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|4913|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|1265|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|4913|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|21323|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|25237|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|20261|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|19645|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|4913|Canada|Montreal|GloboTech Communications|
+|3|203.150.128.63|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|158.140.169.9|8081|Indonesia|Surabaya|MYREPUBLIC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
+|7|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|8|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|9|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|10|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
+|11|184.82.55.239|8080|Thailand|Khon Kaen|AIS-Fibre|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|216.10.247.145|3128|India|Mumbai|PDR|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|125.26.4.221|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
