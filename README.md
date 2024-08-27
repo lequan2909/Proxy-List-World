@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.30.182.116|80|Indonesia|Semarang|PT DES Teknologi Informasi|
-|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|4|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|5|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
+|2|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|3|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|82.222.46.42|8181|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|14|41.89.96.25|80|Kenya|Nakuru|KENET|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|72.10.160.171|18889|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|11|103.199.117.115|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
+|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|13|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
 |20|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
 
 
