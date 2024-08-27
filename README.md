@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|119.47.90.109|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|154.73.29.129|8080|Libya|Tripoli|Rawafed|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
-|10|118.117.188.21|8089|China|Muping|Chinanet|
-|11|67.43.227.228|29755|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.227|32873|Canada|Montreal|GloboTech Communications|
-|14|118.218.123.235|3128|South Korea|Asan|SK Broadband Co Ltd|
-|15|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|29755|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|20105|Canada|Montreal|GloboTech Communications|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|72.10.164.178|25893|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|8|61.129.2.212|8080|China|Beijing|CHINANET|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|72.10.164.178|2823|Canada|Montreal|GloboTech Communications|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|67.43.227.228|29755|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|183.134.101.186|3128|China|Hangzhou|Chinanet|
+|15|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|67.43.227.230|8097|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
