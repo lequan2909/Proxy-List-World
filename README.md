@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|79.175.189.88|1080|Iran|Tehran|Afranet|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|160.248.93.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|79.175.189.88|1080|Iran|Tehran|Afranet|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |10|160.248.93.208|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|14|103.167.5.62|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|70.90.138.109|8080|United States|Fraser|Comcast Cable Communications, LLC|
-|17|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|20|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|187.102.216.219|999|Argentina|Montecarlo|Cretton Lisandro Maximiliano|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|117.40.32.133|8080|China|Taohua|Chinanet|
+|16|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|181.143.36.20|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|103.167.5.62|8080|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
