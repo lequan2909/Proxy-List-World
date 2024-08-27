@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.159.194.121|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
-|7|148.230.195.165|6969|Mexico|San Francisco Sola|Total Play Telecomunicaciones SA De CV|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|195.34.91.67|8080|Ukraine|Kyiv|Modus-Global LLC|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|185.17.146.18|8080|Germany|Frankfurt am Main|LeaseWeb DE|
-|19|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|20|67.43.227.227|27723|Canada|Montreal|GloboTech Communications|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.231.42|9443|United States|Concord|MCNC|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|72.10.160.170|21241|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|16207|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|12697|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|12697|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|12697|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|12697|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|12697|Canada|Montreal|GloboTech Communications|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
