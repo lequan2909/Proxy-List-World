@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|8|79.175.189.223|1080|Iran|Tehran|Afranet|
-|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|79.175.189.223|1080|Iran|Tehran|Afranet|
+|10|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|79.175.189.51|1080|Iran|Tehran|Afranet|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|190.153.237.2|37453|Chile|Santiago|Gtd Internet S.A.|
+|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|79.175.189.51|1080|Iran|Tehran|Afranet|
 |17|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|103.87.169.207|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
