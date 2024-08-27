@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|7|152.26.231.86|9443|United States|Concord|MCNC|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|10|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|11|67.43.227.227|20593|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|25121|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|20593|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|72.10.160.90|2635|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|5|103.178.42.3|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|8|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|18|72.10.160.170|23737|Canada|Montreal|GloboTech Communications|
+|19|103.104.192.114|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
+|20|72.10.160.90|8001|Canada|Montreal|GloboTech Communications|
 
 
 
