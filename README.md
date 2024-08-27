@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
-|9|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|103.143.169.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.227|10969|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|4167|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|10969|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|31763|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|31763|Canada|Montreal|GloboTech Communications|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|103.148.130.107|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|6|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|7|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|186.3.76.228|999|Ecuador|Guayaquil|Telconet S.A|
+|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|14|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|15|45.167.124.230|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|72.10.160.170|15477|Canada|Montreal|GloboTech Communications|
+|19|134.209.147.65|8080|India|Bengaluru|DigitalOcean, LLC|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
