@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|4|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|115.77.140.205|10001|Vietnam|Vũng Tàu|Viettel Group|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|103.159.46.2|83|India|Ahmedabad|King Netsol Private Limited|
-|13|103.18.232.153|8085|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|14|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|67.43.227.228|20749|Canada|Montreal|GloboTech Communications|
-|16|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|177.129.249.165|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.227.227|12537|Canada|Montreal|GloboTech Communications|
+|2|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|3|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|4|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|5|182.253.109.111|8080|Indonesia|Semarang|Biznet Metronet|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|79.106.165.246|8989|Albania|Tirana|ONE ALBANIA SH.A.|
+|11|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
+|12|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|67.43.227.228|20749|Canada|Montreal|GloboTech Communications|
+|15|103.242.105.241|8080|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.227.227|27789|Canada|Montreal|GloboTech Communications|
 
 
 
