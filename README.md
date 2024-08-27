@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|160.248.187.114|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|79.175.189.51|1080|Iran|Tehran|Afranet|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|160.248.187.114|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|210.247.252.10|3128|Indonesia|Jakarta|PT Poros Network Nusantara|
+|7|79.175.189.51|1080|Iran|Tehran|Afranet|
 |8|79.175.189.223|1080|Iran|Tehran|Afranet|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|147.45.43.241|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|16|147.45.43.241|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|17|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|18|173.249.37.45|5005|Germany|Nuremberg|Contabo GmbH|
-|19|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|20|103.162.62.250|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|147.45.43.241|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|14|160.248.187.89|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|183.88.241.167|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|18|66.206.15.148|8138|United States|Los Angeles|Primary|
+|19|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
+|20|116.197.134.13|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
 
 
 
