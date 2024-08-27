@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|177.81.30.222|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|6|124.122.175.197|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|7|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|8|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|103.153.134.27|8090|Indonesia|Tangerang|WMINET|
+|3|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|4|176.119.20.81|8534|Russia|Abakan|Alfatel Ltd|
+|5|103.157.116.228|8090|Indonesia|Banjaran|PT Cloud Teknologi Nusantara|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|9|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|12|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
 |13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.164.178|9155|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|22919|Canada|Montreal|GloboTech Communications|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|72.10.164.178|9155|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|9155|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|21113|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|14|67.43.236.19|6769|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|18|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|67.43.236.18|6385|Canada|Montreal|GloboTech Communications|
 
 
 
