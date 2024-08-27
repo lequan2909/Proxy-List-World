@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|67.43.227.227|5557|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|31017|Canada|Montreal|GloboTech Communications|
-|12|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|67.43.227.228|6785|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|11357|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|72.10.160.172|28221|Canada|Montreal|GloboTech Communications|
-|17|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|67.43.236.18|30287|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|11357|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|6785|Canada|Montreal|GloboTech Communications|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|72.10.164.178|25077|Canada|Montreal|GloboTech Communications|
+|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|20|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 
 
 
