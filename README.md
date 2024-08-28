@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|188.166.250.146|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|211.222.173.57|3128|South Korea|Goyang-si|Korea Telecom|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|147.75.34.83|80|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|103.218.25.245|8080|Bangladesh|Dhaka|Carnival Internet|
-|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|191.243.162.235|3128|Brazil|Americana|Simnet Telecomunicacoes Ltda|
-|15|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|16|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|13165|Canada|Montreal|GloboTech Communications|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|188.166.250.146|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|6|147.75.34.83|80|The Netherlands|Amsterdam|Packet Host, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|13|154.73.87.241|8080|Botswana|Rakops|STATURE (PTY) LTD|
+|14|200.39.120.81|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
+|15|103.147.247.122|8080|Indonesia|Tangerang|PLBNET|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
