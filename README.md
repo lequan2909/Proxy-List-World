@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|2|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.81.254.249|8080|Indonesia|Karawang|PT. Nusa Jaya Prasetyo|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|186.4.161.31|3128|Ecuador|Quito|Telconet S.A|
-|15|141.147.155.140|21000|Japan|Osaka|Oracle Corporation|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|12|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|20|181.129.123.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
