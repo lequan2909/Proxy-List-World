@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|118.99.127.18|8080|Indonesia|Malang|Biznet Metronet|
-|8|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|103.44.19.217|1111|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|10|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
-|11|102.213.84.250|8080|Nigeria|Irewe|Globacom Limited|
-|12|160.22.6.148|8080|Indonesia|Demak|PT Satu Lima Indonesia|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.164.178|9337|Canada|Montreal|GloboTech Communications|
-|19|24.204.29.115|8080|United States|Longview|Network IP|
-|20|67.43.227.226|28849|Canada|Montreal|GloboTech Communications|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|7|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|8|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|10|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|13|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
+|14|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|17|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
+|18|72.10.160.90|17821|Canada|Montreal|GloboTech Communications|
+|19|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|20|182.253.68.150|80|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
