@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|7|103.111.207.138|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|8|103.53.76.82|8080|Indonesia|Surabaya|INTI|
-|9|160.248.187.93|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|116.107.215.81|5020|Vietnam|Hanoi|Viettel Corporation|
-|11|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
-|15|147.75.34.85|10085|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|17|72.10.164.178|32983|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|20|72.10.160.90|14269|Canada|Montreal|GloboTech Communications|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|103.151.35.164|1111|Indonesia|Tangerang|GAYUHNET|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|11|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
+|12|160.248.187.93|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|103.165.155.229|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
