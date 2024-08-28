@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|14.236.12.42|1001|Vietnam|Da Nang|VNPT|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|10|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
+|4|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|7|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |13|65.1.244.232|80|India|Mumbai|Amazon.com|
-|14|83.54.9.242|3128|Spain|León|Telefonica de Espana SAU|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|62.183.96.197|8080|Russia|Maykop|Southen Telecommunication Maintainer|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|212.174.79.177|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|14|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
+|15|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|187.62.153.56|8088|Brazil|Oeiras|Megalink Internet|
+|20|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
 
 
 
