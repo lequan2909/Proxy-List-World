@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|10|202.93.244.54|8085|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|11|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|14|103.44.19.217|1111|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|15|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|17|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|18|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|19|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|20|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|58.147.186.31|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|6|103.72.89.69|8181|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
+|7|113.161.70.165|41890|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|9|24.204.29.115|8080|United States|Longview|Network IP|
+|10|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|102.213.84.250|8080|Nigeria|Irewe|Globacom Limited|
+|14|72.10.164.178|24845|Canada|Montreal|GloboTech Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|72.10.164.178|24845|Canada|Montreal|GloboTech Communications|
+|18|191.102.254.54|8081|Argentina|Rosario|IP·RED|
+|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
