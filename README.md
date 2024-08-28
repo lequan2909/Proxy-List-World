@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|147.75.92.251|10013|Japan|Koto-ku|Packet Host, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|11|103.157.79.82|1111|Indonesia|Jakarta|EASTMEDIA|
-|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|103.177.9.104|8080|Indonesia|Jakarta|PT Helium Sinergi Telekomunikasi|
-|16|45.5.224.245|8989|Brazil|Venâncio Aires|FELTEN & QUADROS TELEFONIA E INTERNET LTDA|
-|17|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|18|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|24.172.82.94|53281|United States|Concord|Spectrum|
+|11|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|12|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|13|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|14|119.235.209.92|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
+|15|179.1.110.80|8080|Colombia|Cúcuta|InterNexa Global Network|
+|16|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|17|202.74.244.139|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|157.100.69.8|8889|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
