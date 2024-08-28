@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |5|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|9|179.228.17.8|8080|Brazil|São Paulo|Vivo|
-|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|14.245.163.203|6001|Vietnam|Da Nang|VNPT|
-|12|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
-|13|111.1.61.57|3128|China|Wenzhou|China Mobile communications corporation|
-|14|14.245.163.203|6001|Vietnam|Da Nang|VNPT|
-|15|72.10.164.178|19717|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|72.10.164.178|19717|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19717|Canada|Montreal|GloboTech Communications|
-|20|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|190.71.24.129|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
+|8|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|72.10.164.178|19717|Canada|Montreal|GloboTech Communications|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
+|17|72.10.164.178|19717|Canada|Montreal|GloboTech Communications|
+|18|150.129.5.226|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|19|103.24.125.33|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|20|67.43.227.226|18149|Canada|Montreal|GloboTech Communications|
 
 
 
