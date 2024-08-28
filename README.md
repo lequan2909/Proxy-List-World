@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|77.41.146.4|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|2|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|10|181.78.94.238|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|11|148.72.140.24|30221|United States|St Louis|GoDaddy.com|
-|12|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|13|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|14|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|15|20.169.241.90|3128|United States|Boydton|Microsoft Corporation|
-|16|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
-|17|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
-|18|187.1.181.124|23500|Brazil|Belo Horizonte|Century Telecom Ltda|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|9|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|10|103.124.137.150|20|Indonesia|Tamanan|Global Media Data Prima|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|17|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|18|148.72.140.24|30221|United States|St Louis|GoDaddy.com|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
