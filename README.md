@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
 |6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|103.158.162.18|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|11|211.222.173.57|3128|South Korea|Goyang-si|Korea Telecom|
-|12|72.10.164.178|11397|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|72.10.164.178|11397|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|11397|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|27379|Canada|Montreal|GloboTech Communications|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|67.43.236.20|1315|Canada|Montreal|GloboTech Communications|
+|15|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|16|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|17|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|18|103.24.125.33|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|72.10.164.178|14713|Canada|Montreal|GloboTech Communications|
 
 
 
