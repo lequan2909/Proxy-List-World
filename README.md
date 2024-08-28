@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
-|7|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|8|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|10|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|11|103.154.230.84|8080|Indonesia|Lamongan|DIGITNET|
-|12|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|17|185.89.156.2|44224|Albania|Tirana|ATU|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|10|103.125.16.69|8080|Indonesia|Tangerang|JAVAMEDIA|
+|11|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|103.154.230.84|8080|Indonesia|Lamongan|DIGITNET|
+|13|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
+|17|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
