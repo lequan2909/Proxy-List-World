@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5688** proxies at the latest update. Usable proxies are below.
+> Scraper found **5704** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|185|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|915|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|931|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|149|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3481|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
-|8|103.127.220.178|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|16|201.71.2.177|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|180.191.59.191|8081|Philippines|Tarlac City|Globe Telecom|
+|5|103.144.181.74|80|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|6|24.152.58.22|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|7|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|117.40.32.133|8080|China|Taohua|Chinanet|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|162.245.239.110|6468|United States|Portland|Wowrack.com|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|69.20.150.165|8080|United States|Tetonia|JAB Wireless, INC.|
 
 
 
