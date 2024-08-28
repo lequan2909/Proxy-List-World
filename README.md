@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|147.75.92.251|10013|Japan|Koto-ku|Packet Host, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|103.105.76.216|8090|Indonesia|Bojonegoro|GARUDA|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|7|52.56.155.168|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|9|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|10|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
-|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.128.133.154|16099|United States|Hutto|Charter Communications|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|119.235.209.92|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|157.66.85.104|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|5|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|147.75.92.251|10013|Japan|Koto-ku|Packet Host, Inc.|
+|8|52.56.155.168|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|11|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
+|16|211.109.199.99|80|South Korea|Yongin-si|SK Broadband Co Ltd|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|19|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
