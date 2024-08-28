@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|10|191.102.254.53|8085|Argentina|Rosario|IP·RED|
-|11|176.36.188.198|8080|Ukraine|Kyiv|Lanet Network|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|118.218.123.235|3128|South Korea|Asan|SK Broadband Co Ltd|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|20|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.131.237.2|8080|Indonesia|Dumai|PT. DUMAI MANDIRI NET|
+|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
+|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|72.10.164.178|2845|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
