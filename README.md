@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5473** proxies at the latest update. Usable proxies are below.
+> Scraper found **5472** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|186|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|185|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|753|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|149|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.150.113.91|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|175.100.92.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|103.155.197.193|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|15|101.128.82.150|8181|Indonesia|Jakarta|CBN|
-|16|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|17|177.234.194.226|999|Ecuador|Baba|Ufinet Panama S.A.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|12|203.150.128.21|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|13|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
+|14|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|15|189.203.181.34|8080|Mexico|Cocoyoc|Total Play Telecomunicaciones SA De CV|
+|16|201.71.2.49|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|17|177.75.223.29|8080|Brazil|São Lourenço|Videomar Rede Nordeste S/A|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|20|138.117.85.141|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
 
 
 
