@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|4|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
-|8|209.14.115.33|999|Colombia|Bogotá|AGIS|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|157.100.69.8|8889|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|14|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|103.169.133.34|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|16|72.128.133.154|16099|United States|Hutto|Charter Communications|
-|17|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|18|103.179.253.51|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|7|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|12|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|13|103.133.61.202|1111|Indonesia|Bandar Lampung|TLINK|
+|14|147.75.92.251|10013|Japan|Koto-ku|Packet Host, Inc.|
+|15|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
+|16|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|67.43.227.227|4615|Canada|Montreal|GloboTech Communications|
+|18|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
