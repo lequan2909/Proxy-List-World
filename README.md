@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
-|6|201.251.61.143|8080|Argentina|Laferrere|Telefonica de Argentina|
-|7|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|103.159.195.233|9091|Indonesia|Rembang|PT Giga Digital Nusantara|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|67.43.227.227|26313|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|3901|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|3901|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|8885|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26313|Canada|Montreal|GloboTech Communications|
-|18|223.76.192.60|3128|China|Wuhan|China Mobile communications corporation|
-|19|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|20|72.10.164.178|28829|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.146.185.138|1111|Indonesia|Sragen|YAMNET|
+|9|61.7.191.160|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|10|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|13|103.40.121.91|8080|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|18|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|20|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
