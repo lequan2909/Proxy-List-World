@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|203.150.113.91|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|203.150.128.21|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|101.128.82.150|8181|Indonesia|Jakarta|CBN|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|103.122.1.74|7777|Indonesia|Palembang|PT. Java Digital Nusantara|
-|20|203.150.128.63|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|203.150.128.21|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|17|97.76.251.138|8080|United States|Tampa|Spectrum|
+|18|103.215.207.65|83|India|Kondagaon|Foxtel Telecommunications Pvt. Ltd.|
+|19|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
