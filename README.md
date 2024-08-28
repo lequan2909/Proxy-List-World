@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|171.6.76.90|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|5|182.253.33.125|8080|Indonesia|Jakarta Pusat|BIZNET|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|8|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|72.10.164.178|24431|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|6705|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|72.10.164.178|24431|Canada|Montreal|GloboTech Communications|
-|15|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|67.43.227.228|30045|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|24431|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|30045|Canada|Montreal|GloboTech Communications|
-|20|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|1|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|5|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|10|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
+|11|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|72.10.164.178|27951|Canada|Montreal|GloboTech Communications|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
