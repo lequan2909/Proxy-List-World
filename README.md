@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.136.7.158|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
 |6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|13|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.164.178|22197|Canada|Montreal|GloboTech Communications|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|103.169.186.151|3125|Indonesia|Patokan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|72.10.164.178|22197|Canada|Montreal|GloboTech Communications|
+|9|207.230.8.3|999|Colombia|Bogotá|Cogent Communications|
+|10|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|11|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
+|15|72.10.164.178|27847|Canada|Montreal|GloboTech Communications|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|72.10.164.178|27847|Canada|Montreal|GloboTech Communications|
+|19|125.26.4.221|8080|Thailand|Bangkok|TOT Public Company Limited|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
