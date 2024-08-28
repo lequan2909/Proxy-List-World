@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|3.8.149.203|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|8|35.178.104.4|80|United Kingdom|London|Amazon Technologies Inc.|
-|9|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|10|101.109.176.196|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|13|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|65.1.244.232|1080|India|Mumbai|Amazon.com|
-|16|181.198.120.211|999|Ecuador|Guayaquil|Telconet S.A|
-|17|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|18|177.93.40.182|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|109.108.107.122|8080|Czechia|Lanškroun|Nordic Telecom Regional s.r.o.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|8|34.215.74.117|80|United States|Portland|Amazon.com, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|63.151.59.218|8080|United States|Ocala|CenturyLink|
+|12|3.8.149.203|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|36.37.163.254|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|16|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|17|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|103.244.207.113|8080|Indonesia|Tangerang|PT. Web Data Solusindo|
+|20|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
 
 
 
