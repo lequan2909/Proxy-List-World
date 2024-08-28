@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5546** proxies at the latest update. Usable proxies are below.
+> Scraper found **5444** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -25,11 +25,11 @@ Click the file format that you want and copy the URL.
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
-|[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
+|[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|840|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|763|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|136|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3418|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|5|182.52.27.93|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|52.56.155.168|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|10|157.66.85.104|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|10|52.56.155.168|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|182.52.27.93|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|14|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|20|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
+|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|18|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|19|103.148.25.201|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
+|20|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
 
 
 
