@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|103.152.101.69|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
-|15|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|67.43.227.228|3525|Canada|Montreal|GloboTech Communications|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|103.152.101.69|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|14|103.137.111.65|7777|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|74.62.179.122|8080|United States|Chatsworth|Charter Communications Inc|
+|18|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|19|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|20|72.10.160.170|32915|Canada|Montreal|GloboTech Communications|
 
 
 
