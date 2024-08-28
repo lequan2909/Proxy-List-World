@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|14|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
-|15|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|5|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|11|65.20.188.53|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
