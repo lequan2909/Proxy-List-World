@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|171.228.160.22|10089|Vietnam|Hanoi|Viettel Corporation|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
-|13|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|18|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|6|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|7|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
+|8|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|186.166.138.51|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
+|17|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|67.43.227.228|19213|Canada|Montreal|GloboTech Communications|
+|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 
 
 
