@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.179.252.76|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|180.191.59.191|8081|Philippines|Tarlac City|Globe Telecom|
-|9|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|203.150.113.91|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|166.159.90.56|53281|United States|Douglassville|Verizon Business|
+|6|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|7|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|8|171.6.122.41|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|9|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|69.20.150.165|8080|United States|Tetonia|JAB Wireless, INC.|
-|13|186.180.79.19|999|Colombia|Cúcuta|Colombia Móvil|
-|14|177.75.223.29|8080|Brazil|São Lourenço|Videomar Rede Nordeste S/A|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|45.167.124.230|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
-|18|69.20.150.165|8080|United States|Tetonia|JAB Wireless, INC.|
-|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|20|102.213.84.250|8080|Nigeria|Irewe|Globacom Limited|
+|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
+|15|202.144.139.201|8080|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|16|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|103.44.19.185|1111|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|19|103.137.111.169|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
