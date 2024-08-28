@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
-|2|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.168.44.191|8083|Indonesia|Jakarta|PT CYB Media Group|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|12|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|15|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
-|18|103.247.23.33|1111|Indonesia|Bekasi|PT wifian Solution|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|101.109.176.196|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|3.8.149.203|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
+|6|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|8|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|9|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|10|211.222.173.57|3128|South Korea|Goyang-si|Korea Telecom|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|13|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
