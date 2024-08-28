@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|11|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|72.10.164.178|5187|Canada|Montreal|GloboTech Communications|
-|13|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|72.10.164.178|5187|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|17463|Canada|Montreal|GloboTech Communications|
-|18|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|19|67.43.227.227|17463|Canada|Montreal|GloboTech Communications|
+|4|24.172.82.94|53281|United States|Concord|Spectrum|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|103.124.138.144|8080|Indonesia|Adiwerna|Global Media Data Prima|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|17|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|103.26.110.209|84|India|Chennai|Niss Networks|
 |20|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
 
 
