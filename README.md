@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|9|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|10|117.40.32.133|8080|China|Taohua|Chinanet|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|202.56.166.157|8080|Indonesia|Yogyakarta|PT Lintas Data Prima|
-|16|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|19|72.10.164.178|22381|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|14.245.163.203|6001|Vietnam|Da Nang|VNPT|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|13|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|18|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
