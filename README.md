@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|201.151.252.120|80|Mexico|Santa Rosa|Alestra, S. de R.L. de C.V.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.149.194.35|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|72.10.164.178|26827|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|72.10.164.178|26827|Canada|Montreal|GloboTech Communications|
-|17|103.177.235.133|84|India|Bengaluru|Coastal Live Channel|
-|18|72.10.164.178|26827|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|8621|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|5135|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|201.151.252.120|80|Mexico|Santa Rosa|Alestra, S. de R.L. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|11|103.169.148.5|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|15|181.225.78.57|999|Colombia|San Martín|Media Commerce Partners S.A|
+|16|72.10.160.171|8621|Canada|Montreal|GloboTech Communications|
+|17|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
