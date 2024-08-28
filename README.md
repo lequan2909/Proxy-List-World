@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|9|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|125.24.63.133|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
 |13|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|15|158.181.204.159|8080|Kyrgyzstan|Bishkek|MEGALINE|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|101.255.134.100|8080|Indonesia|Jakarta|PT Remala Abadi|
-|19|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|20|72.10.164.178|12993|Canada|Montreal|GloboTech Communications|
 
 
 
