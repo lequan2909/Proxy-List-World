@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|9|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|103.151.35.164|1111|Indonesia|Tangerang|GAYUHNET|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|72.10.160.93|15695|Canada|Montreal|GloboTech Communications|
-|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|67.43.227.227|8791|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|8791|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|12605|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15265|Canada|Montreal|GloboTech Communications|
+|8|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|9|183.88.214.44|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|67.43.227.227|8791|Canada|Montreal|GloboTech Communications|
+|12|14.236.12.42|1001|Vietnam|Da Nang|VNPT|
+|13|67.43.227.227|8791|Canada|Montreal|GloboTech Communications|
+|14|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|16|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|17|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
+|18|103.171.244.47|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|19|67.43.227.228|13869|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|15695|Canada|Montreal|GloboTech Communications|
 
 
 
