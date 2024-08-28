@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|103.155.198.50|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |9|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|181.225.78.57|999|Colombia|San Martín|Media Commerce Partners S.A|
-|19|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|38.156.72.235|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|114.130.86.145|5443|Bangladesh|Dhaka|Mango Teleservices Limited|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|15|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|16|190.69.157.215|999|Colombia|Ibagué|Colombia Telecomunicaciones S.a. ESP|
+|17|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
