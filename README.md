@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.155.198.111|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|120.28.204.19|80|Philippines|Cagayan de Oro|Globe Telecom|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|180.74.171.206|8080|Malaysia|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|
-|16|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|17|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|20|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|103.153.246.61|8080|Indonesia|Purwakarta|PRIMAHOME|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|103.175.230.212|8080|Indonesia|Jakarta|MYREPUBLIC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|181.205.28.69|46380|Colombia|Medellín|Colombia Móvil|
+|15|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|16|103.158.162.18|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|17|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|18|103.171.244.91|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|19|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
