@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|45.225.204.8|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|8|152.26.229.42|9443|United States|Concord|MCNC|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|202.51.214.134|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|11|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|12|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|13|72.10.164.178|26827|Canada|Montreal|GloboTech Communications|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|67.43.236.20|23735|Canada|Montreal|GloboTech Communications|
-|16|14.245.163.203|7009|Vietnam|Da Nang|VNPT|
-|17|103.72.89.69|8181|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
-|18|103.26.110.209|84|India|Chennai|Niss Networks|
-|19|72.10.164.178|26827|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26827|Canada|Montreal|GloboTech Communications|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|196.250.239.229|8787|South Africa|Thohoyandou|West Indian Ocean Cable Company|
+|6|154.73.29.129|8080|Libya|Tripoli|Rawafed|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|72.10.164.178|11189|Canada|Montreal|GloboTech Communications|
+|11|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
+|12|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|13|72.10.164.178|11189|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|11189|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|11189|Canada|Montreal|GloboTech Communications|
+|16|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|18|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|117.40.32.133|8080|China|Taohua|Chinanet|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
