@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|201.77.108.64|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|58.136.171.178|8080|Thailand|Udon Thani|AIS-Fibre|
-|11|191.102.254.10|8085|Argentina|Rosario|IP·RED|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.171.156.218|8080|Indonesia|Jakarta|MYREPUBLIC|
+|11|72.10.164.178|14757|Canada|Montreal|GloboTech Communications|
 |12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|72.10.160.171|10579|Canada|Montreal|GloboTech Communications|
-|16|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|17|223.76.192.60|3128|China|Wuhan|China Mobile communications corporation|
-|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|13|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|223.76.192.60|3128|China|Wuhan|China Mobile communications corporation|
+|15|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|222.243.174.132|81|China|Xiangtan|Chinanet|
+|18|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
 
 
 
