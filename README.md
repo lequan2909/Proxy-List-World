@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|82.200.237.11|8080|Kazakhstan|Almaty Oblysy|Kazakhtelecom Data Network Administration|
-|6|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|8|88.87.89.180|8181|Russia|Volgograd|CJSC "ER-Telecom Holding" Volgograd branch|
-|9|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|14|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|15|117.40.32.133|8080|China|Taohua|Chinanet|
-|16|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|45.225.204.8|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|41.111.243.134|80|Algeria|Belcourt|Algerie Telecom|
+|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|9|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|10|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|11|139.255.33.242|8080|Indonesia|Jakarta|PT. LINKNET|
+|12|59.124.62.9|3128|Taiwan|Pingzhen|Chunghwa Telecom Co., Ltd.|
+|13|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|15|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
