@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|52.56.155.168|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|203.150.128.156|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|4|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|5|182.52.27.93|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|52.56.155.168|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|10|157.66.85.104|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
 |17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|20|67.43.227.226|16431|Canada|Montreal|GloboTech Communications|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|20|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 
