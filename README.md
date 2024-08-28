@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|6|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|67.43.227.227|21479|Canada|Montreal|GloboTech Communications|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|72.10.164.178|24645|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|67.43.227.227|21479|Canada|Montreal|GloboTech Communications|
-|17|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|115.147.32.198|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|117.40.32.133|8080|China|Taohua|Chinanet|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
 |18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.236.20|13857|Canada|Montreal|GloboTech Communications|
-|20|101.255.169.249|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
