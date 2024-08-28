@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|4|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|5|5.42.72.98|3128|Sweden|Stockholm|Aeza International LTD|
-|6|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|7|138.59.227.248|999|Paraguay|Ayolas|Aranda Cardozo Lider Ramon|
-|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|72.10.164.178|7395|Canada|Montreal|GloboTech Communications|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|15|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|16|67.43.227.227|2065|Canada|Montreal|GloboTech Communications|
-|17|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
-|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|72.10.160.173|7965|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|8|118.218.123.235|3128|South Korea|Asan|SK Broadband Co Ltd|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|11|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
+|20|72.10.160.90|5703|Canada|Montreal|GloboTech Communications|
 
 
 
