@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|125.24.63.133|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |7|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|45.190.52.24|8080|Brazil|Araranguá|Exa Internet|
-|14|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|15|190.71.24.129|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
-|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|186.180.66.138|8080|Colombia|Cúcuta|Colombia Móvil|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|125.24.63.133|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|19|201.174.17.126|999|Mexico|Ciudad Juárez|Transtelco Inc|
+|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 
 
 
