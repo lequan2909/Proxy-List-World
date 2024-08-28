@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.124.97.12|8080|Nepal|Pokhara|Pokhara Internet Pvt. Ltd|
+|1|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.156.74.156|8080|Indonesia|Gianyar|PT Trika Global Media|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|46.161.196.222|9812|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|8|103.26.110.209|84|India|Chennai|Niss Networks|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|11|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|12|103.182.212.201|6969|Bangladesh|Gafargaon|Md Ibrahim|
-|13|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
-|14|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|5|162.217.73.165|80|United States|San Francisco|Monkey Brains|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
+|8|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|9|103.147.128.65|83|India|Bānka|Xpress Fiber Private Limited|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|191.97.6.149|999|Colombia|Líbano|TV AZTECA SUCURSAL COLOMBIA|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
+|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 |17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|103.156.17.171|8181|Indonesia|Indramayu|RSTNET|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|19|67.43.227.226|32277|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
