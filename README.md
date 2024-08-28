@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|45.122.123.182|8080|India|New Delhi|FusionNet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|190.104.249.134|999|Argentina|Buenos Aires|CPS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
 |8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|110.232.66.30|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|13|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|14|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
-|15|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|16|117.40.32.133|8080|China|Taohua|Chinanet|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|181.233.93.88|8080|Brazil|Ananindeua|J.A TELECOM.PE|
+|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|16|97.76.251.138|8080|United States|Tampa|Spectrum|
+|17|103.159.194.191|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
+|18|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
+|19|117.40.32.133|8080|China|Taohua|Chinanet|
+|20|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
