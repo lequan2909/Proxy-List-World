@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|9|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
-|10|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|13|183.102.15.224|3128|South Korea|Gwangmyeong|Korea Telecom|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|16|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|203.112.79.90|8080|Bangladesh|Kāfrul|OptiMax Communication Ltd|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.236.20|11597|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|95.217.155.116|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|102.68.139.247|8080|Zambia|Lusaka|AirLink Broadband Limited|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
