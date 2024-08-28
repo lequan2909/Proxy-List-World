@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.173.138.218|8080|Indonesia|Babat|PT Serayu Multi Connection|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|114.33.18.16|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|103.173.138.218|8080|Indonesia|Babat|PT Serayu Multi Connection|
 |7|77.41.146.4|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|114.33.18.16|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|109.111.224.205|6666|Serbia|Belgrade|Drustvo za telekomunikacije Orion telekom doo Beograd, Gandijeva 76a|
-|13|191.97.96.86|8080|Argentina|General Roca|Vision NET|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|17|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|18|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|19|209.14.119.198|999|Colombia|Bogotá|AGIS|
-|20|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|177.234.227.147|999|Ecuador|Manta|Ufinet Panama S.A.|
+|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|15|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|18|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|19|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
+|20|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
