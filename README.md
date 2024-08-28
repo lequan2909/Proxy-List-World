@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|3.8.160.197|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|9|72.10.164.178|33097|Canada|Montreal|GloboTech Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.160.90|19159|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|26531|Canada|Montreal|GloboTech Communications|
-|13|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|14|72.10.164.178|33097|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|13953|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|8553|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|14843|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|32643|Canada|Montreal|GloboTech Communications|
-|19|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|20|72.10.164.178|33097|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.164.178|24145|Canada|Montreal|GloboTech Communications|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|19|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
