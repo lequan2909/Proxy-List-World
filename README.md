@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|4|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|2|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
+|5|36.91.133.49|10000|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|6|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
 |7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|11|103.154.230.81|8080|Indonesia|Lamongan|DIGITNET|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|216.10.247.145|3128|India|Mumbai|PDR|
-|15|183.134.101.184|3128|China|Hangzhou|Chinanet|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|67.43.228.253|1103|Canada|Montreal|GloboTech Communications|
-|19|171.228.160.22|10089|Vietnam|Hanoi|Viettel Corporation|
-|20|67.43.227.227|10635|Canada|Montreal|GloboTech Communications|
+|8|103.189.250.69|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|9|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|11|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.227|6705|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|211.222.173.57|3128|South Korea|Goyang-si|Korea Telecom|
+|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
 
 
 
