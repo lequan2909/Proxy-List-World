@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|203.150.113.91|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
 |6|190.104.249.134|999|Argentina|Buenos Aires|CPS|
-|7|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|103.53.78.26|8080|Indonesia|Surabaya|INTI|
-|11|103.217.224.44|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|12|102.222.51.105|8080|Botswana|Gaborone|JENNY INTERNET (PTY) LTD|
-|13|103.160.184.155|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|17|50.204.36.138|60808|United States|Fresno|Comcast Cable Communications, LLC|
-|18|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|117.40.32.133|8080|China|Taohua|Chinanet|
+|14|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|20|103.137.111.169|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
 
 
 
