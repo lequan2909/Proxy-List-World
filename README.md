@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.155.198.166|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|10|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|79.137.136.241|8079|Russia|Moscow|Slavcom Ltd.|
-|13|103.171.244.91|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|14|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
-|15|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|16|103.191.115.250|83|India|Bānka|Xpress Fiber Private Limited|
-|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|19|67.43.227.228|23237|Canada|Montreal|GloboTech Communications|
-|20|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
+|9|190.61.45.76|999|Colombia|Pasto|Ufinet Panama S.A.|
+|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|11|181.205.28.69|46380|Colombia|Medellín|Colombia Móvil|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|64.6.8.5|8080|United States|Macomb|MTC Communications|
+|14|109.74.42.23|8080|Yemen|Dhimrah|Public Telecommunication Corporation|
+|15|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|154.73.29.129|8080|Libya|Tripoli|Rawafed|
+|18|103.163.227.222|3125|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
