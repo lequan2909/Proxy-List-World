@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|194.44.36.114|6868|Ukraine|Brody|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|15|103.167.170.210|7777|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|16|202.179.184.69|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|182.253.68.150|80|Indonesia|Jakarta Pusat|BIZNET|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|11|118.218.123.235|3128|South Korea|Asan|SK Broadband Co Ltd|
+|12|72.10.164.178|16415|Canada|Montreal|GloboTech Communications|
+|13|190.94.213.13|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|17|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
