@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|147.75.92.251|10013|Japan|Koto-ku|Packet Host, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|147.75.92.251|10013|Japan|Koto-ku|Packet Host, Inc.|
+|7|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|8|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
 |9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.130.183.165|5555|Indonesia|Depok|PT SUPRA BOGA INDONESIA|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|14.161.26.100|8080|Vietnam|Ho Chi Minh City|VNPT|
-|13|103.105.76.216|8090|Indonesia|Bojonegoro|GARUDA|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|17|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|119.235.209.92|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|17|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
 |18|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
