@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.154.230.84|8080|Indonesia|Lamongan|DIGITNET|
-|10|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
-|17|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|175.200.97.8|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|12|87.107.166.108|8090|Iran|Tehran|Dade Pardazi Mobinhost Co LTD|
+|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|17|67.43.227.227|20501|Canada|Montreal|GloboTech Communications|
+|18|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|19|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|20|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
