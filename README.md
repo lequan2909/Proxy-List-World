@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|7|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|72.10.164.178|11323|Canada|Montreal|GloboTech Communications|
-|15|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|67.43.227.226|7523|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|2975|Canada|Montreal|GloboTech Communications|
-|19|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
-|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|9|189.50.9.30|8080|Brazil|Vitória|VIPRede Telecomunicações Ltda|
+|10|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
+|17|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|103.26.110.209|84|India|Chennai|Niss Networks|
 
 
 
