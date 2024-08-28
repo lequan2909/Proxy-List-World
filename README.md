@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|3|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|113.161.70.165|41890|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|177.234.194.226|999|Ecuador|Baba|Ufinet Panama S.A.|
-|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
-|15|67.43.227.226|25541|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|72.10.164.178|24273|Canada|Montreal|GloboTech Communications|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|72.10.164.178|24273|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|2905|Canada|Montreal|GloboTech Communications|
+|5|103.153.246.142|8181|Indonesia|Purwakarta|PRIMAHOME|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|8|103.139.242.233|83|India|Pune|Spectram Telecom Pvt.Ltd|
+|9|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|10|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|11|103.163.175.28|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|12|103.25.210.102|3319|Indonesia|Purwokerto|TRANSDATA|
+|13|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
 
 
 
