@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|77.41.146.4|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|4|193.105.123.195|8123|Azerbaijan|Baku|Bulud Telecom LLC|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.156.217.101|1111|Indonesia|Cikarang|PT. Meiwa Mold Indonesia|
-|7|103.169.186.151|3125|Indonesia|Patokan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|103.149.194.61|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
-|16|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|17|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|114.33.18.16|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|202.51.214.134|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
+|4|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|5|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|6|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|7|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
+|8|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|9|103.169.186.151|3125|Indonesia|Patokan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|10|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|11|72.10.164.178|13399|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|13399|Canada|Montreal|GloboTech Communications|
+|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|16|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|17|114.33.18.16|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|19|148.72.140.24|30221|United States|St Louis|GoDaddy.com|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
