@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|203.111.253.40|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|10|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|12|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|13|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|122.3.45.189|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|103.115.31.39|8181|Indonesia|Depok|HSPNET|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
