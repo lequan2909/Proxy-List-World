@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|147.75.92.251|10013|Japan|Koto-ku|Packet Host, Inc.|
-|4|103.103.144.135|8080|Indonesia|Denpasar|ARTAMEDIANET|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
-|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|2|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|9|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|103.157.58.186|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|12|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|13|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|14|147.75.92.251|10013|Japan|Koto-ku|Packet Host, Inc.|
-|15|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|72.10.164.178|14331|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|111.1.61.56|3128|China|Wenzhou|China Mobile communications corporation|
-|20|72.10.160.173|29657|Canada|Montreal|GloboTech Communications|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|15|183.88.214.44|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|16|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|72.10.164.178|14331|Canada|Montreal|GloboTech Communications|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
