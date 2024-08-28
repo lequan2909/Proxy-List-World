@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|152.26.229.42|9443|United States|Concord|MCNC|
 |8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|11|72.10.160.170|18591|Canada|Montreal|GloboTech Communications|
-|12|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|72.10.164.178|17963|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.171|29857|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|10217|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|10217|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|10403|Canada|Montreal|GloboTech Communications|
+|9|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|10|177.234.194.226|999|Ecuador|Baba|Ufinet Panama S.A.|
+|11|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.164.178|17963|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|11023|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|21977|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
