@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.222.173.57|3128|South Korea|Goyang-si|Korea Telecom|
-|2|188.166.250.146|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|147.75.34.83|80|The Netherlands|Amsterdam|Packet Host, Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|212.132.68.226|8118|Germany|Karlsruhe|IONOS SE fra.de|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|202.51.214.134|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|67.43.227.228|15033|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|32747|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|11071|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.56|3128|China|Wenzhou|China Mobile communications corporation|
-|20|72.10.164.178|16751|Canada|Montreal|GloboTech Communications|
+|1|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|188.166.250.146|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|8|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|18|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
