@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.122.1.74|7777|Indonesia|Palembang|PT. Java Digital Nusantara|
+|4|203.190.46.57|3128|Indonesia|Sleman|PT Jaring Lintas Utara|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |6|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |8|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|103.155.197.193|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|67.43.227.228|30471|Canada|Montreal|GloboTech Communications|
+|9|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|175.100.92.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|41.89.96.25|80|Kenya|Nakuru|KENET|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|45.173.12.138|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
 
 
 
