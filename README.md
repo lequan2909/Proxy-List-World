@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|10|103.188.136.44|32650|Bangladesh|Nārāyanganj|Sajid Trading Limited|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|9577|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|22197|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|9577|Canada|Montreal|GloboTech Communications|
-|16|155.126.176.23|11223|China|Shanghai|The Procter and Gamble Company|
-|17|72.10.160.171|22197|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|23907|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|72.10.160.90|2545|Canada|Montreal|GloboTech Communications|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|119.110.69.215|57413|Indonesia|Jakarta|Maxindo|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|12|72.10.164.178|24783|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|117.40.32.133|8080|China|Taohua|Chinanet|
+|16|203.112.79.90|8080|Bangladesh|Kāfrul|OptiMax Communication Ltd|
+|17|72.10.160.171|8925|Canada|Montreal|GloboTech Communications|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
