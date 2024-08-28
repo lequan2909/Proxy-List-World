@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.177.10.139|8080|Indonesia|Tulungagung|PT Nalendra Gigantara Media|
-|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|10|103.63.26.254|8080|Indonesia|Tangerang|PT Global Media Data Prima|
-|11|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|72.10.164.178|32031|Canada|Montreal|GloboTech Communications|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|177.234.194.226|999|Ecuador|Baba|Ufinet Panama S.A.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|103.148.44.101|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|13|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|14|205.233.79.194|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|15|103.42.228.62|8080|Bangladesh|Lākshām|Skynet Chowmuhani|
+|16|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
+|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|19|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|20|212.231.230.141|20500|Spain|Alcobendas|Xtra Telecom S.A|
 
 
 
