@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5522** proxies at the latest update. Usable proxies are below.
+> Scraper found **5490** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|796|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|764|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|156|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3418|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|3|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|103.156.15.244|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
+|4|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|9|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|12|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|13|103.247.21.226|1111|Indonesia|Bekasi|PT wifian Solution|
+|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|12|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
 |14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|17|157.10.97.11|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|154.73.87.241|8080|Botswana|Rakops|STATURE (PTY) LTD|
-|20|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|15|103.76.149.134|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|16|15.235.171.235|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|213.165.248.42|3128|The Netherlands|Amsterdam|InMotion Hosting, Inc.|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
