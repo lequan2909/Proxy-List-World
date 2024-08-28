@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5444** proxies at the latest update. Usable proxies are below.
+> Scraper found **5470** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -25,7 +25,7 @@ Click the file format that you want and copy the URL.
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
-|[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
+|[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
-|10|52.56.155.168|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|182.52.27.93|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|7|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|52.56.155.168|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|18|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|19|103.148.25.201|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
-|20|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|15|222.124.202.144|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|157.100.69.8|8889|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|18|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|19|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
