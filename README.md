@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|182.253.33.125|8080|Indonesia|Jakarta Pusat|BIZNET|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
-|6|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
+|4|171.228.160.22|10089|Vietnam|Hanoi|Viettel Corporation|
+|5|182.253.33.125|8080|Indonesia|Jakarta Pusat|BIZNET|
+|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|7|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|8|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
 |9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
-|11|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|66.96.235.34|8080|Indonesia|Jakarta|MYREPUBLIC|
-|14|67.43.227.227|24779|Canada|Montreal|GloboTech Communications|
-|15|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|16|67.43.227.228|4859|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|72.10.164.178|13399|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|21085|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|12|67.43.227.227|21109|Canada|Montreal|GloboTech Communications|
+|13|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|16|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|72.10.164.178|27951|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|27951|Canada|Montreal|GloboTech Communications|
+|20|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
