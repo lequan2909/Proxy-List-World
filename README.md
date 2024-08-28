@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|61.7.191.160|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|7|103.159.195.233|9091|Indonesia|Rembang|PT Giga Digital Nusantara|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|177.234.193.183|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.17.146.18|8080|Germany|Frankfurt am Main|LeaseWeb DE|
+|5|14.143.130.210|1111|India|Mumbai|Tata Communications Limited|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|201.251.61.143|8080|Argentina|Laferrere|Telefonica de Argentina|
+|8|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
 |11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|72.10.160.90|8885|Canada|Montreal|GloboTech Communications|
-|15|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|67.43.228.250|24803|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|72.10.160.92|24697|Canada|Montreal|GloboTech Communications|
-|20|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|203.112.79.90|8080|Bangladesh|Kāfrul|OptiMax Communication Ltd|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|103.163.227.222|3125|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|72.10.164.178|16425|Canada|Montreal|GloboTech Communications|
+|18|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|19|72.10.164.178|16425|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|9983|Canada|Montreal|GloboTech Communications|
 
 
 
